@@ -23,52 +23,53 @@ class SpecialMasst:
     tree_node_key: str
     metadata_key: str
 
+root_path="/workspaces/microbe_masst"
 
 MICROBE_MASST = SpecialMasst(
     prefix="microbe",
     root="microbes",
-    tree_file="../data/microbe_masst_tree.json",
-    metadata_file="../data/microbe_masst_table.csv",
+    tree_file=f"{root_path}/data/microbe_masst_tree.json",
+    metadata_file=f"{root_path}/data/microbe_masst_table.csv",
     tree_node_key="NCBI",
     metadata_key="Taxa_NCBI",
 )
 FOOD_MASST = SpecialMasst(
     prefix="food",
     root="food",
-    tree_file="../data/food_masst_tree.json",
-    metadata_file="../data/food_masst_table.csv",
+    tree_file=f"{root_path}/data/food_masst_tree.json",
+    metadata_file=f"{root_path}/data/food_masst_table.csv",
     tree_node_key="name",
     metadata_key="node_id",
 )
 PLANT_MASST = SpecialMasst(
     prefix="plant",
     root="plants",
-    tree_file="../data/plant_masst_tree.json",
-    metadata_file="../data/plant_masst_table.csv",
+    tree_file=f"{root_path}/data/plant_masst_tree.json",
+    metadata_file=f"{root_path}/data/plant_masst_table.csv",
     tree_node_key="NCBI",
     metadata_key="Taxa_NCBI",
 )
 TISSUE_MASST = SpecialMasst(
     prefix="tissue",
     root="tissue",
-    tree_file="../data/tissue_masst_tree.json",
-    metadata_file="../data/tissue_masst_table.csv",
+    tree_file=f"{root_path}/data/tissue_masst_tree.json",
+    metadata_file=f"{root_path}/data/tissue_masst_table.csv",
     tree_node_key="ID",
     metadata_key="ID",
 )
 PERSONALCAREPRODUCT_MASST = SpecialMasst(
     prefix="personalCareProduct",
     root="personal care product",
-    tree_file="../data/personalCareProduct_masst_tree.json",
-    metadata_file="../data/personalCareProduct_masst_table.csv",
+    tree_file=f"{root_path}/data/personalCareProduct_masst_tree.json",
+    metadata_file=f"{root_path}/data/personalCareProduct_masst_table.csv",
     tree_node_key="name",
     metadata_key="node_id",
 )
 MICROBIOME_MASST = SpecialMasst(
     prefix="microbiome",
     root="microbiome",
-    tree_file="../data/microbiome_masst_tree.json",
-    metadata_file="../data/microbiome_masst_table.tsv",
+    tree_file=f"{root_path}/data/microbiome_masst_tree.json",
+    metadata_file=f"{root_path}/data/microbiome_masst_table.tsv",
     tree_node_key="name",
     metadata_key="node_id",
 )

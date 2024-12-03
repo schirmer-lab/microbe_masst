@@ -1,0 +1,14 @@
+{
+    "name": "sbm24-mbx",
+    "image": "schirmerlab/microbemasst:0.1",
+    "mounts": [
+        "type=bind,source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,readonly",
+        "type=bind,source=${localEnv:HOME}/sbm24_data,target=/data"
+    ],
+    "customizations": {
+        "vscode": {
+            "extensions": [
+            ]
+        }
+    }
+}
