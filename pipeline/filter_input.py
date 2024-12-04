@@ -19,6 +19,7 @@ def filter_for_annotation_level(feature_table_file, annotation_level):
     filtered_features = set(filtered_feature_table['General|All|ID'])
     return filtered_features
 
+
 def filter_mgf_file_byID(mgf_file, filtered_features, consensus_only=False, min_ions=3):
     """
     read the given girlfriend file and filter by given ids
@@ -54,17 +55,29 @@ def filter_mgf_file_byConsensus(mgf_file, min_ions=3):
     read the given girlfriend file and filter consensus spectra
     Args:   - mgf_file, String
             - min_ions, int, min number of ions to keep the spectrum
-
+    """
             start_pos = title.find('Feature:') + 8
             end_pos = title.find('|', start_pos)
             feature_id = title[start_pos:end_pos]
-            if consensus_only:
-                if feature_id in filtered_features and 'Consensus' in title:
-                    filtered_spectra.append(spectrum)
-            else:
-                if feature_id in filtered_features:
-                    filtered_spectra.append(spectrum)
+
+            # get number of ions
+            num_ions = len(spectrum.get('m/z array', []))
+            if num_ions >= min_ions:
+                if consensus_only:
+                    if feature_id in filtered_features and 'Consensus' in title:
+                        filtered_spectra.append(spectrum)
+                else:
+                    if feature_id in filtered_features:
+                        filtered_spectra.append(spectrum)
     return filtered_spectra
+
+
+def filter_mgf_file_byConsensus(mgf_file, min_ions=3):
+    """
+    read the given girlfriend file and filter consensus spectra
+    Args:   - mgf_file, String
+            - min_ions, int, min number of ions to keep the spectrum
+    returns: - filtered_spectra, list of dictionaries
     """
     filtered_spectra = []
     with mgf.MGF(mgf_file) as reader:
@@ -145,8 +158,6 @@ def write_mgf_file_per_spectrum(filtered_spectra, output_directory):
         csv_writer.writerows(csv_rows)
 
 
-
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Filter MGF file by annotation level')
     parser.add_argument('--mgf', required=True, help='Path to the input MGF file')
@@ -177,5 +188,4 @@ if __name__ == "__main__":
                 if len(spectrum.get('m/z array', [])) >= args.min_ions
             ]
 
-    #write_mgf_file(filtered_spectra, args.out_file)
     write_mgf_file_per_spectrum(filtered_spectra, args.out_dir)
