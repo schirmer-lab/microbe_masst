@@ -16,13 +16,13 @@ def filter_for_annotation_level(feature_table_file, annotation_level):
     # Replace "NI" with 0 and convert other values to integers
     feature_table['General|All|annot_ms2'] = feature_table['General|All|annot_ms2'].replace("NI", 0).astype(int)
     filtered_feature_table = feature_table[feature_table['General|All|annot_ms2'] >= annotation_level]
-    filtered_features = set(filtered_feature_table['General|All|ID']) 
+    filtered_features = set(filtered_feature_table['General|All|ID'])
     return filtered_features
 
 def filter_mgf_file_byID(mgf_file, filtered_features, consensus_only=False, min_ions=3):
     """
     read the given girlfriend file and filter by given ids
-    Args:   - mgf_file, String 
+    Args:   - mgf_file, String
             - filtered_features, set of Strings, output of filter_for_annotation_level
             - consensus_only, Boolean
             - min_ions, int, min number of ions to keep the spectrum
@@ -33,6 +33,7 @@ def filter_mgf_file_byID(mgf_file, filtered_features, consensus_only=False, min_
         for spectrum in reader:
             #get id
             title = spectrum.get('params', {}).get('title', '')
+
             start_pos = title.lower().find('feature:') + 8
             end_pos = title.find('|', start_pos)
             feature_id = title[start_pos:end_pos]
@@ -51,9 +52,19 @@ def filter_mgf_file_byID(mgf_file, filtered_features, consensus_only=False, min_
 def filter_mgf_file_byConsensus(mgf_file, min_ions=3):
     """
     read the given girlfriend file and filter consensus spectra
-    Args:   - mgf_file, String 
+    Args:   - mgf_file, String
             - min_ions, int, min number of ions to keep the spectrum
-    returns: - filtered_spectra, list of dictionaries
+
+            start_pos = title.find('Feature:') + 8
+            end_pos = title.find('|', start_pos)
+            feature_id = title[start_pos:end_pos]
+            if consensus_only:
+                if feature_id in filtered_features and 'Consensus' in title:
+                    filtered_spectra.append(spectrum)
+            else:
+                if feature_id in filtered_features:
+                    filtered_spectra.append(spectrum)
+    return filtered_spectra
     """
     filtered_spectra = []
     with mgf.MGF(mgf_file) as reader:
@@ -73,7 +84,7 @@ def write_mgf_file(filtered_spectra, output_file):
     Args:   - filtered_spectra, list of dictionaries
             - output_file, String
     """
-   
+
     with open(output_file, 'w') as writer:
         for spectrum in filtered_spectra:
             writer.write('BEGIN IONS\n')
@@ -90,6 +101,7 @@ def write_mgf_file(filtered_spectra, output_file):
                 writer.write(f'{str(mz).upper()} {str(intensity).upper()}\n')
             writer.write('END IONS\n\n')
 
+
 def write_mgf_file_per_spectrum(filtered_spectra, output_directory):
     """
     Write each spectrum to a separate MGF file in the specified output directory
@@ -100,10 +112,10 @@ def write_mgf_file_per_spectrum(filtered_spectra, output_directory):
     if not os.path.exists(output_directory):
         os.makedirs(output_directory, exist_ok=True)
         print("create dir")
-    
+
     csv_file_path = os.path.join(output_directory, "mgfs.csv")
     csv_rows = []
-    
+
     for spectrum in filtered_spectra:
         #extract feature name from title
         feature_name = spectrum['params']['title'].lower().split('|')[0].replace("feature:", "").strip()
@@ -124,10 +136,10 @@ def write_mgf_file_per_spectrum(filtered_spectra, output_directory):
             for mz, intensity in zip(spectrum['m/z array'], spectrum['intensity array']):
                 writer.write(f'{str(mz).upper()} {str(intensity).upper()}\n')
             writer.write('END IONS\n\n')
-        
+
          # Add the file name and full path to the CSV rows
         csv_rows.append([output_file, out])
-    
+
     with open(csv_file_path, mode='w', newline='') as csv_file:
         csv_writer = csv.writer(csv_file)
         csv_writer.writerows(csv_rows)
@@ -152,7 +164,7 @@ if __name__ == "__main__":
             parser.error('--features is required when --filter_by_annotation is used') #and --ann_level
         filtered_features = filter_for_annotation_level(args.features, annotation_level=args.ann_level)
         filtered_spectra = filter_mgf_file_byID(args.mgf, filtered_features, consensus_only=args.consensus_only, min_ions=args.min_ions)
-    
+
     elif args.consensus_only:
         print("Filtering only consensus spectra")
         # filter only consensus spectra
@@ -167,11 +179,3 @@ if __name__ == "__main__":
 
     #write_mgf_file(filtered_spectra, args.out_file)
     write_mgf_file_per_spectrum(filtered_spectra, args.out_dir)
-
-    #python3 filter_by_annotation_level.py --mgf /path/allMS2Spec_HILIC_neg_01_02.mgf --features /path/viewerTable_pos_01_02.tsv --consensus_only --out_file /path/allMS2Spec_HILIC_neg_01_02_filtered_consensus_only.mgf
-    #python3 filter_by_annotation_level.py --mgf /path/allMS2Spec_HILIC_neg_01_02.mgf --features /path/viewerTable_pos_01_02.tsv --consensus_only --out_file /path/allMS2Spec_HILIC_neg_01_02_filtered_consensus_only_ann4.mgf --filter_by_annotation 
-
-    #python3 filter_input.py --mgf ../files/allMS2Spec2024-11-27_neg.mgf --features ../files/neg_viewerTable.tsv --consensus_only --out_dir ../output/test_splitMGF --filter_by_annotation 
-
-    # test run
-    # python filter_input.py --mgf ../files/test_microbe_neg.mgf --features ../files/neg_viewerTable.tsv ../files/test_run_mai/ --consensus_only --filter_by_annotation
