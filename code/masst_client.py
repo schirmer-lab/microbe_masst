@@ -92,62 +92,6 @@ def process_matches(
         compress_out_html=True,
     )
 
-    # plantMASST
-    logger.debug("Exporting plantMASST %s", compound_name)
-    create_enriched_masst_tree(
-        matches_df,
-        masst.PLANT_MASST,
-        common_file=common_file,
-        lib_match_json=lib_match_json,
-        input_str=input_label,
-        parameter_str=params_label,
-        usi=usi,
-        format_out_json=False,
-        compress_out_html=True,
-    )
-
-    # tissueMASST
-    logger.debug("Exporting tissueMASST %s", compound_name)
-    create_enriched_masst_tree(
-        matches_df,
-        masst.TISSUE_MASST,
-        common_file=common_file,
-        lib_match_json=lib_match_json,
-        input_str=input_label,
-        parameter_str=params_label,
-        usi=usi,
-        format_out_json=False,
-        compress_out_html=True,
-    )
-
-    # foodMASST
-    logger.debug("Exporting foodMASST %s", compound_name)
-    create_enriched_masst_tree(
-        matches_df,
-        masst.FOOD_MASST,
-        common_file=common_file,
-        lib_match_json=lib_match_json,
-        input_str=input_label,
-        parameter_str=params_label,
-        usi=usi,
-        format_out_json=False,
-        compress_out_html=True,
-    )
-
-    # personalCareProductMASST
-    logger.debug("Exporting personalCareProductMASST %s", compound_name)
-    create_enriched_masst_tree(
-        matches_df,
-        masst.PERSONALCAREPRODUCT_MASST,
-        common_file=common_file,
-        lib_match_json=lib_match_json,
-        input_str=input_label,
-        parameter_str=params_label,
-        usi=usi,
-        format_out_json=False,
-        compress_out_html=True,
-    )
-
     # microbiomeMASST
     logger.debug("Exporting microbiomeMASST %s", compound_name)
     create_enriched_masst_tree(
