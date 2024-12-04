@@ -7,19 +7,23 @@ def filter_for_annotation_level(feature_table_file, annotation_level):
     """
     Get all the feature ids that have the specified annotation level
     Args:   - feature_table_file, String
-            - annotation_level, Char
+            - annotation_level, int
     returns: -feature_table, set of Strings
     """
     feature_table = pd.read_csv(feature_table_file, delimiter='\t')
-    feature_table = feature_table[feature_table['General|All|annot_ms2'] == annotation_level]
+    # Replace "NI" with 0 and convert other values to integers
+    feature_table['General|All|annot_ms2'] = feature_table['General|All|annot_ms2'].replace("NI", 0).astype(int)
+    filtered_feature_table = feature_table[feature_table['General|All|annot_ms2'] >= annotation_level]
+    filtered_features = set(filtered_feature_table['General|All|ID']) 
+    return filtered_features
 
-    return set(feature_table['General|All|ID'])
-
-def filter_mgf_file_byID(mgf_file, filtered_features, consensus_only=False):
+def filter_mgf_file_byID(mgf_file, filtered_features, consensus_only=False, min_ions=3):
     """
     read the given girlfriend file and filter by given ids
     Args:   - mgf_file, String 
             - filtered_features, set of Strings, output of filter_for_annotation_level
+            - consensus_only, Boolean
+            - min_ions, int, min number of ions to keep the spectrum
     returns: - filtered_spectra, list of dictionaries
     """
     filtered_spectra = []
@@ -30,18 +34,23 @@ def filter_mgf_file_byID(mgf_file, filtered_features, consensus_only=False):
             start_pos = title.find('Feature:') + 8
             end_pos = title.find('|', start_pos)
             feature_id = title[start_pos:end_pos]
-            if consensus_only:
-                if feature_id in filtered_features and 'Consensus' in title:
-                    filtered_spectra.append(spectrum)
-            else:
-                if feature_id in filtered_features:
-                    filtered_spectra.append(spectrum)
+
+            # get number of ions
+            num_ions = len(spectrum.get('m/z array', []))
+            if num_ions >= min_ions:
+                if consensus_only:
+                    if feature_id in filtered_features and 'Consensus' in title:
+                        filtered_spectra.append(spectrum)
+                else:
+                    if feature_id in filtered_features:
+                        filtered_spectra.append(spectrum)
     return filtered_spectra
 
-def filter_mgf_file_byConsensus(mgf_file):
+def filter_mgf_file_byConsensus(mgf_file, min_ions=3):
     """
     read the given girlfriend file and filter consensus spectra
     Args:   - mgf_file, String 
+            - min_ions, int, min number of ions to keep the spectrum
     returns: - filtered_spectra, list of dictionaries
     """
     filtered_spectra = []
@@ -49,7 +58,9 @@ def filter_mgf_file_byConsensus(mgf_file):
         for spectrum in reader:
             #get id
             title = spectrum.get('params', {}).get('title', '')
-            if 'Consensus' in title:
+            # get number of ions
+            num_ions = len(spectrum.get('m/z array', []))
+            if num_ions >= min_ions and 'Consensus' in title:
                 filtered_spectra.append(spectrum)
     return filtered_spectra
 
@@ -82,9 +93,10 @@ if __name__ == "__main__":
     parser.add_argument('--mgf', required=True, help='Path to the input MGF file')
     parser.add_argument('--out_file', required=True, help='Path to the output MGF file')
     parser.add_argument('--consensus_only', action='store_true', help='Boolean to filter only consensus spectra')
+    parser.add_argument('--min_ions',  help='int, number of requiered ions to keep the spectrum', default=3, type=int)
     parser.add_argument('--filter_by_annotation', action='store_true', help='Boolean to filter by annotation level')
     parser.add_argument('--features',  help='Path to the feature table file')
-    parser.add_argument('--ann_level', help='Annotation level to filter by, character')
+    parser.add_argument('--ann_level', help='min annotation level', default=4 , type=int)
     args = parser.parse_args()
 
     if args.filter_by_annotation:
@@ -92,18 +104,21 @@ if __name__ == "__main__":
         if not args.features or not args.ann_level:
             parser.error('--features and --ann_level are required when --filter_by_annotation is used')
         filtered_features = filter_for_annotation_level(args.features, annotation_level=args.ann_level)
-        filtered_spectra = filter_mgf_file_byID(args.mgf, filtered_features, consensus_only=args.consensus_only)
+        filtered_spectra = filter_mgf_file_byID(args.mgf, filtered_features, consensus_only=args.consensus_only, min_ions=args.min_ions)
     
     elif args.consensus_only:
         print("Filtering only consensus spectra")
         # filter only consensus spectra
-        filtered_spectra = filter_mgf_file_byConsensus(args.mgf)
+        filtered_spectra = filter_mgf_file_byConsensus(mgf_file = args.mgf, min_ions=args.min_ions)
 
     else:
-        # no filtering
         with mgf.MGF(args.mgf) as reader:
-            filtered_spectra = [spectrum for spectrum in reader]
+            filtered_spectra = [
+                spectrum for spectrum in reader
+                if len(spectrum.get('m/z array', [])) >= args.min_ions
+            ]
 
     write_mgf_file(filtered_spectra, args.out_file)
 
-    #python3 filter_by_annotation_level.py --mgf /Users/merit/Documents/Master_bioinfo/Semester1/SystemsBioMed/MBX/files/XcmsViewer_out/allMS2Spec_HILIC_neg_01_02.mgf --features /Users/merit/Documents/Master_bioinfo/Semester1/SystemsBioMed/MBX/files/XcmsViewer_out/viewerTable_pos_01_02.tsv --consensus_only --out_file /Users/merit/Documents/Master_bioinfo/Semester1/SystemsBioMed/MBX/files/allMS2Spec_HILIC_neg_01_02_filtered_consensus_only.mgf
+    #python3 filter_by_annotation_level.py --mgf /path/allMS2Spec_HILIC_neg_01_02.mgf --features /path/viewerTable_pos_01_02.tsv --consensus_only --out_file /path/allMS2Spec_HILIC_neg_01_02_filtered_consensus_only.mgf
+    #python3 filter_by_annotation_level.py --mgf /path/allMS2Spec_HILIC_neg_01_02.mgf --features /path/viewerTable_pos_01_02.tsv --consensus_only --out_file /path/allMS2Spec_HILIC_neg_01_02_filtered_consensus_only_ann4.mgf --filter_by_annotation 
