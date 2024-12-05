@@ -5,4 +5,6 @@
 /code/fastmasst_cache.sqlite
 /tests/fastmasst_cache.sqlite
 /local_files/*
-
+.DS_Store
+__pycache__/
+/files/out
