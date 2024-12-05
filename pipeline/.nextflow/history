@@ -9,3 +9,9 @@
 2024-12-03 08:34:14	3m 23s	suspicious_saha	OK	c704dcc9a7a20df9b71cb048eddda5a4	4e858839-2f93-4f24-83f2-b7ecbb60a139	nextflow run main.nf
 2024-12-03 08:48:49	3m 40s	insane_crick	OK	c704dcc9a7a20df9b71cb048eddda5a4	a417b800-17f3-4391-ac86-b065c5996828	nextflow run main.nf
 2024-12-03 08:58:56	4m 27s	irreverent_picasso	OK	c704dcc9a7a20df9b71cb048eddda5a4	baad5609-5d4b-43bb-b297-297521487758	nextflow run main.nf
+2024-12-05 11:52:24	-	goofy_avogadro	-	203c2a7429c7a384de76c516b68cf3f3	33873079-f6e2-4d5f-9643-9518d61afbd3	nextflow main_mai.nf
+2024-12-05 11:53:04	2.3s	gloomy_engelbart	ERR	89967cd3992224fe6381983e24c0f480	978280f9-f9e6-49ff-ab9a-cfd247a64aa8	nextflow main_mai.nf
+2024-12-05 11:53:52	1.8s	jovial_gates	ERR	49c0587833ca6446c85c108961571110	50b5308a-4564-4ffb-9953-abb3ae2278b8	nextflow main_mai.nf
+2024-12-05 11:55:23	-	deadly_leakey	-	a592043fc305541e6ad308afefe62c69	2e361b24-24dc-4318-aff2-fd2cb46bdbe5	nextflow main_mai.nf
+2024-12-05 11:55:59	-	soggy_mayer	-	4393c9a7ba476291efb594abde38cdba	752956d5-ed43-4cc8-bc48-65eb972975d6	nextflow main_mai.nf
+2024-12-05 11:56:21	2.9s	dreamy_pasteur	ERR	27534f6ca72dd65c1f35a60c17374432	66a491f4-e54d-4476-80f6-d8f31a120a80	nextflow main_mai.nf
