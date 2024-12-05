@@ -12,7 +12,7 @@ import json
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-root_path=".." #changed from originally /workspaces/microbe_masst
+root_path="/workspaces/microbe_masst"
 
 def create_enriched_masst_tree(
     matches_df,
