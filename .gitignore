@@ -7,3 +7,4 @@
 /local_files/*
 .DS_Store
 __pycache__/
+/files/out
