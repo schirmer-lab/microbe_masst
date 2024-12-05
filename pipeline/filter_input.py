@@ -60,7 +60,7 @@ def filter_mgf_file_byConsensus(mgf_file, min_ions=3):
             title = spectrum.get('params', {}).get('title', '')
             # get number of ions
             num_ions = len(spectrum.get('m/z array', []))
-            if num_ions >= min_ions and 'Consensus' in title:
+            if num_ions >= min_ions and 'consensus' in title.lower():
                 filtered_spectra.append(spectrum)
     return filtered_spectra
 
