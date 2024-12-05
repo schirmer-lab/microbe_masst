@@ -1,7 +1,7 @@
 params.mgf = "/workspaces/microbe_masst/files/test_microbe_neg.mgf"
-params.features = "/workspaces/microbe_masst/files/viewerTable_neg_01_02.tsv"
-params.consensus = "/workspaces/microbe_masst/files/test_filtered_consensus_only_neg.mgf"
-params.out_dir = "/workspaces/microbe_masst/files/out_test/"
+params.features = "/workspaces/microbe_masst/files/neg_viewerTable.tsv"
+params.consensus = "/workspaces/microbe_masst/files/test_filtered_neg.mgf"
+params.out_dir = "/workspaces/microbe_masst/files/out_test/test"
 
 
 process prepareInput {
@@ -11,12 +11,12 @@ process prepareInput {
     path consensus
     
     output:
-    path "../log/input_prepare.out"
-    path "../log/input_prepare.err"
+    path "/workspaces/microbe_masst/pipeline/log/input_prepare.out"
+    path "/workspaces/microbe_masst/pipeline/log/input_prepare.err"
 
     """
     echo "Preparing input..."
-    python filter_input.py --mgf $mgf --consensus_only --filter_by_annotation  --features $features --out_file $consensus > ../log/input_prepare.txt 2> ../log/input_prepare.err
+    python /workspaces/microbe_masst/pipeline/filter_input.py --mgf $mgf --filter_by_annotation  --features $features --out_file $consensus --ann_level 1 > /workspaces/microbe_masst/pipeline/log/input_prepare.txt 2> /workspaces/microbe_masst/pipeline/log/input_prepare.err
     """
 }
 

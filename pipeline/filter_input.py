@@ -31,7 +31,7 @@ def filter_mgf_file_byID(mgf_file, filtered_features, consensus_only=False, min_
         for spectrum in reader:
             #get id
             title = spectrum.get('params', {}).get('title', '')
-            start_pos = title.find('Feature:') + 8
+            start_pos = title.lower().find('feature:') + 8
             end_pos = title.find('|', start_pos)
             feature_id = title[start_pos:end_pos]
 
@@ -39,7 +39,7 @@ def filter_mgf_file_byID(mgf_file, filtered_features, consensus_only=False, min_
             num_ions = len(spectrum.get('m/z array', []))
             if num_ions >= min_ions:
                 if consensus_only:
-                    if feature_id in filtered_features and 'Consensus' in title:
+                    if feature_id in filtered_features and 'consensus' in title.lower():
                         filtered_spectra.append(spectrum)
                 else:
                     if feature_id in filtered_features:
@@ -95,14 +95,14 @@ if __name__ == "__main__":
     parser.add_argument('--consensus_only', action='store_true', help='Boolean to filter only consensus spectra')
     parser.add_argument('--min_ions',  help='int, number of requiered ions to keep the spectrum', default=3, type=int)
     parser.add_argument('--filter_by_annotation', action='store_true', help='Boolean to filter by annotation level')
-    parser.add_argument('--features',  help='Path to the feature table file')
+    parser.add_argument('--features',  help='Path to the feature table file', default="")
     parser.add_argument('--ann_level', help='min annotation level', default=4 , type=int)
     args = parser.parse_args()
 
     if args.filter_by_annotation:
         # filter by annotation level
-        if not args.features or not args.ann_level:
-            parser.error('--features and --ann_level are required when --filter_by_annotation is used')
+        if args.features == "": # or not args.ann_level
+            parser.error('--features is required when --filter_by_annotation is used') #and --ann_level
         filtered_features = filter_for_annotation_level(args.features, annotation_level=args.ann_level)
         filtered_spectra = filter_mgf_file_byID(args.mgf, filtered_features, consensus_only=args.consensus_only, min_ions=args.min_ions)
     
