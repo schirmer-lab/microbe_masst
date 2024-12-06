@@ -34,7 +34,6 @@ def filter_mgf_file_byID(mgf_file, filtered_features, consensus_only=False, min_
         for spectrum in reader:
             #get id
             title = spectrum.get('params', {}).get('title', '')
-
             start_pos = title.lower().find('feature:') + 8
             end_pos = title.find('|', start_pos)
             feature_id = title[start_pos:end_pos]
@@ -56,7 +55,8 @@ def filter_mgf_file_byConsensus(mgf_file, min_ions=3):
     Args:   - mgf_file, String
             - min_ions, int, min number of ions to keep the spectrum
     """
-            start_pos = title.find('Feature:') + 8
+            # start_pos = title.find('Feature:') + 8
+            start_pos = title.lower().find('feature:') + 8
             end_pos = title.find('|', start_pos)
             feature_id = title[start_pos:end_pos]
 
@@ -64,7 +64,7 @@ def filter_mgf_file_byConsensus(mgf_file, min_ions=3):
             num_ions = len(spectrum.get('m/z array', []))
             if num_ions >= min_ions:
                 if consensus_only:
-                    if feature_id in filtered_features and 'Consensus' in title:
+                    if feature_id in filtered_features and 'consensus' in title.lower():
                         filtered_spectra.append(spectrum)
                 else:
                     if feature_id in filtered_features:
