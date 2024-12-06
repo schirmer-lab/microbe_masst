@@ -34,7 +34,7 @@ def run_microbeMASST(input_file, output_dir):
             min_matched_signals=3,
             database=masst_utils.DataBase.metabolomicspanrepo_index_latest,
             parallel_queries=5,
-            skip_existing=True,
+            skip_existing=False,
             analog=False,
             sep=sep,
         )
