@@ -1,6 +1,8 @@
 import pandas as pd
 import argparse
 
+
+# ArgParser
 parser = argparse.ArgumentParser(description="Filter for output of MicrobeMASST")
 
 group = parser.add_mutually_exclusive_group(required=True) # only allow --species_level, --genus or --species
@@ -13,8 +15,10 @@ group.add_argument('--species', type=str, help='Species to filter by')
 
 args = parser.parse_args()
 
+# tsv to pandas df
 df = pd.read_csv(args.input, sep='\t')
 
+# filter for either species level, genus query or species query
 splits = df["Taxaname_file"].str.split(" ")
 if args.species_level:
     filtered_df = df[splits.str.len() > 1]
@@ -27,5 +31,5 @@ elif args.species:
 else:
     filtered_df = df
 
-
+# save filtered df as tsv
 filtered_df.to_csv(f'{args.output}/filtered_{args.input.split("/")[-1]}', sep='\t')
