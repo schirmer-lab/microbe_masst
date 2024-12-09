@@ -9,6 +9,7 @@ group = parser.add_mutually_exclusive_group(required=True) # only allow --specie
 
 parser.add_argument('-i', '--input', type=str, required=True, help='Path to the input TSV file')
 parser.add_argument('-o', '--output', type=str, required=True, help='Path to the directory, name is automatically generated!')
+# choose 1 of these 3
 group.add_argument('--species_level', default=False, action="store_true", help='Filter by species level')
 group.add_argument('--genus', type=str, help='Genus to filter by')
 group.add_argument('--species', type=str, help='Species to filter by')
