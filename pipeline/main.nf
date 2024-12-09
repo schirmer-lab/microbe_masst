@@ -1,22 +1,43 @@
-params.mgf = "/workspaces/microbe_masst/files/test_microbe_neg.mgf"
+params.mgf = "/workspaces/microbe_masst/files/allMS2Spec2024-11-27_neg.mgf"
 params.features = "/workspaces/microbe_masst/files/neg_viewerTable.tsv"
-params.consensus = "/workspaces/microbe_masst/files/test_filtered_neg.mgf"
-params.out_dir = "/workspaces/microbe_masst/files/out_test/test"
+params.out_dir = "/workspaces/microbe_masst/files/level4"
 
 
 process prepareInput {
     input:
     path mgf
     path features
-    path consensus
-    
+
     output:
-    path "/workspaces/microbe_masst/pipeline/log/input_prepare.out"
-    path "/workspaces/microbe_masst/pipeline/log/input_prepare.err"
+    path "consensus.mgf"
 
     """
     echo "Preparing input..."
-    python /workspaces/microbe_masst/pipeline/filter_input.py --mgf $mgf --filter_by_annotation  --features $features --out_file $consensus --ann_level 1 > /workspaces/microbe_masst/pipeline/log/input_prepare.txt 2> /workspaces/microbe_masst/pipeline/log/input_prepare.err
+    echo "MGF file: $mgf"
+    echo "Features file: $features"
+    
+    python /workspaces/microbe_masst/pipeline/filter_input.py \
+        --mgf $mgf \
+        --filter_by_annotation  \
+        --features $features \
+        --out_file consensus.mgf \
+        --consensus_only \
+        --ann_level 4 \
+        --min_ions 7
+    """
+}
+
+process createOutputDir {
+    input:
+    val out_dir
+
+    output:
+    val out_dir
+
+    """
+    if [ ! -d "$out_dir" ]; then
+        mkdir -p "$out_dir"
+    fi
     """
 }
 
@@ -26,19 +47,23 @@ process runMicrobemasst {
     path out_dir
 
     output:
-    path "../log/runMicrobemasst.out"
-    path "../log/runMicrobemasst.err"
+    path "$out_dir"
 
     """
-    if [ ! -d "$out_dir" ]; then
-        mkdir -p "$out_dir"
-    fi
-    cd ../code/
-    python run_microbeMASST.py --input_file $consensus --output_dir $out_dir > "../log/runMicrobemasst.out" 2> "../log/runMicrobemasst.err"
+    python /workspaces/microbe_masst/code/run_microbeMASST.py \
+        --input_file $consensus \
+        --output_dir "${out_dir}/prefix"
     """
 }
 
 workflow {
-    prepareInput(params.mgf, params.features, params.consensus)
-    runMicrobemasst(params.consensus, params.out_dir)
+    consensus = prepareInput(params.mgf, params.features)
+    out_dir = createOutputDir(params.out_dir)
+    runMicrobemasst(consensus, params.out_dir)
 }
+
+/* Open
+    output is only saved in work dir
+    parameter are fixed -> implent flags
+    
+*/
