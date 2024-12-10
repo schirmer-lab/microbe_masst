@@ -1,7 +1,3 @@
-params.mgf = "/workspaces/microbe_masst/files/allMS2Spec2024-11-27_neg.mgf"
-params.features = "/workspaces/microbe_masst/files/neg_viewerTable.tsv"
-params.out_dir = "/workspaces/microbe_masst/files/level4"
-
 
 process prepareInput {
     input:
@@ -15,15 +11,16 @@ process prepareInput {
     echo "Preparing input..."
     echo "MGF file: $mgf"
     echo "Features file: $features"
-    
+
+
     python /workspaces/microbe_masst/pipeline/filter_input.py \
         --mgf $mgf \
         --filter_by_annotation  \
         --features $features \
         --out_file consensus.mgf \
         --consensus_only \
-        --ann_level 4 \
-        --min_ions 7
+        --ann_level ${params.ann_level} \
+        --min_ions ${params.min_ions}
     """
 }
 
@@ -59,11 +56,6 @@ process runMicrobemasst {
 workflow {
     consensus = prepareInput(params.mgf, params.features)
     out_dir = createOutputDir(params.out_dir)
-    runMicrobemasst(consensus, params.out_dir)
+    runMicrobemasst(consensus, out_dir)
 }
 
-/* Open
-    output is only saved in work dir
-    parameter are fixed -> implent flags
-    
-*/
