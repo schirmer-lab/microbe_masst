@@ -33,3 +33,18 @@
 2024-12-10 09:24:45	4.2s	adoring_bhabha	ERR	cd5bf096781065c44f407819a2d493b9	6d9d44e8-bba6-47db-971f-2742c4aa5511	nextflow main_tanja.nf --mgf /workspaces/microbe_masst/files/test_microbe_neg.mgf --out_dir /workspaces/microbe_masst/output/params_test --ann_level 1
 2024-12-10 09:26:00	4.8s	gigantic_curie	ERR	1fae6781b672182c86acc0afba0eaf97	472beb01-100c-4cf7-b192-b0e61ec74c1d	nextflow main_tanja.nf --mgf /workspaces/microbe_masst/files/test_microbe_neg.mgf --out_dir /workspaces/microbe_masst/output/params_test --ann_level 1
 2024-12-10 09:26:49	12.5s	grave_rubens	OK	7cf4cf1d35abe81d614d990b01e14d34	855b3c96-3ea4-45a1-bc26-08faec46077b	nextflow main_tanja.nf --mgf /workspaces/microbe_masst/files/test_microbe_neg.mgf --out_dir /workspaces/microbe_masst/output/params_test --ann_level 1
+2024-12-10 12:35:59	4.4s	furious_heisenberg	ERR	7f77066a60f7adf7fffdf2234d869aff	c683bd9c-7947-4070-b488-02b5227efd7a	nextflow main.nf --consensus_only --consensus_only
+2024-12-10 12:36:53	4.8s	hopeful_ptolemy	ERR	7f77066a60f7adf7fffdf2234d869aff	3952baf9-2eef-4db6-8e68-61c6e6113e28	nextflow main.nf --consensus_only --consensus_only
+2024-12-10 14:27:38	8.5s	prickly_planck	ERR	31c49935b013f3ffc9a84777bc241b06	b6d9b338-6b0c-4cf2-b734-2cf695c55756	nextflow main.nf --consensus_only --consensus_only
+2024-12-10 14:28:44	5.9s	nauseous_kalam	ERR	31c49935b013f3ffc9a84777bc241b06	a8a9e36e-e3f5-4735-a3e0-9cfb23e659dc	nextflow main.nf --consensus_only --consensus_only
+2024-12-10 14:29:40	9.3s	happy_lavoisier	ERR	31c49935b013f3ffc9a84777bc241b06	e526adfb-1442-4f40-bb9c-e0dfefa8c4d5	nextflow main.nf --consensus_only --consensus_only
+2024-12-10 14:32:19	4.1s	suspicious_tesla	ERR	33ffaa54aa465c49729a1f88f4b75d82	fc6d74ae-23ed-4d4b-bddc-7db1a332ed51	nextflow main.nf --consensus_only --consensus_only
+2024-12-10 14:33:47	12.6s	tender_newton	OK	07d32c43605cd762500985ac14cc0a3a	ebcfb5f1-d25a-4ad5-9b4c-b2c7fe0ca281	nextflow main.nf --consensus_only --consensus_only
+2024-12-10 14:38:29	30.8s	cheeky_mirzakhani	OK	07d32c43605cd762500985ac14cc0a3a	670cd933-b6cb-4429-b42c-a17968dd93a9	nextflow main.nf --consensus_only --consensus_only
+2024-12-10 14:41:41	12.1s	gloomy_stone	OK	59f1da70e232361afd9a7e3da12fa4cc	f8f18389-c049-4d6e-9844-3457214aa4d8	nextflow main.nf --consensus_only --consensus_only
+2024-12-10 14:42:14	12.2s	big_sinoussi	OK	59f1da70e232361afd9a7e3da12fa4cc	f69cc6b3-0669-4ca4-9604-895cfde39437	nextflow main.nf --consensus_only
+2024-12-10 14:44:40	11.8s	amazing_boyd	OK	59f1da70e232361afd9a7e3da12fa4cc	b51327b2-cc37-49f8-a50b-9d378588c892	nextflow main.nf
+2024-12-10 15:00:04	25s	lonely_lattes	OK	7941af70f2427e8191ec164da2a8e8dd	3cab4e87-7fa4-4ce1-a695-a250d45cb9a7	nextflow run main.nf -with-report report.html
+2024-12-10 15:02:47	14.1s	special_newton	OK	1dbb59b0063b27708d21846230c76d0a	0c46c71c-8376-48f6-97ac-7fc03f2d6e7c	nextflow main.nf
+2024-12-10 15:07:47	12s	evil_galileo	OK	68a400aec5b8c2b00397fe03c6b667b7	08a099f6-5cff-4a6f-903f-2b29291e35ee	nextflow main.nf
+2024-12-10 15:08:54	11.9s	condescending_ritchie	OK	51be03c0730451c978b36f7a645c6b1e	103cba43-6253-4003-9c73-611706fe9083	nextflow main.nf

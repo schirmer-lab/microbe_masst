@@ -12,3 +12,6 @@ __pycache__/
 /pipeline/.nextflow.*
 /pipeline/.nextflow.*.*
 /pipeline/work/
+/pipeline/.nextflow/history
+/.nextflow.log
+.nextflow.log

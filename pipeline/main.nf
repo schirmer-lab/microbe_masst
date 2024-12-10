@@ -60,8 +60,23 @@ process runMicrobemasst {
 }
 
 workflow {
+    log_params(params.out_dir)
     consensus = prepareInput(params.mgf, params.features)
     out_dir = createOutputDir(params.out_dir)
     runMicrobemasst(consensus, out_dir)
 }
 
+def log_params(out_dir) {
+    def params_log = "${out_dir}/run_parameters.log"
+    new File(params_log).text = """
+    Workflow Parameters:
+    --------------------
+    mgf file: ${params.mgf ?: 'not provided'}
+    features file: ${params.features ?: 'not provided'}
+    output directory: ${params.out_dir ?: 'not provided'}
+    annotation level: ${params.ann_level ?: 'default'}
+    min ions: ${params.min_ions ?: 'default'}
+    filter by annotation: ${params.filter_by_annotation ?: false}
+    consensus only: ${params.consensus_only ?: false}
+    """
+}
