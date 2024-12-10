@@ -7,6 +7,12 @@ process prepareInput {
     output:
     path "consensus.mgf"
 
+    script:
+    // check if parameters are set
+    def filter_flag = params.filter_by_annotation ? '--filter_by_annotation' : ''
+    def consensus_flag = params.consensus_only ? '--consensus_only' : ''
+    
+
     """
     echo "Preparing input..."
     echo "MGF file: $mgf"
@@ -15,10 +21,10 @@ process prepareInput {
 
     python /workspaces/microbe_masst/pipeline/filter_input.py \
         --mgf $mgf \
-        --filter_by_annotation  \
+        $filter_flag  \
         --features $features \
         --out_file consensus.mgf \
-        --consensus_only \
+        $consensus_flag \
         --ann_level ${params.ann_level} \
         --min_ions ${params.min_ions}
     """
