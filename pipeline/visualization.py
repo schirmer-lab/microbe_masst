@@ -3,14 +3,16 @@ from ete3 import NCBITaxa
 import argparse
 import random
 
-def extract_taxids(count_matrix_file:str) -> list: # this works
+def extract_taxids(count_matrix_file:str, sep:str) -> list: # this works
     """
     Returns a list of all unique taxIds from a given count matrix
     Args:   - path to count_matrix, String
     returns: - list of all unique taxID
     """
-    count_matrix = pd.read_csv(count_matrix_file, sep = "\t", index_col=0)
-    return list(set(count_matrix["Taxa_NCBI"].tolist()))
+    count_matrix = pd.read_csv(count_matrix_file, sep = sep, index_col=0)
+    taxids = list(set(count_matrix["Taxa_NCBI"].tolist()))
+    filtered_taxids = [item for item in taxids if item.lower() != "blank" and item.lower() != "qc"]
+    return filtered_taxids
 
 
 def create_tree(taxIds: list, out_path: str, prefix: str, ncbi):
@@ -96,13 +98,16 @@ if __name__ == "__main__":
     parser.add_argument("--count_matrix", "-c", required=True, help='Path to the count matrix file')
     parser.add_argument("--out_path", "-o", required=True, help='Path to directory for output saving')
     parser.add_argument("--prefix", "-p", default="taxonomic", help='Prefix for filename')
+    parser.add_argument("--sep", "-s", default="\t", help='separator for input file')
     args = parser.parse_args()
 
     ncbi = NCBITaxa()
-    taxIds = extract_taxids(args.count_matrix)
+    taxIds = extract_taxids(args.count_matrix, args.sep)
     tree = create_tree(taxIds, args.out_path, args.prefix,ncbi)
     create_annotation(args.out_path, args.prefix, tree, ncbi)
 
 # run in pipeline folder: python visualization.py -c "../files/level4/filtered_prefix_counts_microbe.tsv" -o . -p filtered_prefix_counts_microbe
 # see outputfiles: /workspaces/microbe_masst/pipeline/filtered_prefix_counts_microbe_tree.nw
 #                  /workspaces/microbe_masst/pipeline/filtered_prefix_counts_microbe_itol_annotations.txt
+
+# python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p microbe_csv -s ","
