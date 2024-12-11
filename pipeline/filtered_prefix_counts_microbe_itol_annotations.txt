@@ -1,0 +1,44 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Phylum Annotations
+COLOR	#ff0000
+LEGEND_TITLE	Phylum
+LEGEND_SHAPES	1	1	1	1	1
+LEGEND_COLORS	#FF5733	#33FF57	#3357FF	#F1C40F	#9B59B6
+LEGEND_LABELS	Basidiomycota	Pseudomonadota	Ascomycota	Actinomycetota	Chordata
+BORDER_WIDTH	1
+BORDER_COLOR	#000000
+DATA
+Escherichia coli	#33FF57
+Mycobacterium tuberculosis H37Ra	#F1C40F
+Homo sapiens	#9B59B6
+Komagataella phaffii	#3357FF
+Aspergillus pseudoglaucus	#3357FF
+Auricularia americana	#FF5733
+Clavariadelphus mucronatus	#FF5733
+Gomphus clavatus	#FF5733
+Turbinellus floccosus	#FF5733
+Scutiger	#FF5733
+Hericium coralloides	#FF5733
+Phlebiopsis gigantea	#FF5733
+Rhodofomes cajanderi	#FF5733
+Trametes vernicipes	#FF5733
+Hydnum umbilicatum	#FF5733
+Cantharellus subalbidus	#FF5733
+Fistulina hepatica	#FF5733
+Tricholoma portentosum	#FF5733
+Battarrea phalloides	#FF5733
+Ramaria velocimutans	#FF5733
+Ramaria formosa	#FF5733
+Ramaria stricta	#FF5733
+Ramaria claviramulata	#FF5733
+Ramaria gelatinosa var. oregonensis	#FF5733
+Ramaria apiculata var. apiculata	#FF5733
+Russula americana	#FF5733
+Xerocomellus mendocinensis	#FF5733
+Xerocomus spadiceus	#FF5733
+Chalciporus piperatus	#FF5733
+Suillus ponderosus	#FF5733
+Suillus umbonatus	#FF5733
+Lactarius rubrilacteus	#FF5733
+Lactarius luculentus var. laetus	#FF5733
