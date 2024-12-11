@@ -1,0 +1,14 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Phylum Annotations
+COLOR	#ff0000
+LEGEND_TITLE	Phylum
+LEGEND_SHAPES	1	1	1
+LEGEND_COLORS	#441c1e	#250e28	#fc6927
+LEGEND_LABELS	Chordata	Pseudomonadota	Arthropoda
+BORDER_WIDTH	1
+BORDER_COLOR	#000000
+DATA
+Escherichia coli	#250e28
+Homo sapiens	#441c1e
+Drosophila melanogaster	#fc6927
