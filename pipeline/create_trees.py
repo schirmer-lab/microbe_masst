@@ -76,6 +76,23 @@ with open("itol_annotations.txt", "w") as f:
     for leaf_name, phylum_name in phylum_annotations.items():
         f.write("{}\t{}\n".format(leaf_name, phylum_colors[phylum_name]))
 
+
+ # Branch coloring section
+    f.write("\nDATASET_BRANCHES\n")
+    f.write("SEPARATOR TAB\n")
+    f.write("DATASET_LABEL\tPhylum Branch Colors\n")
+    f.write("COLOR\t#ff0000\n")
+    f.write("LEGEND_TITLE\tPhylum\n")
+    f.write("LEGEND_SHAPES\t{}\n".format("\t".join(["1"] * len(phylum_colors))))
+    f.write("LEGEND_COLORS\t{}\n".format("\t".join(phylum_colors.values())))
+    f.write("LEGEND_LABELS\t{}\n".format("\t".join(phylum_colors.keys())))
+    f.write("DATA\n")
+    for node in tree.traverse():
+        if node.is_leaf():
+            phylum_name = phylum_annotations.get(node.name)
+            if phylum_name:
+                f.write("{}\t{}\n".format(node.name, phylum_colors[phylum_name]))
+
 # Visualize the tree
 print(tree)
 #tree.show()

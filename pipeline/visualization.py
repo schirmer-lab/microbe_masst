@@ -2,6 +2,7 @@ import pandas as pd
 from ete3 import NCBITaxa
 import argparse
 import random
+import matplotlib.pyplot as plt
 
 def extract_taxids(count_matrix_file:str, sep:str) -> list: # this works
     """
@@ -9,9 +10,11 @@ def extract_taxids(count_matrix_file:str, sep:str) -> list: # this works
     Args:   - path to count_matrix, String
     returns: - list of all unique taxID
     """
+    
     count_matrix = pd.read_csv(count_matrix_file, sep = sep, index_col=0)
     taxids = list(set(count_matrix["Taxa_NCBI"].tolist()))
-    filtered_taxids = [item for item in taxids if item.lower() != "blank" and item.lower() != "qc"]
+    #filtered_taxids = [item for item in taxids if item.lower() != "blank" and item.lower() != "qc"]
+    filtered_taxids = [item for item in taxids if str(item).lower() != "blank" and str(item).lower() != "qc"]
     return filtered_taxids
 
 
@@ -57,7 +60,7 @@ def get_phylum_name(ncbi, taxid:list):
     return None
 
 
-def create_annotation(out_dir:str, prefix: str, tree, ncbi):
+def create_annotation(out_dir:str, prefix: str,  tree, ncbi, color_map="Pastel1"):
     """
     Creates annotation file with random colors and annotates on phylum level
     """
@@ -71,26 +74,54 @@ def create_annotation(out_dir:str, prefix: str, tree, ncbi):
             if phylum_name:
                 phylum_annotations[node.name] = phylum_name
 
-    # Generate random colors for each phylum
+    num_colors = len(set(phylum_annotations.values()))
+    cmap = plt.get_cmap(color_map)
+    colors = [cmap(i) for i in range(num_colors)]
+    hex_colors = ["#{:02x}{:02x}{:02x}".format(int(r*255), int(g*255), int(b*255)) for r, g, b, _ in colors]
+     
+    # If there are more phyla than colors in the colormap, add random colors UNTESTED
+    if num_colors > cmap.N:
+        additional_colors = num_colors - cmap.N
+        for _ in range(additional_colors):
+            hex_colors.append("#{:06x}".format(random.randint(0, 0xFFFFFF)))
+
+    # Assign colors to each phylum
     phylum_colors = {}
-    for phylum in set(phylum_annotations.values()):
-        phylum_colors[phylum] = "#{:06x}".format(random.randint(0, 0xFFFFFF)) #todo specify color palate
+    for phylum, color in zip(set(phylum_annotations.values()), hex_colors):
+        phylum_colors[phylum] = color
+
+
+    # # Generate random colors for each phylum
+    # phylum_colors = {}
+    # for phylum in set(phylum_annotations.values()):
+    #     phylum_colors[phylum] = "#{:06x}".format(random.randint(0, 0xFFFFFF)) #todo specify color palate
 
     # Create the iTOL annotation file
     with open(f"{out_dir}/{prefix}_itol_annotations.txt", "w") as f:
+        #f.write("\nTREE_COLORS\n")
         f.write("DATASET_COLORSTRIP\n")
         f.write("SEPARATOR TAB\n")
         f.write("DATASET_LABEL\tPhylum Annotations\n")
         f.write("COLOR\t#ff0000\n")
+        f.write("COLOR_BRANCHES\t1\n")
         f.write("LEGEND_TITLE\tPhylum\n")
         f.write("LEGEND_SHAPES\t{}\n".format("\t".join(["1"] * len(phylum_colors))))
         f.write("LEGEND_COLORS\t{}\n".format("\t".join(phylum_colors.values())))
         f.write("LEGEND_LABELS\t{}\n".format("\t".join(phylum_colors.keys())))
         f.write("BORDER_WIDTH\t1\n")
         f.write("BORDER_COLOR\t#000000\n")
+        f.write("SHOW_STRIP_LABELS\t1\n")
         f.write("DATA\n")
+        f.write("#NODE_ID\tCOLOR\n")
         for leaf_name, phylum_name in phylum_annotations.items():
-            f.write("{}\t{}\n".format(leaf_name, phylum_colors[phylum_name]))
+             f.write("{}\t{}\n".format(leaf_name, phylum_colors[phylum_name]))
+        
+        
+        # f.write("SEPARATOR TAB\n")
+        # f.write("DATA\n")
+        # f.write("#NODE_ID\tTYPE\tCOLOR\tLABEL_OR_STYLE\n")
+        # for leaf_name, phylum_name in phylum_annotations.items():
+        #     f.write("{}\trange\t{}\t{}\n".format(leaf_name, phylum_colors[phylum_name], phylum_name))
 
 
 if __name__ == "__main__":
@@ -99,12 +130,13 @@ if __name__ == "__main__":
     parser.add_argument("--out_path", "-o", required=True, help='Path to directory for output saving')
     parser.add_argument("--prefix", "-p", default="taxonomic", help='Prefix for filename')
     parser.add_argument("--sep", "-s", default="\t", help='separator for input file')
+    parser.add_argument("--color_map", "-cm", default="Set1", help='color map for tree coloring')
     args = parser.parse_args()
 
     ncbi = NCBITaxa()
     taxIds = extract_taxids(args.count_matrix, args.sep)
     tree = create_tree(taxIds, args.out_path, args.prefix,ncbi)
-    create_annotation(args.out_path, args.prefix, tree, ncbi)
+    create_annotation(args.out_path, args.prefix, tree, ncbi, args.color_map)
 
 # run in pipeline folder: python visualization.py -c "../files/level4/filtered_prefix_counts_microbe.tsv" -o . -p filtered_prefix_counts_microbe
 # see outputfiles: /workspaces/microbe_masst/pipeline/filtered_prefix_counts_microbe_tree.nw
