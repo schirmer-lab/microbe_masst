@@ -71,7 +71,7 @@ if __name__ == "__main__":
     # append rank column to df
     df["ranks"] = ranks
 
-    # filter for either species level, genus query or species query
+    # filter for either species level or species name
     if args.species_level:
         filtered_df = df[df["ranks"].isin(["species", ""])]
     elif args.species:
