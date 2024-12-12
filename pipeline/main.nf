@@ -3,27 +3,25 @@ process prepareInput {
     input:
     path mgf
     path features
-
+    
     output:
-    path "consensus.mgf"
+    path "./mgf_file"
 
     script:
     // check if parameters are set
     def filter_flag = params.filter_by_annotation ? '--filter_by_annotation' : ''
     def consensus_flag = params.consensus_only ? '--consensus_only' : ''
     
-
     """
     echo "Preparing input..."
     echo "MGF file: $mgf"
     echo "Features file: $features"
 
-
     python /workspaces/microbe_masst/pipeline/filter_input.py \
         --mgf $mgf \
         $filter_flag  \
         --features $features \
-        --out_file consensus.mgf \
+        --out_dir "./mgf_file" \
         $consensus_flag \
         --ann_level ${params.ann_level} \
         --min_ions ${params.min_ions}
@@ -60,7 +58,7 @@ process runMicrobemasst {
 }
 
 workflow {
-    log_params(params.out_dir)
+    /*log_params(params.out_dir)*/
     consensus = prepareInput(params.mgf, params.features)
     out_dir = createOutputDir(params.out_dir)
     runMicrobemasst(consensus, out_dir)

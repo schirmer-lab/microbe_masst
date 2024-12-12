@@ -1,6 +1,7 @@
 import argparse
 import pandas as pd
 from pyteomics import mgf
+import os
 
 
 def filter_for_annotation_level(feature_table_file, annotation_level):
@@ -88,10 +89,41 @@ def write_mgf_file(filtered_spectra, output_file):
                 writer.write(f'{str(mz).upper()} {str(intensity).upper()}\n')
             writer.write('END IONS\n\n')
 
+def write_mgf_file_per_spectrum(filtered_spectra, output_directory):
+    """
+    Write each spectrum to a separate MGF file in the specified output directory
+    Args:   - filtered_spectra, list of dictionaries
+            - output_directory, String
+    """
+    # create output dir
+    if not os.path.exists(output_directory):
+        os.makedirs(output_directory, exist_ok=True)
+        print("create dir")
+    
+    print(filtered_spectra)
+    for spectrum in filtered_spectra:
+        print("writing spectrum")
+        feature_name = spectrum['params']['title'].lower().split('|')[0].replace("feature:", "").strip()
+        output_file = os.path.join(output_directory, f"{feature_name}.mgf")
+        with open(output_file, 'w') as writer:
+            writer.write('BEGIN IONS\n')
+            for key, value in spectrum['params'].items():
+                if key.upper() == 'PEPMASS':
+                    if isinstance(value, tuple):
+                        writer.write(f'{key.upper()}={value[0]}\n')
+                    else:
+                        writer.write(f'{key.upper()}={value}\n')
+                else:
+                    writer.write(f'{key.upper()}={str(value).upper()}\n')
+            for mz, intensity in zip(spectrum['m/z array'], spectrum['intensity array']):
+                writer.write(f'{str(mz).upper()} {str(intensity).upper()}\n')
+            writer.write('END IONS\n\n')
+        print("done" + str(output_file))
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Filter MGF file by annotation level')
     parser.add_argument('--mgf', required=True, help='Path to the input MGF file')
-    parser.add_argument('--out_file', required=True, help='Path to the output MGF file')
+    parser.add_argument('--out_dir', required=True, help='Path to the output MGF file')
     parser.add_argument('--consensus_only', action='store_true', help='Boolean to filter only consensus spectra')
     parser.add_argument('--min_ions',  help='int, number of requiered ions to keep the spectrum', default=3, type=int)
     parser.add_argument('--filter_by_annotation', action='store_true', help='Boolean to filter by annotation level')
@@ -118,7 +150,10 @@ if __name__ == "__main__":
                 if len(spectrum.get('m/z array', [])) >= args.min_ions
             ]
 
-    write_mgf_file(filtered_spectra, args.out_file)
+    #write_mgf_file(filtered_spectra, args.out_file)
+    write_mgf_file_per_spectrum(filtered_spectra, args.out_dir)
 
     #python3 filter_by_annotation_level.py --mgf /path/allMS2Spec_HILIC_neg_01_02.mgf --features /path/viewerTable_pos_01_02.tsv --consensus_only --out_file /path/allMS2Spec_HILIC_neg_01_02_filtered_consensus_only.mgf
     #python3 filter_by_annotation_level.py --mgf /path/allMS2Spec_HILIC_neg_01_02.mgf --features /path/viewerTable_pos_01_02.tsv --consensus_only --out_file /path/allMS2Spec_HILIC_neg_01_02_filtered_consensus_only_ann4.mgf --filter_by_annotation 
+
+    #python3 filter_input.py --mgf ../files/allMS2Spec2024-11-27_neg.mgf --features ../files/neg_viewerTable.tsv --consensus_only --out_dir ../output/test_splitMGF --filter_by_annotation 
