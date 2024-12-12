@@ -2,21 +2,24 @@ import pandas as pd
 import argparse
 import requests
 
-# ArgParser
-parser = argparse.ArgumentParser(description="Filter for output of MicrobeMASST")
 
-group = parser.add_mutually_exclusive_group(required=True) # only allow --species_level, --genus or --species
+def setup_argparser():
+    parser = argparse.ArgumentParser(description="Filter for output of MicrobeMASST")
 
-parser.add_argument('-i', '--input', type=str, required=True, help='Path to the input TSV file')
-parser.add_argument('-o', '--output', type=str, required=True, help='Path to the directory, name is automatically generated!')
-group.add_argument('--species_level', default=False, action="store_true", help='Filter by species level')
-group.add_argument('--genus', type=str, help='Genus to filter by')
-group.add_argument('--species', type=str, help='Species to filter by')
+    group = parser.add_mutually_exclusive_group(required=True)  # only allow --species_level, --genus or --species
 
-args = parser.parse_args()
+    parser.add_argument('-i', '--input', type=str, required=True,
+                        help='Path to the input TSV file')
+    parser.add_argument('-o', '--output', type=str, required=True,
+                        help='Path to the directory, name is automatically generated!')
+    group.add_argument('--species_level', default=False, action="store_true",
+                       help='Filter by species level')
+    group.add_argument('--species', type=str,
+                       help='Species to filter by')
 
-# tsv to pandas df
-df = pd.read_csv(args.input, sep='\t')
+    args = parser.parse_args()
+
+    return args
 
 
 def get_taxonomy_rank(tax_ids):
@@ -53,26 +56,31 @@ def batch_query(tax_ids, batch_size=10):
     for i in range(0, len(tax_ids), batch_size):
         yield tax_ids[i:i+batch_size]
 
+if __name__ == "__main__":
+    # retrieve arguments from argparser
+    args = setup_argparser()
 
-# get ranks fpr each taxonomy ID
-ranks = []
-for batch in batch_query(df["Taxa_NCBI"], 50):
-    ranks.extend(get_taxonomy_rank(batch))
+    # tsv to pandas df
+    df = pd.read_csv(args.input, sep='\t')
 
-# filter for either species level, genus query or species query
-splits = df["Taxaname_file"].str.split(" ")
-if args.species_level:
-    filtered_df = df[ranks == "species"]
+    # get ranks fpr each taxonomy ID
+    ranks = []
+    for batch in batch_query(df["Taxa_NCBI"], 50):
+        ranks.extend(get_taxonomy_rank(batch))
 
-    # TODO: implement the extracted ranks in logic for genus or species search
-elif args.genus:
-    filtered_df = df[splits.str[0].str.lower() == args.genus.lower()]
-elif args.species:
-    valid_splits = splits[splits.str.len() > 1]
-    combined_splits = valid_splits.str[0] + " " + valid_splits.str[1]
-    filtered_df = df.loc[valid_splits.index[combined_splits.str.lower() == args.species.lower()]]
-else:
-    filtered_df = df
+    # append rank column to df
+    df["ranks"] = ranks
 
-# save filtered df as tsv
-filtered_df.to_csv(f'{args.output}/filtered_{args.input.split("/")[-1]}', sep='\t')
+    # filter for either species level, genus query or species query
+    if args.species_level:
+        filtered_df = df[df["ranks"].isin(["species", ""])]
+    elif args.species:
+        splits = df["Taxaname_file"].str.split(" ")
+        valid_splits = splits[splits.str.len() > 1]
+        combined_splits = valid_splits.str[0] + " " + valid_splits.str[1]
+        filtered_df = df[df["ranks"].isin(["species", ""]) & (combined_splits.str.lower() == args.species.lower())]
+    else:
+        filtered_df = df
+
+    # save filtered df as tsv
+    filtered_df.to_csv(f'{args.output}/filtered_{args.input.split("/")[-1]}', sep='\t')
