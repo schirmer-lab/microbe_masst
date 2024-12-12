@@ -6,7 +6,7 @@ import requests
 def setup_argparser():
     parser = argparse.ArgumentParser(description="Filter for output of MicrobeMASST")
 
-    group = parser.add_mutually_exclusive_group(required=True)  # only allow --species_level, --genus or --species
+    group = parser.add_mutually_exclusive_group(required=True)  # only allow --species_level or --species
 
     parser.add_argument('-i', '--input', type=str, required=True,
                         help='Path to the input TSV file')
