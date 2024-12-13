@@ -46,7 +46,7 @@ def read_csv_file(csv_file):
     with open(csv_file, mode='r') as file:
         reader = csv.reader(file)
         for row in reader:
-            if len(row) == 2:
+            if len(row) != 2:
                 raise ValueError(f"Invalid format in CSV file {csv_file}. Each row must have exactly two columns.")
             files.append((row[0], row[1]))
     return files
