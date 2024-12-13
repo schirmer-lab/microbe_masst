@@ -2,6 +2,7 @@ import argparse
 import pandas as pd
 from pyteomics import mgf
 import os
+import csv
 
 
 def filter_for_annotation_level(feature_table_file, annotation_level):
@@ -100,9 +101,11 @@ def write_mgf_file_per_spectrum(filtered_spectra, output_directory):
         os.makedirs(output_directory, exist_ok=True)
         print("create dir")
     
-    print(filtered_spectra)
+    csv_file_path = os.path.join(output_directory, "mgfs.csv")
+
+    csv_rows = []
+    
     for spectrum in filtered_spectra:
-        print("writing spectrum")
         feature_name = spectrum['params']['title'].lower().split('|')[0].replace("feature:", "").strip()
         output_file = os.path.join(output_directory, f"{feature_name}.mgf")
         with open(output_file, 'w') as writer:
@@ -118,7 +121,19 @@ def write_mgf_file_per_spectrum(filtered_spectra, output_directory):
             for mz, intensity in zip(spectrum['m/z array'], spectrum['intensity array']):
                 writer.write(f'{str(mz).upper()} {str(intensity).upper()}\n')
             writer.write('END IONS\n\n')
-        print("done" + str(output_file))
+        
+         # Add the file name and full path to the CSV rows
+        csv_rows.append([feature_name, output_file])
+    
+    with open(csv_file_path, mode='w', newline='') as csv_file:
+        csv_writer = csv.writer(csv_file)
+        # Write header
+        csv_writer.writerow(["FileName", "FilePath"])
+        # Write data rows
+        csv_writer.writerows(csv_rows)
+
+
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Filter MGF file by annotation level')
