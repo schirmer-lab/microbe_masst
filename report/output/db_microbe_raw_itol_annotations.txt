@@ -2,1741 +2,1744 @@ DATASET_COLORSTRIP
 SEPARATOR TAB
 DATASET_LABEL	Phylum Annotations
 COLOR	#ff0000
+COLOR_BRANCHES	1
 LEGEND_TITLE	Phylum
 LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
-LEGEND_COLORS	#31e3db	#c3b19d	#64c16b	#466b6e	#e7c01f	#92e305	#45fb65	#6bb7b0	#ed3170	#811f88	#26167e	#4a86e8	#dfe7aa	#b701a9	#d97f22	#428cb0	#b5b305	#3c2edf	#6bfd1d	#d307f6	#2a96ce
-LEGEND_LABELS	Actinomycetota	Euglenozoa	Streptophyta	Spirochaetota	Campylobacterota	Zoopagomycota	Verrucomicrobiota	Pseudomonadota	Mucoromycota	Myxococcota	Deinococcota	Bacteroidota	Bacillariophyta	Fusobacteriota	Ascomycota	Cyanobacteriota	Chlorophyta	Methanobacteriota	Bacillota	Chordata	Basidiomycota
+LEGEND_COLORS	#e41a1c	#377eb8	#4daf4a	#984ea3	#ff7f00	#ffff33	#a65628	#f781bf	#4d6089	#87d510	#ca2c74	#a2b404	#e584b0	#de3940	#e24db1	#2a82e5	#5e5479	#be2600	#860401	#c0faec	#ceb558
+LEGEND_LABELS	Chordata	Chlorophyta	Ascomycota	Actinomycetota	Streptophyta	Mucoromycota	Bacillariophyta	Fusobacteriota	Deinococcota	Cyanobacteriota	Bacteroidota	Methanobacteriota	Zoopagomycota	Basidiomycota	Euglenozoa	Pseudomonadota	Myxococcota	Spirochaetota	Verrucomicrobiota	Bacillota	Campylobacterota
 BORDER_WIDTH	1
 BORDER_COLOR	#000000
+SHOW_STRIP_LABELS	1
 DATA
-Rhodospirillaceae	#6bb7b0
-Leptospira	#466b6e
-Limnobacter	#6bb7b0
-Chitinimonas	#6bb7b0
-Acidovorax	#6bb7b0
-Roseateles	#6bb7b0
-Vogesella	#6bb7b0
-Luteimonas	#6bb7b0
-Pseudoxanthomonas	#6bb7b0
-Marinobacter	#6bb7b0
-Blastomonas	#6bb7b0
-Caulobacter	#6bb7b0
-Phaeobacter	#6bb7b0
-Actinobacteria bacterium OK006	#31e3db
-Actinobacteria bacterium OK074	#31e3db
-Actinobacteria bacterium OV450	#31e3db
-Actinobacteria bacterium OV320	#31e3db
-Sorangium cellulosum	#811f88
-Lentimonas sp. CC4	#45fb65
-Methanobacterium	#3c2edf
-Hydrogenophaga flava	#6bb7b0
-Chromobacterium	#6bb7b0
-Neisseria oralis	#6bb7b0
-Alteromonas	#6bb7b0
-Alteromonadaceae bacterium 2052S.S.stab0a.01	#6bb7b0
-Pseudoalteromonas denitrificans	#6bb7b0
-Pseudoalteromonas rubra	#6bb7b0
-Pseudoalteromonas ruthenica	#6bb7b0
-Pseudoalteromonas maricaloris	#6bb7b0
-Xanthomonas albilineans	#6bb7b0
-Stenotrophomonas maltophilia	#6bb7b0
-Pseudomonas donghuensis	#6bb7b0
-Pseudomonas vranovensis	#6bb7b0
-Pseudomonas hunanensis	#6bb7b0
-Pseudomonas frederiksbergensis	#6bb7b0
-Pseudomonas psychrophila	#6bb7b0
-Methyloprofundus sedimenti	#6bb7b0
-Acinetobacter lwoffii	#6bb7b0
-Acinetobacter baumannii	#6bb7b0
-Enterobacter cloacae	#6bb7b0
-Salmonella enterica	#6bb7b0
-Buttiauxella noackiae	#6bb7b0
-Yokenella regensburgei	#6bb7b0
-Erwinia endophytica	#6bb7b0
-Hafnia alvei	#6bb7b0
-Xenorhabdus nematophila	#6bb7b0
-Xenorhabdus budapestensis	#6bb7b0
-Xenorhabdus eapokensis	#6bb7b0
-Serratia liquefaciens	#6bb7b0
-Serratia proteamaculans	#6bb7b0
-Serratia ficaria	#6bb7b0
-Serratia fonticola	#6bb7b0
-Photobacterium halotolerans	#6bb7b0
-Vibrio cholerae	#6bb7b0
-Vibrio coralliilyticus	#6bb7b0
-Vibrio gallaecicus	#6bb7b0
-Vibrio lentus	#6bb7b0
-Actinobacillus minor	#6bb7b0
-Neptuniibacter pectenicola	#6bb7b0
-unclassified Nitrincola	#6bb7b0
-Halomonas elongata	#6bb7b0
-Qipengyuania aquimaris	#6bb7b0
-Qipengyuania vulgaris	#6bb7b0
-unclassified Sulfitobacter	#6bb7b0
-Lentibacter algarum	#6bb7b0
-unclassified Pacificibacter	#6bb7b0
-Roseicyclus elongatus	#6bb7b0
-Celeribacter marinus	#6bb7b0
-Yoonia acticola	#6bb7b0
-Loktanella salsilacus	#6bb7b0
-Ruegeria pomeroyi	#6bb7b0
-Paracoccus homiensis	#6bb7b0
-Limimaricola aestuariicola	#6bb7b0
-Paracoccaceae bacterium	#6bb7b0
-Tritonibacter mobilis	#6bb7b0
-Cognatiyoonia koreensis	#6bb7b0
-Ahrensia kielensis	#6bb7b0
-unclassified Roseibium	#6bb7b0
-Pseudovibrio ascidiaceicola	#6bb7b0
-Acetobacteraceae bacterium AT-5844	#6bb7b0
-unclassified Henriciella	#6bb7b0
-Clostridiales bacterium	#6bfd1d
-Pseudonocardia	#31e3db
-Actinokineospora	#31e3db
-Rivularia	#428cb0
-Campylobacter jejuni	#e7c01f
-Fusobacterium mortiferum	#b701a9
-Fusobacterium canifelinum	#b701a9
-unclassified Luteolibacter	#45fb65
-Roseibacillus persicicus	#45fb65
-Bacteroides uniformis	#4a86e8
-Bacteroides xylanisolvens	#4a86e8
-Paraprevotella clara	#4a86e8
-Paraprevotella xylaniphila	#4a86e8
-Porphyromonas uenonis	#4a86e8
-Cyclobacterium marinum	#4a86e8
-Algoriphagus chordae	#4a86e8
-Arcticibacterium luteifluviistationis	#4a86e8
-unclassified Psychroserpens	#4a86e8
-Maribacter aestuarii	#4a86e8
-Maribacter dokdonensis	#4a86e8
-Flavobacterium frigoris	#4a86e8
-Olleya marilimosa	#4a86e8
-Olleya algicola	#4a86e8
-Postechiella marina	#4a86e8
-Winogradskyella flava	#4a86e8
-Cellulophaga lytica	#4a86e8
-Lutibacter oceani	#4a86e8
-Lutibacter flavus	#4a86e8
-Algibacter amylolyticus	#4a86e8
-Algibacter aquimarinus	#4a86e8
-Algibacter lectus	#4a86e8
-unclassified Mariniflexile	#4a86e8
-Zobellia laminariae	#4a86e8
-Aquimarina amphilecti	#4a86e8
-Polaribacter dokdonensis	#4a86e8
-Polaribacter porphyrae	#4a86e8
-Leeuwenhoekiella aequorea	#4a86e8
-Lutimonas saemankumensis	#4a86e8
-Eutreptiella gymnastica	#c3b19d
-Thalassiosira pseudonana	#dfe7aa
-Natranaeroarchaeum aerophilus	#3c2edf
-Halapricum desulfuricans	#3c2edf
-Halococcoides cellulosivorans	#3c2edf
-Natronocalculus amylovorans	#3c2edf
-Halalkaliarchaeum desulfuricum	#3c2edf
-Natrarchaeobius chitinivorans	#3c2edf
-Natrarchaeobius halalkaliphilus	#3c2edf
-Natronobiforma cellulositropha	#3c2edf
-Natrarchaeobaculum sulfurireducens	#3c2edf
-Natronolimnohabitans innermongolicus	#3c2edf
-Natronolimnobius baerhuensis	#3c2edf
-Treponema denticola AL-2	#466b6e
-Treponema denticola ASLM	#466b6e
-Treponema denticola US-Trep	#466b6e
-Burkholderia cepacia	#6bb7b0
-Burkholderia pyrrocinia	#6bb7b0
-Burkholderia anthina	#6bb7b0
-Burkholderia thailandensis E264	#6bb7b0
-Burkholderia thailandensis Bt4	#6bb7b0
-Paraburkholderia sp. GV052	#6bb7b0
-Paraburkholderia sp. GV068	#6bb7b0
-Paraburkholderia sp. GV072	#6bb7b0
-Paraburkholderia sp. GV073	#6bb7b0
-Ralstonia sp. 5_2_56FAA	#6bb7b0
-Variovorax sp. OK202	#6bb7b0
-Variovorax sp. YR634	#6bb7b0
-Variovorax sp. YR752	#6bb7b0
-Variovorax sp. YR750	#6bb7b0
-Variovorax sp. YR266	#6bb7b0
-Variovorax sp. BK460	#6bb7b0
-Variovorax sp. GV004	#6bb7b0
-Variovorax sp. GV035	#6bb7b0
-Variovorax sp. GV051	#6bb7b0
-Variovorax sp. OK212	#6bb7b0
-Variovorax sp. OV084	#6bb7b0
-Variovorax sp. OV700	#6bb7b0
-Variovorax sp. PDC80	#6bb7b0
-Rhodoferax sp.	#6bb7b0
-Rhodoferax sp. OV413	#6bb7b0
-Achromobacter xylosoxidans C54	#6bb7b0
-Herbaspirillum sp. CF444	#6bb7b0
-Collimonas sp. OK412	#6bb7b0
-Methylibium sp. CF468	#6bb7b0
-Methylibium sp. YR605	#6bb7b0
-Mitsuaria sp. PDC51	#6bb7b0
-Mitsuaria sp. BK045	#6bb7b0
-Mitsuaria sp. BK037	#6bb7b0
-Mitsuaria sp. BK041	#6bb7b0
-Roseateles sp. YR242	#6bb7b0
-Rhizobacter sp. OV335	#6bb7b0
-Sutterella wadsworthensis HGA0223	#6bb7b0
-Neisseria flavescens SK114	#6bb7b0
-Neisseria mucosa C102	#6bb7b0
-Shewanella sp.	#6bb7b0
-Paraglaciecola mesophila KMM 241	#6bb7b0
-Colwellia sp.	#6bb7b0
-Motilimonas sp.	#6bb7b0
-Pseudoalteromonas sp. 2ta6	#6bb7b0
-Pseudoalteromonas sp.	#6bb7b0
-Lysobacter sp. yr284	#6bb7b0
-Xanthomonas citri pv. mangiferaeindicae	#6bb7b0
-Stenotrophomonas sp.	#6bb7b0
-Pseudomonas sp.	#6bb7b0
-Pseudomonas sp. ok266	#6bb7b0
-Pseudomonas sp. 2156	#6bb7b0
-Pseudomonas sp. 250J	#6bb7b0
-Pseudomonas sp. P13	#6bb7b0
-Pseudomonas sp. OV546	#6bb7b0
-Pseudomonas sp. GM102	#6bb7b0
-Pseudomonas sp. GM16	#6bb7b0
-Pseudomonas sp. GM18	#6bb7b0
-Pseudomonas sp. GM21	#6bb7b0
-Pseudomonas sp. GM24	#6bb7b0
-Pseudomonas sp. GM25	#6bb7b0
-Pseudomonas sp. GM30	#6bb7b0
-Pseudomonas sp. GM48	#6bb7b0
-Pseudomonas sp. GM50	#6bb7b0
-Pseudomonas sp. GM60	#6bb7b0
-Pseudomonas sp. GM67	#6bb7b0
-Pseudomonas sp. GM74	#6bb7b0
-Pseudomonas sp. GM78	#6bb7b0
-Pseudomonas sp. GM79	#6bb7b0
-Pseudomonas sp. GM80	#6bb7b0
-Pseudomonas sp. GV034	#6bb7b0
-Pseudomonas sp. GV062	#6bb7b0
-Pseudomonas sp. GV082	#6bb7b0
-Pseudomonas sp. GV086	#6bb7b0
-Pseudomonas sp. GV101	#6bb7b0
-Pseudomonas sp. NP10-3	#6bb7b0
-Pseudomonas sp. NP28-5	#6bb7b0
-Pseudomonas sp. OV184	#6bb7b0
-Pseudomonas sp. OV221	#6bb7b0
-Pseudomonas sp. OV286	#6bb7b0
-Pseudomonas sp. OV341	#6bb7b0
-Pseudomonas sp. OV397	#6bb7b0
-Pseudomonas sp. OV508	#6bb7b0
-Pseudomonas sp. OV529	#6bb7b0
-Pseudomonas sp. OV657	#6bb7b0
-Pseudomonas sp. GV012	#6bb7b0
-Pseudomonas sp. GV021	#6bb7b0
-Pseudomonas sp. GV054	#6bb7b0
-Pseudomonas sp. GV058	#6bb7b0
-Pseudomonas sp. GV071	#6bb7b0
-Pseudomonas sp. GV077	#6bb7b0
-Pseudomonas sp. GV085	#6bb7b0
-Pseudomonas sp. GV091	#6bb7b0
-Pseudomonas sp. HPB0071	#6bb7b0
-Pseudomonas fluorescens	#6bb7b0
-Pseudomonas libanensis	#6bb7b0
-Pseudomonas baetica	#6bb7b0
-Pseudomonas synxantha	#6bb7b0
-Pseudomonas brenneri	#6bb7b0
-Pseudomonas fragi	#6bb7b0
-Pseudomonas protegens	#6bb7b0
-Pseudomonas chlororaphis	#6bb7b0
-Pseudomonas putida	#6bb7b0
-Pseudomonas monteilii	#6bb7b0
-Pseudomonas plecoglossicida	#6bb7b0
-Pseudomonas cichorii	#6bb7b0
-Stutzerimonas stutzeri CCUG 29243	#6bb7b0
-Methylobacter tundripaludum SV96	#6bb7b0
-Acinetobacter sp.	#6bb7b0
-Acinetobacter radioresistens SK82	#6bb7b0
-Moraxella sp.	#6bb7b0
-Citrobacter sp.	#6bb7b0
-Citrobacter freundii 4_7_47CFAA	#6bb7b0
-Klebsiella aerogenes	#6bb7b0
-Klebsiella michiganensis	#6bb7b0
-Klebsiella variicola	#6bb7b0
-Escherichia coli 83972	#6bb7b0
-Escherichia coli MS 21-1	#6bb7b0
-Escherichia coli MS 57-2	#6bb7b0
-Escherichia coli MS 69-1	#6bb7b0
-Escherichia coli MS 110-3	#6bb7b0
-Escherichia coli MS 115-1	#6bb7b0
-Escherichia coli MS 16-3	#6bb7b0
-Escherichia coli MS 196-1	#6bb7b0
-Escherichia coli MS 198-1	#6bb7b0
-Escherichia coli MS 200-1	#6bb7b0
-Escherichia coli Nissle 1917	#6bb7b0
-Escherichia coli 0.1197	#6bb7b0
-Escherichia coli D9	#6bb7b0
-Escherichia coli MS 85-1	#6bb7b0
-Escherichia coli MS 145-7	#6bb7b0
-Escherichia coli MS 124-1	#6bb7b0
-Escherichia coli MS 119-7	#6bb7b0
-Escherichia sp.	#6bb7b0
-Erwinia sp.	#6bb7b0
-Erwinia persicina NBRC 102418	#6bb7b0
-Proteus mirabilis WGLW4	#6bb7b0
-Proteus mirabilis WGLW6	#6bb7b0
-Rahnella aquatilis CIP 78.65 = ATCC 33071	#6bb7b0
-Photobacterium phosphoreum ANT-2200	#6bb7b0
-Vibrio sp. vnigr-6D03	#6bb7b0
-Vibrio splendidus 0407ZC148	#6bb7b0
-Aggregatibacter aphrophilus F0387	#6bb7b0
-Cardiobacterium valvarum F0432	#6bb7b0
-Erythrobacter aureus	#6bb7b0
-Novosphingobium sp. CF614	#6bb7b0
-Sphingomonas sp.	#6bb7b0
-Roseovarius sp.	#6bb7b0
-Oceanicola sp.	#6bb7b0
-Paracoccus sp. (in: a-proteobacteria)	#6bb7b0
-Rhizobium arsenicireducens	#6bb7b0
-Bradyrhizobium sp. cf659	#6bb7b0
-Pleomorphomonas sp. CF100	#6bb7b0
-Hoeflea sp.	#6bb7b0
-Enhydrobacter sp.	#6bb7b0
-Roseomonas sp.	#6bb7b0
-Blautia faecis	#6bfd1d
-Blautia luti	#6bfd1d
-Blautia obeum	#6bfd1d
-Lachnospiraceae bacterium 2_1_58FAA	#6bfd1d
-Lachnospiraceae bacterium 5_1_57FAA	#6bfd1d
-Lachnospiraceae bacterium 7_1_58FAA	#6bfd1d
-Dorea formicigenerans	#6bfd1d
-Stomatobaculum longum	#6bfd1d
-Fusicatenibacter saccharivorans	#6bfd1d
-Paraclostridium sordellii	#6bfd1d
-Hathewaya histolytica	#6bfd1d
-Faecalibacterium prausnitzii	#6bfd1d
-Peptostreptococcaceae bacterium AS15	#6bfd1d
-Clostridiales bacterium oral taxon 876 str. F0540	#6bfd1d
-Veillonella denticariosi	#6bfd1d
-Veillonella rodentium	#6bfd1d
-Veillonella nakazawae	#6bfd1d
-Veillonella parvula	#6bfd1d
-Veillonella rogosae	#6bfd1d
-Veillonella atypica	#6bfd1d
-Veillonella dispar	#6bfd1d
-Megasphaera vaginalis (ex Srinivasan et al. 2021)	#6bfd1d
-Acidaminococcus intestini	#6bfd1d
-Planococcus maritimus	#6bfd1d
-Paenibacillus polymyxa	#6bfd1d
-Bacillus nakamurai	#6bfd1d
-Pseudalkalibacillus hwajinpoensis	#6bfd1d
-Niallia circulans	#6bfd1d
-Priestia megaterium	#6bfd1d
-Priestia aryabhattai	#6bfd1d
-Priestia flexa	#6bfd1d
-Peribacillus simplex	#6bfd1d
-Staphylococcus haemolyticus	#6bfd1d
-Staphylococcus simulans	#6bfd1d
-Staphylococcus warneri	#6bfd1d
-Mammaliicoccus sciuri	#6bfd1d
-Kroppenstedtia eburnea	#6bfd1d
-Listeria monocytogenes	#6bfd1d
-Streptococcus agalactiae	#6bfd1d
-Streptococcus gallolyticus	#6bfd1d
-Streptococcus cristatus	#6bfd1d
-Streptococcus alactolyticus	#6bfd1d
-Lactococcus lactis	#6bfd1d
-Lactobacillus johnsonii	#6bfd1d
-Lactobacillus acidophilus	#6bfd1d
-Limosilactobacillus mucosae	#6bfd1d
-Leuconostoc lactis	#6bfd1d
-Weissella paramesenteroides	#6bfd1d
-Weissella confusa	#6bfd1d
-Lactiplantibacillus plantarum	#6bfd1d
-Ligilactobacillus animalis	#6bfd1d
-Ligilactobacillus salivarius	#6bfd1d
-Aerococcus viridans	#6bfd1d
-Enterococcus hirae	#6bfd1d
-Enterococcus durans	#6bfd1d
-Enterococcus casseliflavus	#6bfd1d
-Finegoldia magna	#6bfd1d
-Kocuria rhizophila	#31e3db
-Pseudarthrobacter oxydans	#31e3db
-Glutamicibacter arilaitensis	#31e3db
-Microbacterium testaceum	#31e3db
-Microbacterium paraoxydans	#31e3db
-Clavibacter michiganensis	#31e3db
-Gryllotalpicola protaetiae	#31e3db
-Salinispora vitiensis	#31e3db
-Salinispora mooreana	#31e3db
-Salinispora oceanensis	#31e3db
-Salinispora cortesiana	#31e3db
-Salinispora fenicalii	#31e3db
-Salinispora goodfellowii	#31e3db
-Micromonospora craterilacus	#31e3db
-Micromonospora echinospora	#31e3db
-Micromonospora schwarzwaldensis	#31e3db
-Micromonospora gifhornensis	#31e3db
-Micromonospora profundi	#31e3db
-Micromonospora chokoriensis	#31e3db
-Micromonospora tulbaghiae	#31e3db
-Micromonospora aurantiaca	#31e3db
-Arachnia propionica	#31e3db
-Nocardioides terrigena	#31e3db
-Mycolicibacter longobardus	#31e3db
-Mycolicibacter hiberniae	#31e3db
-Mycolicibacterium conceptionense	#31e3db
-Mycolicibacterium phlei	#31e3db
-Mycolicibacterium flavescens	#31e3db
-Mycolicibacterium aurum	#31e3db
-Mycolicibacterium fallax	#31e3db
-Mycolicibacterium gilvum	#31e3db
-Mycolicibacterium litorale	#31e3db
-Mycolicibacterium aromaticivorans	#31e3db
-Mycobacterium gordonae	#31e3db
-Mycobacterium branderi	#31e3db
-Mycobacterium angelicum	#31e3db
-Mycobacterium alsense	#31e3db
-Mycobacterium fragae	#31e3db
-Mycobacterium marinum	#31e3db
-Mycobacterium palustre	#31e3db
-Mycobacteroides abscessus	#31e3db
-Nocardia globerula	#31e3db
-Rhodococcoides fascians	#31e3db
-Rhodococcus pyridinivorans	#31e3db
-Rhodococcus cercidiphylli	#31e3db
-Rhodococcoides yunnanense	#31e3db
-Williamsia muralis	#31e3db
-Streptomyces nojiriensis	#31e3db
-Streptomyces afghaniensis	#31e3db
-Streptomyces albiaxialis	#31e3db
-Streptomyces violascens	#31e3db
-Streptomyces ambofaciens	#31e3db
-Streptomyces atratus	#31e3db
-Streptomyces clavuligerus	#31e3db
-Streptomyces fradiae	#31e3db
-Streptomyces lividans	#31e3db
-Streptomyces chromofuscus	#31e3db
-Streptomyces tendae	#31e3db
-Streptomyces viridochromogenes	#31e3db
-Streptomyces jumonjinensis	#31e3db
-Streptomyces thermocarboxydus	#31e3db
-Streptomyces virginiae	#31e3db
-Streptomyces noursei	#31e3db
-Streptomyces viridosporus	#31e3db
-Streptomyces vellosus	#31e3db
-Streptomyces wadayamensis	#31e3db
-Streptomyces nanshensis	#31e3db
-Streptomyces thinghirensis	#31e3db
-Streptomyces minutiscleroticus	#31e3db
-Streptomyces mirabilis	#31e3db
-Streptomyces intermedius	#31e3db
-Streptomyces katsurahamanus	#31e3db
-Streptomyces niveus	#31e3db
-Streptomyces venezuelae	#31e3db
-Streptomyces xylanilyticus	#31e3db
-Streptomyces atrovirens	#31e3db
-Streptomyces labedae	#31e3db
-Streptomyces griseorubens	#31e3db
-Streptomyces albogriseolus	#31e3db
-Streptomyces hygroscopicus	#31e3db
-Streptomyces rochei	#31e3db
-Actinomyces naeslundii	#31e3db
-Mobiluncus mulieris	#31e3db
-Saccharomonospora xinjiangensis	#31e3db
-Nocardiopsis prasina	#31e3db
-Nocardiopsis synnemataformans	#31e3db
-Actinomadura atramentaria	#31e3db
-Collinsella aerofaciens	#31e3db
-Eggerthella lenta	#31e3db
-Myxococcus xanthus	#811f88
-Cystobacter ferrugineus	#811f88
-Helicobacter pylori 83	#e7c01f
-Helicobacter pullorum MIT 98-5489	#e7c01f
-Campylobacter coli JV20	#e7c01f
-Campylobacter upsaliensis JV21	#e7c01f
-Aliarcobacter butzleri JV22	#e7c01f
-Fusobacterium nucleatum CTI-1	#b701a9
-Fusobacterium nucleatum CTI-2	#b701a9
-Fusobacterium nucleatum CTI-3	#b701a9
-Fusobacterium nucleatum CTI-5	#b701a9
-Fusobacterium nucleatum CTI-6	#b701a9
-Fusobacterium nucleatum CTI-7	#b701a9
-Fusobacterium sp. OBRC1	#b701a9
-Fusobacterium sp. CM21	#b701a9
-Fusobacterium sp. CM22	#b701a9
-Fusobacterium periodonticum 2_1_31	#b701a9
-Fusobacterium ulcerans 12-1B	#b701a9
-Fusobacterium polymorphum F0401	#b701a9
-Fusobacterium animalis F0419	#b701a9
-Akkermansia muciniphila ATCC BAA-835	#45fb65
-Bacteroides sp. 2_1_22	#4a86e8
-Bacteroides sp. 3_1_19	#4a86e8
-Bacteroides sp. D20	#4a86e8
-Bacteroides sp.	#4a86e8
-Bacteroides sp. 1_1_30	#4a86e8
-Bacteroides sp. 4_1_36	#4a86e8
-Bacteroides sp. 9_1_42FAA	#4a86e8
-Bacteroides sp. D2	#4a86e8
-Bacteroides stercoris CC31F	#4a86e8
-Bacteroides fragilis NCTC 9343	#4a86e8
-Bacteroides fragilis CL03T12C07	#4a86e8
-Bacteroides fragilis CL07T00C01	#4a86e8
-Bacteroides fragilis CL07T12C05	#4a86e8
-Bacteroides fragilis CL05T00C42	#4a86e8
-Bacteroides fragilis 3_1_12	#4a86e8
-Bacteroides thetaiotaomicron VPI-5482	#4a86e8
-Bacteroides cellulosilyticus DSM 14838	#4a86e8
-Bacteroides cellulosilyticus CL02T12C19	#4a86e8
-Bacteroides ovatus ATCC 8483	#4a86e8
-Bacteroides ovatus 3_8_47FAA	#4a86e8
-Bacteroides finegoldii CL09T03C10	#4a86e8
-Bacteroides eggerthii 1_2_48FAA	#4a86e8
-Bacteroides acidifaciens JCM 10556	#4a86e8
-Bacteroides salyersiae CL02T12C01	#4a86e8
-Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988	#4a86e8
-Bacteroides caccae CL03T12C61	#4a86e8
-Phocaeicola vulgatus ATCC 8482	#4a86e8
-Phocaeicola vulgatus CL09T03C04	#4a86e8
-Phocaeicola salanitronis DSM 18170	#4a86e8
-Phocaeicola dorei CL02T00C15	#4a86e8
-Phocaeicola dorei CL02T12C06	#4a86e8
-Phocaeicola dorei CL03T12C01	#4a86e8
-Phocaeicola dorei 5_1_36/D4	#4a86e8
-Phocaeicola dorei DSM 17855	#4a86e8
-Phocaeicola massiliensis B84634 = Timone 84634 = DSM 17679 = JCM 13223	#4a86e8
-Parabacteroides goldsteinii CC87F	#4a86e8
-Parabacteroides goldsteinii CL02T12C30	#4a86e8
-Parabacteroides distasonis CL03T12C09	#4a86e8
-Parabacteroides sp.	#4a86e8
-Parabacteroides sp. D13	#4a86e8
-Parabacteroides johnsonii CL02T12C29	#4a86e8
-Parabacteroides merdae CL03T12C32	#4a86e8
-Parabacteroides merdae CL09T00C40	#4a86e8
-Prevotella nigrescens CC14M	#4a86e8
-Prevotella nigrescens F0103	#4a86e8
-Prevotella bivia DNF00650	#4a86e8
-Prevotella bivia DNF00188	#4a86e8
-Prevotella disiens DNF00882	#4a86e8
-Prevotella denticola DNF00960	#4a86e8
-Prevotella denticola F0289	#4a86e8
-Prevotella amnii CRIS 21A-A	#4a86e8
-Segatella buccae D17	#4a86e8
-Prevotella melaninogenica D18	#4a86e8
-Segatella oris F0302	#4a86e8
-Prevotella veroralis F0319	#4a86e8
-Prevotella histicola F0411	#4a86e8
-Segatella copri DSM 18205	#4a86e8
-Hoylesella timonensis CRIS 5C-B1	#4a86e8
-Hoylesella oralis HGA0225	#4a86e8
-Leyella stercorea DSM 18206	#4a86e8
-Porphyromonas sp. KLE 1280	#4a86e8
-Porphyromonas sp.	#4a86e8
-Capnocytophaga sputigena CC21_001D	#4a86e8
-Capnocytophaga ochracea F0287	#4a86e8
-Flavobacterium sp. fv08	#4a86e8
-Flavobacterium sp. ov086	#4a86e8
-Flavobacterium sp. GV030	#4a86e8
-Flavobacterium sp. GV063	#4a86e8
-Flavobacterium sp. GV069	#4a86e8
-Flavobacterium sp. CF108	#4a86e8
-Flavobacterium frigidarium DSM 17623	#4a86e8
-Olleya sp. Hel_I_94	#4a86e8
-Arenibacter sp.	#4a86e8
-Chitinophaga sp. CF118	#4a86e8
-Chitinophaga sp. YR573	#4a86e8
-Chitinophaga sp. YR627	#4a86e8
-Chitinophaga sp. OK723	#4a86e8
-Niastella sp. CF465	#4a86e8
-Filimonas sp. YR581	#4a86e8
-Pedobacter sp. CF074	#4a86e8
-Mucilaginibacter sp. OK098	#4a86e8
-Mucilaginibacter sp. YR332	#4a86e8
-Chlorella variabilis	#b5b305
-Cryptoglena skujai	#c3b19d
-Euglena longa	#c3b19d
-Euglena viridis	#c3b19d
-Euglena mutabilis	#c3b19d
-Euglena sanguinea	#c3b19d
-Burkholderia multivorans ATCC 17616	#6bb7b0
-Burkholderia multivorans CF2	#6bb7b0
-Burkholderia multivorans ATCC BAA-247	#6bb7b0
-Burkholderia cenocepacia K56-2Sokol	#6bb7b0
-Burkholderia cenocepacia J2315	#6bb7b0
-Burkholderia dolosa AU0158	#6bb7b0
-Xanthomonas campestris pv. campestris str. 8004	#6bb7b0
-Pseudomonas aeruginosa UCBPP-PA14	#6bb7b0
-Pseudomonas aeruginosa PAO1	#6bb7b0
-Pseudomonas aeruginosa PA14	#6bb7b0
-Ectopseudomonas mendocina NBRC 14162	#6bb7b0
-Pseudomonas syringae pv. maculicola	#6bb7b0
-Pseudomonas coronafaciens pv. coronafaciens	#6bb7b0
-Pseudomonas amygdali pv. tabaci	#6bb7b0
-Klebsiella oxytoca 09-7231	#6bb7b0
-Klebsiella oxytoca 10-5242	#6bb7b0
-Klebsiella oxytoca 10-5243	#6bb7b0
-Klebsiella oxytoca 10-5244	#6bb7b0
-Klebsiella oxytoca 10-5245	#6bb7b0
-Klebsiella oxytoca 10-5248	#6bb7b0
-Klebsiella oxytoca 10-5249	#6bb7b0
-Klebsiella oxytoca 10-5250	#6bb7b0
-Klebsiella sp. 4_1_44FAA	#6bb7b0
-Klebsiella sp. OBRC7	#6bb7b0
-Klebsiella sp. MS 92-3	#6bb7b0
-Raoultella ornithinolytica 10-5246	#6bb7b0
-Escherichia coli str. K-12 substr. W3110	#6bb7b0
-Escherichia coli str. K-12 substr. MG1655	#6bb7b0
-Aeromonas hydrophila subsp. hydrophila ATCC 7966	#6bb7b0
-Haemophilus sp. oral taxon 851 str. F0397	#6bb7b0
-Oribacterium sinus F0268	#6bfd1d
-Enterocloster bolteae CC43_001B	#6bfd1d
-Enterocloster bolteae WAL-14578	#6bfd1d
-[Clostridium] clostridioforme 2_1_49FAA	#6bfd1d
-[Clostridium] clostridioforme WAL-7855	#6bfd1d
-[Clostridium] aldenense WAL-18727	#6bfd1d
-[Ruminococcus] lactaris CC59_002D	#6bfd1d
-Mediterraneibacter gnavus ATCC 29149	#6bfd1d
-Blautia producta ATCC 27340 = DSM 2950	#6bfd1d
-Lachnospiraceae oral taxon 107 str. F0167	#6bfd1d
-[Clostridium] symbiosum WAL-14163	#6bfd1d
-[Clostridium] symbiosum WAL-14673	#6bfd1d
-[Clostridium] scindens ATCC 35704	#6bfd1d
-Lachnoanaerobaculum sp. ICM7	#6bfd1d
-Lachnoanaerobaculum sp. OBRC5-5	#6bfd1d
-Anaerostipes caccae L1-92	#6bfd1d
-Anaerostipes sp.	#6bfd1d
-Christensenella hongkongensis AB8_9	#6bfd1d
-Clostridium cadaveris CC40_001C	#6bfd1d
-Clostridium cadaveris CC44_001G	#6bfd1d
-Clostridium cadaveris CC88A	#6bfd1d
-Clostridium sp. M62/1	#6bfd1d
-Clostridium sp. KLE 1755	#6bfd1d
-Clostridium sp. 7_2_43FAA	#6bfd1d
-Clostridium sp. HGF2	#6bfd1d
-Clostridium sp. MSTE9	#6bfd1d
-Clostridium butyricum DSM 10702	#6bfd1d
-Clostridium perfringens WAL-14572	#6bfd1d
-Clostridium perfringens ATCC 13124	#6bfd1d
-Clostridium sporogenes ATCC 15579	#6bfd1d
-Hungatella hathewayi WAL-18680	#6bfd1d
-Flavonifractor plautii CC43_001K	#6bfd1d
-Flavonifractor plautii 1_3_50AFAA	#6bfd1d
-Ruminococcus flavefaciens FD-1	#6bfd1d
-Peptostreptococcus anaerobius CC14N	#6bfd1d
-Clostridioides difficile NAP07	#6bfd1d
-Eubacterium sp. 3_1_31	#6bfd1d
-Eubacterium infirmum F0142	#6bfd1d
-Veillonella sp. 6_1_27	#6bfd1d
-Veillonella sp.	#6bfd1d
-Veillonella sp. ACP1	#6bfd1d
-Veillonella sp. AS16	#6bfd1d
-Veillonella sp. 3_1_44	#6bfd1d
-Veillonella montpellierensis DNF00314	#6bfd1d
-Megasphaera micronuciformis DNF00954	#6bfd1d
-Megasphaera sp. DNF00872	#6bfd1d
-Megasphaera sp. DNF00912	#6bfd1d
-Phascolarctobacterium sp. 3_1syn4	#6bfd1d
-Selenomonas noxia F0398	#6bfd1d
-[Clostridium] innocuum 6_1_30	#6bfd1d
-Thomasclavelia ramosa DSM 1402	#6bfd1d
-Coprobacillus sp. 8_2_54BFAA	#6bfd1d
-Coprobacillus sp.	#6bfd1d
-Viridibacillus sp. OK051	#6bfd1d
-Sporosarcina sp.	#6bfd1d
-Sporosarcina newyorkensis 2681	#6bfd1d
-Paenisporosarcina sp. HGH0030	#6bfd1d
-Paenibacillus barengoltzii CC33_002B	#6bfd1d
-Paenibacillus sp. OK003	#6bfd1d
-Paenibacillus sp. ov031	#6bfd1d
-Paenibacillus sp.	#6bfd1d
-Paenibacillus sp. BK673	#6bfd1d
-Brevibacillus laterosporus DSM 25	#6bfd1d
-Brevibacillus sp. BC25	#6bfd1d
-Brevibacillus sp. CF112	#6bfd1d
-Brevibacillus sp.	#6bfd1d
-Bacillus sp. bc15	#6bfd1d
-Bacillus sp. ok061	#6bfd1d
-Bacillus sp. (in: firmicutes)	#6bfd1d
-Bacillus sp. BK100	#6bfd1d
-Bacillus sp. BK450	#6bfd1d
-Bacillus sp. OK077	#6bfd1d
-Bacillus sp. OV752	#6bfd1d
-Bacillus sp. YR335	#6bfd1d
-Bacillus sp. OK838	#6bfd1d
-Bacillus licheniformis	#6bfd1d
-Bacillus tequilensis	#6bfd1d
-Bacillus halotolerans	#6bfd1d
-Bacillus pumilus INR7	#6bfd1d
-Bacillus smithii 7_3_47FAA	#6bfd1d
-Bacillus cereus AH187	#6bfd1d
-Halalkalibacterium halodurans C-125	#6bfd1d
-Lysinibacillus sp.	#6bfd1d
-Lysinibacillus sp. YR326	#6bfd1d
-Lysinibacillus sp. BK089	#6bfd1d
-Staphylococcus epidermidis BCM-HMP0060	#6bfd1d
-Staphylococcus epidermidis W23144	#6bfd1d
-Staphylococcus epidermidis E13A	#6bfd1d
-Staphylococcus epidermidis NIHLM070	#6bfd1d
-Staphylococcus epidermidis NIHLM067	#6bfd1d
-Staphylococcus epidermidis NIHLM023	#6bfd1d
-Staphylococcus epidermidis NIHLM020	#6bfd1d
-Staphylococcus epidermidis NIHLM031	#6bfd1d
-Staphylococcus epidermidis NIHLM018	#6bfd1d
-Staphylococcus epidermidis NIHLM015	#6bfd1d
-Staphylococcus epidermidis NIHLM008	#6bfd1d
-Staphylococcus epidermidis NIHLM003	#6bfd1d
-Staphylococcus epidermidis NIHLM001	#6bfd1d
-Staphylococcus epidermidis NIH05001	#6bfd1d
-Staphylococcus epidermidis NIH04008	#6bfd1d
-Staphylococcus epidermidis SK135	#6bfd1d
-Staphylococcus lugdunensis M23590	#6bfd1d
-Staphylococcus hominis SK119	#6bfd1d
-Staphylococcus capitis C87	#6bfd1d
-Staphylococcus capitis SK14	#6bfd1d
-Staphylococcus sp.	#6bfd1d
-Alicyclobacillus sp.	#6bfd1d
-Tumebacillus sp. BK434	#6bfd1d
-Exiguobacterium oxidotolerans	#6bfd1d
-Streptococcus parasanguinis CC87K	#6bfd1d
-Streptococcus parasanguinis F0449	#6bfd1d
-Streptococcus sanguinis CC94A	#6bfd1d
-Streptococcus sanguinis VMC66	#6bfd1d
-Streptococcus salivarius SK126	#6bfd1d
-Streptococcus mutans UA159	#6bfd1d
-Streptococcus sobrinus W1703	#6bfd1d
-Streptococcus sp.	#6bfd1d
-Streptococcus sp. C150	#6bfd1d
-Streptococcus sp. AC15	#6bfd1d
-Streptococcus sp. ACS2	#6bfd1d
-Streptococcus sp. AS20	#6bfd1d
-Streptococcus sp. CM6	#6bfd1d
-Streptococcus sp. CM7	#6bfd1d
-Streptococcus sp. OBRC6	#6bfd1d
-Streptococcus sp. ACC21	#6bfd1d
-Streptococcus sp. BS21	#6bfd1d
-Streptococcus sp. BS29a	#6bfd1d
-Streptococcus sp. SR1	#6bfd1d
-Streptococcus downei F0415	#6bfd1d
-Streptococcus vestibularis F0396	#6bfd1d
-Streptococcus mitis bv. 2	#6bfd1d
-Lactobacillus iners UPII 143-D	#6bfd1d
-Lactobacillus iners SPIN 2503V10-D	#6bfd1d
-Lactobacillus iners LactinV 11V1-d	#6bfd1d
-Lactobacillus iners LEAF 2053A-b	#6bfd1d
-Lactobacillus iners LEAF 2052A-d	#6bfd1d
-Lactobacillus iners LEAF 3008A-a	#6bfd1d
-Lactobacillus jensenii JV-V16	#6bfd1d
-Lactobacillus jensenii 115-3-CHN	#6bfd1d
-Lactobacillus jensenii SJ-7A-US	#6bfd1d
-Lactobacillus jensenii 269-3	#6bfd1d
-Lactobacillus jensenii 208-1	#6bfd1d
-Lactobacillus jensenii EX849587VC03	#6bfd1d
-Lactobacillus jensenii EX849587VC06	#6bfd1d
-Lactobacillus gasseri SJ-9E-US	#6bfd1d
-Lactobacillus gasseri SV-16A-US	#6bfd1d
-Lactobacillus gasseri MV-22	#6bfd1d
-Lactobacillus gasseri ATCC 33323 = JCM 1131	#6bfd1d
-Lactobacillus gasseri EX336960VC01	#6bfd1d
-Lactobacillus gasseri EX336960VC02	#6bfd1d
-Lactobacillus gasseri EX336960VC03	#6bfd1d
-Lactobacillus gasseri EX336960VC06	#6bfd1d
-Lactobacillus gasseri EX336960VC07	#6bfd1d
-Lactobacillus gasseri EX336960VC15	#6bfd1d
-Lactobacillus gasseri EX336960VC13	#6bfd1d
-Lactobacillus gasseri 224-1	#6bfd1d
-Lactobacillus crispatus 125-2-CHN	#6bfd1d
-Lactobacillus crispatus MV-1A-US	#6bfd1d
-Lactobacillus crispatus MV-3A-US	#6bfd1d
-Lactobacillus crispatus EX849587VC01	#6bfd1d
-Lactobacillus crispatus EX533959VC03	#6bfd1d
-Lactobacillus crispatus EX533959VC04	#6bfd1d
-Lactobacillus crispatus EX533959VC05	#6bfd1d
-Lactobacillus crispatus EX533959VC06	#6bfd1d
-Lactobacillus crispatus EX533959VC07	#6bfd1d
-Lactobacillus crispatus JV-V01	#6bfd1d
-Limosilactobacillus reuteri CF48-3A	#6bfd1d
-Limosilactobacillus oris F0423	#6bfd1d
-Limosilactobacillus vaginalis EX336960VC11	#6bfd1d
-Limosilactobacillus vaginalis EX336960VC05	#6bfd1d
-Limosilactobacillus vaginalis EX336960VC12	#6bfd1d
-Lacticaseibacillus rhamnosus LMS2-1	#6bfd1d
-Lacticaseibacillus rhamnosus ATCC 8530	#6bfd1d
-Weissella cibaria F16_1	#6bfd1d
-Lentilactobacillus parafarraginis F0439	#6bfd1d
-Lentilactobacillus kisonensis F0435	#6bfd1d
-Facklamia sp.	#6bfd1d
-Aerococcus sp.	#6bfd1d
-Enterococcus faecalis TX1322	#6bfd1d
-Enterococcus faecalis S613	#6bfd1d
-Enterococcus faecalis R712	#6bfd1d
-Enterococcus faecalis EnGen0248	#6bfd1d
-Enterococcus faecalis TX2137	#6bfd1d
-Enterococcus faecalis ERV103	#6bfd1d
-Enterococcus faecalis TUSoD Ef11	#6bfd1d
-Enterococcus faecalis V583	#6bfd1d
-Enterococcus faecalis TX0104	#6bfd1d
-Enterococcus faecalis EnGen0297	#6bfd1d
-Enterococcus faecium TX1330	#6bfd1d
-Enterococcus faecium TX0133a04	#6bfd1d
-Enterococcus faecium 503	#6bfd1d
-Enterococcus faecium 513	#6bfd1d
-Enterococcus faecium E417	#6bfd1d
-Enterococcus faecium ERV102	#6bfd1d
-Enterococcus faecium ERV165	#6bfd1d
-Enterococcus faecium ERV99	#6bfd1d
-Carnobacterium maltaromaticum 38b	#6bfd1d
-Parvimonas micra CC57A	#6bfd1d
-Parvimonas sp.	#6bfd1d
-Peptoniphilus lacrimalis DNF00528	#6bfd1d
-Peptoniphilus sp.	#6bfd1d
-Peptoniphilus sp. BV3AC2	#6bfd1d
-Peptoniphilus sp. BV3C26	#6bfd1d
-Rothia aeria F0474	#31e3db
-Rothia mucilaginosa CC87LB	#31e3db
-Rothia sp. (in: high G+C Gram-positive bacteria)	#31e3db
-Rothia dentocariosa M567	#31e3db
-Kocuria sp.	#31e3db
-Pseudoglutamicibacter albus DNF00011	#31e3db
-Micrococcus luteus SK58	#31e3db
-Micrococcus luteus NCTC 2665	#31e3db
-Micrococcus sp.	#31e3db
-Arthrobacter sp.	#31e3db
-Dermacoccus sp.	#31e3db
-Brevibacterium sp.	#31e3db
-Agromyces sp.	#31e3db
-Microbacterium sp.	#31e3db
-Herbiconiux sp. YR403	#31e3db
-Curtobacterium sp.	#31e3db
-Mycetocola sp.	#31e3db
-Cellulomonas sp.	#31e3db
-Dermabacter sp.	#31e3db
-Salinispora pacifica DSM 45543 = CNS-863	#31e3db
-Salinispora pacifica DSM 45544	#31e3db
-Salinispora pacifica CNT609	#31e3db
-Salinispora pacifica CNS996	#31e3db
-Salinispora pacifica CNT045	#31e3db
-Salinispora pacifica CNT584	#31e3db
-Salinispora pacifica CNY330	#31e3db
-Salinispora pacifica CNQ768	#31e3db
-Salinispora pacifica DSM 45546 = CNT-133	#31e3db
-Salinispora pacifica CNT796	#31e3db
-Salinispora pacifica CNY239	#31e3db
-Salinispora pacifica CNS-143	#31e3db
-Salinispora pacifica CNT851	#31e3db
-Salinispora pacifica CNY331	#31e3db
-Salinispora pacifica CNT124	#31e3db
-Salinispora pacifica CNS055	#31e3db
-Salinispora pacifica CNS860	#31e3db
-Salinispora pacifica CNR114	#31e3db
-Salinispora pacifica CNR894	#31e3db
-Salinispora pacifica CNS103	#31e3db
-Salinispora pacifica CNT854	#31e3db
-Salinispora pacifica CNT855	#31e3db
-Salinispora pacifica CNY703	#31e3db
-Salinispora pacifica CNH732	#31e3db
-Salinispora pacifica CNR510	#31e3db
-Salinispora pacifica CNR909	#31e3db
-Salinispora pacifica CNT403	#31e3db
-Salinispora pacifica CNY363	#31e3db
-Salinispora pacifica CNY498	#31e3db
-Salinispora pacifica CNY646	#31e3db
-Salinispora pacifica CNY673	#31e3db
-Salinispora pacifica CNT001	#31e3db
-Salinispora pacifica CNT003	#31e3db
-Salinispora pacifica CNT084	#31e3db
-Salinispora pacifica CNT131	#31e3db
-Salinispora pacifica CNT603	#31e3db
-Salinispora pacifica CNT133A	#31e3db
-Salinispora arenicola DSM 45545	#31e3db
-Salinispora arenicola CNH963	#31e3db
-Salinispora arenicola CNS299	#31e3db
-Salinispora arenicola CNS243	#31e3db
-Salinispora arenicola CNT-088	#31e3db
-Salinispora arenicola CNR425	#31e3db
-Salinispora arenicola CNY011	#31e3db
-Salinispora arenicola CNT859	#31e3db
-Salinispora arenicola CNY282	#31e3db
-Salinispora arenicola CNY234	#31e3db
-Salinispora arenicola CNY256	#31e3db
-Salinispora arenicola CNR107	#31e3db
-Salinispora arenicola CNS744	#31e3db
-Salinispora arenicola CNX481	#31e3db
-Salinispora arenicola CNP193	#31e3db
-Salinispora arenicola CNX814	#31e3db
-Salinispora arenicola CNT799	#31e3db
-Salinispora arenicola CNY280	#31e3db
-Salinispora arenicola CNP105	#31e3db
-Salinispora arenicola CNH962	#31e3db
-Salinispora arenicola CNH877	#31e3db
-Salinispora arenicola CNY260	#31e3db
-Salinispora arenicola CNS051	#31e3db
-Salinispora arenicola CNY231	#31e3db
-Salinispora arenicola CNY237	#31e3db
-Salinispora arenicola CNB458	#31e3db
-Salinispora arenicola CNR921	#31e3db
-Salinispora arenicola CNH964	#31e3db
-Salinispora arenicola CNS-205	#31e3db
-Salinispora arenicola CNQ748	#31e3db
-Salinispora arenicola CNS673	#31e3db
-Salinispora arenicola CNB527	#31e3db
-Salinispora arenicola CNH905	#31e3db
-Salinispora arenicola CNH941	#31e3db
-Salinispora arenicola CNT800	#31e3db
-Salinispora arenicola CNT857	#31e3db
-Salinispora arenicola CNT005	#31e3db
-Salinispora arenicola CNT798	#31e3db
-Salinispora arenicola CNX508	#31e3db
-Salinispora arenicola CNX891	#31e3db
-Salinispora arenicola CNT849	#31e3db
-Salinispora arenicola ATCC BAA-917	#31e3db
-Salinispora arenicola CNH713	#31e3db
-Salinispora arenicola CNH718	#31e3db
-Salinispora arenicola CNQ884	#31e3db
-Salinispora arenicola CNS296	#31e3db
-Salinispora arenicola CNS325	#31e3db
-Salinispora arenicola CNS342	#31e3db
-Salinispora arenicola CNS820	#31e3db
-Salinispora arenicola CNY230	#31e3db
-Salinispora arenicola CNY244	#31e3db
-Salinispora arenicola CNY281	#31e3db
-Salinispora arenicola CNY486	#31e3db
-Salinispora arenicola CNY679	#31e3db
-Salinispora arenicola CNY685	#31e3db
-Salinispora arenicola CNY690	#31e3db
-Salinispora arenicola CNY694	#31e3db
-Salinispora arenicola CNS848	#31e3db
-Salinispora arenicola CNX482	#31e3db
-Salinispora arenicola CNH646	#31e3db
-Salinispora arenicola CNT850	#31e3db
-Salinispora tropica CNB-440	#31e3db
-Salinispora tropica CNT261	#31e3db
-Salinispora tropica CNR699	#31e3db
-Salinispora tropica CNS416	#31e3db
-Salinispora tropica CNY012	#31e3db
-Salinispora tropica CNT250	#31e3db
-Salinispora tropica CNB536	#31e3db
-Salinispora tropica CNB476	#31e3db
-Salinispora tropica CNH898	#31e3db
-Salinispora tropica CNS197	#31e3db
-Salinispora tropica CNY678	#31e3db
-Salinispora tropica CNY681	#31e3db
-Salinispora sp.	#31e3db
-Verrucosispora sp.	#31e3db
-Micromonospora sp. FI 1001	#31e3db
-Propionibacterium sp. 5_U_42AFAA	#31e3db
-Propionibacterium sp.	#31e3db
-Propionibacterium acidifaciens F0233	#31e3db
-Cutibacterium acnes HL020PA1	#31e3db
-Cutibacterium acnes HL053PA1	#31e3db
-Cutibacterium acnes HL053PA2	#31e3db
-Cutibacterium acnes HL045PA1	#31e3db
-Cutibacterium acnes HL013PA1	#31e3db
-Cutibacterium acnes HL013PA2	#31e3db
-Cutibacterium acnes HL078PA1	#31e3db
-Cutibacterium acnes HL043PA1	#31e3db
-Cutibacterium acnes HL043PA2	#31e3db
-Cutibacterium acnes HL072PA1	#31e3db
-Cutibacterium acnes HL110PA1	#31e3db
-Cutibacterium acnes HL110PA3	#31e3db
-Cutibacterium acnes HL110PA4	#31e3db
-Cutibacterium acnes HL060PA1	#31e3db
-Cutibacterium acnes HL038PA1	#31e3db
-Cutibacterium acnes HL025PA1	#31e3db
-Cutibacterium acnes HL025PA2	#31e3db
-Cutibacterium acnes HL059PA1	#31e3db
-Cutibacterium acnes HL059PA2	#31e3db
-Cutibacterium acnes HL086PA1	#31e3db
-Cutibacterium acnes HL046PA2	#31e3db
-Cutibacterium acnes HL005PA1	#31e3db
-Cutibacterium acnes HL005PA2	#31e3db
-Cutibacterium acnes HL005PA3	#31e3db
-Cutibacterium acnes HL050PA2	#31e3db
-Cutibacterium acnes HL050PA3	#31e3db
-Cutibacterium acnes HL030PA1	#31e3db
-Cutibacterium acnes HL001PA1	#31e3db
-Cutibacterium acnes HL036PA1	#31e3db
-Cutibacterium acnes HL036PA2	#31e3db
-Cutibacterium acnes HL030PA2	#31e3db
-Cutibacterium acnes HL027PA1	#31e3db
-Cutibacterium acnes HL027PA2	#31e3db
-Cutibacterium acnes HL036PA3	#31e3db
-Cutibacterium acnes HL067PA1	#31e3db
-Cutibacterium acnes HL063PA1	#31e3db
-Cutibacterium acnes HL002PA3	#31e3db
-Cutibacterium acnes HL007PA1	#31e3db
-Cutibacterium acnes HL063PA2	#31e3db
-Cutibacterium acnes HL082PA2	#31e3db
-Cutibacterium acnes HL037PA1	#31e3db
-Cutibacterium acnes SK137	#31e3db
-Cutibacterium acnes HL005PA4	#31e3db
-Cutibacterium acnes HL050PA1	#31e3db
-Cutibacterium acnes HL002PA1	#31e3db
-Cutibacterium acnes HL002PA2	#31e3db
-Cutibacterium acnes SK182	#31e3db
-Cutibacterium acnes HL056PA1	#31e3db
-Cutibacterium modestum HL044PA1	#31e3db
-Cutibacterium modestum HL037PA2	#31e3db
-Corynebacterium tuscaniense DNF00037	#31e3db
-Corynebacterium sp.	#31e3db
-Corynebacterium sp. HFH0082	#31e3db
-Mycolicibacterium smegmatis MC2 155	#31e3db
-Mycolicibacterium sp. BK598	#31e3db
-Mycolicibacterium sp. BK607	#31e3db
-Mycolicibacterium sp. BK634	#31e3db
-Mycolicibacterium sp. BK556	#31e3db
-Mycolicibacterium sp. BK557	#31e3db
-Mycobacterium sp.	#31e3db
-Mycobacterium sp. BK086	#31e3db
-Mycobacterium sp. BK558	#31e3db
-Mycobacterium sp. OK887	#31e3db
-Mycobacterium sp. OK889	#31e3db
-Mycobacterium sp. YR708	#31e3db
-Mycobacterium sp. YR782	#31e3db
-Mycobacterium tuberculosis H37Ra	#31e3db
-Nocardia sp.	#31e3db
-Rhodococcus sp. (in: high G+C Gram-positive bacteria)	#31e3db
-Rhodococcus sp. OK269	#31e3db
-Rhodococcus sp. OK519	#31e3db
-Rhodococcus sp. OK551	#31e3db
-Rhodococcus sp. OK611	#31e3db
-Rhodococcus sp. OK302	#31e3db
-Rhodococcus sp. OK270	#31e3db
-Rhodococcus erythropolis SK121	#31e3db
-Dietzia sp.	#31e3db
-Bifidobacterium sp.	#31e3db
-Bifidobacterium sp. MSTE12	#31e3db
-Bifidobacterium bifidum ATCC 29521 = JCM 1255 = DSM 20456	#31e3db
-Bifidobacterium longum NCC2705	#31e3db
-Bifidobacterium adolescentis L2-32	#31e3db
-Bifidobacterium adolescentis ATCC 15703	#31e3db
-Bifidobacterium angulatum F16_22	#31e3db
-Bifidobacterium breve DSM 20213 = JCM 1192	#31e3db
-Bifidobacterium breve EX336960VC19	#31e3db
-Bifidobacterium breve EX336960VC18	#31e3db
-Bifidobacterium breve HPH0326	#31e3db
-Bifidobacterium breve JCP7499	#31e3db
-Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043	#31e3db
-Bifidobacterium dentium JCM 1195 = DSM 20436	#31e3db
-Bifidobacterium scardovii JCM 12489 = DSM 13734	#31e3db
-Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505	#31e3db
-Gardnerella vaginalis 315-A	#31e3db
-Gardnerella vaginalis JCP7275	#31e3db
-Gardnerella vaginalis JCP7276	#31e3db
-Gardnerella pickettii JCP7659	#31e3db
-Gardnerella vaginalis JCP7672	#31e3db
-Gardnerella pickettii JCP7719	#31e3db
-Gardnerella pickettii JCP8017A	#31e3db
-Gardnerella pickettii JCP8017B	#31e3db
-Gardnerella vaginalis JCP8066	#31e3db
-Gardnerella vaginalis JCP8070	#31e3db
-Gardnerella vaginalis JCP8108	#31e3db
-Gardnerella vaginalis JCP8151A	#31e3db
-Gardnerella vaginalis JCP8151B	#31e3db
-Gardnerella vaginalis JCP8481B	#31e3db
-Gardnerella vaginalis JCP8522	#31e3db
-Streptomyces griseoflavus Tu4000	#31e3db
-Streptomyces scabiei 87.22	#31e3db
-Streptomyces albus J1074	#31e3db
-Streptomyces sp. BK340	#31e3db
-Streptomyces sp. cf124	#31e3db
-Streptomyces sp. cf386	#31e3db
-Streptomyces sp. ok210	#31e3db
-Streptomyces sp. yr375	#31e3db
-Streptomyces sp. CNQ-525	#31e3db
-Streptomyces sp. CNR698	#31e3db
-Streptomyces sp.	#31e3db
-Streptomyces sp. CNT318	#31e3db
-Streptomyces sp. CNT360	#31e3db
-Streptomyces sp. CNQ865	#31e3db
-Streptomyces sp. CNH287	#31e3db
-Streptomyces sp. TAA040	#31e3db
-Streptomyces sp. BK161	#31e3db
-Streptomyces sp. BRA346	#31e3db
-Streptomyces sp. Tu6071	#31e3db
-Streptomyces sp. TAA204	#31e3db
-Streptomyces sp. CBMAI 2042	#31e3db
-Streptomyces sp. SID1034	#31e3db
-Streptomyces sp. SID1046	#31e3db
-Streptomyces sp. SID1328	#31e3db
-Streptomyces sp. SID161	#31e3db
-Streptomyces sp. SID1	#31e3db
-Streptomyces sp. SID2119	#31e3db
-Streptomyces sp. SID2131	#31e3db
-Streptomyces sp. SID2563	#31e3db
-Streptomyces sp. SID2955	#31e3db
-Streptomyces sp. SID2999	#31e3db
-Streptomyces sp. SID3212	#31e3db
-Streptomyces sp. SID335	#31e3db
-Streptomyces sp. SID2888	#31e3db
-Streptomyces sp. SID3343	#31e3db
-Streptomyces sp. SID337	#31e3db
-Streptomyces sp. SID3915	#31e3db
-Streptomyces sp. SID486	#31e3db
-Streptomyces sp. CNS606	#31e3db
-Streptomyces sp. SID4956	#31e3db
-Streptomyces sp. SID4982	#31e3db
-Streptomyces sp. SID4985	#31e3db
-Streptomyces sp. SID5606	#31e3db
-Streptomyces sp. SID5614	#31e3db
-Streptomyces sp. SID5643	#31e3db
-Streptomyces sp. SID5770	#31e3db
-Streptomyces sp. SID5785	#31e3db
-Streptomyces sp. SID5789	#31e3db
-Streptomyces sp. SID5840	#31e3db
-Streptomyces sp. SID5910	#31e3db
-Streptomyces sp. SID5914	#31e3db
-Streptomyces sp. SID5926	#31e3db
-Streptomyces sp. SID5998	#31e3db
-Streptomyces sp. SID6013	#31e3db
-Streptomyces sp. SID6041	#31e3db
-Streptomyces sp. SID6137	#31e3db
-Streptomyces sp. SID6139	#31e3db
-Streptomyces sp. SID625	#31e3db
-Streptomyces sp. SID685	#31e3db
-Streptomyces sp. SID69	#31e3db
-Streptomyces sp. SID724	#31e3db
-Streptomyces sp. SID7760	#31e3db
-Streptomyces sp. SID7834	#31e3db
-Streptomyces sp. SID89	#31e3db
-Streptomyces sp. CNQ329	#31e3db
-Streptomyces sp. TAA486	#31e3db
-Streptomyces sp. MS 110128	#31e3db
-Streptomyces sp. CBR53	#31e3db
-Streptomyces sp. BK022	#31e3db
-Streptomyces sp. BK215	#31e3db
-Streptomyces sp. BK387	#31e3db
-Streptomyces sp. BK042	#31e3db
-Streptomyces sp. BK208	#31e3db
-Streptomyces sp. BK438	#31e3db
-Streptomyces sp. BK674	#31e3db
-Streptomyces sp. BK038	#31e3db
-Streptomyces sp. BK447	#31e3db
-Streptomyces sp. BK329	#31e3db
-Streptomyces sp. BK561	#31e3db
-Streptomyces sp. MBT84	#31e3db
-Streptomyces sp. CNT372	#31e3db
-Streptomyces sp. CNT302	#31e3db
-Streptomyces sp. CNB091	#31e3db
-Streptomyces sp. CNS615	#31e3db
-Streptomyces sp. CNY228	#31e3db
-Streptomyces sp. CNS335	#31e3db
-Streptomyces sp. CNY243	#31e3db
-Streptomyces sp. CNH189	#31e3db
-Streptomyces sp. CNT371	#31e3db
-Streptomyces sp. DUT11	#31e3db
-Streptomyces sp. CNP082	#31e3db
-Streptomyces sp. Mg1	#31e3db
-Streptomyces sp. OK885	#31e3db
-Streptomyces sp. OK228	#31e3db
-Streptomyces sp. OV198	#31e3db
-Streptomyces sp. S063	#31e3db
-Streptomyces sp. CNX435	#31e3db
-Streptomyces sp. CNS654	#31e3db
-Streptomyces sp. DSM 5940	#31e3db
-Streptomyces bacillaris	#31e3db
-Streptomyces filamentosus NRRL 15998	#31e3db
-Streptomyces diastaticus	#31e3db
-Streptomyces rutgersensis	#31e3db
-Streptomyces chartreusis NRRL 3882	#31e3db
-Streptomyces coelicolor A3(2)	#31e3db
-Streptomycetaceae bacterium CNQ766	#31e3db
-Streptomyces sp. CNH099	#31e3db
-Kitasatospora sp. OK780	#31e3db
-Streptantibioticus cattleyicolor NRRL 8057 = DSM 46488	#31e3db
-Schaalia cardiffensis F0333	#31e3db
-Schaalia odontolytica F0309	#31e3db
-Actinomyces graevenitzii C83	#31e3db
-Actinomyces viscosus C505	#31e3db
-Actinomyces massiliensis F0489	#31e3db
-Actinomyces gerencseriae F0344	#31e3db
-Actinomyces johnsonii F0510	#31e3db
-Actinomyces sp.	#31e3db
-Amycolatopsis sp. AA4	#31e3db
-Nocardiopsis sp.	#31e3db
-Actinomadura sp.	#31e3db
-Planomonospora sp. ID67723	#31e3db
-Planomonospora sp. ID91781	#31e3db
-Planomonospora sp. ID82291	#31e3db
-Collinsella sp. 4_8_47FAA	#31e3db
-Olsenella sp.	#31e3db
-Olsenella uli MSTE5	#31e3db
-Lancefieldella parvula DNF00906	#31e3db
-Deinococcus grandis SK125	#26167e
-Okeania hirsuta	#428cb0
-Okeania plumata	#428cb0
-Okeania erythroflocculosa	#428cb0
-Okeania lorea	#428cb0
-Lyngbya semiplena	#428cb0
-Hyalidium penicilliforme	#428cb0
-Microcystis aeruginosa	#428cb0
-Chlorogloeopsis fritschii PCC 6912	#428cb0
-Nostoc punctiforme PCC 73102	#428cb0
-Nostoc sp. PCC 7120 = FACHB-418	#428cb0
-Desmonostoc sp. PCC 7906	#428cb0
-Trichormus variabilis ATCC 29413	#428cb0
-Scytonema hofmannii PCC 7110	#428cb0
-Calothrix sp. PCC 6303	#428cb0
-Fischerella muscicola PCC 7414	#428cb0
-Mastigocladus laminosus SAG 4.84	#428cb0
-Nodularia sphaerocarpa PCC 7804	#428cb0
-Tolypothrix tenuis SAG 94.79	#428cb0
-Synechococcus elongatus PCC 7942 = FACHB-805	#428cb0
-Synechococcus elongatus PCC 6301	#428cb0
-Synechococcus sp. PCC 7502	#428cb0
-Synechococcus sp. CC9311	#428cb0
-Prochlorococcus marinus str. MIT 9215	#428cb0
-Leptolyngbya boryana PCC 6306	#428cb0
-Leptolyngbya sp. SIO4C1	#428cb0
-Leptolyngbya sp. SIOISBB	#428cb0
-Leptolyngbya sp. SIO4C5	#428cb0
-Phormidesmis molle SAG 26.99	#428cb0
-Pleurocapsa sp. PCC 7327	#428cb0
-Stanieria cyanosphaera SAG 33.87	#428cb0
-Prevotella sp. oral taxon 472 str. F0295	#4a86e8
-Prevotella sp. oral taxon 317 str. F0108	#4a86e8
-Chryseobacterium sp. OV705	#4a86e8
-Chryseobacterium sp. YR459	#4a86e8
-Chryseobacterium sp. YR221	#4a86e8
-Chryseobacterium sp. YR485	#4a86e8
-Homo sapiens	#d307f6
-Casuarina equisetifolia subsp. incana	#64c16b
-Trachelomonas sp.	#c3b19d
-Euglena gracilis var. saccharophila	#c3b19d
-Pseudomonas syringae pv. tomato str. DC3000	#6bb7b0
-Klebsiella pneumoniae subsp. pneumoniae WGLW1	#6bb7b0
-Klebsiella pneumoniae subsp. pneumoniae WGLW2	#6bb7b0
-Klebsiella pneumoniae subsp. pneumoniae WGLW3	#6bb7b0
-Paenibacillus larvae subsp. larvae DSM 25430	#6bfd1d
-Bacillus amyloliquefaciens	#6bfd1d
-Bacillus subtilis PY79	#6bfd1d
-Staphylococcus aureus subsp. aureus USA300_TCH1516	#6bfd1d
-Gemella haemolysans M341	#6bfd1d
-Gemella sanguinis M325	#6bfd1d
-Streptococcus anginosus F0211	#6bfd1d
-Streptococcus intermedius F0413	#6bfd1d
-Peptoniphilus sp. oral taxon 386 str. F0131	#6bfd1d
-Microbacterium sp. oral taxon 186 str. F0373	#31e3db
-Bifidobacterium longum subsp. longum 44B	#31e3db
-Bifidobacterium longum subsp. longum 1-6B	#31e3db
-Bifidobacterium longum subsp. longum 2-2B	#31e3db
-Bifidobacterium longum subsp. longum 35B	#31e3db
-Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 = DSM 20088	#31e3db
-Bifidobacterium pseudolongum subsp. pseudolongum DSM 20099	#31e3db
-Bifidobacterium animalis subsp. lactis DSM 10140	#31e3db
-Bifidobacterium animalis subsp. animalis ATCC 25527	#31e3db
-Streptomyces albus subsp. albus DSM 41398	#31e3db
-Streptomyces griseus	#31e3db
-Moorena producens JHB	#428cb0
-Moorena producens PAL	#428cb0
-Moorena producens 3L	#428cb0
-Moorena sp. SIOASIH	#428cb0
-Moorena sp. SIO1F2	#428cb0
-Moorena sp. SIO4G3	#428cb0
-Moorena sp. SIO3A5	#428cb0
-Moorena sp. SIO2C4	#428cb0
-Moorena sp. SIO4G2	#428cb0
-Moorena sp. SIO3B2	#428cb0
-Moorena sp. SIO3E2	#428cb0
-Moorena sp. SIO3E8	#428cb0
-Moorena sp. SIO1G6	#428cb0
-Moorena sp. SIO3C2	#428cb0
-Moorena bouillonii PNG	#428cb0
-Okeania sp. SIO1H4	#428cb0
-Okeania sp. SIO2B9	#428cb0
-Okeania sp. SIO3C4	#428cb0
-Okeania sp. SIO2F4	#428cb0
-Okeania sp. SIO2C9	#428cb0
-Okeania sp. SIO2F5	#428cb0
-Okeania sp. SIO2G5	#428cb0
-Okeania sp. SIO2H7	#428cb0
-Okeania sp. SIO3B3	#428cb0
-Okeania sp. SIO3B5	#428cb0
-Okeania sp. SIO1F9	#428cb0
-Oscillatoria acuminata PCC 6304	#428cb0
-Kamptonema sp. SIO4C4	#428cb0
-Symploca sp. SIO1B1	#428cb0
-Symploca sp. SIO2B6	#428cb0
-Symploca sp. SIO2D2	#428cb0
-Symploca sp. SIO2C1	#428cb0
-Symploca sp. SIO2G7	#428cb0
-Symploca sp. SIO3C6	#428cb0
-Symploca sp. SIO2E9	#428cb0
-Microcoleus sp. SIO2G3	#428cb0
-Cyanothece sp. SIO1E1	#428cb0
-Cyanothece sp. SIO2G6	#428cb0
-Synechocystis sp. PCC 6803 substr. GT-T	#428cb0
-Botryoderma rostratum	#d97f22
-[Candida] sp. (uncertain placement)	#d97f22
-Schizosaccharomyces pombe	#d97f22
-Rhodotorula glutinis	#2a96ce
-Mortierella alpina	#ed3170
-Basidiobolus meristosporus	#92e305
-Bacillus velezensis FZB42	#6bfd1d
-Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10	#6bfd1d
-Bacillus subtilis subsp. subtilis str. 168	#6bfd1d
-Streptomyces sp. M54	#31e3db
-Komagataella phaffii	#d97f22
-Geotrichum candidum	#d97f22
-Diutina catenulata	#d97f22
-Saccharomyces cerevisiae	#d97f22
-Debaryomyces hansenii	#d97f22
-Candida dubliniensis	#d97f22
-Candida metapsilosis	#d97f22
-Papiliotrema laurentii	#2a96ce
-Tausonia pullulans	#2a96ce
-Scutiger	#2a96ce
-Stereopsis humphreyi	#2a96ce
-Turbinellus floccosus	#2a96ce
-Clavariadelphus occidentalis	#2a96ce
-Clavariadelphus truncatus	#2a96ce
-Clavariadelphus mucronatus	#2a96ce
-Ramaria stricta	#2a96ce
-Ramaria formosa	#2a96ce
-Ramaria velocimutans	#2a96ce
-Ramaria rubripermanens	#2a96ce
-Ramaria claviramulata	#2a96ce
-Ramaria leptoformosa	#2a96ce
-Gomphus clavatus	#2a96ce
-Dacrymyces chrysospermus	#2a96ce
-Malassezia restricta	#2a96ce
-Ustilago striiformis	#2a96ce
-Tuber melanosporum	#d97f22
-Geotrichum sp.	#d97f22
-Debaryomyces sp.	#d97f22
-Pallidohirschioporus biformis	#2a96ce
-Hirschioporus abietinus	#2a96ce
-Lentinus brumalis	#2a96ce
-Polyporus arcularius	#2a96ce
-Polyporus tuberaster	#2a96ce
-Boletus leptocephalus (nom. illeg.)	#2a96ce
-Perenniporiopsis minutissima	#2a96ce
-Cerioporus mollis	#2a96ce
-Coriolopsis trogii	#2a96ce
-Metacampanella tricolor	#2a96ce
-Daedalea confragosa	#2a96ce
-Trametes vernicipes	#2a96ce
-Microporus affinis	#2a96ce
-Trametes coccinea	#2a96ce
-Trametes strumosa	#2a96ce
-Trametes gibbosa	#2a96ce
-Trametes versicolor	#2a96ce
-Trametes hirsuta	#2a96ce
-Trametes orientalis	#2a96ce
-Trametes suaveolens	#2a96ce
-Lopharia cinerascens	#2a96ce
-Neoporia koreana	#2a96ce
-Perenniporia fraxinea	#2a96ce
-Poriella subacida	#2a96ce
-Lenzites styracinus	#2a96ce
-Lenzites betulinus	#2a96ce
-Neofavolus alveolaris	#2a96ce
-Cryptoporus volvatus	#2a96ce
-Fomes fomentarius	#2a96ce
-Ischnoderma resinosum	#2a96ce
-Cerrena consors	#2a96ce
-Cerrena unicolor	#2a96ce
-Cerrena aurantiopora	#2a96ce
-Phlebiopsis gigantea	#2a96ce
-Phlebiopsis castanea	#2a96ce
-Bjerkandera adusta	#2a96ce
-Postia ptychogaster	#2a96ce
-Tyromyces chioneus	#2a96ce
-Skeletocutis nivea	#2a96ce
-Fomitopsis mounceae	#2a96ce
-Rhodofomes cajanderi	#2a96ce
-Nigroporus vinosus	#2a96ce
-Pycnoporellus fulgens	#2a96ce
-Grifola frondosa	#2a96ce
-Cinereomyces lindbladii	#2a96ce
-Trametopsis cervina	#2a96ce
-Polyozellus atrolazulinus	#2a96ce
-Boletopsis grisea	#2a96ce
-Cantharellus formosus	#2a96ce
-Cantharellus subalbidus	#2a96ce
-Cantharellus cascadensis	#2a96ce
-Cantharellus californicus	#2a96ce
-Craterellus tubaeformis	#2a96ce
-Clavulina coralloides	#2a96ce
-Clavulina cinerea	#2a96ce
-Hydnum umbilicatum	#2a96ce
-Auricularia americana	#2a96ce
-Lactarius aestivus	#2a96ce
-Lactarius scrobiculatus	#2a96ce
-Lactarius rubrilacteus	#2a96ce
-Lactarius fallax	#2a96ce
-Russula xerampelina	#2a96ce
-Russula americana	#2a96ce
-Hericium coralloides	#2a96ce
-Hericium abietis	#2a96ce
-Heterobasidion occidentale	#2a96ce
-Bondarzewia occidentalis	#2a96ce
-Neolentinus lepideus	#2a96ce
-Leucoagaricus	#2a96ce
-Ampulloclitocybe clavipes	#2a96ce
-Arrhenia epichysium	#2a96ce
-Chrysomphalina aurantiaca	#2a96ce
-Aphroditeola olida	#2a96ce
-Amanita gemmata	#2a96ce
-Amanita phalloides	#2a96ce
-Amanita constricta	#2a96ce
-Amanita porphyria	#2a96ce
-Amanita smithiana	#2a96ce
-Amanita pantherinoides	#2a96ce
-Amanita protecta	#2a96ce
-Amanita pachycolea	#2a96ce
-Amanita silvicola	#2a96ce
-Ramariopsis kunzei	#2a96ce
-Ramariopsis laeticolor	#2a96ce
-Chalciporus piperatus	#2a96ce
-Pisolithus arhizus	#2a96ce
-Ramaria apiculata var. apiculata	#2a96ce
-Ramaria sandaracina var. sandaracina	#2a96ce
-Ramaria cystidiophora var. citronella	#2a96ce
-Ramaria flavobrunnescens var. aromatica	#2a96ce
-Ramaria gelatinosa var. oregonensis	#2a96ce
-Ramaria araiospora var. araiospora	#2a96ce
-Quambalaria sp.	#2a96ce
-Pestalotiopsis	#d97f22
-Pestalotia	#d97f22
-Lactarius luculentus var. laetus	#2a96ce
-Collybia nuda	#2a96ce
-Clitocybe salmonilamella	#2a96ce
-Clitocybe fragrans	#2a96ce
-Collybia odora	#2a96ce
-Clitocybe nebularis	#2a96ce
-Collybia dealbata	#2a96ce
-Collybia cookei	#2a96ce
-Collybia cirrhata	#2a96ce
-Tricholoma dulciolens	#2a96ce
-Tricholoma inamoenum	#2a96ce
-Tricholoma mutabile	#2a96ce
-Tricholoma murrillianum	#2a96ce
-Tricholoma focale	#2a96ce
-Tricholoma pardinum	#2a96ce
-Tricholoma portentosum	#2a96ce
-Tricholoma matsutake	#2a96ce
-Leucopaxillus giganteus	#2a96ce
-Leucopaxillus albissimus	#2a96ce
-Clitopilus hobsonii	#2a96ce
-Clitopilus prunulus	#2a96ce
-Asterophora lycoperdoides	#2a96ce
-Mycena pura	#2a96ce
-Atheniella adonis	#2a96ce
-Atheniella aurantiidisca	#2a96ce
-Gerronema atrialbum	#2a96ce
-Armillaria solidipes	#2a96ce
-Connopus acervatus	#2a96ce
-Agaricus semotus	#2a96ce
-Agaricus albolutescens	#2a96ce
-Agaricus buckmacadooi	#2a96ce
-Agaricus subrufescens	#2a96ce
-Agaricus subrutilescens	#2a96ce
-Agaricus bisporus	#2a96ce
-Agaricus californicus	#2a96ce
-Agaricus thiersii	#2a96ce
-Battarrea phalloides	#2a96ce
-Chlorophyllum brunneum	#2a96ce
-Chlorophyllum olivieri	#2a96ce
-Chlorophyllum rhacodes	#2a96ce
-Lepiota spheniscispora	#2a96ce
-Lepiota clypeolaria	#2a96ce
-Coprinus comatus	#2a96ce
-Calonarius rufo-olivaceus	#2a96ce
-Calonarius xanthophyllus	#2a96ce
-Cortinarius boulderensis	#2a96ce
-Cortinarius croceus	#2a96ce
-Cortinarius orellanus	#2a96ce
-Cortinarius venetus	#2a96ce
-Cortinarius caperatus	#2a96ce
-Cortinarius uliginosus	#2a96ce
-Cortinarius anomalovelatus	#2a96ce
-Cortinarius athabascus	#2a96ce
-Cortinarius cacaocolor	#2a96ce
-Cortinarius bulliardii	#2a96ce
-Cortinarius trivialis	#2a96ce
-Cortinarius anomalus	#2a96ce
-Cortinarius alboviolaceus	#2a96ce
-Cortinarius collinitus	#2a96ce
-Cortinarius traganus	#2a96ce
-Cortinarius tophaceus	#2a96ce
-Cortinarius californicus	#2a96ce
-Cortinarius cinnamomeus	#2a96ce
-Cortinarius alboglobosus	#2a96ce
-Cortinarius flexipes	#2a96ce
-Thaxterogaster causticus	#2a96ce
-Phlegmacium albofragrans	#2a96ce
-Gymnopilus ventricosus	#2a96ce
-Gymnopilus sapineus	#2a96ce
-Bolbitius titubans	#2a96ce
-Leratiomyces ceres	#2a96ce
-Pholiota flammans	#2a96ce
-Laccaria laccata	#2a96ce
-Coprinellus micaceus	#2a96ce
-Coprinopsis atramentaria	#2a96ce
-Fuscospina nigrescens	#2a96ce
-Macrotyphula juncea	#2a96ce
-Pleurotus ostreatus	#2a96ce
-Pleurotus eryngii	#2a96ce
-Schizophyllum commune	#2a96ce
-Fistulina hepatica	#2a96ce
-Amanita muscaria subsp. flavivolvata	#2a96ce
-Chroogomphus ochraceus	#2a96ce
-Chroogomphus tomentosus	#2a96ce
-Chroogomphus vinicolor	#2a96ce
-Suillus ponderosus	#2a96ce
-Suillus brevipes	#2a96ce
-Suillus umbonatus	#2a96ce
-Suillellus amygdalinus	#2a96ce
-Butyriboletus autumniregius	#2a96ce
-Xerocomellus mendocinensis	#2a96ce
-Xerocomellus atropurpureus	#2a96ce
-Boletus fibrillosus	#2a96ce
-Xerocomus spadiceus	#2a96ce
-Phylloporus arenicola	#2a96ce
-Aureoboletus mirabilis	#2a96ce
-Daldinia eschscholtzii	#d97f22
-Neoidriella desertorum	#d97f22
-Hansfordia pulvinata	#d97f22
-Arthrinium phaeospermum	#d97f22
-Nigrospora sphaerica	#d97f22
-Nigrospora oryzae	#d97f22
-Stromatinia cepivora	#d97f22
-Tetracladium marchalianum	#d97f22
-Tetracladium maxilliforme	#d97f22
-Mycochaetophora gentianae	#d97f22
-Cadophora luteo-olivacea	#d97f22
-Trichosporiella cerebriformis	#d97f22
-Calycina marina	#d97f22
-Hyalopeziza raripila	#d97f22
-Pseudogymnoascus destructans	#d97f22
-Pseudogymnoascus pannorum	#d97f22
-[Chrysosporium] pseudomerdarium	#d97f22
-Oidiodendron tenuissimum	#d97f22
-Oidiodendron truncatum	#d97f22
-Aspergillus cristatus	#d97f22
-Aspergillus fimeti	#d97f22
-Aspergillus pseudoglaucus	#d97f22
-Aspergillus parasiticus	#d97f22
-Aspergillus welwitschiae	#d97f22
-Aspergillus allahabadii	#d97f22
-Penicillium steckii	#d97f22
-Penicillium pullum	#d97f22
-Penicillium allii	#d97f22
-Penicillium glandicola	#d97f22
-Penicillium brevistipitatum	#d97f22
-Penicillium thiersii	#d97f22
-Penicillium lineolatum	#d97f22
-Penicillium viridicatum	#d97f22
-Penicillium solitum	#d97f22
-Penicillium virgatum	#d97f22
-Penicillium coprophilum	#d97f22
-Penicillium thomii	#d97f22
-Penicillium commune	#d97f22
-Penicillium adametzii	#d97f22
-Penicillium citreonigrum	#d97f22
-Penicillium herquei	#d97f22
-Penicillium ochrochloron	#d97f22
-Penicillium oxalicum	#d97f22
-Penicillium roseopurpureum	#d97f22
-Penicillium sclerotiorum	#d97f22
-Penicillium fellutanum	#d97f22
-Penicillium multicolor	#d97f22
-Penicillium sumatraense	#d97f22
-Penicillium citrinum	#d97f22
-Penicillium brevicompactum	#d97f22
-Penicillium janthinellum	#d97f22
-Penicillium roqueforti	#d97f22
-Penicillium pedernalense	#d97f22
-Penicillium brasilianum	#d97f22
-Penicillium striatisporum	#d97f22
-Penicillium janczewskii	#d97f22
-Penicillium philippinense	#d97f22
-Penicillium aurantiocandidum	#d97f22
-Thermoascus verrucosus	#d97f22
-Chrysosporium merdarium	#d97f22
-Trichophyton erinacei	#d97f22
-Exophiala bonariae	#d97f22
-Exophiala equina	#d97f22
-Exophiala pisciphila	#d97f22
-Knufia tsunedae	#d97f22
-Cyphellophora aestiva	#d97f22
-Endocarpon pusillum	#d97f22
-Umbilicaria muehlenbergii	#d97f22
-Liua muriformis	#d97f22
-Teichospora grandicipis	#d97f22
-Teichospora austroafricana	#d97f22
-Atrocalyx asturiensis	#d97f22
-Lophiostoma corticola	#d97f22
-Lophiostoma macrostomum	#d97f22
-Westerdykella capitulum	#d97f22
-Westerdykella centenaria	#d97f22
-Verruconis verruculosa	#d97f22
-Veronaeopsis simplex	#d97f22
-Scolecobasidium constrictum	#d97f22
-Scolecobasidium minimum	#d97f22
-Scolecobasidium humicola	#d97f22
-Scolecobasidium tshawytschae	#d97f22
-Halokirschsteiniothelia maritima	#d97f22
-Xenodevriesia strelitziicola	#d97f22
-Chaetocapnodium placitae	#d97f22
-Conidiocarpus siamensis	#d97f22
-Aureobasidium pullulans	#d97f22
-Cladosporium herbarum	#d97f22
-Cladosporium cladosporioides	#d97f22
-Acrodontium salmoneum	#d97f22
-Cercospora brachiata	#d97f22
-Hemimycena sp.	#2a96ce
-Alboleptonia sp.	#2a96ce
-Agaricus sp.	#2a96ce
-Coniochaeta psammospora	#d97f22
-Coniochaeta discospora	#d97f22
-Coniochaeta cateniformis	#d97f22
-Coniochaeta ligniaria	#d97f22
-Coniochaeta fasciculata	#d97f22
-Coniochaeta luteoviridis	#d97f22
-Acrophialophora levis	#d97f22
-Arcopilus aureus	#d97f22
-Subramaniula flavipila	#d97f22
-Humicola seminuda	#d97f22
-Humicola brevis	#d97f22
-Humicola homopilata	#d97f22
-Trichocladium griseum	#d97f22
-Pseudothielavia terricola	#d97f22
-Fimetariella rabenhorstii	#d97f22
-Cladorrhinum flexuosum	#d97f22
-Apoharknessia insueta	#d97f22
-Jattaea algeriensis	#d97f22
-Phialemonium inflatum	#d97f22
-Phaeoacremonium parasiticum	#d97f22
-Myrmecridium schulzeri	#d97f22
-Albifimbria verrucaria	#d97f22
-Striaticonidium cinctum	#d97f22
-Striaticonidium humicola	#d97f22
-Stachybotrys chartarum	#d97f22
-Valsonectria roseola	#d97f22
-Purpureocillium lilacinum	#d97f22
-Parengyodontium album	#d97f22
-Beauveria bassiana	#d97f22
-Beauveria felina	#d97f22
-Lecanicillium psalliotae	#d97f22
-Cordyceps farinosa	#d97f22
-Mariannaea elegans	#d97f22
-Dactylonectria torresensis	#d97f22
-Fusarium oxysporum	#d97f22
-Fusarium graminearum	#d97f22
-Fusarium solani	#d97f22
-Fusarium proliferatum	#d97f22
-Pseudonectria foliicola	#d97f22
-Volutella ciliata	#d97f22
-Nectria pseudotrichia	#d97f22
-Trichoderma citrinoviride	#d97f22
-Trichoderma lentiforme	#d97f22
-Trichoderma asperellum	#d97f22
-Trichoderma harzianum	#d97f22
-Trichoderma viride	#d97f22
-Trichoderma rifaii	#d97f22
-Trichoderma atroviride	#d97f22
-Trichoderma crassum	#d97f22
-Trichoderma strigosellum	#d97f22
-Trichoderma polysporum	#d97f22
-Keithomyces carneus	#d97f22
-Marquandomyces marquandii	#d97f22
-Metarhizium anisopliae	#d97f22
-Protocreopsis rutila	#d97f22
-Clonostachys rosea	#d97f22
-Proxiovicillium blochii	#d97f22
-Verruciconidia persicina	#d97f22
-[Acremonium] antarcticum	#d97f22
-Eucasphaeria capensis	#d97f22
-Parasarocladium debruynii	#d97f22
-Parasarocladium radiatum	#d97f22
-Sarocladium kiliense	#d97f22
-Sarocladium strictum	#d97f22
-Sarocladium implicatum	#d97f22
-Monocillium ligusticum	#d97f22
-Monocillium indicum	#d97f22
-Parascedosporium putredinis	#d97f22
-Scopulariopsis flava	#d97f22
-Scopulariopsis fusca	#d97f22
-Wardomyces inflatus	#d97f22
-Acrostalagmus luteoalbus	#d97f22
-Lectera capsici	#d97f22
-Furcasterigmium furcatum	#d97f22
-Plectosphaerella cucumerina	#d97f22
-Daldinia sp.	#d97f22
-Botrytis cinerea B05.10	#d97f22
-Geomyces sp. 'luteus'	#d97f22
-Talaromyces amestolkiae	#d97f22
-Talaromyces aurantiacus	#d97f22
-Talaromyces stipitatus	#d97f22
-Talaromyces flavus	#d97f22
-Talaromyces purpureogenus	#d97f22
-Talaromyces pinophilus	#d97f22
-Talaromyces sp.	#d97f22
-Talaromyces trachyspermus	#d97f22
-Talaromyces minioluteus	#d97f22
-Aspergillus flavipes	#d97f22
-Aspergillus niger	#d97f22
-Aspergillus ochraceus	#d97f22
-Aspergillus amstelodami	#d97f22
-Aspergillus sp.	#d97f22
-Penicillium chrysogenum	#d97f22
-Penicillium echinulatum	#d97f22
-Penicillium sp.	#d97f22
-Penicillium expansum ATCC 24692	#d97f22
-Penicillium glabrum DAOM 239074	#d97f22
-Cladonia metacorallifera KoLRI002260	#d97f22
-Parastagonospora avenae	#d97f22
-Phaeosphaeria sinensis	#d97f22
-Phaeosphaeria caricis	#d97f22
-Setophaeosphaeria citricola	#d97f22
-Sclerostagonospora cycadis	#d97f22
-Paraphoma fimeti	#d97f22
-Pseudoophiobolus galii	#d97f22
-Ophiosimulans tanaceti	#d97f22
-Neopyrenochaeta acicola	#d97f22
-Plenodomus chelidonii	#d97f22
-Plenodomus meliloti	#d97f22
-Epicoccum nigrum	#d97f22
-Neoascochyta graminicola	#d97f22
-Microsphaeropsis arundinis	#d97f22
-Leptosphaerulina australis	#d97f22
-Neocucurbitaria unguis-hominis	#d97f22
-Pyrenochaeta gentianicola	#d97f22
-Curvularia pisi	#d97f22
-Alternaria sorghi	#d97f22
-Pleiochaeta ghindensis	#d97f22
-Dokmaia monthadangii	#d97f22
-Pyrenochaetopsis leptospora	#d97f22
-Pyrenochaetopsis confluens	#d97f22
-Xenopyrenochaetopsis pratorum	#d97f22
-Biatriospora sp.	#d97f22
-Didymosphaeria futilis	#d97f22
-Keissleriella cladophila	#d97f22
-Preussia subticinensis	#d97f22
-Preussia australis	#d97f22
-Preussia funiculata	#d97f22
-Aureobasidium sp.	#d97f22
-Cladosporium sp.	#d97f22
-Neodeightonia sp.	#d97f22
-Diaporthe sp.	#d97f22
-Tolypocladium sp.	#d97f22
-Beauveria sp.	#d97f22
-Lecanicillium sp.	#d97f22
-Simplicillium sp.	#d97f22
-Fusarium tricinctum	#d97f22
-Fusarium avenaceum	#d97f22
-Fusarium sp.	#d97f22
-Volutella sp.	#d97f22
-Trichoderma sp.	#d97f22
-Escovopsis sp. ACRO424	#d97f22
-Escovopsis sp.	#d97f22
-Geosmithia putterillii	#d97f22
-Scopulariopsis sp.	#d97f22
-Aspergillus oryzae AS 3.951	#d97f22
-Aspergillus terreus ATCC 20542	#d97f22
-Aspergillus fumigatus GA-L7	#d97f22
-Aspergillus nidulans FGSC A4	#d97f22
-Epicoccum sp.	#d97f22
-Phoma sp.	#d97f22
-Curvularia lunata CX-3	#d97f22
-Alternaria sp.	#d97f22
-Alternaria tenuissima	#d97f22
-Alternaria alternata	#d97f22
-Massarina sp.	#d97f22
+#NODE_ID	COLOR
+Rhodospirillaceae	#2a82e5
+Leptospira	#be2600
+Limnobacter	#2a82e5
+Chitinimonas	#2a82e5
+Acidovorax	#2a82e5
+Roseateles	#2a82e5
+Vogesella	#2a82e5
+Luteimonas	#2a82e5
+Pseudoxanthomonas	#2a82e5
+Marinobacter	#2a82e5
+Blastomonas	#2a82e5
+Caulobacter	#2a82e5
+Phaeobacter	#2a82e5
+Actinobacteria bacterium OK006	#984ea3
+Actinobacteria bacterium OK074	#984ea3
+Actinobacteria bacterium OV450	#984ea3
+Actinobacteria bacterium OV320	#984ea3
+Sorangium cellulosum	#5e5479
+Lentimonas sp. CC4	#860401
+Methanobacterium	#a2b404
+Hydrogenophaga flava	#2a82e5
+Chromobacterium	#2a82e5
+Neisseria oralis	#2a82e5
+Alteromonas	#2a82e5
+Alteromonadaceae bacterium 2052S.S.stab0a.01	#2a82e5
+Pseudoalteromonas denitrificans	#2a82e5
+Pseudoalteromonas rubra	#2a82e5
+Pseudoalteromonas ruthenica	#2a82e5
+Pseudoalteromonas maricaloris	#2a82e5
+Xanthomonas albilineans	#2a82e5
+Stenotrophomonas maltophilia	#2a82e5
+Pseudomonas donghuensis	#2a82e5
+Pseudomonas vranovensis	#2a82e5
+Pseudomonas hunanensis	#2a82e5
+Pseudomonas frederiksbergensis	#2a82e5
+Pseudomonas psychrophila	#2a82e5
+Methyloprofundus sedimenti	#2a82e5
+Acinetobacter lwoffii	#2a82e5
+Acinetobacter baumannii	#2a82e5
+Enterobacter cloacae	#2a82e5
+Salmonella enterica	#2a82e5
+Buttiauxella noackiae	#2a82e5
+Yokenella regensburgei	#2a82e5
+Erwinia endophytica	#2a82e5
+Hafnia alvei	#2a82e5
+Xenorhabdus nematophila	#2a82e5
+Xenorhabdus budapestensis	#2a82e5
+Xenorhabdus eapokensis	#2a82e5
+Serratia liquefaciens	#2a82e5
+Serratia proteamaculans	#2a82e5
+Serratia ficaria	#2a82e5
+Serratia fonticola	#2a82e5
+Photobacterium halotolerans	#2a82e5
+Vibrio cholerae	#2a82e5
+Vibrio coralliilyticus	#2a82e5
+Vibrio gallaecicus	#2a82e5
+Vibrio lentus	#2a82e5
+Actinobacillus minor	#2a82e5
+Neptuniibacter pectenicola	#2a82e5
+unclassified Nitrincola	#2a82e5
+Halomonas elongata	#2a82e5
+Qipengyuania aquimaris	#2a82e5
+Qipengyuania vulgaris	#2a82e5
+unclassified Sulfitobacter	#2a82e5
+Lentibacter algarum	#2a82e5
+unclassified Pacificibacter	#2a82e5
+Roseicyclus elongatus	#2a82e5
+Celeribacter marinus	#2a82e5
+Yoonia acticola	#2a82e5
+Loktanella salsilacus	#2a82e5
+Ruegeria pomeroyi	#2a82e5
+Paracoccus homiensis	#2a82e5
+Limimaricola aestuariicola	#2a82e5
+Paracoccaceae bacterium	#2a82e5
+Tritonibacter mobilis	#2a82e5
+Cognatiyoonia koreensis	#2a82e5
+Ahrensia kielensis	#2a82e5
+unclassified Roseibium	#2a82e5
+Pseudovibrio ascidiaceicola	#2a82e5
+Acetobacteraceae bacterium AT-5844	#2a82e5
+unclassified Henriciella	#2a82e5
+Clostridiales bacterium	#c0faec
+Pseudonocardia	#984ea3
+Actinokineospora	#984ea3
+Rivularia	#87d510
+Campylobacter jejuni	#ceb558
+Fusobacterium mortiferum	#f781bf
+Fusobacterium canifelinum	#f781bf
+unclassified Luteolibacter	#860401
+Roseibacillus persicicus	#860401
+Bacteroides uniformis	#ca2c74
+Bacteroides xylanisolvens	#ca2c74
+Paraprevotella clara	#ca2c74
+Paraprevotella xylaniphila	#ca2c74
+Porphyromonas uenonis	#ca2c74
+Cyclobacterium marinum	#ca2c74
+Algoriphagus chordae	#ca2c74
+Arcticibacterium luteifluviistationis	#ca2c74
+unclassified Psychroserpens	#ca2c74
+Maribacter aestuarii	#ca2c74
+Maribacter dokdonensis	#ca2c74
+Flavobacterium frigoris	#ca2c74
+Olleya marilimosa	#ca2c74
+Olleya algicola	#ca2c74
+Postechiella marina	#ca2c74
+Winogradskyella flava	#ca2c74
+Cellulophaga lytica	#ca2c74
+Lutibacter oceani	#ca2c74
+Lutibacter flavus	#ca2c74
+Algibacter amylolyticus	#ca2c74
+Algibacter aquimarinus	#ca2c74
+Algibacter lectus	#ca2c74
+unclassified Mariniflexile	#ca2c74
+Zobellia laminariae	#ca2c74
+Aquimarina amphilecti	#ca2c74
+Polaribacter dokdonensis	#ca2c74
+Polaribacter porphyrae	#ca2c74
+Leeuwenhoekiella aequorea	#ca2c74
+Lutimonas saemankumensis	#ca2c74
+Eutreptiella gymnastica	#e24db1
+Thalassiosira pseudonana	#a65628
+Natranaeroarchaeum aerophilus	#a2b404
+Halapricum desulfuricans	#a2b404
+Halococcoides cellulosivorans	#a2b404
+Natronocalculus amylovorans	#a2b404
+Halalkaliarchaeum desulfuricum	#a2b404
+Natrarchaeobius chitinivorans	#a2b404
+Natrarchaeobius halalkaliphilus	#a2b404
+Natronobiforma cellulositropha	#a2b404
+Natrarchaeobaculum sulfurireducens	#a2b404
+Natronolimnohabitans innermongolicus	#a2b404
+Natronolimnobius baerhuensis	#a2b404
+Treponema denticola AL-2	#be2600
+Treponema denticola ASLM	#be2600
+Treponema denticola US-Trep	#be2600
+Burkholderia cepacia	#2a82e5
+Burkholderia pyrrocinia	#2a82e5
+Burkholderia anthina	#2a82e5
+Burkholderia thailandensis E264	#2a82e5
+Burkholderia thailandensis Bt4	#2a82e5
+Paraburkholderia sp. GV052	#2a82e5
+Paraburkholderia sp. GV068	#2a82e5
+Paraburkholderia sp. GV072	#2a82e5
+Paraburkholderia sp. GV073	#2a82e5
+Ralstonia sp. 5_2_56FAA	#2a82e5
+Variovorax sp. OK202	#2a82e5
+Variovorax sp. YR634	#2a82e5
+Variovorax sp. YR752	#2a82e5
+Variovorax sp. YR750	#2a82e5
+Variovorax sp. YR266	#2a82e5
+Variovorax sp. BK460	#2a82e5
+Variovorax sp. GV004	#2a82e5
+Variovorax sp. GV035	#2a82e5
+Variovorax sp. GV051	#2a82e5
+Variovorax sp. OK212	#2a82e5
+Variovorax sp. OV084	#2a82e5
+Variovorax sp. OV700	#2a82e5
+Variovorax sp. PDC80	#2a82e5
+Rhodoferax sp.	#2a82e5
+Rhodoferax sp. OV413	#2a82e5
+Achromobacter xylosoxidans C54	#2a82e5
+Herbaspirillum sp. CF444	#2a82e5
+Collimonas sp. OK412	#2a82e5
+Methylibium sp. CF468	#2a82e5
+Methylibium sp. YR605	#2a82e5
+Mitsuaria sp. PDC51	#2a82e5
+Mitsuaria sp. BK045	#2a82e5
+Mitsuaria sp. BK037	#2a82e5
+Mitsuaria sp. BK041	#2a82e5
+Roseateles sp. YR242	#2a82e5
+Rhizobacter sp. OV335	#2a82e5
+Sutterella wadsworthensis HGA0223	#2a82e5
+Neisseria flavescens SK114	#2a82e5
+Neisseria mucosa C102	#2a82e5
+Shewanella sp.	#2a82e5
+Paraglaciecola mesophila KMM 241	#2a82e5
+Colwellia sp.	#2a82e5
+Motilimonas sp.	#2a82e5
+Pseudoalteromonas sp. 2ta6	#2a82e5
+Pseudoalteromonas sp.	#2a82e5
+Lysobacter sp. yr284	#2a82e5
+Xanthomonas citri pv. mangiferaeindicae	#2a82e5
+Stenotrophomonas sp.	#2a82e5
+Pseudomonas sp.	#2a82e5
+Pseudomonas sp. ok266	#2a82e5
+Pseudomonas sp. 2156	#2a82e5
+Pseudomonas sp. 250J	#2a82e5
+Pseudomonas sp. P13	#2a82e5
+Pseudomonas sp. OV546	#2a82e5
+Pseudomonas sp. GM102	#2a82e5
+Pseudomonas sp. GM16	#2a82e5
+Pseudomonas sp. GM18	#2a82e5
+Pseudomonas sp. GM21	#2a82e5
+Pseudomonas sp. GM24	#2a82e5
+Pseudomonas sp. GM25	#2a82e5
+Pseudomonas sp. GM30	#2a82e5
+Pseudomonas sp. GM48	#2a82e5
+Pseudomonas sp. GM50	#2a82e5
+Pseudomonas sp. GM60	#2a82e5
+Pseudomonas sp. GM67	#2a82e5
+Pseudomonas sp. GM74	#2a82e5
+Pseudomonas sp. GM78	#2a82e5
+Pseudomonas sp. GM79	#2a82e5
+Pseudomonas sp. GM80	#2a82e5
+Pseudomonas sp. GV034	#2a82e5
+Pseudomonas sp. GV062	#2a82e5
+Pseudomonas sp. GV082	#2a82e5
+Pseudomonas sp. GV086	#2a82e5
+Pseudomonas sp. GV101	#2a82e5
+Pseudomonas sp. NP10-3	#2a82e5
+Pseudomonas sp. NP28-5	#2a82e5
+Pseudomonas sp. OV184	#2a82e5
+Pseudomonas sp. OV221	#2a82e5
+Pseudomonas sp. OV286	#2a82e5
+Pseudomonas sp. OV341	#2a82e5
+Pseudomonas sp. OV397	#2a82e5
+Pseudomonas sp. OV508	#2a82e5
+Pseudomonas sp. OV529	#2a82e5
+Pseudomonas sp. OV657	#2a82e5
+Pseudomonas sp. GV012	#2a82e5
+Pseudomonas sp. GV021	#2a82e5
+Pseudomonas sp. GV054	#2a82e5
+Pseudomonas sp. GV058	#2a82e5
+Pseudomonas sp. GV071	#2a82e5
+Pseudomonas sp. GV077	#2a82e5
+Pseudomonas sp. GV085	#2a82e5
+Pseudomonas sp. GV091	#2a82e5
+Pseudomonas sp. HPB0071	#2a82e5
+Pseudomonas fluorescens	#2a82e5
+Pseudomonas libanensis	#2a82e5
+Pseudomonas baetica	#2a82e5
+Pseudomonas synxantha	#2a82e5
+Pseudomonas brenneri	#2a82e5
+Pseudomonas fragi	#2a82e5
+Pseudomonas protegens	#2a82e5
+Pseudomonas chlororaphis	#2a82e5
+Pseudomonas putida	#2a82e5
+Pseudomonas monteilii	#2a82e5
+Pseudomonas plecoglossicida	#2a82e5
+Pseudomonas cichorii	#2a82e5
+Stutzerimonas stutzeri CCUG 29243	#2a82e5
+Methylobacter tundripaludum SV96	#2a82e5
+Acinetobacter sp.	#2a82e5
+Acinetobacter radioresistens SK82	#2a82e5
+Moraxella sp.	#2a82e5
+Citrobacter sp.	#2a82e5
+Citrobacter freundii 4_7_47CFAA	#2a82e5
+Klebsiella aerogenes	#2a82e5
+Klebsiella michiganensis	#2a82e5
+Klebsiella variicola	#2a82e5
+Escherichia coli 83972	#2a82e5
+Escherichia coli MS 21-1	#2a82e5
+Escherichia coli MS 57-2	#2a82e5
+Escherichia coli MS 69-1	#2a82e5
+Escherichia coli MS 110-3	#2a82e5
+Escherichia coli MS 115-1	#2a82e5
+Escherichia coli MS 16-3	#2a82e5
+Escherichia coli MS 196-1	#2a82e5
+Escherichia coli MS 198-1	#2a82e5
+Escherichia coli MS 200-1	#2a82e5
+Escherichia coli Nissle 1917	#2a82e5
+Escherichia coli 0.1197	#2a82e5
+Escherichia coli D9	#2a82e5
+Escherichia coli MS 85-1	#2a82e5
+Escherichia coli MS 145-7	#2a82e5
+Escherichia coli MS 124-1	#2a82e5
+Escherichia coli MS 119-7	#2a82e5
+Escherichia sp.	#2a82e5
+Erwinia sp.	#2a82e5
+Erwinia persicina NBRC 102418	#2a82e5
+Proteus mirabilis WGLW4	#2a82e5
+Proteus mirabilis WGLW6	#2a82e5
+Rahnella aquatilis CIP 78.65 = ATCC 33071	#2a82e5
+Photobacterium phosphoreum ANT-2200	#2a82e5
+Vibrio sp. vnigr-6D03	#2a82e5
+Vibrio splendidus 0407ZC148	#2a82e5
+Aggregatibacter aphrophilus F0387	#2a82e5
+Cardiobacterium valvarum F0432	#2a82e5
+Erythrobacter aureus	#2a82e5
+Novosphingobium sp. CF614	#2a82e5
+Sphingomonas sp.	#2a82e5
+Roseovarius sp.	#2a82e5
+Oceanicola sp.	#2a82e5
+Paracoccus sp. (in: a-proteobacteria)	#2a82e5
+Rhizobium arsenicireducens	#2a82e5
+Bradyrhizobium sp. cf659	#2a82e5
+Pleomorphomonas sp. CF100	#2a82e5
+Hoeflea sp.	#2a82e5
+Enhydrobacter sp.	#2a82e5
+Roseomonas sp.	#2a82e5
+Blautia faecis	#c0faec
+Blautia luti	#c0faec
+Blautia obeum	#c0faec
+Lachnospiraceae bacterium 2_1_58FAA	#c0faec
+Lachnospiraceae bacterium 5_1_57FAA	#c0faec
+Lachnospiraceae bacterium 7_1_58FAA	#c0faec
+Dorea formicigenerans	#c0faec
+Stomatobaculum longum	#c0faec
+Fusicatenibacter saccharivorans	#c0faec
+Paraclostridium sordellii	#c0faec
+Hathewaya histolytica	#c0faec
+Faecalibacterium prausnitzii	#c0faec
+Peptostreptococcaceae bacterium AS15	#c0faec
+Clostridiales bacterium oral taxon 876 str. F0540	#c0faec
+Veillonella denticariosi	#c0faec
+Veillonella rodentium	#c0faec
+Veillonella nakazawae	#c0faec
+Veillonella parvula	#c0faec
+Veillonella rogosae	#c0faec
+Veillonella atypica	#c0faec
+Veillonella dispar	#c0faec
+Megasphaera vaginalis (ex Srinivasan et al. 2021)	#c0faec
+Acidaminococcus intestini	#c0faec
+Planococcus maritimus	#c0faec
+Paenibacillus polymyxa	#c0faec
+Bacillus nakamurai	#c0faec
+Pseudalkalibacillus hwajinpoensis	#c0faec
+Niallia circulans	#c0faec
+Priestia megaterium	#c0faec
+Priestia aryabhattai	#c0faec
+Priestia flexa	#c0faec
+Peribacillus simplex	#c0faec
+Staphylococcus haemolyticus	#c0faec
+Staphylococcus simulans	#c0faec
+Staphylococcus warneri	#c0faec
+Mammaliicoccus sciuri	#c0faec
+Kroppenstedtia eburnea	#c0faec
+Listeria monocytogenes	#c0faec
+Streptococcus agalactiae	#c0faec
+Streptococcus gallolyticus	#c0faec
+Streptococcus cristatus	#c0faec
+Streptococcus alactolyticus	#c0faec
+Lactococcus lactis	#c0faec
+Lactobacillus johnsonii	#c0faec
+Lactobacillus acidophilus	#c0faec
+Limosilactobacillus mucosae	#c0faec
+Leuconostoc lactis	#c0faec
+Weissella paramesenteroides	#c0faec
+Weissella confusa	#c0faec
+Lactiplantibacillus plantarum	#c0faec
+Ligilactobacillus animalis	#c0faec
+Ligilactobacillus salivarius	#c0faec
+Aerococcus viridans	#c0faec
+Enterococcus hirae	#c0faec
+Enterococcus durans	#c0faec
+Enterococcus casseliflavus	#c0faec
+Finegoldia magna	#c0faec
+Kocuria rhizophila	#984ea3
+Pseudarthrobacter oxydans	#984ea3
+Glutamicibacter arilaitensis	#984ea3
+Microbacterium testaceum	#984ea3
+Microbacterium paraoxydans	#984ea3
+Clavibacter michiganensis	#984ea3
+Gryllotalpicola protaetiae	#984ea3
+Salinispora vitiensis	#984ea3
+Salinispora mooreana	#984ea3
+Salinispora oceanensis	#984ea3
+Salinispora cortesiana	#984ea3
+Salinispora fenicalii	#984ea3
+Salinispora goodfellowii	#984ea3
+Micromonospora craterilacus	#984ea3
+Micromonospora echinospora	#984ea3
+Micromonospora schwarzwaldensis	#984ea3
+Micromonospora gifhornensis	#984ea3
+Micromonospora profundi	#984ea3
+Micromonospora chokoriensis	#984ea3
+Micromonospora tulbaghiae	#984ea3
+Micromonospora aurantiaca	#984ea3
+Arachnia propionica	#984ea3
+Nocardioides terrigena	#984ea3
+Mycolicibacter longobardus	#984ea3
+Mycolicibacter hiberniae	#984ea3
+Mycolicibacterium conceptionense	#984ea3
+Mycolicibacterium phlei	#984ea3
+Mycolicibacterium flavescens	#984ea3
+Mycolicibacterium aurum	#984ea3
+Mycolicibacterium fallax	#984ea3
+Mycolicibacterium gilvum	#984ea3
+Mycolicibacterium litorale	#984ea3
+Mycolicibacterium aromaticivorans	#984ea3
+Mycobacterium gordonae	#984ea3
+Mycobacterium branderi	#984ea3
+Mycobacterium angelicum	#984ea3
+Mycobacterium alsense	#984ea3
+Mycobacterium fragae	#984ea3
+Mycobacterium marinum	#984ea3
+Mycobacterium palustre	#984ea3
+Mycobacteroides abscessus	#984ea3
+Nocardia globerula	#984ea3
+Rhodococcoides fascians	#984ea3
+Rhodococcus pyridinivorans	#984ea3
+Rhodococcus cercidiphylli	#984ea3
+Rhodococcoides yunnanense	#984ea3
+Williamsia muralis	#984ea3
+Streptomyces nojiriensis	#984ea3
+Streptomyces afghaniensis	#984ea3
+Streptomyces albiaxialis	#984ea3
+Streptomyces violascens	#984ea3
+Streptomyces ambofaciens	#984ea3
+Streptomyces atratus	#984ea3
+Streptomyces clavuligerus	#984ea3
+Streptomyces fradiae	#984ea3
+Streptomyces lividans	#984ea3
+Streptomyces chromofuscus	#984ea3
+Streptomyces tendae	#984ea3
+Streptomyces viridochromogenes	#984ea3
+Streptomyces jumonjinensis	#984ea3
+Streptomyces thermocarboxydus	#984ea3
+Streptomyces virginiae	#984ea3
+Streptomyces noursei	#984ea3
+Streptomyces viridosporus	#984ea3
+Streptomyces vellosus	#984ea3
+Streptomyces wadayamensis	#984ea3
+Streptomyces nanshensis	#984ea3
+Streptomyces thinghirensis	#984ea3
+Streptomyces minutiscleroticus	#984ea3
+Streptomyces mirabilis	#984ea3
+Streptomyces intermedius	#984ea3
+Streptomyces katsurahamanus	#984ea3
+Streptomyces niveus	#984ea3
+Streptomyces venezuelae	#984ea3
+Streptomyces xylanilyticus	#984ea3
+Streptomyces atrovirens	#984ea3
+Streptomyces labedae	#984ea3
+Streptomyces griseorubens	#984ea3
+Streptomyces albogriseolus	#984ea3
+Streptomyces hygroscopicus	#984ea3
+Streptomyces rochei	#984ea3
+Actinomyces naeslundii	#984ea3
+Mobiluncus mulieris	#984ea3
+Saccharomonospora xinjiangensis	#984ea3
+Nocardiopsis prasina	#984ea3
+Nocardiopsis synnemataformans	#984ea3
+Actinomadura atramentaria	#984ea3
+Collinsella aerofaciens	#984ea3
+Eggerthella lenta	#984ea3
+Myxococcus xanthus	#5e5479
+Cystobacter ferrugineus	#5e5479
+Helicobacter pylori 83	#ceb558
+Helicobacter pullorum MIT 98-5489	#ceb558
+Campylobacter coli JV20	#ceb558
+Campylobacter upsaliensis JV21	#ceb558
+Aliarcobacter butzleri JV22	#ceb558
+Fusobacterium nucleatum CTI-1	#f781bf
+Fusobacterium nucleatum CTI-2	#f781bf
+Fusobacterium nucleatum CTI-3	#f781bf
+Fusobacterium nucleatum CTI-5	#f781bf
+Fusobacterium nucleatum CTI-6	#f781bf
+Fusobacterium nucleatum CTI-7	#f781bf
+Fusobacterium sp. OBRC1	#f781bf
+Fusobacterium sp. CM21	#f781bf
+Fusobacterium sp. CM22	#f781bf
+Fusobacterium periodonticum 2_1_31	#f781bf
+Fusobacterium ulcerans 12-1B	#f781bf
+Fusobacterium polymorphum F0401	#f781bf
+Fusobacterium animalis F0419	#f781bf
+Akkermansia muciniphila ATCC BAA-835	#860401
+Bacteroides sp. 2_1_22	#ca2c74
+Bacteroides sp. 3_1_19	#ca2c74
+Bacteroides sp. D20	#ca2c74
+Bacteroides sp.	#ca2c74
+Bacteroides sp. 1_1_30	#ca2c74
+Bacteroides sp. 4_1_36	#ca2c74
+Bacteroides sp. 9_1_42FAA	#ca2c74
+Bacteroides sp. D2	#ca2c74
+Bacteroides stercoris CC31F	#ca2c74
+Bacteroides fragilis NCTC 9343	#ca2c74
+Bacteroides fragilis CL03T12C07	#ca2c74
+Bacteroides fragilis CL07T00C01	#ca2c74
+Bacteroides fragilis CL07T12C05	#ca2c74
+Bacteroides fragilis CL05T00C42	#ca2c74
+Bacteroides fragilis 3_1_12	#ca2c74
+Bacteroides thetaiotaomicron VPI-5482	#ca2c74
+Bacteroides cellulosilyticus DSM 14838	#ca2c74
+Bacteroides cellulosilyticus CL02T12C19	#ca2c74
+Bacteroides ovatus ATCC 8483	#ca2c74
+Bacteroides ovatus 3_8_47FAA	#ca2c74
+Bacteroides finegoldii CL09T03C10	#ca2c74
+Bacteroides eggerthii 1_2_48FAA	#ca2c74
+Bacteroides acidifaciens JCM 10556	#ca2c74
+Bacteroides salyersiae CL02T12C01	#ca2c74
+Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988	#ca2c74
+Bacteroides caccae CL03T12C61	#ca2c74
+Phocaeicola vulgatus ATCC 8482	#ca2c74
+Phocaeicola vulgatus CL09T03C04	#ca2c74
+Phocaeicola salanitronis DSM 18170	#ca2c74
+Phocaeicola dorei CL02T00C15	#ca2c74
+Phocaeicola dorei CL02T12C06	#ca2c74
+Phocaeicola dorei CL03T12C01	#ca2c74
+Phocaeicola dorei 5_1_36/D4	#ca2c74
+Phocaeicola dorei DSM 17855	#ca2c74
+Phocaeicola massiliensis B84634 = Timone 84634 = DSM 17679 = JCM 13223	#ca2c74
+Parabacteroides goldsteinii CC87F	#ca2c74
+Parabacteroides goldsteinii CL02T12C30	#ca2c74
+Parabacteroides distasonis CL03T12C09	#ca2c74
+Parabacteroides sp.	#ca2c74
+Parabacteroides sp. D13	#ca2c74
+Parabacteroides johnsonii CL02T12C29	#ca2c74
+Parabacteroides merdae CL03T12C32	#ca2c74
+Parabacteroides merdae CL09T00C40	#ca2c74
+Prevotella nigrescens CC14M	#ca2c74
+Prevotella nigrescens F0103	#ca2c74
+Prevotella bivia DNF00650	#ca2c74
+Prevotella bivia DNF00188	#ca2c74
+Prevotella disiens DNF00882	#ca2c74
+Prevotella denticola DNF00960	#ca2c74
+Prevotella denticola F0289	#ca2c74
+Prevotella amnii CRIS 21A-A	#ca2c74
+Segatella buccae D17	#ca2c74
+Prevotella melaninogenica D18	#ca2c74
+Segatella oris F0302	#ca2c74
+Prevotella veroralis F0319	#ca2c74
+Prevotella histicola F0411	#ca2c74
+Segatella copri DSM 18205	#ca2c74
+Hoylesella timonensis CRIS 5C-B1	#ca2c74
+Hoylesella oralis HGA0225	#ca2c74
+Leyella stercorea DSM 18206	#ca2c74
+Porphyromonas sp. KLE 1280	#ca2c74
+Porphyromonas sp.	#ca2c74
+Capnocytophaga sputigena CC21_001D	#ca2c74
+Capnocytophaga ochracea F0287	#ca2c74
+Flavobacterium sp. fv08	#ca2c74
+Flavobacterium sp. ov086	#ca2c74
+Flavobacterium sp. GV030	#ca2c74
+Flavobacterium sp. GV063	#ca2c74
+Flavobacterium sp. GV069	#ca2c74
+Flavobacterium sp. CF108	#ca2c74
+Flavobacterium frigidarium DSM 17623	#ca2c74
+Olleya sp. Hel_I_94	#ca2c74
+Arenibacter sp.	#ca2c74
+Chitinophaga sp. CF118	#ca2c74
+Chitinophaga sp. YR573	#ca2c74
+Chitinophaga sp. YR627	#ca2c74
+Chitinophaga sp. OK723	#ca2c74
+Niastella sp. CF465	#ca2c74
+Filimonas sp. YR581	#ca2c74
+Pedobacter sp. CF074	#ca2c74
+Mucilaginibacter sp. OK098	#ca2c74
+Mucilaginibacter sp. YR332	#ca2c74
+Chlorella variabilis	#377eb8
+Cryptoglena skujai	#e24db1
+Euglena longa	#e24db1
+Euglena viridis	#e24db1
+Euglena mutabilis	#e24db1
+Euglena sanguinea	#e24db1
+Burkholderia multivorans ATCC 17616	#2a82e5
+Burkholderia multivorans CF2	#2a82e5
+Burkholderia multivorans ATCC BAA-247	#2a82e5
+Burkholderia cenocepacia K56-2Sokol	#2a82e5
+Burkholderia cenocepacia J2315	#2a82e5
+Burkholderia dolosa AU0158	#2a82e5
+Xanthomonas campestris pv. campestris str. 8004	#2a82e5
+Pseudomonas aeruginosa UCBPP-PA14	#2a82e5
+Pseudomonas aeruginosa PAO1	#2a82e5
+Pseudomonas aeruginosa PA14	#2a82e5
+Ectopseudomonas mendocina NBRC 14162	#2a82e5
+Pseudomonas syringae pv. maculicola	#2a82e5
+Pseudomonas coronafaciens pv. coronafaciens	#2a82e5
+Pseudomonas amygdali pv. tabaci	#2a82e5
+Klebsiella oxytoca 09-7231	#2a82e5
+Klebsiella oxytoca 10-5242	#2a82e5
+Klebsiella oxytoca 10-5243	#2a82e5
+Klebsiella oxytoca 10-5244	#2a82e5
+Klebsiella oxytoca 10-5245	#2a82e5
+Klebsiella oxytoca 10-5248	#2a82e5
+Klebsiella oxytoca 10-5249	#2a82e5
+Klebsiella oxytoca 10-5250	#2a82e5
+Klebsiella sp. 4_1_44FAA	#2a82e5
+Klebsiella sp. OBRC7	#2a82e5
+Klebsiella sp. MS 92-3	#2a82e5
+Raoultella ornithinolytica 10-5246	#2a82e5
+Escherichia coli str. K-12 substr. W3110	#2a82e5
+Escherichia coli str. K-12 substr. MG1655	#2a82e5
+Aeromonas hydrophila subsp. hydrophila ATCC 7966	#2a82e5
+Haemophilus sp. oral taxon 851 str. F0397	#2a82e5
+Oribacterium sinus F0268	#c0faec
+Enterocloster bolteae CC43_001B	#c0faec
+Enterocloster bolteae WAL-14578	#c0faec
+[Clostridium] clostridioforme 2_1_49FAA	#c0faec
+[Clostridium] clostridioforme WAL-7855	#c0faec
+[Clostridium] aldenense WAL-18727	#c0faec
+[Ruminococcus] lactaris CC59_002D	#c0faec
+Mediterraneibacter gnavus ATCC 29149	#c0faec
+Blautia producta ATCC 27340 = DSM 2950	#c0faec
+Lachnospiraceae oral taxon 107 str. F0167	#c0faec
+[Clostridium] symbiosum WAL-14163	#c0faec
+[Clostridium] symbiosum WAL-14673	#c0faec
+[Clostridium] scindens ATCC 35704	#c0faec
+Lachnoanaerobaculum sp. ICM7	#c0faec
+Lachnoanaerobaculum sp. OBRC5-5	#c0faec
+Anaerostipes caccae L1-92	#c0faec
+Anaerostipes sp.	#c0faec
+Christensenella hongkongensis AB8_9	#c0faec
+Clostridium cadaveris CC40_001C	#c0faec
+Clostridium cadaveris CC44_001G	#c0faec
+Clostridium cadaveris CC88A	#c0faec
+Clostridium sp. M62/1	#c0faec
+Clostridium sp. KLE 1755	#c0faec
+Clostridium sp. 7_2_43FAA	#c0faec
+Clostridium sp. HGF2	#c0faec
+Clostridium sp. MSTE9	#c0faec
+Clostridium butyricum DSM 10702	#c0faec
+Clostridium perfringens WAL-14572	#c0faec
+Clostridium perfringens ATCC 13124	#c0faec
+Clostridium sporogenes ATCC 15579	#c0faec
+Hungatella hathewayi WAL-18680	#c0faec
+Flavonifractor plautii CC43_001K	#c0faec
+Flavonifractor plautii 1_3_50AFAA	#c0faec
+Ruminococcus flavefaciens FD-1	#c0faec
+Peptostreptococcus anaerobius CC14N	#c0faec
+Clostridioides difficile NAP07	#c0faec
+Eubacterium sp. 3_1_31	#c0faec
+Eubacterium infirmum F0142	#c0faec
+Veillonella sp. 6_1_27	#c0faec
+Veillonella sp.	#c0faec
+Veillonella sp. ACP1	#c0faec
+Veillonella sp. AS16	#c0faec
+Veillonella sp. 3_1_44	#c0faec
+Veillonella montpellierensis DNF00314	#c0faec
+Megasphaera micronuciformis DNF00954	#c0faec
+Megasphaera sp. DNF00872	#c0faec
+Megasphaera sp. DNF00912	#c0faec
+Phascolarctobacterium sp. 3_1syn4	#c0faec
+Selenomonas noxia F0398	#c0faec
+[Clostridium] innocuum 6_1_30	#c0faec
+Thomasclavelia ramosa DSM 1402	#c0faec
+Coprobacillus sp. 8_2_54BFAA	#c0faec
+Coprobacillus sp.	#c0faec
+Viridibacillus sp. OK051	#c0faec
+Sporosarcina sp.	#c0faec
+Sporosarcina newyorkensis 2681	#c0faec
+Paenisporosarcina sp. HGH0030	#c0faec
+Paenibacillus barengoltzii CC33_002B	#c0faec
+Paenibacillus sp. OK003	#c0faec
+Paenibacillus sp. ov031	#c0faec
+Paenibacillus sp.	#c0faec
+Paenibacillus sp. BK673	#c0faec
+Brevibacillus laterosporus DSM 25	#c0faec
+Brevibacillus sp. BC25	#c0faec
+Brevibacillus sp. CF112	#c0faec
+Brevibacillus sp.	#c0faec
+Bacillus sp. bc15	#c0faec
+Bacillus sp. ok061	#c0faec
+Bacillus sp. (in: firmicutes)	#c0faec
+Bacillus sp. BK100	#c0faec
+Bacillus sp. BK450	#c0faec
+Bacillus sp. OK077	#c0faec
+Bacillus sp. OV752	#c0faec
+Bacillus sp. YR335	#c0faec
+Bacillus sp. OK838	#c0faec
+Bacillus licheniformis	#c0faec
+Bacillus tequilensis	#c0faec
+Bacillus halotolerans	#c0faec
+Bacillus pumilus INR7	#c0faec
+Bacillus smithii 7_3_47FAA	#c0faec
+Bacillus cereus AH187	#c0faec
+Halalkalibacterium halodurans C-125	#c0faec
+Lysinibacillus sp.	#c0faec
+Lysinibacillus sp. YR326	#c0faec
+Lysinibacillus sp. BK089	#c0faec
+Staphylococcus epidermidis BCM-HMP0060	#c0faec
+Staphylococcus epidermidis W23144	#c0faec
+Staphylococcus epidermidis E13A	#c0faec
+Staphylococcus epidermidis NIHLM070	#c0faec
+Staphylococcus epidermidis NIHLM067	#c0faec
+Staphylococcus epidermidis NIHLM023	#c0faec
+Staphylococcus epidermidis NIHLM020	#c0faec
+Staphylococcus epidermidis NIHLM031	#c0faec
+Staphylococcus epidermidis NIHLM018	#c0faec
+Staphylococcus epidermidis NIHLM015	#c0faec
+Staphylococcus epidermidis NIHLM008	#c0faec
+Staphylococcus epidermidis NIHLM003	#c0faec
+Staphylococcus epidermidis NIHLM001	#c0faec
+Staphylococcus epidermidis NIH05001	#c0faec
+Staphylococcus epidermidis NIH04008	#c0faec
+Staphylococcus epidermidis SK135	#c0faec
+Staphylococcus lugdunensis M23590	#c0faec
+Staphylococcus hominis SK119	#c0faec
+Staphylococcus capitis C87	#c0faec
+Staphylococcus capitis SK14	#c0faec
+Staphylococcus sp.	#c0faec
+Alicyclobacillus sp.	#c0faec
+Tumebacillus sp. BK434	#c0faec
+Exiguobacterium oxidotolerans	#c0faec
+Streptococcus parasanguinis CC87K	#c0faec
+Streptococcus parasanguinis F0449	#c0faec
+Streptococcus sanguinis CC94A	#c0faec
+Streptococcus sanguinis VMC66	#c0faec
+Streptococcus salivarius SK126	#c0faec
+Streptococcus mutans UA159	#c0faec
+Streptococcus sobrinus W1703	#c0faec
+Streptococcus sp.	#c0faec
+Streptococcus sp. C150	#c0faec
+Streptococcus sp. AC15	#c0faec
+Streptococcus sp. ACS2	#c0faec
+Streptococcus sp. AS20	#c0faec
+Streptococcus sp. CM6	#c0faec
+Streptococcus sp. CM7	#c0faec
+Streptococcus sp. OBRC6	#c0faec
+Streptococcus sp. ACC21	#c0faec
+Streptococcus sp. BS21	#c0faec
+Streptococcus sp. BS29a	#c0faec
+Streptococcus sp. SR1	#c0faec
+Streptococcus downei F0415	#c0faec
+Streptococcus vestibularis F0396	#c0faec
+Streptococcus mitis bv. 2	#c0faec
+Lactobacillus iners UPII 143-D	#c0faec
+Lactobacillus iners SPIN 2503V10-D	#c0faec
+Lactobacillus iners LactinV 11V1-d	#c0faec
+Lactobacillus iners LEAF 2053A-b	#c0faec
+Lactobacillus iners LEAF 2052A-d	#c0faec
+Lactobacillus iners LEAF 3008A-a	#c0faec
+Lactobacillus jensenii JV-V16	#c0faec
+Lactobacillus jensenii 115-3-CHN	#c0faec
+Lactobacillus jensenii SJ-7A-US	#c0faec
+Lactobacillus jensenii 269-3	#c0faec
+Lactobacillus jensenii 208-1	#c0faec
+Lactobacillus jensenii EX849587VC03	#c0faec
+Lactobacillus jensenii EX849587VC06	#c0faec
+Lactobacillus gasseri SJ-9E-US	#c0faec
+Lactobacillus gasseri SV-16A-US	#c0faec
+Lactobacillus gasseri MV-22	#c0faec
+Lactobacillus gasseri ATCC 33323 = JCM 1131	#c0faec
+Lactobacillus gasseri EX336960VC01	#c0faec
+Lactobacillus gasseri EX336960VC02	#c0faec
+Lactobacillus gasseri EX336960VC03	#c0faec
+Lactobacillus gasseri EX336960VC06	#c0faec
+Lactobacillus gasseri EX336960VC07	#c0faec
+Lactobacillus gasseri EX336960VC15	#c0faec
+Lactobacillus gasseri EX336960VC13	#c0faec
+Lactobacillus gasseri 224-1	#c0faec
+Lactobacillus crispatus 125-2-CHN	#c0faec
+Lactobacillus crispatus MV-1A-US	#c0faec
+Lactobacillus crispatus MV-3A-US	#c0faec
+Lactobacillus crispatus EX849587VC01	#c0faec
+Lactobacillus crispatus EX533959VC03	#c0faec
+Lactobacillus crispatus EX533959VC04	#c0faec
+Lactobacillus crispatus EX533959VC05	#c0faec
+Lactobacillus crispatus EX533959VC06	#c0faec
+Lactobacillus crispatus EX533959VC07	#c0faec
+Lactobacillus crispatus JV-V01	#c0faec
+Limosilactobacillus reuteri CF48-3A	#c0faec
+Limosilactobacillus oris F0423	#c0faec
+Limosilactobacillus vaginalis EX336960VC11	#c0faec
+Limosilactobacillus vaginalis EX336960VC05	#c0faec
+Limosilactobacillus vaginalis EX336960VC12	#c0faec
+Lacticaseibacillus rhamnosus LMS2-1	#c0faec
+Lacticaseibacillus rhamnosus ATCC 8530	#c0faec
+Weissella cibaria F16_1	#c0faec
+Lentilactobacillus parafarraginis F0439	#c0faec
+Lentilactobacillus kisonensis F0435	#c0faec
+Facklamia sp.	#c0faec
+Aerococcus sp.	#c0faec
+Enterococcus faecalis TX1322	#c0faec
+Enterococcus faecalis S613	#c0faec
+Enterococcus faecalis R712	#c0faec
+Enterococcus faecalis EnGen0248	#c0faec
+Enterococcus faecalis TX2137	#c0faec
+Enterococcus faecalis ERV103	#c0faec
+Enterococcus faecalis TUSoD Ef11	#c0faec
+Enterococcus faecalis V583	#c0faec
+Enterococcus faecalis TX0104	#c0faec
+Enterococcus faecalis EnGen0297	#c0faec
+Enterococcus faecium TX1330	#c0faec
+Enterococcus faecium TX0133a04	#c0faec
+Enterococcus faecium 503	#c0faec
+Enterococcus faecium 513	#c0faec
+Enterococcus faecium E417	#c0faec
+Enterococcus faecium ERV102	#c0faec
+Enterococcus faecium ERV165	#c0faec
+Enterococcus faecium ERV99	#c0faec
+Carnobacterium maltaromaticum 38b	#c0faec
+Parvimonas micra CC57A	#c0faec
+Parvimonas sp.	#c0faec
+Peptoniphilus lacrimalis DNF00528	#c0faec
+Peptoniphilus sp.	#c0faec
+Peptoniphilus sp. BV3AC2	#c0faec
+Peptoniphilus sp. BV3C26	#c0faec
+Rothia aeria F0474	#984ea3
+Rothia mucilaginosa CC87LB	#984ea3
+Rothia sp. (in: high G+C Gram-positive bacteria)	#984ea3
+Rothia dentocariosa M567	#984ea3
+Kocuria sp.	#984ea3
+Pseudoglutamicibacter albus DNF00011	#984ea3
+Micrococcus luteus SK58	#984ea3
+Micrococcus luteus NCTC 2665	#984ea3
+Micrococcus sp.	#984ea3
+Arthrobacter sp.	#984ea3
+Dermacoccus sp.	#984ea3
+Brevibacterium sp.	#984ea3
+Agromyces sp.	#984ea3
+Microbacterium sp.	#984ea3
+Herbiconiux sp. YR403	#984ea3
+Curtobacterium sp.	#984ea3
+Mycetocola sp.	#984ea3
+Cellulomonas sp.	#984ea3
+Dermabacter sp.	#984ea3
+Salinispora pacifica DSM 45543 = CNS-863	#984ea3
+Salinispora pacifica DSM 45544	#984ea3
+Salinispora pacifica CNT609	#984ea3
+Salinispora pacifica CNS996	#984ea3
+Salinispora pacifica CNT045	#984ea3
+Salinispora pacifica CNT584	#984ea3
+Salinispora pacifica CNY330	#984ea3
+Salinispora pacifica CNQ768	#984ea3
+Salinispora pacifica DSM 45546 = CNT-133	#984ea3
+Salinispora pacifica CNT796	#984ea3
+Salinispora pacifica CNY239	#984ea3
+Salinispora pacifica CNS-143	#984ea3
+Salinispora pacifica CNT851	#984ea3
+Salinispora pacifica CNY331	#984ea3
+Salinispora pacifica CNT124	#984ea3
+Salinispora pacifica CNS055	#984ea3
+Salinispora pacifica CNS860	#984ea3
+Salinispora pacifica CNR114	#984ea3
+Salinispora pacifica CNR894	#984ea3
+Salinispora pacifica CNS103	#984ea3
+Salinispora pacifica CNT854	#984ea3
+Salinispora pacifica CNT855	#984ea3
+Salinispora pacifica CNY703	#984ea3
+Salinispora pacifica CNH732	#984ea3
+Salinispora pacifica CNR510	#984ea3
+Salinispora pacifica CNR909	#984ea3
+Salinispora pacifica CNT403	#984ea3
+Salinispora pacifica CNY363	#984ea3
+Salinispora pacifica CNY498	#984ea3
+Salinispora pacifica CNY646	#984ea3
+Salinispora pacifica CNY673	#984ea3
+Salinispora pacifica CNT001	#984ea3
+Salinispora pacifica CNT003	#984ea3
+Salinispora pacifica CNT084	#984ea3
+Salinispora pacifica CNT131	#984ea3
+Salinispora pacifica CNT603	#984ea3
+Salinispora pacifica CNT133A	#984ea3
+Salinispora arenicola DSM 45545	#984ea3
+Salinispora arenicola CNH963	#984ea3
+Salinispora arenicola CNS299	#984ea3
+Salinispora arenicola CNS243	#984ea3
+Salinispora arenicola CNT-088	#984ea3
+Salinispora arenicola CNR425	#984ea3
+Salinispora arenicola CNY011	#984ea3
+Salinispora arenicola CNT859	#984ea3
+Salinispora arenicola CNY282	#984ea3
+Salinispora arenicola CNY234	#984ea3
+Salinispora arenicola CNY256	#984ea3
+Salinispora arenicola CNR107	#984ea3
+Salinispora arenicola CNS744	#984ea3
+Salinispora arenicola CNX481	#984ea3
+Salinispora arenicola CNP193	#984ea3
+Salinispora arenicola CNX814	#984ea3
+Salinispora arenicola CNT799	#984ea3
+Salinispora arenicola CNY280	#984ea3
+Salinispora arenicola CNP105	#984ea3
+Salinispora arenicola CNH962	#984ea3
+Salinispora arenicola CNH877	#984ea3
+Salinispora arenicola CNY260	#984ea3
+Salinispora arenicola CNS051	#984ea3
+Salinispora arenicola CNY231	#984ea3
+Salinispora arenicola CNY237	#984ea3
+Salinispora arenicola CNB458	#984ea3
+Salinispora arenicola CNR921	#984ea3
+Salinispora arenicola CNH964	#984ea3
+Salinispora arenicola CNS-205	#984ea3
+Salinispora arenicola CNQ748	#984ea3
+Salinispora arenicola CNS673	#984ea3
+Salinispora arenicola CNB527	#984ea3
+Salinispora arenicola CNH905	#984ea3
+Salinispora arenicola CNH941	#984ea3
+Salinispora arenicola CNT800	#984ea3
+Salinispora arenicola CNT857	#984ea3
+Salinispora arenicola CNT005	#984ea3
+Salinispora arenicola CNT798	#984ea3
+Salinispora arenicola CNX508	#984ea3
+Salinispora arenicola CNX891	#984ea3
+Salinispora arenicola CNT849	#984ea3
+Salinispora arenicola ATCC BAA-917	#984ea3
+Salinispora arenicola CNH713	#984ea3
+Salinispora arenicola CNH718	#984ea3
+Salinispora arenicola CNQ884	#984ea3
+Salinispora arenicola CNS296	#984ea3
+Salinispora arenicola CNS325	#984ea3
+Salinispora arenicola CNS342	#984ea3
+Salinispora arenicola CNS820	#984ea3
+Salinispora arenicola CNY230	#984ea3
+Salinispora arenicola CNY244	#984ea3
+Salinispora arenicola CNY281	#984ea3
+Salinispora arenicola CNY486	#984ea3
+Salinispora arenicola CNY679	#984ea3
+Salinispora arenicola CNY685	#984ea3
+Salinispora arenicola CNY690	#984ea3
+Salinispora arenicola CNY694	#984ea3
+Salinispora arenicola CNS848	#984ea3
+Salinispora arenicola CNX482	#984ea3
+Salinispora arenicola CNH646	#984ea3
+Salinispora arenicola CNT850	#984ea3
+Salinispora tropica CNB-440	#984ea3
+Salinispora tropica CNT261	#984ea3
+Salinispora tropica CNR699	#984ea3
+Salinispora tropica CNS416	#984ea3
+Salinispora tropica CNY012	#984ea3
+Salinispora tropica CNT250	#984ea3
+Salinispora tropica CNB536	#984ea3
+Salinispora tropica CNB476	#984ea3
+Salinispora tropica CNH898	#984ea3
+Salinispora tropica CNS197	#984ea3
+Salinispora tropica CNY678	#984ea3
+Salinispora tropica CNY681	#984ea3
+Salinispora sp.	#984ea3
+Verrucosispora sp.	#984ea3
+Micromonospora sp. FI 1001	#984ea3
+Propionibacterium sp. 5_U_42AFAA	#984ea3
+Propionibacterium sp.	#984ea3
+Propionibacterium acidifaciens F0233	#984ea3
+Cutibacterium acnes HL020PA1	#984ea3
+Cutibacterium acnes HL053PA1	#984ea3
+Cutibacterium acnes HL053PA2	#984ea3
+Cutibacterium acnes HL045PA1	#984ea3
+Cutibacterium acnes HL013PA1	#984ea3
+Cutibacterium acnes HL013PA2	#984ea3
+Cutibacterium acnes HL078PA1	#984ea3
+Cutibacterium acnes HL043PA1	#984ea3
+Cutibacterium acnes HL043PA2	#984ea3
+Cutibacterium acnes HL072PA1	#984ea3
+Cutibacterium acnes HL110PA1	#984ea3
+Cutibacterium acnes HL110PA3	#984ea3
+Cutibacterium acnes HL110PA4	#984ea3
+Cutibacterium acnes HL060PA1	#984ea3
+Cutibacterium acnes HL038PA1	#984ea3
+Cutibacterium acnes HL025PA1	#984ea3
+Cutibacterium acnes HL025PA2	#984ea3
+Cutibacterium acnes HL059PA1	#984ea3
+Cutibacterium acnes HL059PA2	#984ea3
+Cutibacterium acnes HL086PA1	#984ea3
+Cutibacterium acnes HL046PA2	#984ea3
+Cutibacterium acnes HL005PA1	#984ea3
+Cutibacterium acnes HL005PA2	#984ea3
+Cutibacterium acnes HL005PA3	#984ea3
+Cutibacterium acnes HL050PA2	#984ea3
+Cutibacterium acnes HL050PA3	#984ea3
+Cutibacterium acnes HL030PA1	#984ea3
+Cutibacterium acnes HL001PA1	#984ea3
+Cutibacterium acnes HL036PA1	#984ea3
+Cutibacterium acnes HL036PA2	#984ea3
+Cutibacterium acnes HL030PA2	#984ea3
+Cutibacterium acnes HL027PA1	#984ea3
+Cutibacterium acnes HL027PA2	#984ea3
+Cutibacterium acnes HL036PA3	#984ea3
+Cutibacterium acnes HL067PA1	#984ea3
+Cutibacterium acnes HL063PA1	#984ea3
+Cutibacterium acnes HL002PA3	#984ea3
+Cutibacterium acnes HL007PA1	#984ea3
+Cutibacterium acnes HL063PA2	#984ea3
+Cutibacterium acnes HL082PA2	#984ea3
+Cutibacterium acnes HL037PA1	#984ea3
+Cutibacterium acnes SK137	#984ea3
+Cutibacterium acnes HL005PA4	#984ea3
+Cutibacterium acnes HL050PA1	#984ea3
+Cutibacterium acnes HL002PA1	#984ea3
+Cutibacterium acnes HL002PA2	#984ea3
+Cutibacterium acnes SK182	#984ea3
+Cutibacterium acnes HL056PA1	#984ea3
+Cutibacterium modestum HL044PA1	#984ea3
+Cutibacterium modestum HL037PA2	#984ea3
+Corynebacterium tuscaniense DNF00037	#984ea3
+Corynebacterium sp.	#984ea3
+Corynebacterium sp. HFH0082	#984ea3
+Mycolicibacterium smegmatis MC2 155	#984ea3
+Mycolicibacterium sp. BK598	#984ea3
+Mycolicibacterium sp. BK607	#984ea3
+Mycolicibacterium sp. BK634	#984ea3
+Mycolicibacterium sp. BK556	#984ea3
+Mycolicibacterium sp. BK557	#984ea3
+Mycobacterium sp.	#984ea3
+Mycobacterium sp. BK086	#984ea3
+Mycobacterium sp. BK558	#984ea3
+Mycobacterium sp. OK887	#984ea3
+Mycobacterium sp. OK889	#984ea3
+Mycobacterium sp. YR708	#984ea3
+Mycobacterium sp. YR782	#984ea3
+Mycobacterium tuberculosis H37Ra	#984ea3
+Nocardia sp.	#984ea3
+Rhodococcus sp. (in: high G+C Gram-positive bacteria)	#984ea3
+Rhodococcus sp. OK269	#984ea3
+Rhodococcus sp. OK519	#984ea3
+Rhodococcus sp. OK551	#984ea3
+Rhodococcus sp. OK611	#984ea3
+Rhodococcus sp. OK302	#984ea3
+Rhodococcus sp. OK270	#984ea3
+Rhodococcus erythropolis SK121	#984ea3
+Dietzia sp.	#984ea3
+Bifidobacterium sp.	#984ea3
+Bifidobacterium sp. MSTE12	#984ea3
+Bifidobacterium bifidum ATCC 29521 = JCM 1255 = DSM 20456	#984ea3
+Bifidobacterium longum NCC2705	#984ea3
+Bifidobacterium adolescentis L2-32	#984ea3
+Bifidobacterium adolescentis ATCC 15703	#984ea3
+Bifidobacterium angulatum F16_22	#984ea3
+Bifidobacterium breve DSM 20213 = JCM 1192	#984ea3
+Bifidobacterium breve EX336960VC19	#984ea3
+Bifidobacterium breve EX336960VC18	#984ea3
+Bifidobacterium breve HPH0326	#984ea3
+Bifidobacterium breve JCP7499	#984ea3
+Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043	#984ea3
+Bifidobacterium dentium JCM 1195 = DSM 20436	#984ea3
+Bifidobacterium scardovii JCM 12489 = DSM 13734	#984ea3
+Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505	#984ea3
+Gardnerella vaginalis 315-A	#984ea3
+Gardnerella vaginalis JCP7275	#984ea3
+Gardnerella vaginalis JCP7276	#984ea3
+Gardnerella pickettii JCP7659	#984ea3
+Gardnerella vaginalis JCP7672	#984ea3
+Gardnerella pickettii JCP7719	#984ea3
+Gardnerella pickettii JCP8017A	#984ea3
+Gardnerella pickettii JCP8017B	#984ea3
+Gardnerella vaginalis JCP8066	#984ea3
+Gardnerella vaginalis JCP8070	#984ea3
+Gardnerella vaginalis JCP8108	#984ea3
+Gardnerella vaginalis JCP8151A	#984ea3
+Gardnerella vaginalis JCP8151B	#984ea3
+Gardnerella vaginalis JCP8481B	#984ea3
+Gardnerella vaginalis JCP8522	#984ea3
+Streptomyces griseoflavus Tu4000	#984ea3
+Streptomyces scabiei 87.22	#984ea3
+Streptomyces albus J1074	#984ea3
+Streptomyces sp. BK340	#984ea3
+Streptomyces sp. cf124	#984ea3
+Streptomyces sp. cf386	#984ea3
+Streptomyces sp. ok210	#984ea3
+Streptomyces sp. yr375	#984ea3
+Streptomyces sp. CNQ-525	#984ea3
+Streptomyces sp. CNR698	#984ea3
+Streptomyces sp.	#984ea3
+Streptomyces sp. CNT318	#984ea3
+Streptomyces sp. CNT360	#984ea3
+Streptomyces sp. CNQ865	#984ea3
+Streptomyces sp. CNH287	#984ea3
+Streptomyces sp. TAA040	#984ea3
+Streptomyces sp. BK161	#984ea3
+Streptomyces sp. BRA346	#984ea3
+Streptomyces sp. Tu6071	#984ea3
+Streptomyces sp. TAA204	#984ea3
+Streptomyces sp. CBMAI 2042	#984ea3
+Streptomyces sp. SID1034	#984ea3
+Streptomyces sp. SID1046	#984ea3
+Streptomyces sp. SID1328	#984ea3
+Streptomyces sp. SID161	#984ea3
+Streptomyces sp. SID1	#984ea3
+Streptomyces sp. SID2119	#984ea3
+Streptomyces sp. SID2131	#984ea3
+Streptomyces sp. SID2563	#984ea3
+Streptomyces sp. SID2955	#984ea3
+Streptomyces sp. SID2999	#984ea3
+Streptomyces sp. SID3212	#984ea3
+Streptomyces sp. SID335	#984ea3
+Streptomyces sp. SID2888	#984ea3
+Streptomyces sp. SID3343	#984ea3
+Streptomyces sp. SID337	#984ea3
+Streptomyces sp. SID3915	#984ea3
+Streptomyces sp. SID486	#984ea3
+Streptomyces sp. CNS606	#984ea3
+Streptomyces sp. SID4956	#984ea3
+Streptomyces sp. SID4982	#984ea3
+Streptomyces sp. SID4985	#984ea3
+Streptomyces sp. SID5606	#984ea3
+Streptomyces sp. SID5614	#984ea3
+Streptomyces sp. SID5643	#984ea3
+Streptomyces sp. SID5770	#984ea3
+Streptomyces sp. SID5785	#984ea3
+Streptomyces sp. SID5789	#984ea3
+Streptomyces sp. SID5840	#984ea3
+Streptomyces sp. SID5910	#984ea3
+Streptomyces sp. SID5914	#984ea3
+Streptomyces sp. SID5926	#984ea3
+Streptomyces sp. SID5998	#984ea3
+Streptomyces sp. SID6013	#984ea3
+Streptomyces sp. SID6041	#984ea3
+Streptomyces sp. SID6137	#984ea3
+Streptomyces sp. SID6139	#984ea3
+Streptomyces sp. SID625	#984ea3
+Streptomyces sp. SID685	#984ea3
+Streptomyces sp. SID69	#984ea3
+Streptomyces sp. SID724	#984ea3
+Streptomyces sp. SID7760	#984ea3
+Streptomyces sp. SID7834	#984ea3
+Streptomyces sp. SID89	#984ea3
+Streptomyces sp. CNQ329	#984ea3
+Streptomyces sp. TAA486	#984ea3
+Streptomyces sp. MS 110128	#984ea3
+Streptomyces sp. CBR53	#984ea3
+Streptomyces sp. BK022	#984ea3
+Streptomyces sp. BK215	#984ea3
+Streptomyces sp. BK387	#984ea3
+Streptomyces sp. BK042	#984ea3
+Streptomyces sp. BK208	#984ea3
+Streptomyces sp. BK438	#984ea3
+Streptomyces sp. BK674	#984ea3
+Streptomyces sp. BK038	#984ea3
+Streptomyces sp. BK447	#984ea3
+Streptomyces sp. BK329	#984ea3
+Streptomyces sp. BK561	#984ea3
+Streptomyces sp. MBT84	#984ea3
+Streptomyces sp. CNT372	#984ea3
+Streptomyces sp. CNT302	#984ea3
+Streptomyces sp. CNB091	#984ea3
+Streptomyces sp. CNS615	#984ea3
+Streptomyces sp. CNY228	#984ea3
+Streptomyces sp. CNS335	#984ea3
+Streptomyces sp. CNY243	#984ea3
+Streptomyces sp. CNH189	#984ea3
+Streptomyces sp. CNT371	#984ea3
+Streptomyces sp. DUT11	#984ea3
+Streptomyces sp. CNP082	#984ea3
+Streptomyces sp. Mg1	#984ea3
+Streptomyces sp. OK885	#984ea3
+Streptomyces sp. OK228	#984ea3
+Streptomyces sp. OV198	#984ea3
+Streptomyces sp. S063	#984ea3
+Streptomyces sp. CNX435	#984ea3
+Streptomyces sp. CNS654	#984ea3
+Streptomyces sp. DSM 5940	#984ea3
+Streptomyces bacillaris	#984ea3
+Streptomyces filamentosus NRRL 15998	#984ea3
+Streptomyces diastaticus	#984ea3
+Streptomyces rutgersensis	#984ea3
+Streptomyces chartreusis NRRL 3882	#984ea3
+Streptomyces coelicolor A3(2)	#984ea3
+Streptomycetaceae bacterium CNQ766	#984ea3
+Streptomyces sp. CNH099	#984ea3
+Kitasatospora sp. OK780	#984ea3
+Streptantibioticus cattleyicolor NRRL 8057 = DSM 46488	#984ea3
+Schaalia cardiffensis F0333	#984ea3
+Schaalia odontolytica F0309	#984ea3
+Actinomyces graevenitzii C83	#984ea3
+Actinomyces viscosus C505	#984ea3
+Actinomyces massiliensis F0489	#984ea3
+Actinomyces gerencseriae F0344	#984ea3
+Actinomyces johnsonii F0510	#984ea3
+Actinomyces sp.	#984ea3
+Amycolatopsis sp. AA4	#984ea3
+Nocardiopsis sp.	#984ea3
+Actinomadura sp.	#984ea3
+Planomonospora sp. ID67723	#984ea3
+Planomonospora sp. ID91781	#984ea3
+Planomonospora sp. ID82291	#984ea3
+Collinsella sp. 4_8_47FAA	#984ea3
+Olsenella sp.	#984ea3
+Olsenella uli MSTE5	#984ea3
+Lancefieldella parvula DNF00906	#984ea3
+Deinococcus grandis SK125	#4d6089
+Okeania hirsuta	#87d510
+Okeania plumata	#87d510
+Okeania erythroflocculosa	#87d510
+Okeania lorea	#87d510
+Lyngbya semiplena	#87d510
+Hyalidium penicilliforme	#87d510
+Microcystis aeruginosa	#87d510
+Chlorogloeopsis fritschii PCC 6912	#87d510
+Nostoc punctiforme PCC 73102	#87d510
+Nostoc sp. PCC 7120 = FACHB-418	#87d510
+Desmonostoc sp. PCC 7906	#87d510
+Trichormus variabilis ATCC 29413	#87d510
+Scytonema hofmannii PCC 7110	#87d510
+Calothrix sp. PCC 6303	#87d510
+Fischerella muscicola PCC 7414	#87d510
+Mastigocladus laminosus SAG 4.84	#87d510
+Nodularia sphaerocarpa PCC 7804	#87d510
+Tolypothrix tenuis SAG 94.79	#87d510
+Synechococcus elongatus PCC 7942 = FACHB-805	#87d510
+Synechococcus elongatus PCC 6301	#87d510
+Synechococcus sp. PCC 7502	#87d510
+Synechococcus sp. CC9311	#87d510
+Prochlorococcus marinus str. MIT 9215	#87d510
+Leptolyngbya boryana PCC 6306	#87d510
+Leptolyngbya sp. SIO4C1	#87d510
+Leptolyngbya sp. SIOISBB	#87d510
+Leptolyngbya sp. SIO4C5	#87d510
+Phormidesmis molle SAG 26.99	#87d510
+Pleurocapsa sp. PCC 7327	#87d510
+Stanieria cyanosphaera SAG 33.87	#87d510
+Prevotella sp. oral taxon 472 str. F0295	#ca2c74
+Prevotella sp. oral taxon 317 str. F0108	#ca2c74
+Chryseobacterium sp. OV705	#ca2c74
+Chryseobacterium sp. YR459	#ca2c74
+Chryseobacterium sp. YR221	#ca2c74
+Chryseobacterium sp. YR485	#ca2c74
+Homo sapiens	#e41a1c
+Casuarina equisetifolia subsp. incana	#ff7f00
+Trachelomonas sp.	#e24db1
+Euglena gracilis var. saccharophila	#e24db1
+Pseudomonas syringae pv. tomato str. DC3000	#2a82e5
+Klebsiella pneumoniae subsp. pneumoniae WGLW1	#2a82e5
+Klebsiella pneumoniae subsp. pneumoniae WGLW2	#2a82e5
+Klebsiella pneumoniae subsp. pneumoniae WGLW3	#2a82e5
+Paenibacillus larvae subsp. larvae DSM 25430	#c0faec
+Bacillus amyloliquefaciens	#c0faec
+Bacillus subtilis PY79	#c0faec
+Staphylococcus aureus subsp. aureus USA300_TCH1516	#c0faec
+Gemella haemolysans M341	#c0faec
+Gemella sanguinis M325	#c0faec
+Streptococcus anginosus F0211	#c0faec
+Streptococcus intermedius F0413	#c0faec
+Peptoniphilus sp. oral taxon 386 str. F0131	#c0faec
+Microbacterium sp. oral taxon 186 str. F0373	#984ea3
+Bifidobacterium longum subsp. longum 44B	#984ea3
+Bifidobacterium longum subsp. longum 1-6B	#984ea3
+Bifidobacterium longum subsp. longum 2-2B	#984ea3
+Bifidobacterium longum subsp. longum 35B	#984ea3
+Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 = DSM 20088	#984ea3
+Bifidobacterium pseudolongum subsp. pseudolongum DSM 20099	#984ea3
+Bifidobacterium animalis subsp. lactis DSM 10140	#984ea3
+Bifidobacterium animalis subsp. animalis ATCC 25527	#984ea3
+Streptomyces albus subsp. albus DSM 41398	#984ea3
+Streptomyces griseus	#984ea3
+Moorena producens JHB	#87d510
+Moorena producens PAL	#87d510
+Moorena producens 3L	#87d510
+Moorena sp. SIOASIH	#87d510
+Moorena sp. SIO1F2	#87d510
+Moorena sp. SIO4G3	#87d510
+Moorena sp. SIO3A5	#87d510
+Moorena sp. SIO2C4	#87d510
+Moorena sp. SIO4G2	#87d510
+Moorena sp. SIO3B2	#87d510
+Moorena sp. SIO3E2	#87d510
+Moorena sp. SIO3E8	#87d510
+Moorena sp. SIO1G6	#87d510
+Moorena sp. SIO3C2	#87d510
+Moorena bouillonii PNG	#87d510
+Okeania sp. SIO1H4	#87d510
+Okeania sp. SIO2B9	#87d510
+Okeania sp. SIO3C4	#87d510
+Okeania sp. SIO2F4	#87d510
+Okeania sp. SIO2C9	#87d510
+Okeania sp. SIO2F5	#87d510
+Okeania sp. SIO2G5	#87d510
+Okeania sp. SIO2H7	#87d510
+Okeania sp. SIO3B3	#87d510
+Okeania sp. SIO3B5	#87d510
+Okeania sp. SIO1F9	#87d510
+Oscillatoria acuminata PCC 6304	#87d510
+Kamptonema sp. SIO4C4	#87d510
+Symploca sp. SIO1B1	#87d510
+Symploca sp. SIO2B6	#87d510
+Symploca sp. SIO2D2	#87d510
+Symploca sp. SIO2C1	#87d510
+Symploca sp. SIO2G7	#87d510
+Symploca sp. SIO3C6	#87d510
+Symploca sp. SIO2E9	#87d510
+Microcoleus sp. SIO2G3	#87d510
+Cyanothece sp. SIO1E1	#87d510
+Cyanothece sp. SIO2G6	#87d510
+Synechocystis sp. PCC 6803 substr. GT-T	#87d510
+Botryoderma rostratum	#4daf4a
+[Candida] sp. (uncertain placement)	#4daf4a
+Schizosaccharomyces pombe	#4daf4a
+Rhodotorula glutinis	#de3940
+Mortierella alpina	#ffff33
+Basidiobolus meristosporus	#e584b0
+Bacillus velezensis FZB42	#c0faec
+Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10	#c0faec
+Bacillus subtilis subsp. subtilis str. 168	#c0faec
+Streptomyces sp. M54	#984ea3
+Komagataella phaffii	#4daf4a
+Geotrichum candidum	#4daf4a
+Diutina catenulata	#4daf4a
+Saccharomyces cerevisiae	#4daf4a
+Debaryomyces hansenii	#4daf4a
+Candida dubliniensis	#4daf4a
+Candida metapsilosis	#4daf4a
+Papiliotrema laurentii	#de3940
+Tausonia pullulans	#de3940
+Scutiger	#de3940
+Stereopsis humphreyi	#de3940
+Turbinellus floccosus	#de3940
+Clavariadelphus occidentalis	#de3940
+Clavariadelphus truncatus	#de3940
+Clavariadelphus mucronatus	#de3940
+Ramaria stricta	#de3940
+Ramaria formosa	#de3940
+Ramaria velocimutans	#de3940
+Ramaria rubripermanens	#de3940
+Ramaria claviramulata	#de3940
+Ramaria leptoformosa	#de3940
+Gomphus clavatus	#de3940
+Dacrymyces chrysospermus	#de3940
+Malassezia restricta	#de3940
+Ustilago striiformis	#de3940
+Tuber melanosporum	#4daf4a
+Geotrichum sp.	#4daf4a
+Debaryomyces sp.	#4daf4a
+Pallidohirschioporus biformis	#de3940
+Hirschioporus abietinus	#de3940
+Lentinus brumalis	#de3940
+Polyporus arcularius	#de3940
+Polyporus tuberaster	#de3940
+Boletus leptocephalus (nom. illeg.)	#de3940
+Perenniporiopsis minutissima	#de3940
+Cerioporus mollis	#de3940
+Coriolopsis trogii	#de3940
+Metacampanella tricolor	#de3940
+Daedalea confragosa	#de3940
+Trametes vernicipes	#de3940
+Microporus affinis	#de3940
+Trametes coccinea	#de3940
+Trametes strumosa	#de3940
+Trametes gibbosa	#de3940
+Trametes versicolor	#de3940
+Trametes hirsuta	#de3940
+Trametes orientalis	#de3940
+Trametes suaveolens	#de3940
+Lopharia cinerascens	#de3940
+Neoporia koreana	#de3940
+Perenniporia fraxinea	#de3940
+Poriella subacida	#de3940
+Lenzites styracinus	#de3940
+Lenzites betulinus	#de3940
+Neofavolus alveolaris	#de3940
+Cryptoporus volvatus	#de3940
+Fomes fomentarius	#de3940
+Ischnoderma resinosum	#de3940
+Cerrena consors	#de3940
+Cerrena unicolor	#de3940
+Cerrena aurantiopora	#de3940
+Phlebiopsis gigantea	#de3940
+Phlebiopsis castanea	#de3940
+Bjerkandera adusta	#de3940
+Postia ptychogaster	#de3940
+Tyromyces chioneus	#de3940
+Skeletocutis nivea	#de3940
+Fomitopsis mounceae	#de3940
+Rhodofomes cajanderi	#de3940
+Nigroporus vinosus	#de3940
+Pycnoporellus fulgens	#de3940
+Grifola frondosa	#de3940
+Cinereomyces lindbladii	#de3940
+Trametopsis cervina	#de3940
+Polyozellus atrolazulinus	#de3940
+Boletopsis grisea	#de3940
+Cantharellus formosus	#de3940
+Cantharellus subalbidus	#de3940
+Cantharellus cascadensis	#de3940
+Cantharellus californicus	#de3940
+Craterellus tubaeformis	#de3940
+Clavulina coralloides	#de3940
+Clavulina cinerea	#de3940
+Hydnum umbilicatum	#de3940
+Auricularia americana	#de3940
+Lactarius aestivus	#de3940
+Lactarius scrobiculatus	#de3940
+Lactarius rubrilacteus	#de3940
+Lactarius fallax	#de3940
+Russula xerampelina	#de3940
+Russula americana	#de3940
+Hericium coralloides	#de3940
+Hericium abietis	#de3940
+Heterobasidion occidentale	#de3940
+Bondarzewia occidentalis	#de3940
+Neolentinus lepideus	#de3940
+Leucoagaricus	#de3940
+Ampulloclitocybe clavipes	#de3940
+Arrhenia epichysium	#de3940
+Chrysomphalina aurantiaca	#de3940
+Aphroditeola olida	#de3940
+Amanita gemmata	#de3940
+Amanita phalloides	#de3940
+Amanita constricta	#de3940
+Amanita porphyria	#de3940
+Amanita smithiana	#de3940
+Amanita pantherinoides	#de3940
+Amanita protecta	#de3940
+Amanita pachycolea	#de3940
+Amanita silvicola	#de3940
+Ramariopsis kunzei	#de3940
+Ramariopsis laeticolor	#de3940
+Chalciporus piperatus	#de3940
+Pisolithus arhizus	#de3940
+Ramaria apiculata var. apiculata	#de3940
+Ramaria sandaracina var. sandaracina	#de3940
+Ramaria cystidiophora var. citronella	#de3940
+Ramaria flavobrunnescens var. aromatica	#de3940
+Ramaria gelatinosa var. oregonensis	#de3940
+Ramaria araiospora var. araiospora	#de3940
+Quambalaria sp.	#de3940
+Pestalotiopsis	#4daf4a
+Pestalotia	#4daf4a
+Lactarius luculentus var. laetus	#de3940
+Collybia nuda	#de3940
+Clitocybe salmonilamella	#de3940
+Clitocybe fragrans	#de3940
+Collybia odora	#de3940
+Clitocybe nebularis	#de3940
+Collybia dealbata	#de3940
+Collybia cookei	#de3940
+Collybia cirrhata	#de3940
+Tricholoma dulciolens	#de3940
+Tricholoma inamoenum	#de3940
+Tricholoma mutabile	#de3940
+Tricholoma murrillianum	#de3940
+Tricholoma focale	#de3940
+Tricholoma pardinum	#de3940
+Tricholoma portentosum	#de3940
+Tricholoma matsutake	#de3940
+Leucopaxillus giganteus	#de3940
+Leucopaxillus albissimus	#de3940
+Clitopilus hobsonii	#de3940
+Clitopilus prunulus	#de3940
+Asterophora lycoperdoides	#de3940
+Mycena pura	#de3940
+Atheniella adonis	#de3940
+Atheniella aurantiidisca	#de3940
+Gerronema atrialbum	#de3940
+Armillaria solidipes	#de3940
+Connopus acervatus	#de3940
+Agaricus semotus	#de3940
+Agaricus albolutescens	#de3940
+Agaricus buckmacadooi	#de3940
+Agaricus subrufescens	#de3940
+Agaricus subrutilescens	#de3940
+Agaricus bisporus	#de3940
+Agaricus californicus	#de3940
+Agaricus thiersii	#de3940
+Battarrea phalloides	#de3940
+Chlorophyllum brunneum	#de3940
+Chlorophyllum olivieri	#de3940
+Chlorophyllum rhacodes	#de3940
+Lepiota spheniscispora	#de3940
+Lepiota clypeolaria	#de3940
+Coprinus comatus	#de3940
+Calonarius rufo-olivaceus	#de3940
+Calonarius xanthophyllus	#de3940
+Cortinarius boulderensis	#de3940
+Cortinarius croceus	#de3940
+Cortinarius orellanus	#de3940
+Cortinarius venetus	#de3940
+Cortinarius caperatus	#de3940
+Cortinarius uliginosus	#de3940
+Cortinarius anomalovelatus	#de3940
+Cortinarius athabascus	#de3940
+Cortinarius cacaocolor	#de3940
+Cortinarius bulliardii	#de3940
+Cortinarius trivialis	#de3940
+Cortinarius anomalus	#de3940
+Cortinarius alboviolaceus	#de3940
+Cortinarius collinitus	#de3940
+Cortinarius traganus	#de3940
+Cortinarius tophaceus	#de3940
+Cortinarius californicus	#de3940
+Cortinarius cinnamomeus	#de3940
+Cortinarius alboglobosus	#de3940
+Cortinarius flexipes	#de3940
+Thaxterogaster causticus	#de3940
+Phlegmacium albofragrans	#de3940
+Gymnopilus ventricosus	#de3940
+Gymnopilus sapineus	#de3940
+Bolbitius titubans	#de3940
+Leratiomyces ceres	#de3940
+Pholiota flammans	#de3940
+Laccaria laccata	#de3940
+Coprinellus micaceus	#de3940
+Coprinopsis atramentaria	#de3940
+Fuscospina nigrescens	#de3940
+Macrotyphula juncea	#de3940
+Pleurotus ostreatus	#de3940
+Pleurotus eryngii	#de3940
+Schizophyllum commune	#de3940
+Fistulina hepatica	#de3940
+Amanita muscaria subsp. flavivolvata	#de3940
+Chroogomphus ochraceus	#de3940
+Chroogomphus tomentosus	#de3940
+Chroogomphus vinicolor	#de3940
+Suillus ponderosus	#de3940
+Suillus brevipes	#de3940
+Suillus umbonatus	#de3940
+Suillellus amygdalinus	#de3940
+Butyriboletus autumniregius	#de3940
+Xerocomellus mendocinensis	#de3940
+Xerocomellus atropurpureus	#de3940
+Boletus fibrillosus	#de3940
+Xerocomus spadiceus	#de3940
+Phylloporus arenicola	#de3940
+Aureoboletus mirabilis	#de3940
+Daldinia eschscholtzii	#4daf4a
+Neoidriella desertorum	#4daf4a
+Hansfordia pulvinata	#4daf4a
+Arthrinium phaeospermum	#4daf4a
+Nigrospora sphaerica	#4daf4a
+Nigrospora oryzae	#4daf4a
+Stromatinia cepivora	#4daf4a
+Tetracladium marchalianum	#4daf4a
+Tetracladium maxilliforme	#4daf4a
+Mycochaetophora gentianae	#4daf4a
+Cadophora luteo-olivacea	#4daf4a
+Trichosporiella cerebriformis	#4daf4a
+Calycina marina	#4daf4a
+Hyalopeziza raripila	#4daf4a
+Pseudogymnoascus destructans	#4daf4a
+Pseudogymnoascus pannorum	#4daf4a
+[Chrysosporium] pseudomerdarium	#4daf4a
+Oidiodendron tenuissimum	#4daf4a
+Oidiodendron truncatum	#4daf4a
+Aspergillus cristatus	#4daf4a
+Aspergillus fimeti	#4daf4a
+Aspergillus pseudoglaucus	#4daf4a
+Aspergillus parasiticus	#4daf4a
+Aspergillus welwitschiae	#4daf4a
+Aspergillus allahabadii	#4daf4a
+Penicillium steckii	#4daf4a
+Penicillium pullum	#4daf4a
+Penicillium allii	#4daf4a
+Penicillium glandicola	#4daf4a
+Penicillium brevistipitatum	#4daf4a
+Penicillium thiersii	#4daf4a
+Penicillium lineolatum	#4daf4a
+Penicillium viridicatum	#4daf4a
+Penicillium solitum	#4daf4a
+Penicillium virgatum	#4daf4a
+Penicillium coprophilum	#4daf4a
+Penicillium thomii	#4daf4a
+Penicillium commune	#4daf4a
+Penicillium adametzii	#4daf4a
+Penicillium citreonigrum	#4daf4a
+Penicillium herquei	#4daf4a
+Penicillium ochrochloron	#4daf4a
+Penicillium oxalicum	#4daf4a
+Penicillium roseopurpureum	#4daf4a
+Penicillium sclerotiorum	#4daf4a
+Penicillium fellutanum	#4daf4a
+Penicillium multicolor	#4daf4a
+Penicillium sumatraense	#4daf4a
+Penicillium citrinum	#4daf4a
+Penicillium brevicompactum	#4daf4a
+Penicillium janthinellum	#4daf4a
+Penicillium roqueforti	#4daf4a
+Penicillium pedernalense	#4daf4a
+Penicillium brasilianum	#4daf4a
+Penicillium striatisporum	#4daf4a
+Penicillium janczewskii	#4daf4a
+Penicillium philippinense	#4daf4a
+Penicillium aurantiocandidum	#4daf4a
+Thermoascus verrucosus	#4daf4a
+Chrysosporium merdarium	#4daf4a
+Trichophyton erinacei	#4daf4a
+Exophiala bonariae	#4daf4a
+Exophiala equina	#4daf4a
+Exophiala pisciphila	#4daf4a
+Knufia tsunedae	#4daf4a
+Cyphellophora aestiva	#4daf4a
+Endocarpon pusillum	#4daf4a
+Umbilicaria muehlenbergii	#4daf4a
+Liua muriformis	#4daf4a
+Teichospora grandicipis	#4daf4a
+Teichospora austroafricana	#4daf4a
+Atrocalyx asturiensis	#4daf4a
+Lophiostoma corticola	#4daf4a
+Lophiostoma macrostomum	#4daf4a
+Westerdykella capitulum	#4daf4a
+Westerdykella centenaria	#4daf4a
+Verruconis verruculosa	#4daf4a
+Veronaeopsis simplex	#4daf4a
+Scolecobasidium constrictum	#4daf4a
+Scolecobasidium minimum	#4daf4a
+Scolecobasidium humicola	#4daf4a
+Scolecobasidium tshawytschae	#4daf4a
+Halokirschsteiniothelia maritima	#4daf4a
+Xenodevriesia strelitziicola	#4daf4a
+Chaetocapnodium placitae	#4daf4a
+Conidiocarpus siamensis	#4daf4a
+Aureobasidium pullulans	#4daf4a
+Cladosporium herbarum	#4daf4a
+Cladosporium cladosporioides	#4daf4a
+Acrodontium salmoneum	#4daf4a
+Cercospora brachiata	#4daf4a
+Hemimycena sp.	#de3940
+Alboleptonia sp.	#de3940
+Agaricus sp.	#de3940
+Coniochaeta psammospora	#4daf4a
+Coniochaeta discospora	#4daf4a
+Coniochaeta cateniformis	#4daf4a
+Coniochaeta ligniaria	#4daf4a
+Coniochaeta fasciculata	#4daf4a
+Coniochaeta luteoviridis	#4daf4a
+Acrophialophora levis	#4daf4a
+Arcopilus aureus	#4daf4a
+Subramaniula flavipila	#4daf4a
+Humicola seminuda	#4daf4a
+Humicola brevis	#4daf4a
+Humicola homopilata	#4daf4a
+Trichocladium griseum	#4daf4a
+Pseudothielavia terricola	#4daf4a
+Fimetariella rabenhorstii	#4daf4a
+Cladorrhinum flexuosum	#4daf4a
+Apoharknessia insueta	#4daf4a
+Jattaea algeriensis	#4daf4a
+Phialemonium inflatum	#4daf4a
+Phaeoacremonium parasiticum	#4daf4a
+Myrmecridium schulzeri	#4daf4a
+Albifimbria verrucaria	#4daf4a
+Striaticonidium cinctum	#4daf4a
+Striaticonidium humicola	#4daf4a
+Stachybotrys chartarum	#4daf4a
+Valsonectria roseola	#4daf4a
+Purpureocillium lilacinum	#4daf4a
+Parengyodontium album	#4daf4a
+Beauveria bassiana	#4daf4a
+Beauveria felina	#4daf4a
+Lecanicillium psalliotae	#4daf4a
+Cordyceps farinosa	#4daf4a
+Mariannaea elegans	#4daf4a
+Dactylonectria torresensis	#4daf4a
+Fusarium oxysporum	#4daf4a
+Fusarium graminearum	#4daf4a
+Fusarium solani	#4daf4a
+Fusarium proliferatum	#4daf4a
+Pseudonectria foliicola	#4daf4a
+Volutella ciliata	#4daf4a
+Nectria pseudotrichia	#4daf4a
+Trichoderma citrinoviride	#4daf4a
+Trichoderma lentiforme	#4daf4a
+Trichoderma asperellum	#4daf4a
+Trichoderma harzianum	#4daf4a
+Trichoderma viride	#4daf4a
+Trichoderma rifaii	#4daf4a
+Trichoderma atroviride	#4daf4a
+Trichoderma crassum	#4daf4a
+Trichoderma strigosellum	#4daf4a
+Trichoderma polysporum	#4daf4a
+Keithomyces carneus	#4daf4a
+Marquandomyces marquandii	#4daf4a
+Metarhizium anisopliae	#4daf4a
+Protocreopsis rutila	#4daf4a
+Clonostachys rosea	#4daf4a
+Proxiovicillium blochii	#4daf4a
+Verruciconidia persicina	#4daf4a
+[Acremonium] antarcticum	#4daf4a
+Eucasphaeria capensis	#4daf4a
+Parasarocladium debruynii	#4daf4a
+Parasarocladium radiatum	#4daf4a
+Sarocladium kiliense	#4daf4a
+Sarocladium strictum	#4daf4a
+Sarocladium implicatum	#4daf4a
+Monocillium ligusticum	#4daf4a
+Monocillium indicum	#4daf4a
+Parascedosporium putredinis	#4daf4a
+Scopulariopsis flava	#4daf4a
+Scopulariopsis fusca	#4daf4a
+Wardomyces inflatus	#4daf4a
+Acrostalagmus luteoalbus	#4daf4a
+Lectera capsici	#4daf4a
+Furcasterigmium furcatum	#4daf4a
+Plectosphaerella cucumerina	#4daf4a
+Daldinia sp.	#4daf4a
+Botrytis cinerea B05.10	#4daf4a
+Geomyces sp. 'luteus'	#4daf4a
+Talaromyces amestolkiae	#4daf4a
+Talaromyces aurantiacus	#4daf4a
+Talaromyces stipitatus	#4daf4a
+Talaromyces flavus	#4daf4a
+Talaromyces purpureogenus	#4daf4a
+Talaromyces pinophilus	#4daf4a
+Talaromyces sp.	#4daf4a
+Talaromyces trachyspermus	#4daf4a
+Talaromyces minioluteus	#4daf4a
+Aspergillus flavipes	#4daf4a
+Aspergillus niger	#4daf4a
+Aspergillus ochraceus	#4daf4a
+Aspergillus amstelodami	#4daf4a
+Aspergillus sp.	#4daf4a
+Penicillium chrysogenum	#4daf4a
+Penicillium echinulatum	#4daf4a
+Penicillium sp.	#4daf4a
+Penicillium expansum ATCC 24692	#4daf4a
+Penicillium glabrum DAOM 239074	#4daf4a
+Cladonia metacorallifera KoLRI002260	#4daf4a
+Parastagonospora avenae	#4daf4a
+Phaeosphaeria sinensis	#4daf4a
+Phaeosphaeria caricis	#4daf4a
+Setophaeosphaeria citricola	#4daf4a
+Sclerostagonospora cycadis	#4daf4a
+Paraphoma fimeti	#4daf4a
+Pseudoophiobolus galii	#4daf4a
+Ophiosimulans tanaceti	#4daf4a
+Neopyrenochaeta acicola	#4daf4a
+Plenodomus chelidonii	#4daf4a
+Plenodomus meliloti	#4daf4a
+Epicoccum nigrum	#4daf4a
+Neoascochyta graminicola	#4daf4a
+Microsphaeropsis arundinis	#4daf4a
+Leptosphaerulina australis	#4daf4a
+Neocucurbitaria unguis-hominis	#4daf4a
+Pyrenochaeta gentianicola	#4daf4a
+Curvularia pisi	#4daf4a
+Alternaria sorghi	#4daf4a
+Pleiochaeta ghindensis	#4daf4a
+Dokmaia monthadangii	#4daf4a
+Pyrenochaetopsis leptospora	#4daf4a
+Pyrenochaetopsis confluens	#4daf4a
+Xenopyrenochaetopsis pratorum	#4daf4a
+Biatriospora sp.	#4daf4a
+Didymosphaeria futilis	#4daf4a
+Keissleriella cladophila	#4daf4a
+Preussia subticinensis	#4daf4a
+Preussia australis	#4daf4a
+Preussia funiculata	#4daf4a
+Aureobasidium sp.	#4daf4a
+Cladosporium sp.	#4daf4a
+Neodeightonia sp.	#4daf4a
+Diaporthe sp.	#4daf4a
+Tolypocladium sp.	#4daf4a
+Beauveria sp.	#4daf4a
+Lecanicillium sp.	#4daf4a
+Simplicillium sp.	#4daf4a
+Fusarium tricinctum	#4daf4a
+Fusarium avenaceum	#4daf4a
+Fusarium sp.	#4daf4a
+Volutella sp.	#4daf4a
+Trichoderma sp.	#4daf4a
+Escovopsis sp. ACRO424	#4daf4a
+Escovopsis sp.	#4daf4a
+Geosmithia putterillii	#4daf4a
+Scopulariopsis sp.	#4daf4a
+Aspergillus oryzae AS 3.951	#4daf4a
+Aspergillus terreus ATCC 20542	#4daf4a
+Aspergillus fumigatus GA-L7	#4daf4a
+Aspergillus nidulans FGSC A4	#4daf4a
+Epicoccum sp.	#4daf4a
+Phoma sp.	#4daf4a
+Curvularia lunata CX-3	#4daf4a
+Alternaria sp.	#4daf4a
+Alternaria tenuissima	#4daf4a
+Alternaria alternata	#4daf4a
+Massarina sp.	#4daf4a

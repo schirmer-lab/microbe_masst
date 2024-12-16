@@ -1,0 +1,47 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Phylum Annotations
+COLOR	#ff0000
+COLOR_BRANCHES	1
+LEGEND_TITLE	Phylum
+LEGEND_SHAPES	1	1	1	1	1
+LEGEND_COLORS	#e41a1c	#377eb8	#4daf4a	#984ea3	#ff7f00
+LEGEND_LABELS	Basidiomycota	Pseudomonadota	Ascomycota	Chordata	Actinomycetota
+BORDER_WIDTH	1
+BORDER_COLOR	#000000
+SHOW_STRIP_LABELS	1
+DATA
+#NODE_ID	COLOR
+Escherichia coli	#377eb8
+Mycobacterium tuberculosis H37Ra	#ff7f00
+Homo sapiens	#984ea3
+Komagataella phaffii	#4daf4a
+Aspergillus pseudoglaucus	#4daf4a
+Auricularia americana	#e41a1c
+Clavariadelphus mucronatus	#e41a1c
+Gomphus clavatus	#e41a1c
+Turbinellus floccosus	#e41a1c
+Scutiger	#e41a1c
+Hericium coralloides	#e41a1c
+Phlebiopsis gigantea	#e41a1c
+Rhodofomes cajanderi	#e41a1c
+Trametes vernicipes	#e41a1c
+Hydnum umbilicatum	#e41a1c
+Cantharellus subalbidus	#e41a1c
+Fistulina hepatica	#e41a1c
+Tricholoma portentosum	#e41a1c
+Battarrea phalloides	#e41a1c
+Ramaria velocimutans	#e41a1c
+Ramaria formosa	#e41a1c
+Ramaria stricta	#e41a1c
+Ramaria claviramulata	#e41a1c
+Ramaria gelatinosa var. oregonensis	#e41a1c
+Ramaria apiculata var. apiculata	#e41a1c
+Russula americana	#e41a1c
+Xerocomellus mendocinensis	#e41a1c
+Xerocomus spadiceus	#e41a1c
+Chalciporus piperatus	#e41a1c
+Suillus ponderosus	#e41a1c
+Suillus umbonatus	#e41a1c
+Lactarius rubrilacteus	#e41a1c
+Lactarius luculentus var. laetus	#e41a1c

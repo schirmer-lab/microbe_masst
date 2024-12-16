@@ -76,12 +76,12 @@ def create_annotation(out_dir:str, prefix: str,  tree, ncbi, color_map="Pastel1"
 
     num_colors = len(set(phylum_annotations.values()))
     cmap = plt.get_cmap(color_map)
-    colors = [cmap(i) for i in range(num_colors)]
+    colors = [cmap(i) for i in range(cmap.N-1)] # cmap.N size is + 1 for some reason
     hex_colors = ["#{:02x}{:02x}{:02x}".format(int(r*255), int(g*255), int(b*255)) for r, g, b, _ in colors]
      
     # If there are more phyla than colors in the colormap, add random colors UNTESTED
     if num_colors > cmap.N:
-        additional_colors = num_colors - cmap.N
+        additional_colors = num_colors - len(colors)
         for _ in range(additional_colors):
             hex_colors.append("#{:06x}".format(random.randint(0, 0xFFFFFF)))
 
@@ -138,8 +138,9 @@ if __name__ == "__main__":
     tree = create_tree(taxIds, args.out_path, args.prefix,ncbi)
     create_annotation(args.out_path, args.prefix, tree, ncbi, args.color_map)
 
-# run in pipeline folder: python visualization.py -c "../files/level4/filtered_prefix_counts_microbe.tsv" -o . -p filtered_prefix_counts_microbe
+# run in pipeline folder: python visualization.py -c "../files/level4/filtered_prefix_counts_microbe.tsv" -o "../report/output" -p filtered_prefix_counts_microbe
 # see outputfiles: /workspaces/microbe_masst/pipeline/filtered_prefix_counts_microbe_tree.nw
 #                  /workspaces/microbe_masst/pipeline/filtered_prefix_counts_microbe_itol_annotations.txt
 
-# python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p microbe_csv -s ","
+# python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p data_microbe_csv -s ","
+#
