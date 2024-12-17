@@ -48,25 +48,30 @@ process runMicrobemasst {
     path out_dir
 
     output:
-    path "results"
+    publishDir "$out_dir", mode: 'copy'
 
     """
     python /workspaces/microbe_masst/code/run_microbeMASST.py \
         --csv_file ${mgfs_file_dir}/mgfs.csv
     
-    cp -r results/* ${out_dir}/
+   
     """
 }
 
 workflow {
-    /*log_params(params.out_dir)*/
+    log_params(params.out_dir)
     mgfs_file_dir = prepareInput(params.mgf, params.features)
     out_dir = createOutputDir(params.out_dir)
     runMicrobemasst(mgfs_file_dir, out_dir)
 }
 
+
 def log_params(out_dir) {
-    def params_log = "${out_dir}/run_parameters.log"
+    def pipeline_info_dir = "${out_dir}/pipeline_info"
+    
+    new File(pipeline_info_dir).mkdirs()
+
+    def params_log = "${pipeline_info_dir}/run_parameters.log"
     new File(params_log).text = """
     Workflow Parameters:
     --------------------
