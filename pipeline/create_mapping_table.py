@@ -9,10 +9,18 @@ def create_argparser():
     parser.add_argument('--sample_species', type=str, required=True, help='Path to the mapping file for sampleID to species')
     parser.add_argument('--expression_table', type=str, required=True, help='Path to the expression table of xcmsViewer')
     parser.add_argument('-v', '--verbose', action='store_true', default=False, help="activates printing of messages to console")
+    parser.add_argument('-o', '--output', type=str, required=True, help='Path to output file.')
 
     args = parser.parse_args()
 
     return args
+
+
+def split_and_concat(taxaname):
+    splits = taxaname.split(" ")
+    if len(splits) >= 2:
+        return f"{splits[0]}_{splits[1]}"
+    return taxaname
 
 
 if __name__ == "__main__":
@@ -24,6 +32,10 @@ if __name__ == "__main__":
     # reshape to Feature as unique index and taxaname_file as a list
     df = df.groupby("Feature")["Taxaname_file"].apply(set).reset_index()
     df = df.set_index("Feature")
+    df = df.set_index(df.index.str.upper())
+
+    # reshape taxa names to format of mapping sample ID to taxa
+    df["Taxaname_file_split"] = df["Taxaname_file"].apply(lambda x: {split_and_concat(name) for name in x})
 
     # read in the mapping of sample ID and according species
     sampleID_species_mapping = pd.read_excel(args.sample_species, sheet_name="Sheet1")
@@ -37,16 +49,27 @@ if __name__ == "__main__":
         sampleIDs = row[row > 0].index.tolist()
 
         # translate sample IDs to species names
-        species_names = []
+        species_names = set()
         for sampleID in sampleIDs:
             try:
-                species_names.append(sampleID_species_mapping.loc[sampleID_species_mapping["Strain_ID"] == sampleID, "Species"].values[0])
+                species_names.add(sampleID_species_mapping.loc[sampleID_species_mapping["Strain_ID"] == sampleID, "Species"].values[0])
             except Exception as e:
-                if verbose:
+                if args.verbose:
                     print(f"sampleID ({sampleID}) not in mapping table")
 
         # add collected species names to feature
         feature_sampleIDs[feature] = species_names
+
+    # add dictionary values as new column of df
+    df["Taxaname_samples"] = pd.Series(feature_sampleIDs)
+
+    # add column which includes Taxanames that are in both
+    df["Taxaname_intersection"] = df.apply(lambda row: row["Taxaname_file"].intersection(row["Taxaname_samples"]), axis=1)
+
+    # write mapping_table as tsv
+    df.to_csv(args.output, sep='\t')
+
+
 
 
 
