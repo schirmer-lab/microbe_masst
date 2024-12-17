@@ -48,3 +48,4 @@
 2024-12-10 15:02:47	14.1s	special_newton	OK	1dbb59b0063b27708d21846230c76d0a	0c46c71c-8376-48f6-97ac-7fc03f2d6e7c	nextflow main.nf
 2024-12-10 15:07:47	12s	evil_galileo	OK	68a400aec5b8c2b00397fe03c6b667b7	08a099f6-5cff-4a6f-903f-2b29291e35ee	nextflow main.nf
 2024-12-10 15:08:54	11.9s	condescending_ritchie	OK	51be03c0730451c978b36f7a645c6b1e	103cba43-6253-4003-9c73-611706fe9083	nextflow main.nf
+2024-12-17 12:22:50	-	deadly_carson	-	abd45079c346cc8c53001d640bac3673	e83a8356-6d23-43dc-b2d8-0dc2f65f7cc4	nextflow main.nf
