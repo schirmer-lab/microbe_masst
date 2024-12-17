@@ -1,5 +1,6 @@
 import pandas as pd
 import argparse
+import sys
 
 def create_argparser():
     parser = argparse.ArgumentParser(description="Mapper for the input of microbeMASST and its results")
@@ -7,6 +8,7 @@ def create_argparser():
     parser.add_argument('--feature_counts', type=str, required=True, help='Path to counts with features file')
     parser.add_argument('--sample_species', type=str, required=True, help='Path to the mapping file for sampleID to species')
     parser.add_argument('--expression_table', type=str, required=True, help='Path to the expression table of xcmsViewer')
+    parser.add_argument('-v', '--verbose', action='store_true', default=False, help="activates printing of messages to console")
 
     args = parser.parse_args()
 
@@ -17,15 +19,17 @@ if __name__ == "__main__":
     args = create_argparser()
 
     # read in output of microbeMASST -> tsv with features
-    df = pd.read_csv(args.feature_counts, sep="\t", index_col="feature")
+    df = pd.read_csv(args.feature_counts, sep="\t", index_col="Feature")
+
+    # reshape to Feature as unique index and taxaname_file as a list
+    df = df.groupby("Feature")["Taxaname_file"].apply(set).reset_index()
+    df = df.set_index("Feature")
 
     # read in the mapping of sample ID and according species
     sampleID_species_mapping = pd.read_excel(args.sample_species, sheet_name="Sheet1")
 
     # read in expression table of xcmsViewer
     expression_table = pd.read_csv(args.expression_table, sep="\t", index_col="feature")
-
-    print(expression_table)
 
     # get list of expressed sample IDs for each feature
     feature_sampleIDs = {}
@@ -38,7 +42,8 @@ if __name__ == "__main__":
             try:
                 species_names.append(sampleID_species_mapping.loc[sampleID_species_mapping["Strain_ID"] == sampleID, "Species"].values[0])
             except Exception as e:
-                print(f"sampleID not in mapping table: {e}")
+                if verbose:
+                    print(f"sampleID ({sampleID}) not in mapping table")
 
         # add collected species names to feature
         feature_sampleIDs[feature] = species_names
