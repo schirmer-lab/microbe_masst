@@ -44,24 +44,25 @@ process createOutputDir {
 
 process runMicrobemasst {
     input:
-    path consensus
+    path mgfs_file_dir
     path out_dir
 
     output:
-    path "$out_dir"
+    path "results"
 
     """
     python /workspaces/microbe_masst/code/run_microbeMASST.py \
-        --input_file $consensus \
-        --output_dir "${out_dir}/prefix"
+        --csv_file ${mgfs_file_dir}/mgfs.csv
+    
+    cp -r results/* ${out_dir}/
     """
 }
 
 workflow {
     /*log_params(params.out_dir)*/
-    consensus = prepareInput(params.mgf, params.features)
+    mgfs_file_dir = prepareInput(params.mgf, params.features)
     out_dir = createOutputDir(params.out_dir)
-    runMicrobemasst(consensus, out_dir)
+    runMicrobemasst(mgfs_file_dir, out_dir)
 }
 
 def log_params(out_dir) {

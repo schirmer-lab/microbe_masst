@@ -102,12 +102,15 @@ def write_mgf_file_per_spectrum(filtered_spectra, output_directory):
         print("create dir")
     
     csv_file_path = os.path.join(output_directory, "mgfs.csv")
-
     csv_rows = []
     
     for spectrum in filtered_spectra:
+        #extract feature name from title
         feature_name = spectrum['params']['title'].lower().split('|')[0].replace("feature:", "").strip()
+        #prepare paths
+        out = os.path.join( "results", feature_name)
         output_file = os.path.join(output_directory, f"{feature_name}.mgf")
+        #write mgf file
         with open(output_file, 'w') as writer:
             writer.write('BEGIN IONS\n')
             for key, value in spectrum['params'].items():
@@ -123,13 +126,10 @@ def write_mgf_file_per_spectrum(filtered_spectra, output_directory):
             writer.write('END IONS\n\n')
         
          # Add the file name and full path to the CSV rows
-        csv_rows.append([feature_name, output_file])
+        csv_rows.append([output_file, out])
     
     with open(csv_file_path, mode='w', newline='') as csv_file:
         csv_writer = csv.writer(csv_file)
-        # Write header
-        csv_writer.writerow(["FileName", "FilePath"])
-        # Write data rows
         csv_writer.writerows(csv_rows)
 
 
