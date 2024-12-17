@@ -1,0 +1,1010 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:ST002968:mzML/N-S5-0803-NEG.mzML:scan:4294967295	1.0	6	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_sub_2_2.mzXML:scan:2878	1.0	6	NoID
+0.01	mzspec:ST002968:mzML/N-ZH6-0803-NEG.mzML:scan:4294967295	0.99	6	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_sub_2_1.mzXML:scan:2875	0.97	6	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_sub_4_3.mzXML:scan:2400	0.97	6	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_sub_4_1.mzXML:scan:2826	0.96	6	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_sub_4_2.mzXML:scan:2451	0.95	6	NoID
+0.01	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_sub_1_1.mzXML:scan:2119	0.95	5	NoID
+0.0	mzspec:ST002968:mzML/N-ZD1-0803-NEG.mzML:scan:4294967295	0.94	6	NoID
+0.0	mzspec:ST002968:mzML/N-M6-0803-NEG.mzML:scan:4294967295	0.94	6	NoID
+-0.01	mzspec:ST002968:mzML/N-M1-0803-NEG.mzML:scan:4294967295	0.94	5	NoID
+0.0	mzspec:ST002968:mzML/N-ZH3-0803-NEG.mzML:scan:4294967295	0.94	4	NoID
+-0.0	mzspec:ST002968:mzML/N-QC2-0803-NEG.mzML:scan:4294967295	0.94	4	NoID
+-0.02	mzspec:ST002968:mzML/N-QC3-0803-NEG.mzML:scan:4294967295	0.93	6	NoID
+-0.01	mzspec:ST002968:mzML/N-QC1-0803-NEG.mzML:scan:4294967295	0.93	5	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_sub_3_1.mzXML:scan:2440	0.93	5	NoID
+0.0	mzspec:ST002968:mzML/N-QC5-0803-NEG.mzML:scan:4294967295	0.93	5	NoID
+-0.02	mzspec:ST002968:mzML/N-M2-0803-NEG.mzML:scan:4294967295	0.92	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S25_RC4_01_29689.mzML:scan:186	0.92	6	NoID
+0.0	mzspec:ST002968:mzML/N-QC4-0803-NEG.mzML:scan:4294967295	0.92	4	NoID
+-0.0	mzspec:ST002968:mzML/N-ZH5-0803-NEG.mzML:scan:4294967295	0.92	4	NoID
+0.0	mzspec:ST002968:mzML/N-S6-0803-NEG.mzML:scan:4294967295	0.91	6	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_multitracer_Gln_Ac_02.mzXML:scan:6216	0.91	5	NoID
+-0.0	mzspec:ST002968:mzML/N-S4-0803-NEG.mzML:scan:4294967295	0.91	5	NoID
+0.01	mzspec:ST002968:mzML/N-ZH1-0803-NEG.mzML:scan:4294967295	0.91	5	NoID
+-0.01	mzspec:ST002968:mzML/N-M5-0803-NEG.mzML:scan:4294967295	0.91	4	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_multitracer_Unlabel_02.mzXML:scan:6294	0.91	4	NoID
+0.0	mzspec:ST002968:mzML/N-ZH2-0803-NEG.mzML:scan:4294967295	0.9	5	NoID
+-0.01	mzspec:ST002968:mzML/N-ZD5-0803-NEG.mzML:scan:4294967295	0.9	4	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_multitracer_Gln_Ac_03.mzXML:scan:6267	0.89	6	NoID
+0.0	mzspec:ST002968:mzML/N-S1-0803-NEG.mzML:scan:4294967295	0.89	3	NoID
+0.0	mzspec:MTBLS721:FILES/6-3-6.mzML:scan:4294967295	0.88	6	NoID
+0.0	mzspec:MTBLS721:FILES/8-1-8.mzML:scan:4294967295	0.88	6	NoID
+0.0	mzspec:MTBLS721:FILES/3-3-3.mzML:scan:4294967295	0.88	6	NoID
+0.0	mzspec:MTBLS721:FILES/10-2-10.mzML:scan:4294967295	0.88	6	NoID
+0.0	mzspec:MTBLS721:FILES/QC2 03.mzML:scan:4294967295	0.88	6	NoID
+0.0	mzspec:MTBLS721:FILES/8-2-8.mzML:scan:4294967295	0.88	6	NoID
+-0.0	mzspec:ST002505:workbench/PLC-WT-1_NEG-PLC-WT-1.mzXML:scan:7111	0.88	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_multitracer_Unlabel_QC_290_600.mzXML:scan:4353	0.88	5	NoID
+-0.02	mzspec:MTBLS10498:FILES/mzxml/44_20230914_ect-8.mzXML:scan:5060	0.88	5	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_multitracer_Glu_Gln_Ac_03.mzXML:scan:6100	0.88	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S11_RA12_01_29672.mzML:scan:380	0.88	4	NoID
+0.0	mzspec:MTBLS721:FILES/QC2 04.mzML:scan:4294967295	0.87	6	NoID
+0.0	mzspec:MTBLS721:FILES/9-1-9.mzML:scan:4294967295	0.87	6	NoID
+0.0	mzspec:MTBLS721:FILES/6-1-6.mzML:scan:4294967295	0.87	6	NoID
+0.0	mzspec:MTBLS721:FILES/5-3-5.mzML:scan:4294967295	0.87	6	NoID
+0.0	mzspec:MTBLS721:FILES/10-1-10.mzML:scan:4294967295	0.87	6	NoID
+0.0	mzspec:MTBLS721:FILES/9-2-9.mzML:scan:4294967295	0.87	6	NoID
+0.0	mzspec:MTBLS721:FILES/4-3-4.mzML:scan:4294967295	0.87	6	NoID
+0.0	mzspec:MTBLS721:FILES/8-3-8.mzML:scan:4294967295	0.87	6	NoID
+0.0	mzspec:MTBLS721:FILES/10-3-10.mzML:scan:4294967295	0.87	6	NoID
+0.0	mzspec:MTBLS721:FILES/4-2-4.mzML:scan:4294967295	0.87	6	NoID
+0.0	mzspec:MTBLS721:FILES/6-2-6.mzML:scan:4294967295	0.87	6	NoID
+0.0	mzspec:MTBLS721:FILES/4-1-4.mzML:scan:4294967295	0.87	6	NoID
+0.0	mzspec:MTBLS721:FILES/QC2 02.mzML:scan:4294967295	0.87	6	NoID
+-0.0	mzspec:ST002968:mzML/N-ZH4-0803-NEG.mzML:scan:4294967295	0.87	5	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_sub_1_2.mzXML:scan:2258	0.87	5	NoID
+0.0	mzspec:MTBLS7713:FILES/DERIVED_FILES/NEG/SAR-R-3-NEG.mzML:scan:4294967295	0.87	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_multitracer_Unlabel_03.mzXML:scan:6494	0.87	5	NoID
+0.0	mzspec:ST002505:workbench/PLC-KO-5_NEG-PLC-KO-5.mzXML:scan:7386	0.87	5	NoID
+0.0	mzspec:ST002505:workbench/PLC-KO-3_NEG-PLC-KO-3.mzXML:scan:7342	0.87	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_multitracer_Unlabel_01.mzXML:scan:6160	0.87	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_7.mzXML:scan:7123	0.87	5	NoID
+0.02	mzspec:ST002968:mzML/N-QC6-0803-NEG.mzML:scan:4294967295	0.87	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_1.mzXML:scan:6867	0.86	6	NoID
+0.0	mzspec:MTBLS721:FILES/2-3-2.mzML:scan:4294967295	0.86	6	NoID
+-0.0	mzspec:MTBLS606:FILES/liver24_4.mzXML:scan:11751	0.86	6	NoID
+0.0	mzspec:MTBLS721:FILES/5-2-5.mzML:scan:4294967295	0.86	6	NoID
+0.0	mzspec:MTBLS721:FILES/5-1-5.mzML:scan:4294967295	0.86	6	NoID
+0.0	mzspec:MTBLS721:FILES/9-3-9.mzML:scan:4294967295	0.86	6	NoID
+0.0	mzspec:MTBLS721:FILES/2-1-2.mzML:scan:4294967295	0.86	6	NoID
+0.0	mzspec:MTBLS721:FILES/3-1-3.mzML:scan:4294967295	0.86	6	NoID
+-0.0	mzspec:ST002505:workbench/PLC-WT-2_NEG-PLC-WT-2.mzXML:scan:7349	0.86	5	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_multitracer_Gln_Ac_01.mzXML:scan:6364	0.86	5	NoID
+-0.0	mzspec:ST001715:24_dinitrophenol_0_1_c18neg_fusion.mzXML:scan:7	0.86	4	NoID
+0.0	mzspec:MTBLS721:FILES/2-2-2.mzML:scan:4294967295	0.85	6	NoID
+0.0	mzspec:MTBLS721:FILES/1-2-1.mzML:scan:4294967295	0.85	6	NoID
+0.0	mzspec:MTBLS606:FILES/QC01.mzXML:scan:11341	0.85	6	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_3h_10.mzXML:scan:6336	0.85	5	NoID
+0.0	mzspec:ST002505:workbench/PLC-KO-1_NEG-PLC-KO-1.mzXML:scan:7295	0.85	5	NoID
+0.0	mzspec:ST002505:workbench/PLC-KO-2_NEG-PLC-KO-2.mzXML:scan:7400	0.85	5	NoID
+0.0	mzspec:ST002505:workbench/PLC-WT-5_NEG-PLC-WT-5.mzXML:scan:7323	0.85	5	NoID
+-0.0	mzspec:ST002505:workbench/PLC-KO-4_NEG-PLC-KO-4.mzXML:scan:7327	0.85	5	NoID
+0.0	mzspec:MTBLS7713:FILES/DERIVED_FILES/NEG/SAR-S-3-NEG.mzML:scan:4294967295	0.85	5	NoID
+0.0	mzspec:ST001715:phenol_24_1_c18neg_fusion.mzXML:scan:88	0.85	4	NoID
+0.0	mzspec:ST001715:2_methylphenol_0_2_c18neg_fusion.mzXML:scan:116	0.85	4	NoID
+0.0	mzspec:ST001715:4_methylphenol_24_2_c18neg_fusion.mzXML:scan:107	0.85	4	NoID
+0.0	mzspec:ST001715:trifluralin_0_2_c18neg_fusion.mzXML:scan:84	0.85	4	NoID
+0.0	mzspec:ST001715:24_dimethylphenol_24_1_c18neg_fusion.mzXML:scan:171	0.85	4	NoID
+-0.0	mzspec:ST001715:12_diphenylhydrazine_24_1_c18neg_fusion.mzXML:scan:15	0.85	4	NoID
+0.0	mzspec:ST001715:n_nitrosodi_n_propylamine_0_2_c18neg_fusion.mzXML:scan:163	0.85	4	NoID
+0.0	mzspec:ST001715:phenol_0_1_c18neg_fusion.mzXML:scan:113	0.85	4	NoID
+0.0	mzspec:ST001715:2_methylphenol_0_1_c18neg_fusion.mzXML:scan:164	0.85	4	NoID
+-0.0	mzspec:ST001715:phenol_0_2_c18neg_fusion.mzXML:scan:8	0.85	4	NoID
+0.0	mzspec:ST001715:4_methylphenol_0_1_c18neg_fusion.mzXML:scan:19	0.85	4	NoID
+0.0	mzspec:ST001715:12_diphenylhydrazine_0_1_c18neg_fusion.mzXML:scan:168	0.85	4	NoID
+0.0	mzspec:ST001715:s.s.s._tributylphosphorotrithiolate_24_2_c18neg_fusion.mzXML:scan:71	0.85	4	NoID
+0.0	mzspec:ST001715:2_methyl_46_dinitrophenol_24_2_c18neg_fusion.mzXML:scan:109	0.85	4	NoID
+0.0	mzspec:ST001715:44_methylenebis(2_chloroaniline)_0_1_c18neg_fusion.mzXML:scan:138	0.85	4	NoID
+0.0	mzspec:ST001715:24_dinitrotoluene_0_2_c18neg_fusion.mzXML:scan:145	0.85	4	NoID
+0.0	mzspec:ST001715:2_methyl_46_dinitrophenol_0_1_c18neg_fusion.mzXML:scan:18	0.85	4	NoID
+0.0	mzspec:ST001715:acrolein_0_2_c18neg_fusion.mzXML:scan:122	0.85	4	NoID
+0.0	mzspec:ST001715:endrinketone_0_2_c18neg_fusion.mzXML:scan:10	0.85	4	NoID
+0.0	mzspec:ST001715:33_dichlorobenzidine_0_1_c18neg_fusion.mzXML:scan:42	0.85	4	NoID
+0.0	mzspec:ST001715:naphthalene_0_1_c18neg_fusion.mzXML:scan:136	0.85	4	NoID
+0.0	mzspec:ST001715:s.s.s._tributylphosphorotrithiolate_0_2_c18neg_fusion.mzXML:scan:112	0.85	4	NoID
+0.0	mzspec:ST001715:endrinaldehyde_0_2_c18neg_fusion.mzXML:scan:73	0.85	4	NoID
+0.0	mzspec:ST001715:2_methylnaphthalene_0_2_c18neg_fusion.mzXML:scan:15	0.85	4	NoID
+0.0	mzspec:ST001715:trifluralin_24_1_c18neg_fusion.mzXML:scan:47	0.85	4	NoID
+0.0	mzspec:ST001715:n_nitrosodi_n_propylamine_0_1_c18neg_fusion.mzXML:scan:194	0.85	4	NoID
+0.0	mzspec:ST001715:acrolein_0_1_c18neg_fusion.mzXML:scan:207	0.85	4	NoID
+0.0	mzspec:ST001715:naphthalene_0_2_c18neg_fusion.mzXML:scan:15	0.85	4	NoID
+0.0	mzspec:ST001715:246_trichlorophenol_24_2_c18neg_fusion.mzXML:scan:145	0.85	4	NoID
+0.0	mzspec:ST001715:endrinketone_24_1_c18neg_fusion.mzXML:scan:86	0.85	4	NoID
+0.0	mzspec:ST001715:pentadecafluoro_octanicacid_0_1_c18neg_fusion.mzXML:scan:85	0.85	4	NoID
+0.0	mzspec:ST001715:dichlorvos_24_2_c18neg_fusion.mzXML:scan:65	0.85	4	NoID
+0.0	mzspec:ST001715:ethion_24_2_c18neg_fusion.mzXML:scan:25	0.85	4	NoID
+0.0	mzspec:ST001715:12_diphenylhydrazine_0_2_c18neg_fusion.mzXML:scan:42	0.85	4	NoID
+0.0	mzspec:ST001715:dichlorvos_0_1_c18neg_fusion.mzXML:scan:83	0.85	4	NoID
+0.0	mzspec:ST001715:trifluralin_24_2_c18neg_fusion.mzXML:scan:187	0.85	4	NoID
+0.0	mzspec:ST001715:44_methylenebis(2_chloroaniline)_0_2_c18neg_fusion.mzXML:scan:18	0.85	4	NoID
+-0.0	mzspec:ST001715:24_dimethylphenol_0_1_c18neg_fusion.mzXML:scan:11	0.85	4	NoID
+0.0	mzspec:ST001715:2_methylnaphthalene_0_1_c18neg_fusion.mzXML:scan:21	0.85	4	NoID
+0.0	mzspec:ST001715:trifluralin_0_1_c18neg_fusion.mzXML:scan:94	0.85	4	NoID
+0.0	mzspec:ST001715:azinphosmethyl_0_2_c18neg_fusion.mzXML:scan:166	0.85	4	NoID
+0.0	mzspec:ST001715:dichlorvos_0_2_c18neg_fusion.mzXML:scan:155	0.85	4	NoID
+0.0	mzspec:ST001715:2_methylphenol_24_1_c18neg_fusion.mzXML:scan:111	0.85	4	NoID
+0.0	mzspec:ST001715:24_dinitrotoluene_24_2_c18neg_fusion.mzXML:scan:201	0.85	4	NoID
+0.0	mzspec:ST001715:pentadecafluoro_octanicacid_24_2_c18neg_fusion.mzXML:scan:12	0.85	4	NoID
+-0.0	mzspec:ST001715:ethion_0_2_c18neg_fusion.mzXML:scan:11	0.85	4	NoID
+0.0	mzspec:ST001715:azinphosmethyl_24_1_c18neg_fusion.mzXML:scan:44	0.85	4	NoID
+0.0	mzspec:ST001715:s.s.s._tributylphosphorotrithiolate_0_1_c18neg_fusion.mzXML:scan:75	0.85	4	NoID
+0.0	mzspec:ST001715:24_dinitrophenol_24_2_c18neg_fusion.mzXML:scan:27	0.85	4	NoID
+0.0	mzspec:ST001715:n_nitrosodi_n_propylamine_24_2_c18neg_fusion.mzXML:scan:164	0.85	4	NoID
+0.0	mzspec:ST001715:24_dinitrophenol_0_2_c18neg_fusion.mzXML:scan:17	0.85	4	NoID
+0.0	mzspec:ST001715:endrinaldehyde_24_1_c18neg_fusion.mzXML:scan:84	0.85	4	NoID
+-0.0	mzspec:ST001715:2_methyl_46_dinitrophenol_0_2_c18neg_fusion.mzXML:scan:8	0.85	4	NoID
+0.0	mzspec:ST001715:phenol_24_2_c18neg_fusion.mzXML:scan:101	0.85	4	NoID
+0.0	mzspec:ST001715:endrinketone_24_2_c18neg_fusion.mzXML:scan:89	0.85	4	NoID
+0.0	mzspec:ST001715:2_methyl_46_dinitrophenol_24_1_c18neg_fusion.mzXML:scan:88	0.85	4	NoID
+0.0	mzspec:ST001715:24_dinitrophenol_24_1_c18neg_fusion.mzXML:scan:77	0.85	4	NoID
+-0.0	mzspec:ST001715:4_methylphenol_0_2_c18neg_fusion.mzXML:scan:6	0.85	4	NoID
+0.0	mzspec:ST001715:n_nitrosodi_n_propylamine_24_1_c18neg_fusion.mzXML:scan:114	0.85	4	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_sub_2_3.mzXML:scan:2752	0.85	4	NoID
+0.0	mzspec:ST001715:24_dimethylphenol_24_2_c18neg_fusion.mzXML:scan:66	0.85	4	NoID
+0.0	mzspec:ST001715:ethion_24_1_c18neg_fusion.mzXML:scan:25	0.85	4	NoID
+0.0	mzspec:ST001715:12_diphenylhydrazine_24_2_c18neg_fusion.mzXML:scan:59	0.85	4	NoID
+0.0	mzspec:ST001715:24_dimethylphenol_0_2_c18neg_fusion.mzXML:scan:17	0.85	4	NoID
+0.0	mzspec:ST001715:Flunisolide_24_2_c18neg_fusion.mzXML:scan:1023	0.84	6	NoID
+0.0	mzspec:MTBLS721:FILES/1-3-1.mzML:scan:4294967295	0.84	6	NoID
+0.0	mzspec:MTBLS606:FILES/QC04.mzXML:scan:11490	0.84	6	NoID
+0.0	mzspec:MTBLS606:FILES/liver24_7.mzXML:scan:11920	0.84	6	NoID
+0.0	mzspec:MTBLS606:FILES/liver24_10.mzXML:scan:11956	0.84	6	NoID
+-0.02	mzspec:ST002968:mzML/N-S3-0803-NEG.mzML:scan:4294967295	0.84	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC_290_600.mzXML:scan:4484	0.84	5	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_30d_0h_1.mzXML:scan:3914	0.84	5	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_QC08.mzXML:scan:4842	0.84	5	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC16.mzXML:scan:6670	0.84	5	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_30d_3h_10.mzXML:scan:4618	0.84	5	NoID
+0.0	mzspec:ST001715:acrolein_24_1_c18neg_fusion.mzXML:scan:71	0.84	4	NoID
+0.0	mzspec:ST001715:azinphosmethyl_24_2_c18neg_fusion.mzXML:scan:169	0.84	4	NoID
+0.0	mzspec:ST001715:naphthalene_24_1_c18neg_fusion.mzXML:scan:76	0.84	4	NoID
+0.0	mzspec:ST001715:naphthalene_24_2_c18neg_fusion.mzXML:scan:163	0.84	4	NoID
+0.0	mzspec:ST001715:endrinaldehyde_0_1_c18neg_fusion.mzXML:scan:11	0.84	4	NoID
+0.0	mzspec:ST001715:33_dichlorobenzidine_24_1_c18neg_fusion.mzXML:scan:79	0.84	4	NoID
+0.0	mzspec:ST001715:2_methylphenol_24_2_c18neg_fusion.mzXML:scan:174	0.84	4	NoID
+0.0	mzspec:ST001715:endrinketone_0_1_c18neg_fusion.mzXML:scan:18	0.84	4	NoID
+0.0	mzspec:ST001715:24_dinitrotoluene_0_1_c18neg_fusion.mzXML:scan:138	0.84	4	NoID
+0.0	mzspec:ST001715:44_methylenebis(2_chloroaniline)_24_2_c18neg_fusion.mzXML:scan:27	0.84	4	NoID
+0.0	mzspec:ST001715:acrolein_24_2_c18neg_fusion.mzXML:scan:163	0.84	4	NoID
+0.0	mzspec:ST001715:24_dinitrotoluene_24_1_c18neg_fusion.mzXML:scan:198	0.84	4	NoID
+0.0	mzspec:ST001715:pentadecafluoro_octanicacid_0_2_c18neg_fusion.mzXML:scan:98	0.84	4	NoID
+0.0	mzspec:ST001715:44_methylenebis(2_chloroaniline)_24_1_c18neg_fusion.mzXML:scan:82	0.84	4	NoID
+-0.0	mzspec:ST001715:ethion_0_1_c18neg_fusion.mzXML:scan:11	0.84	4	NoID
+0.0	mzspec:ST001715:2_methylnaphthalene_24_2_c18neg_fusion.mzXML:scan:150	0.84	4	NoID
+0.0	mzspec:ST001715:azinphosmethyl_0_1_c18neg_fusion.mzXML:scan:86	0.84	4	NoID
+-0.0	mzspec:ST001715:246_trichlorophenol_0_1_c18neg_fusion.mzXML:scan:118	0.84	4	NoID
+0.0	mzspec:ST001715:endrinaldehyde_24_2_c18neg_fusion.mzXML:scan:39	0.84	4	NoID
+0.0	mzspec:ST001715:4_methylphenol_24_1_c18neg_fusion.mzXML:scan:211	0.84	4	NoID
+0.0	mzspec:ST001715:s.s.s._tributylphosphorotrithiolate_24_1_c18neg_fusion.mzXML:scan:58	0.84	4	NoID
+0.0	mzspec:ST001715:dichlorvos_24_1_c18neg_fusion.mzXML:scan:87	0.84	4	NoID
+0.0	mzspec:ST001715:33_dichlorobenzidine_0_2_c18neg_fusion.mzXML:scan:48	0.84	4	NoID
+-0.0	mzspec:ST001715:246_trichlorophenol_24_1_c18neg_fusion.mzXML:scan:88	0.84	4	NoID
+0.0	mzspec:ST001715:33_dichlorobenzidine_24_2_c18neg_fusion.mzXML:scan:97	0.84	4	NoID
+0.0	mzspec:MTBLS7713:FILES/DERIVED_FILES/NEG/SAR-S-4-NEG.mzML:scan:4294967295	0.84	4	NoID
+-0.0	mzspec:MTBLS10498:FILES/mzxml/41_20230914_sct-3.mzXML:scan:4292	0.84	4	NoID
+0.0	mzspec:MTBLS7713:FILES/DERIVED_FILES/NEG/SAR-R-2-NEG.mzML:scan:4294967295	0.84	4	NoID
+-0.0	mzspec:ST001715:246_trichlorophenol_0_2_c18neg_fusion.mzXML:scan:137	0.84	4	NoID
+0.0	mzspec:ST001715:2_methylnaphthalene_24_1_c18neg_fusion.mzXML:scan:55	0.84	4	NoID
+0.0	mzspec:ST001715:pentadecafluoro_octanicacid_24_1_c18neg_fusion.mzXML:scan:191	0.84	4	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_6h_3.mzXML:scan:6872	0.84	3	NoID
+0.0	mzspec:ST001715:Estradiol_0_2_c18neg_fusion.mzXML:scan:1291	0.83	6	NoID
+0.0	mzspec:MTBLS606:FILES/QC03.mzXML:scan:11676	0.83	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S56_RF2_01_29726.mzML:scan:147	0.83	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S74_RG9_01_29747.mzML:scan:165	0.83	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S133_RE2_01_29823.mzML:scan:314	0.83	6	NoID
+0.0	mzspec:ST001715:Avanafil_24_2_c18neg_fusion.mzXML:scan:605	0.83	6	NoID
+0.0	mzspec:ST001715:Cefamandole2_24_2_c18neg_fusion.mzXML:scan:565	0.83	6	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_3h_10.mzXML:scan:5081	0.83	6	NoID
+0.0	mzspec:ST001715:Benz_a_anthracene_24_2_c18neg_fusion.mzXML:scan:1819	0.83	6	NoID
+0.0	mzspec:ST001715:Spiperone_0_2_c18neg_fusion.mzXML:scan:1478	0.83	6	NoID
+0.0	mzspec:MTBLS606:FILES/liver24_9.mzXML:scan:12363	0.83	5	NoID
+0.0	mzspec:ST002505:workbench/PLC-WT-4_NEG-PLC-WT-4.mzXML:scan:7456	0.83	5	NoID
+0.0	mzspec:ST002505:workbench/PLC-WT-3_NEG-PLC-WT-3.mzXML:scan:7271	0.83	5	NoID
+-0.01	mzspec:ST002968:mzML/N-ZD2-0803-NEG.mzML:scan:4294967295	0.83	3	NoID
+0.0	mzspec:ST001715:Chlorpyrifos_0_1_c18neg_fusion.mzXML:scan:902	0.82	6	NoID
+0.0	mzspec:ST001715:Cefuroxime_24_2_c18neg_fusion.mzXML:scan:252	0.82	6	NoID
+0.0	mzspec:ST001715:Pioglitazone_0_1_c18neg_fusion.mzXML:scan:1478	0.82	6	NoID
+0.0	mzspec:ST001715:Pentachlorophenol_24_2_c18neg_fusion.mzXML:scan:1447	0.82	6	NoID
+0.0	mzspec:ST001715:Hexestrol_0_2_c18neg_fusion.mzXML:scan:251	0.82	6	NoID
+-0.0	mzspec:MTBLS721:FILES/3-2-3.mzML:scan:4294967295	0.82	6	NoID
+0.0	mzspec:ST002959:NEG_SH4_1.mzML:scan:1293	0.82	6	NoID
+0.0	mzspec:MTBLS721:FILES/1-1-1.mzML:scan:4294967295	0.82	6	NoID
+0.0	mzspec:ST001715:Enalapril_0_2_c18neg_fusion.mzXML:scan:517	0.82	6	NoID
+0.0	mzspec:ST002959:NEG_SH4_3.mzML:scan:1111	0.82	6	NoID
+0.0	mzspec:ST001715:Mephenesin_24_1_c18neg_fusion.mzXML:scan:559	0.82	6	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_30d_0h_9.mzXML:scan:4083	0.82	6	NoID
+0.0	mzspec:ST001715:Octodrine_0_1_c18neg_fusion.mzXML:scan:1142	0.82	6	NoID
+0.0	mzspec:ST001715:Pirenzepine_0_2_c18neg_fusion.mzXML:scan:907	0.82	6	NoID
+0.0	mzspec:ST001715:Methimazole_24_1_c18neg_fusion.mzXML:scan:479	0.82	6	NoID
+0.0	mzspec:ST001715:Erythromycin_0_2_c18neg_fusion.mzXML:scan:901	0.82	6	NoID
+0.0	mzspec:ST001715:Erythromycin_24_1_c18neg_fusion.mzXML:scan:964	0.82	6	NoID
+0.0	mzspec:ST001715:Piracetam_24_2_c18neg_fusion.mzXML:scan:533	0.82	6	NoID
+0.0	mzspec:ST001715:Cefotetan_0_1_c18neg_fusion.mzXML:scan:886	0.82	6	NoID
+0.0	mzspec:ST001715:Suloctidil_24_1_c18neg_fusion.mzXML:scan:1270	0.82	6	NoID
+0.0	mzspec:ST001715:Crizotinib_24_1_c18neg_fusion.mzXML:scan:1776	0.82	6	NoID
+0.0	mzspec:ST001715:Sulfaphenazole_24_1_c18neg_fusion.mzXML:scan:253	0.82	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S19_RB9_01_29682.mzML:scan:209	0.82	6	NoID
+0.0	mzspec:ST001715:Pramoxine_0_2_c18neg_fusion.mzXML:scan:1405	0.82	6	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC09.mzXML:scan:6829	0.82	6	NoID
+0.0	mzspec:ST001715:Piperidolate_0_2_c18neg_fusion.mzXML:scan:1398	0.82	6	NoID
+0.0	mzspec:ST001715:Sulfaguanidine_24_2_c18neg_fusion.mzXML:scan:259	0.82	6	NoID
+0.0	mzspec:ST001715:2_ethyl_hexyldiphenylphosphate_24_2_c18neg_fusion.mzXML:scan:1649	0.82	6	NoID
+0.0	mzspec:ST001715:Ranitidine_0_2_c18neg_fusion.mzXML:scan:1446	0.82	6	NoID
+0.0	mzspec:ST001715:Mephenesin_0_2_c18neg_fusion.mzXML:scan:1085	0.82	6	NoID
+0.0	mzspec:ST001715:Cyclosporine_0_2_c18neg_fusion.mzXML:scan:1325	0.82	6	NoID
+0.0	mzspec:ST001715:GallicAcid_24_1_c18neg_fusion.mzXML:scan:255	0.82	6	NoID
+0.0	mzspec:ST001715:Cyclosporine_24_1_c18neg_fusion.mzXML:scan:1213	0.82	6	NoID
+-0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_sub_1_3.mzXML:scan:2368	0.82	5	NoID
+0.0	mzspec:MTBLS606:FILES/QC02.mzXML:scan:11575	0.82	5	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_QC16.mzXML:scan:4802	0.82	5	NoID
+0.0	mzspec:MTBLS606:FILES/liver78_6.mzXML:scan:11032	0.82	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_multitracer_Glu_Gln_Ac_02.mzXML:scan:6173	0.82	4	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_0hr_PLipid_3_067_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:198	0.82	4	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S89_RA2_01_29767.mzML:scan:195	0.82	4	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S80_RH4_01_29754.mzML:scan:155	0.82	4	NoID
+-0.0	mzspec:MSV000086174:peak/Peak_List_Files/BetaMarker_noCyto_24h_1401_Lipid__NEG_150mm_28Jan16_Polaroid_HSST3-02.mzML:scan:230	0.82	4	NoID
+0.0	mzspec:MSV000086174:peak/Peak_List_Files/BetaMarker_noCyto_24h_1430_Lipid__NEG_150mm_28Jan16_Polaroid_HSST3-02.mzML:scan:222	0.82	4	NoID
+-0.0	mzspec:ST002968:mzML/N-ZD3-0803-NEG.mzML:scan:4294967295	0.82	3	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_multitracer_Glu_Gln_01.mzXML:scan:6353	0.82	3	NoID
+0.0	mzspec:ST001715:Sulfamonomethoxine_0_2_c18neg_fusion.mzXML:scan:1342	0.81	6	NoID
+0.0	mzspec:ST001715:Levetiracetam_24_1_c18neg_fusion.mzXML:scan:1173	0.81	6	NoID
+0.0	mzspec:ST001715:2_ethyl_hexyldiphenylphosphate_0_1_c18neg_fusion.mzXML:scan:838	0.81	6	NoID
+0.0	mzspec:ST001715:4_Ethylaniline_24_1_c18neg_fusion.mzXML:scan:1018	0.81	6	NoID
+0.0	mzspec:ST001715:Cephalexin_0_1_c18neg_fusion.mzXML:scan:646	0.81	6	NoID
+0.0	mzspec:ST001715:Phthalylsulfathiazole_24_1_c18neg_fusion.mzXML:scan:1285	0.81	6	NoID
+0.0	mzspec:ST001715:Cefoperazone_0_1_c18neg_fusion.mzXML:scan:900	0.81	6	NoID
+0.0	mzspec:ST001715:Zidovudine_Azt__0_2_c18neg_fusion.mzXML:scan:1053	0.81	6	NoID
+0.0	mzspec:ST001715:Cimetidine_24_1_c18neg_fusion.mzXML:scan:737	0.81	6	NoID
+0.0	mzspec:ST001715:Pioglitazone_0_2_c18neg_fusion.mzXML:scan:1062	0.81	6	NoID
+-0.0	mzspec:MSV000085744:ccms_peak/peak/HILIC(-)_StdMixHigh_DDA1.mzML:scan:3751	0.81	6	NoID
+-0.0	mzspec:MTBLS1572:FILES/HILIC(-)_StdMixHigh_DDA1.mzXML:scan:3751	0.81	6	NoID
+0.0	mzspec:ST001715:Pentachlorophenol_0_1_c18neg_fusion.mzXML:scan:1206	0.81	6	NoID
+0.0	mzspec:ST001715:Omeprazole_24_2_c18neg_fusion.mzXML:scan:1077	0.81	6	NoID
+0.0	mzspec:ST001715:Estradiol_0_1_c18neg_fusion.mzXML:scan:604	0.81	6	NoID
+0.0	mzspec:ST001715:Levetiracetam_0_2_c18neg_fusion.mzXML:scan:1271	0.81	6	NoID
+0.0	mzspec:ST001715:Cimetidine_0_1_c18neg_fusion.mzXML:scan:1575	0.81	6	NoID
+0.0	mzspec:ST001715:Ronidazole_24_2_c18neg_fusion.mzXML:scan:245	0.81	6	NoID
+0.0	mzspec:ST001715:Avanafil_24_1_c18neg_fusion.mzXML:scan:495	0.81	6	NoID
+0.0	mzspec:ST001715:Enalapril_24_1_c18neg_fusion.mzXML:scan:653	0.81	6	NoID
+0.0	mzspec:ST001715:Spiperone_24_2_c18neg_fusion.mzXML:scan:790	0.81	6	NoID
+0.0	mzspec:ST001715:Saccharin_0_2_c18neg_fusion.mzXML:scan:776	0.81	6	NoID
+0.0	mzspec:ST001715:Cefmetazole_24_2_c18neg_fusion.mzXML:scan:427	0.81	6	NoID
+0.0	mzspec:ST002959:NEG_EV3_2.mzML:scan:1064	0.81	6	NoID
+0.0	mzspec:ST001715:Mephenesin_0_1_c18neg_fusion.mzXML:scan:1006	0.81	6	NoID
+0.0	mzspec:ST001715:Disulfoton_24_1_c18neg_fusion.mzXML:scan:1122	0.81	6	NoID
+0.0	mzspec:ST001715:Flunisolide_24_1_c18neg_fusion.mzXML:scan:1023	0.81	6	NoID
+0.0	mzspec:ST001715:Enalapril_24_2_c18neg_fusion.mzXML:scan:1047	0.81	6	NoID
+0.0	mzspec:ST001715:Pirenzepine_24_2_c18neg_fusion.mzXML:scan:911	0.81	6	NoID
+0.0	mzspec:ST001715:Fosfomycin_0_1_c18neg_fusion.mzXML:scan:1077	0.81	6	NoID
+0.0	mzspec:ST001715:Rutin_0_2_c18neg_fusion.mzXML:scan:1260	0.81	6	NoID
+0.0	mzspec:ST001715:Nicardipine_24_2_c18neg_fusion.mzXML:scan:589	0.81	6	NoID
+0.0	mzspec:ST001715:Tolazamide_24_1_c18neg_fusion.mzXML:scan:566	0.81	6	NoID
+0.0	mzspec:ST001715:Flumethasone_24_2_c18neg_fusion.mzXML:scan:806	0.81	6	NoID
+0.0	mzspec:ST001715:Bumetanide_0_2_c18neg_fusion.mzXML:scan:243	0.81	6	NoID
+0.0	mzspec:ST001715:PipemidicAcid_24_2_c18neg_fusion.mzXML:scan:252	0.81	6	NoID
+0.0	mzspec:ST001715:Cefoperazone_24_1_c18neg_fusion.mzXML:scan:876	0.81	6	NoID
+0.0	mzspec:ST001715:Acarbose_24_1_c18neg_fusion.mzXML:scan:1302	0.81	6	NoID
+0.0	mzspec:ST001715:Benz_a_anthracene_24_1_c18neg_fusion.mzXML:scan:1842	0.81	6	NoID
+0.0	mzspec:ST001715:Cefmetazole_0_1_c18neg_fusion.mzXML:scan:637	0.81	6	NoID
+0.0	mzspec:ST001715:Galantamine_0_1_c18neg_fusion.mzXML:scan:543	0.81	6	NoID
+0.0	mzspec:ST001715:Lamotrigine_0_2_c18neg_fusion.mzXML:scan:1318	0.81	6	NoID
+0.0	mzspec:ST001715:Terfenadine_24_2_c18neg_fusion.mzXML:scan:737	0.81	6	NoID
+0.0	mzspec:ST001715:Cefamandole_0_1_c18neg_fusion.mzXML:scan:1021	0.81	6	NoID
+0.0	mzspec:ST001715:Fleroxacin_24_2_c18neg_fusion.mzXML:scan:1209	0.81	6	NoID
+0.0	mzspec:ST001715:Di_N_butylphthalate_24_2_c18neg_fusion.mzXML:scan:1187	0.81	6	NoID
+0.0	mzspec:ST001715:ClofibricAcid_24_2_c18neg_fusion.mzXML:scan:253	0.81	6	NoID
+0.0	mzspec:ST001715:Flumethasone_0_2_c18neg_fusion.mzXML:scan:638	0.81	6	NoID
+0.0	mzspec:ST001715:Benz_a_anthracene_0_2_c18neg_fusion.mzXML:scan:1490	0.81	6	NoID
+0.0	mzspec:ST001715:Pimozide_24_2_c18neg_fusion.mzXML:scan:1037	0.81	6	NoID
+0.01	mzspec:MTBLS615:FILES/W30.04.mzXML:scan:6935	0.81	6	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_3h_1.mzXML:scan:4911	0.81	6	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_3.mzXML:scan:4286	0.81	6	NoID
+0.0	mzspec:ST001715:Ronidazole_0_1_c18neg_fusion.mzXML:scan:653	0.81	6	NoID
+0.0	mzspec:ST001715:Disulfoton_24_2_c18neg_fusion.mzXML:scan:1761	0.81	6	NoID
+0.0	mzspec:ST001715:2_ethyl_hexyldiphenylphosphate_0_2_c18neg_fusion.mzXML:scan:1222	0.81	6	NoID
+0.0	mzspec:ST001715:Mephenytoin_24_1_c18neg_fusion.mzXML:scan:582	0.81	6	NoID
+0.0	mzspec:ST002959:NEG_SH2_2.mzML:scan:1431	0.81	6	NoID
+0.0	mzspec:ST002959:NEG_EV2_2.mzML:scan:889	0.81	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S30_RC9_01_29695.mzML:scan:165	0.81	6	NoID
+0.0	mzspec:ST001715:ClofibricAcid_0_1_c18neg_fusion.mzXML:scan:251	0.81	6	NoID
+0.0	mzspec:ST001715:Econazole_0_2_c18neg_fusion.mzXML:scan:231	0.81	6	NoID
+0.0	mzspec:ST001715:Terfenadine_24_1_c18neg_fusion.mzXML:scan:1016	0.81	6	NoID
+0.0	mzspec:ST001715:Tinidazole_24_1_c18neg_fusion.mzXML:scan:702	0.81	6	NoID
+0.0	mzspec:ST001715:Carbenoxolone_24_1_c18neg_fusion.mzXML:scan:1040	0.81	6	NoID
+0.0	mzspec:ST001715:Aceglutamide_24_2_c18neg_fusion.mzXML:scan:596	0.81	6	NoID
+0.0	mzspec:ST001715:Sulfachlorpyridazine_0_2_c18neg_fusion.mzXML:scan:1021	0.81	6	NoID
+0.0	mzspec:ST001715:Galantamine_24_2_c18neg_fusion.mzXML:scan:592	0.81	6	NoID
+0.0	mzspec:ST001715:Sulfamethoxypyridazine_24_2_c18neg_fusion.mzXML:scan:1201	0.81	6	NoID
+0.0	mzspec:ST001715:Hexestrol_24_2_c18neg_fusion.mzXML:scan:252	0.81	6	NoID
+0.0	mzspec:ST001715:Cycloheximide_24_2_c18neg_fusion.mzXML:scan:886	0.81	6	NoID
+0.0	mzspec:ST001715:Lovastatin_0_1_c18neg_fusion.mzXML:scan:1662	0.81	6	NoID
+0.0	mzspec:ST001715:Benzidine_0_2_c18neg_fusion.mzXML:scan:1080	0.81	6	NoID
+0.0	mzspec:ST001715:Flumethasone_0_1_c18neg_fusion.mzXML:scan:1277	0.81	6	NoID
+0.0	mzspec:ST001715:Tolazamide_0_2_c18neg_fusion.mzXML:scan:717	0.81	6	NoID
+0.0	mzspec:ST001715:Cefotetan_24_1_c18neg_fusion.mzXML:scan:246	0.81	6	NoID
+0.0	mzspec:ST001715:Oxyclozanide_0_1_c18neg_fusion.mzXML:scan:821	0.81	6	NoID
+0.0	mzspec:ST002959:NEG_EV1_3.mzML:scan:1137	0.81	6	NoID
+0.0	mzspec:ST001715:Benzidine_0_1_c18neg_fusion.mzXML:scan:1792	0.81	6	NoID
+0.0	mzspec:ST002959:NEG_SH1_3.mzML:scan:1253	0.81	6	NoID
+0.0	mzspec:ST001715:Alrestatin_0_2_c18neg_fusion.mzXML:scan:1071	0.81	6	NoID
+0.0	mzspec:ST001715:Alrestatin_24_1_c18neg_fusion.mzXML:scan:1342	0.81	6	NoID
+0.0	mzspec:ST001715:Levetiracetam_0_1_c18neg_fusion.mzXML:scan:1142	0.81	6	NoID
+0.0	mzspec:ST001715:Nefopam_24_1_c18neg_fusion.mzXML:scan:837	0.81	6	NoID
+0.0	mzspec:ST001715:Vandetanib_0_1_c18neg_fusion.mzXML:scan:520	0.81	6	NoID
+0.0	mzspec:ST001715:Di_N_butylphthalate_24_1_c18neg_fusion.mzXML:scan:369	0.81	6	NoID
+0.0	mzspec:ST001715:Cefuroxime_0_2_c18neg_fusion.mzXML:scan:828	0.81	6	NoID
+0.0	mzspec:ST001715:Cefuroxime_24_1_c18neg_fusion.mzXML:scan:1380	0.81	5	NoID
+0.0	mzspec:MSV000086101:ccms_peak/NEG-AntiinsectQC-45V.mzML:scan:188	0.81	5	NoID
+0.0	mzspec:MTBLS606:FILES/liver24_5.mzXML:scan:12057	0.81	5	NoID
+-0.0	mzspec:MTBLS615:FILES/W03.03.mzXML:scan:7344	0.81	5	NoID
+-0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Mock_36hr_3_PLipid_042_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:211	0.81	4	NoID
+-0.0	mzspec:MSV000086174:peak/Peak_List_Files/BetaMarker_noCyto_24h_1423_Lipid__NEG_150mm_28Jan16_Polaroid_HSST3-02.mzML:scan:213	0.81	4	NoID
+0.0	mzspec:MTBLS7713:FILES/DERIVED_FILES/NEG/SAR-S-1-NEG.mzML:scan:4294967295	0.81	4	NoID
+0.0	mzspec:ST001715:Cinchonidine_24_2_c18neg_fusion.mzXML:scan:449	0.81	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_3hr_PLipid_5_018_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:207	0.81	3	NoID
+-0.0	mzspec:MTBLS3963:FILES/DERIVED_FILES/NEG/Inc-Val-6_NEG.mzML:scan:4294967295	0.81	3	NoID
+0.0	mzspec:ST001715:Erythromycin_0_1_c18neg_fusion.mzXML:scan:245	0.8	6	NoID
+0.0	mzspec:ST001715:Ibuprofen_0_2_c18neg_fusion.mzXML:scan:626	0.8	6	NoID
+0.0	mzspec:ST001715:Benz_a_anthracene_0_1_c18neg_fusion.mzXML:scan:850	0.8	6	NoID
+0.0	mzspec:ST002959:NEG_EV4_2.mzML:scan:1111	0.8	6	NoID
+0.0	mzspec:ST001715:GallicAcid_24_2_c18neg_fusion.mzXML:scan:251	0.8	6	NoID
+0.0	mzspec:ST001715:Pioglitazone_24_1_c18neg_fusion.mzXML:scan:1647	0.8	6	NoID
+0.0	mzspec:ST001715:Ibuprofen_24_1_c18neg_fusion.mzXML:scan:1657	0.8	6	NoID
+0.0	mzspec:ST001715:Flunisolide_0_2_c18neg_fusion.mzXML:scan:1007	0.8	6	NoID
+0.0	mzspec:ST001715:Octodrine_24_2_c18neg_fusion.mzXML:scan:715	0.8	6	NoID
+0.0	mzspec:ST001715:Omeprazole_0_1_c18neg_fusion.mzXML:scan:766	0.8	6	NoID
+0.0	mzspec:ST001715:Cyclosporine_0_1_c18neg_fusion.mzXML:scan:1173	0.8	6	NoID
+0.0	mzspec:ST001715:Lovastatin_0_2_c18neg_fusion.mzXML:scan:1550	0.8	6	NoID
+0.0	mzspec:ST001715:4_Ethylaniline_0_2_c18neg_fusion.mzXML:scan:1778	0.8	6	NoID
+0.0	mzspec:ST001715:Sulconazole_0_1_c18neg_fusion.mzXML:scan:1245	0.8	6	NoID
+0.0	mzspec:ST001715:Ritodrine_0_1_c18neg_fusion.mzXML:scan:249	0.8	6	NoID
+0.0	mzspec:ST001715:Tolazamide_24_2_c18neg_fusion.mzXML:scan:645	0.8	6	NoID
+0.0	mzspec:ST001715:Suramin_24_1_c18neg_fusion.mzXML:scan:848	0.8	6	NoID
+0.0	mzspec:ST001715:Vandetanib_24_2_c18neg_fusion.mzXML:scan:809	0.8	6	NoID
+0.0	mzspec:ST001715:Erythromycin_24_2_c18neg_fusion.mzXML:scan:243	0.8	6	NoID
+0.0	mzspec:ST001715:Anisindione_0_1_c18neg_fusion.mzXML:scan:558	0.8	6	NoID
+0.0	mzspec:ST001715:Ibuprofen_24_2_c18neg_fusion.mzXML:scan:1931	0.8	6	NoID
+0.0	mzspec:ST001715:Hexestrol_0_1_c18neg_fusion.mzXML:scan:248	0.8	6	NoID
+0.0	mzspec:ST001715:Ketoprofen_24_1_c18neg_fusion.mzXML:scan:660	0.8	6	NoID
+0.0	mzspec:ST001715:Cefuroxime_0_1_c18neg_fusion.mzXML:scan:965	0.8	6	NoID
+0.0	mzspec:ST001715:KojicAcid_0_2_c18neg_fusion.mzXML:scan:998	0.8	6	NoID
+0.0	mzspec:ST001715:Ibuprofen_0_1_c18neg_fusion.mzXML:scan:1113	0.8	6	NoID
+0.0	mzspec:ST001715:Diazinon_24_1_c18neg_fusion.mzXML:scan:993	0.8	6	NoID
+0.0	mzspec:ST001715:Mephenytoin_24_2_c18neg_fusion.mzXML:scan:1750	0.8	6	NoID
+0.0	mzspec:ST001715:Crizotinib_0_1_c18neg_fusion.mzXML:scan:694	0.8	6	NoID
+0.0	mzspec:ST001715:Mephenytoin_0_1_c18neg_fusion.mzXML:scan:886	0.8	6	NoID
+0.0	mzspec:ST001715:Succinylsulfathiazole_0_2_c18neg_fusion.mzXML:scan:893	0.8	6	NoID
+0.0	mzspec:ST001715:Cefoperazone_24_2_c18neg_fusion.mzXML:scan:726	0.8	6	NoID
+0.0	mzspec:ST001715:Omeprazole_0_2_c18neg_fusion.mzXML:scan:798	0.8	6	NoID
+0.0	mzspec:ST001715:Benzidine_24_2_c18neg_fusion.mzXML:scan:483	0.8	6	NoID
+0.0	mzspec:ST001715:Octodrine_24_1_c18neg_fusion.mzXML:scan:693	0.8	6	NoID
+0.0	mzspec:ST001715:Succinylsulfathiazole_24_2_c18neg_fusion.mzXML:scan:567	0.8	6	NoID
+-0.0	mzspec:MSV000085744:ccms_peak/peak/HILIC(-)_StdMixHigh_DDA2.mzML:scan:3776	0.8	6	NoID
+-0.0	mzspec:MTBLS1572:FILES/HILIC(-)_StdMixHigh_DDA2.mzXML:scan:3776	0.8	6	NoID
+0.0	mzspec:ST001715:Terfenadine_0_2_c18neg_fusion.mzXML:scan:1787	0.8	6	NoID
+0.0	mzspec:ST001715:Suramin_0_2_c18neg_fusion.mzXML:scan:1063	0.8	6	NoID
+0.0	mzspec:ST001715:Sulfamethoxypyridazine_0_2_c18neg_fusion.mzXML:scan:668	0.8	6	NoID
+0.0	mzspec:ST001715:Ketoprofen_0_1_c18neg_fusion.mzXML:scan:619	0.8	6	NoID
+-0.0	mzspec:MTBLS721:FILES/QC2 01.mzML:scan:4294967295	0.8	6	NoID
+0.0	mzspec:ST001715:Pramoxine_24_2_c18neg_fusion.mzXML:scan:735	0.8	6	NoID
+0.0	mzspec:ST001715:Mephenytoin_0_2_c18neg_fusion.mzXML:scan:567	0.8	6	NoID
+0.0	mzspec:ST001715:Ronidazole_24_1_c18neg_fusion.mzXML:scan:497	0.8	6	NoID
+0.0	mzspec:ST001715:Acarbose_0_1_c18neg_fusion.mzXML:scan:1109	0.8	6	NoID
+0.0	mzspec:ST001715:Nicardipine_0_1_c18neg_fusion.mzXML:scan:699	0.8	6	NoID
+0.0	mzspec:ST001715:Diazinon_0_1_c18neg_fusion.mzXML:scan:1979	0.8	6	NoID
+0.0	mzspec:MTBLS606:FILES/liver24_6.mzXML:scan:11282	0.8	6	NoID
+0.0	mzspec:ST001715:Oxyclozanide_0_2_c18neg_fusion.mzXML:scan:1165	0.8	6	NoID
+0.0	mzspec:ST001715:Ritodrine_24_2_c18neg_fusion.mzXML:scan:243	0.8	6	NoID
+0.0	mzspec:ST001715:Methimazole_0_2_c18neg_fusion.mzXML:scan:1662	0.8	6	NoID
+0.0	mzspec:ST001715:Disulfoton_0_1_c18neg_fusion.mzXML:scan:1601	0.8	6	NoID
+0.0	mzspec:ST001715:Econazole_24_2_c18neg_fusion.mzXML:scan:878	0.8	6	NoID
+0.0	mzspec:ST001715:Octodrine_0_2_c18neg_fusion.mzXML:scan:573	0.8	6	NoID
+0.0	mzspec:ST001715:Piracetam_0_2_c18neg_fusion.mzXML:scan:1383	0.8	6	NoID
+0.0	mzspec:ST001715:Nefopam_0_2_c18neg_fusion.mzXML:scan:949	0.8	6	NoID
+0.0	mzspec:ST001715:Suloctidil_24_2_c18neg_fusion.mzXML:scan:760	0.8	6	NoID
+0.0	mzspec:ST001715:Warfarin_0_2_c18neg_fusion.mzXML:scan:643	0.8	6	NoID
+0.0	mzspec:ST001715:Methimazole_0_1_c18neg_fusion.mzXML:scan:1160	0.8	6	NoID
+0.0	mzspec:ST001715:Piracetam_24_1_c18neg_fusion.mzXML:scan:1018	0.8	6	NoID
+0.0	mzspec:ST001715:Crizotinib_0_2_c18neg_fusion.mzXML:scan:1598	0.8	6	NoID
+0.0	mzspec:ST001715:Cephalexin_24_1_c18neg_fusion.mzXML:scan:741	0.8	6	NoID
+0.0	mzspec:ST001715:Lamotrigine_0_1_c18neg_fusion.mzXML:scan:1301	0.8	6	NoID
+0.0	mzspec:ST001715:Lamotrigine_24_1_c18neg_fusion.mzXML:scan:1421	0.8	6	NoID
+0.0	mzspec:ST001715:Chlorpyrifos_24_2_c18neg_fusion.mzXML:scan:1240	0.8	6	NoID
+0.0	mzspec:ST001715:Phthalylsulfathiazole_24_2_c18neg_fusion.mzXML:scan:1376	0.8	6	NoID
+0.0	mzspec:ST001715:Cefoxitin_24_1_c18neg_fusion.mzXML:scan:896	0.8	6	NoID
+0.0	mzspec:ST001715:Piperidolate_0_1_c18neg_fusion.mzXML:scan:517	0.8	6	NoID
+0.0	mzspec:ST001715:Saccharin_0_1_c18neg_fusion.mzXML:scan:752	0.8	6	NoID
+0.0	mzspec:ST001715:Crizotinib_24_2_c18neg_fusion.mzXML:scan:1213	0.8	6	NoID
+0.0	mzspec:ST001715:Oxyclozanide_24_1_c18neg_fusion.mzXML:scan:742	0.8	6	NoID
+0.0	mzspec:ST001715:Menadione_0_2_c18neg_fusion.mzXML:scan:923	0.8	6	NoID
+0.0	mzspec:ST001715:Disulfoton_0_2_c18neg_fusion.mzXML:scan:1754	0.8	6	NoID
+0.0	mzspec:ST001715:Anisindione_0_2_c18neg_fusion.mzXML:scan:630	0.8	6	NoID
+0.0	mzspec:ST001715:Flunisolide_0_1_c18neg_fusion.mzXML:scan:1436	0.8	6	NoID
+0.0	mzspec:ST001715:Alrestatin_0_1_c18neg_fusion.mzXML:scan:662	0.8	6	NoID
+0.0	mzspec:ST001715:Pimozide_24_1_c18neg_fusion.mzXML:scan:1108	0.8	6	NoID
+0.0	mzspec:ST001715:Cycloheximide_0_2_c18neg_fusion.mzXML:scan:727	0.8	6	NoID
+0.0	mzspec:ST001715:Mephenesin_24_2_c18neg_fusion.mzXML:scan:1061	0.8	6	NoID
+0.0	mzspec:ST001715:Azacitidine_24_2_c18neg_fusion.mzXML:scan:1226	0.8	6	NoID
+0.0	mzspec:ST001715:Bretylium_24_2_c18neg_fusion.mzXML:scan:419	0.8	6	NoID
+0.0	mzspec:ST001715:Sulfameter_0_1_c18neg_fusion.mzXML:scan:1101	0.8	6	NoID
+0.0	mzspec:ST001715:Zidovudine_Azt__24_1_c18neg_fusion.mzXML:scan:1305	0.8	6	NoID
+0.0	mzspec:ST001715:Sulfameter_24_1_c18neg_fusion.mzXML:scan:1071	0.8	6	NoID
+0.0	mzspec:ST001715:Acetyl_L_Leucine_24_1_c18neg_fusion.mzXML:scan:255	0.8	6	NoID
+0.0	mzspec:ST001715:Pentachlorophenol_24_1_c18neg_fusion.mzXML:scan:1672	0.8	6	NoID
+0.0	mzspec:ST002959:NEG_SH4_2.mzML:scan:1020	0.8	6	NoID
+0.0	mzspec:ST002959:NEG_EV4_1.mzML:scan:913	0.8	6	NoID
+0.0	mzspec:ST001715:Pramoxine_24_1_c18neg_fusion.mzXML:scan:798	0.8	6	NoID
+0.0	mzspec:ST001715:Chlorpyrifos_24_1_c18neg_fusion.mzXML:scan:1438	0.8	6	NoID
+0.0	mzspec:ST001715:Nefopam_24_2_c18neg_fusion.mzXML:scan:653	0.8	6	NoID
+0.0	mzspec:ST001715:Succinylsulfathiazole_0_1_c18neg_fusion.mzXML:scan:1038	0.8	6	NoID
+0.0	mzspec:ST001715:Cefamandole_24_1_c18neg_fusion.mzXML:scan:821	0.8	6	NoID
+0.0	mzspec:ST001715:Diazinon_24_2_c18neg_fusion.mzXML:scan:658	0.8	6	NoID
+0.0	mzspec:ST001715:Suloctidil_0_1_c18neg_fusion.mzXML:scan:1093	0.8	6	NoID
+0.0	mzspec:ST002959:NEG_EV3_1.mzML:scan:1095	0.8	6	NoID
+0.0	mzspec:MTBLS9881:FILES/DERIVED_FILES/MetaboMSnNeg/Pool_Met_neg_1.mzML:scan:9983	0.8	6	NoID
+0.0	mzspec:ST001715:Nicardipine_0_2_c18neg_fusion.mzXML:scan:571	0.8	6	NoID
+0.0	mzspec:ST002959:NEG_EV2_3.mzML:scan:1561	0.8	6	NoID
+0.0	mzspec:ST001715:Cefotetan_0_2_c18neg_fusion.mzXML:scan:246	0.8	6	NoID
+0.0	mzspec:ST001715:Cyclosporine_24_2_c18neg_fusion.mzXML:scan:783	0.8	6	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_30d_0h_5.mzXML:scan:3873	0.8	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_2.mzXML:scan:7261	0.8	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_3.mzXML:scan:7065	0.8	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S39_RD7_01_29706.mzML:scan:135	0.8	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S79_RH3_01_29753.mzML:scan:147	0.8	5	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_30d_0h_4.mzXML:scan:3951	0.8	5	NoID
+-0.0	mzspec:MSV000085744:ccms_peak/peak/HILIC(-)_StdMixHigh_DDA3.mzML:scan:3737	0.8	5	NoID
+-0.0	mzspec:MTBLS1572:FILES/HILIC(-)_StdMixHigh_DDA3.mzXML:scan:3737	0.8	5	NoID
+-0.0	mzspec:MSV000086174:peak/Peak_List_Files/BetaMarker_Cyto_24h_1430_Lipid__NEG_150mm_28Jan16_Polaroid_HSST3-02.mzML:scan:231	0.8	4	NoID
+0.0	mzspec:ST002968:mzML/N-M4-0803-NEG.mzML:scan:4294967295	0.8	4	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_7hr_PLipid_5_112_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:198	0.8	4	NoID
+0.0	mzspec:MTBLS7713:FILES/DERIVED_FILES/NEG/SAR-S-5-NEG.mzML:scan:4294967295	0.8	3	NoID
+0.01	mzspec:ST002968:mzML/N-M3-0803-NEG.mzML:scan:4294967295	0.8	3	NoID
+0.0	mzspec:ST001715:Vandetanib_0_2_c18neg_fusion.mzXML:scan:1343	0.79	6	NoID
+0.0	mzspec:ST001715:Diazinon_0_2_c18neg_fusion.mzXML:scan:1643	0.79	6	NoID
+0.0	mzspec:ST001715:Pimozide_0_2_c18neg_fusion.mzXML:scan:1235	0.79	6	NoID
+0.0	mzspec:ST001715:Sulfachlorpyridazine_24_1_c18neg_fusion.mzXML:scan:247	0.79	6	NoID
+0.0	mzspec:ST001715:Cefamandole_24_2_c18neg_fusion.mzXML:scan:248	0.79	6	NoID
+0.0	mzspec:ST001715:Pimozide_0_1_c18neg_fusion.mzXML:scan:251	0.79	6	NoID
+0.0	mzspec:ST001715:Aceglutamide_24_1_c18neg_fusion.mzXML:scan:917	0.79	6	NoID
+0.0	mzspec:ST001715:Cefmetazole_0_2_c18neg_fusion.mzXML:scan:846	0.79	6	NoID
+0.0	mzspec:ST001715:Proadifen_24_1_c18neg_fusion.mzXML:scan:251	0.79	6	NoID
+0.0	mzspec:ST001715:Piracetam_0_1_c18neg_fusion.mzXML:scan:837	0.79	6	NoID
+0.0	mzspec:ST001715:Cephalexin_0_2_c18neg_fusion.mzXML:scan:487	0.79	6	NoID
+0.0	mzspec:ST001715:Cimetidine_0_2_c18neg_fusion.mzXML:scan:1000	0.79	6	NoID
+0.0	mzspec:ST001715:Di_N_butylphthalate_0_2_c18neg_fusion.mzXML:scan:1564	0.79	6	NoID
+0.0	mzspec:ST001715:Pentachlorophenol_0_2_c18neg_fusion.mzXML:scan:440	0.79	6	NoID
+0.0	mzspec:ST001715:Galantamine_0_2_c18neg_fusion.mzXML:scan:252	0.79	6	NoID
+0.0	mzspec:ST001715:4_Ethylaniline_0_1_c18neg_fusion.mzXML:scan:1858	0.79	6	NoID
+0.0	mzspec:ST001715:Sulfamonomethoxine_24_1_c18neg_fusion.mzXML:scan:905	0.79	6	NoID
+0.0	mzspec:ST001715:Bumetanide_24_1_c18neg_fusion.mzXML:scan:243	0.79	6	NoID
+0.0	mzspec:ST001715:Methimazole_24_2_c18neg_fusion.mzXML:scan:251	0.79	6	NoID
+0.0	mzspec:ST001715:Econazole_0_1_c18neg_fusion.mzXML:scan:509	0.79	6	NoID
+0.0	mzspec:ST001715:4_Ethylaniline_24_2_c18neg_fusion.mzXML:scan:1507	0.79	6	NoID
+0.0	mzspec:ST001715:Cefamandole2_0_2_c18neg_fusion.mzXML:scan:774	0.79	6	NoID
+0.0	mzspec:ST001715:Pramoxine_0_1_c18neg_fusion.mzXML:scan:710	0.79	6	NoID
+0.0	mzspec:ST001715:Bezafibrate_24_2_c18neg_fusion.mzXML:scan:751	0.79	6	NoID
+0.0	mzspec:ST001715:Isotretinon_0_1_c18neg_fusion.mzXML:scan:259	0.79	6	NoID
+0.0	mzspec:ST001715:Piperidolate_24_1_c18neg_fusion.mzXML:scan:1319	0.79	6	NoID
+0.0	mzspec:ST001715:Sulfacarbamide_24_2_c18neg_fusion.mzXML:scan:247	0.79	6	NoID
+0.0	mzspec:ST001715:Ritodrine_0_2_c18neg_fusion.mzXML:scan:748	0.79	6	NoID
+0.0	mzspec:ST001715:Sulconazole_24_2_c18neg_fusion.mzXML:scan:683	0.79	6	NoID
+0.0	mzspec:ST001715:Carbenoxolone_24_2_c18neg_fusion.mzXML:scan:869	0.79	6	NoID
+0.0	mzspec:ST001715:Fleroxacin_0_2_c18neg_fusion.mzXML:scan:557	0.79	6	NoID
+0.0	mzspec:ST001715:Isotretinon_24_2_c18neg_fusion.mzXML:scan:253	0.79	6	NoID
+0.0	mzspec:ST001715:Suloctidil_0_2_c18neg_fusion.mzXML:scan:742	0.79	6	NoID
+0.0	mzspec:ST001715:Sulfadimethoxine_24_2_c18neg_fusion.mzXML:scan:822	0.79	6	NoID
+0.0	mzspec:ST001715:Lovastatin_24_1_c18neg_fusion.mzXML:scan:1174	0.79	6	NoID
+0.0	mzspec:ST001715:Cefamandole2_0_1_c18neg_fusion.mzXML:scan:567	0.79	6	NoID
+0.0	mzspec:ST001715:Warfarin_24_1_c18neg_fusion.mzXML:scan:664	0.79	6	NoID
+0.0	mzspec:ST001715:Carvedilol_0_2_c18neg_fusion.mzXML:scan:648	0.79	6	NoID
+0.0	mzspec:ST001715:Terfenadine_0_1_c18neg_fusion.mzXML:scan:1549	0.79	6	NoID
+0.0	mzspec:ST001715:Succinylsulfathiazole_24_1_c18neg_fusion.mzXML:scan:726	0.79	6	NoID
+0.0	mzspec:ST001715:Estradiol_24_2_c18neg_fusion.mzXML:scan:750	0.79	6	NoID
+0.0	mzspec:ST001715:Di_N_butylphthalate_0_1_c18neg_fusion.mzXML:scan:1868	0.79	6	NoID
+0.0	mzspec:ST001715:Lovastatin_24_2_c18neg_fusion.mzXML:scan:524	0.79	6	NoID
+0.0	mzspec:ST001715:Tinidazole_0_2_c18neg_fusion.mzXML:scan:248	0.79	6	NoID
+0.0	mzspec:ST001715:Xylazine_24_2_c18neg_fusion.mzXML:scan:248	0.79	6	NoID
+0.0	mzspec:ST001715:Lisinopril_0_1_c18neg_fusion.mzXML:scan:1052	0.79	6	NoID
+0.0	mzspec:ST001715:Tinidazole_24_2_c18neg_fusion.mzXML:scan:917	0.79	6	NoID
+0.0	mzspec:ST001715:Acarbose_0_2_c18neg_fusion.mzXML:scan:669	0.79	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S45_RE2_01_29713.mzML:scan:160	0.79	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S119_RC10_01_29806.mzML:scan:296	0.79	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S35_RD3_01_29701.mzML:scan:170	0.79	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S18_RB8_01_29681.mzML:scan:218	0.79	6	NoID
+0.0	mzspec:ST001715:Fosfomycin_0_2_c18neg_fusion.mzXML:scan:708	0.79	6	NoID
+0.0	mzspec:ST001715:KojicAcid_0_1_c18neg_fusion.mzXML:scan:526	0.79	6	NoID
+0.0	mzspec:ST001715:Cefamandole2_24_1_c18neg_fusion.mzXML:scan:1277	0.79	6	NoID
+0.0	mzspec:ST001715:Bezafibrate_0_2_c18neg_fusion.mzXML:scan:1007	0.79	6	NoID
+0.0	mzspec:ST001715:Cefmetazole_24_1_c18neg_fusion.mzXML:scan:710	0.79	6	NoID
+0.0	mzspec:ST001715:GallicAcid_0_1_c18neg_fusion.mzXML:scan:256	0.79	6	NoID
+0.0	mzspec:ST001715:Levetiracetam_24_2_c18neg_fusion.mzXML:scan:1286	0.79	6	NoID
+0.0	mzspec:ST001715:Piperidolate_24_2_c18neg_fusion.mzXML:scan:695	0.79	6	NoID
+0.0	mzspec:ST001715:Cefoxitin_24_2_c18neg_fusion.mzXML:scan:251	0.79	6	NoID
+0.0	mzspec:ST001715:KojicAcid_24_2_c18neg_fusion.mzXML:scan:1133	0.79	6	NoID
+0.0	mzspec:ST001715:Avanafil_0_1_c18neg_fusion.mzXML:scan:765	0.79	6	NoID
+0.0	mzspec:ST001715:Sulfadimethoxine_0_1_c18neg_fusion.mzXML:scan:551	0.79	6	NoID
+0.0	mzspec:ST001715:ClofibricAcid_0_2_c18neg_fusion.mzXML:scan:251	0.79	6	NoID
+0.0	mzspec:ST001715:Ketoprofen_24_2_c18neg_fusion.mzXML:scan:249	0.79	6	NoID
+0.0	mzspec:ST001715:Cefamandole_0_2_c18neg_fusion.mzXML:scan:621	0.79	6	NoID
+0.0	mzspec:ST001715:Chlorpyrifos_0_2_c18neg_fusion.mzXML:scan:1679	0.79	6	NoID
+0.0	mzspec:ST001715:Alrestatin_24_2_c18neg_fusion.mzXML:scan:251	0.79	6	NoID
+0.0	mzspec:ST001715:Acemetacin_0_1_c18neg_fusion.mzXML:scan:249	0.79	6	NoID
+0.0	mzspec:ST001715:Ritodrine_24_1_c18neg_fusion.mzXML:scan:243	0.79	6	NoID
+0.0	mzspec:ST001715:KojicAcid_24_1_c18neg_fusion.mzXML:scan:782	0.79	6	NoID
+0.0	mzspec:ST001715:Bezafibrate_0_1_c18neg_fusion.mzXML:scan:1317	0.79	6	NoID
+0.0	mzspec:ST001715:Lisinopril_24_1_c18neg_fusion.mzXML:scan:742	0.79	6	NoID
+0.0	mzspec:ST001715:Mesna_24_1_c18neg_fusion.mzXML:scan:813	0.79	6	NoID
+0.0	mzspec:ST001715:Nicergoline_24_2_c18neg_fusion.mzXML:scan:251	0.79	6	NoID
+0.0	mzspec:ST001715:Pirenzepine_24_1_c18neg_fusion.mzXML:scan:251	0.79	6	NoID
+0.0	mzspec:ST001715:Sulconazole_0_2_c18neg_fusion.mzXML:scan:1222	0.79	6	NoID
+0.0	mzspec:ST001715:Lamotrigine_24_2_c18neg_fusion.mzXML:scan:1301	0.79	6	NoID
+0.0	mzspec:ST001715:Zidovudine_Azt__24_2_c18neg_fusion.mzXML:scan:1125	0.79	6	NoID
+0.0	mzspec:ST001715:Lisinopril_0_2_c18neg_fusion.mzXML:scan:735	0.79	6	NoID
+0.0	mzspec:ST001715:Menadione_24_1_c18neg_fusion.mzXML:scan:251	0.79	6	NoID
+0.0	mzspec:ST001715:Flumethasone_24_1_c18neg_fusion.mzXML:scan:958	0.79	6	NoID
+0.0	mzspec:ST001715:Spiperone_24_1_c18neg_fusion.mzXML:scan:1373	0.79	6	NoID
+0.0	mzspec:ST001715:Acemetacin_24_1_c18neg_fusion.mzXML:scan:243	0.79	6	NoID
+0.0	mzspec:ST001715:Proadifen_0_2_c18neg_fusion.mzXML:scan:692	0.79	6	NoID
+0.0	mzspec:ST001715:Sulconazole_24_1_c18neg_fusion.mzXML:scan:235	0.79	6	NoID
+0.0	mzspec:ST001715:Ketoprofen_0_2_c18neg_fusion.mzXML:scan:235	0.79	6	NoID
+0.0	mzspec:ST001715:Warfarin_0_1_c18neg_fusion.mzXML:scan:684	0.79	6	NoID
+0.0	mzspec:ST001715:Enalapril_0_1_c18neg_fusion.mzXML:scan:845	0.79	6	NoID
+0.0	mzspec:ST001715:Cephalexin_24_2_c18neg_fusion.mzXML:scan:1374	0.79	6	NoID
+0.0	mzspec:ST001715:Proadifen_0_1_c18neg_fusion.mzXML:scan:980	0.79	6	NoID
+0.0	mzspec:ST001715:Esomeprazole_24_2_c18neg_fusion.mzXML:scan:245	0.79	6	NoID
+0.0	mzspec:ST002959:NEG_SH2_3.mzML:scan:1594	0.79	6	NoID
+0.0	mzspec:ST002959:NEG_SH3_3.mzML:scan:1199	0.79	6	NoID
+0.0	mzspec:ST001715:Sulfamonomethoxine_0_1_c18neg_fusion.mzXML:scan:639	0.79	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_05.mzML:scan:7370	0.79	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_09.mzML:scan:7304	0.79	6	NoID
+-0.0	mzspec:ST002959:NEG_EV2_1.mzML:scan:935	0.79	6	NoID
+0.0	mzspec:ST002959:NEG_EV3_3.mzML:scan:1153	0.79	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_02.mzML:scan:7340	0.79	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_14.mzML:scan:7204	0.79	6	NoID
+0.0	mzspec:ST002959:NEG_EV4_3.mzML:scan:1014	0.79	6	NoID
+0.0	mzspec:ST001715:Cefoxitin_0_1_c18neg_fusion.mzXML:scan:879	0.79	6	NoID
+0.0	mzspec:ST001715:Bretylium_0_1_c18neg_fusion.mzXML:scan:924	0.79	6	NoID
+0.0	mzspec:ST001715:Sulfaphenazole_0_1_c18neg_fusion.mzXML:scan:252	0.79	6	NoID
+-0.0	mzspec:ST002925:Data/Neg_sample_15.mzML:scan:7400	0.79	6	NoID
+0.0	mzspec:ST001715:Sulfadimethoxine_0_2_c18neg_fusion.mzXML:scan:525	0.79	6	NoID
+0.0	mzspec:ST001715:Oxyclozanide_24_2_c18neg_fusion.mzXML:scan:661	0.79	6	NoID
+-0.0	mzspec:ST002959:NEG_SH2_1.mzML:scan:947	0.79	6	NoID
+0.0	mzspec:ST001715:Xylazine_0_2_c18neg_fusion.mzXML:scan:1214	0.79	6	NoID
+0.0	mzspec:ST001715:Sulfadimethoxine_24_1_c18neg_fusion.mzXML:scan:896	0.79	6	NoID
+0.0	mzspec:ST001715:Fosfomycin_24_1_c18neg_fusion.mzXML:scan:1021	0.79	6	NoID
+0.0	mzspec:ST001715:Sulfameter_0_2_c18neg_fusion.mzXML:scan:1061	0.79	5	NoID
+0.0	mzspec:ST001715:Salicin_24_2_c18neg_fusion.mzXML:scan:904	0.79	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_1h_10.mzXML:scan:7200	0.79	5	NoID
+0.0	mzspec:MTBLS606:FILES/liver78_5.mzXML:scan:11372	0.79	5	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_1h_4.mzXML:scan:6842	0.79	5	NoID
+0.0	mzspec:MTBLS606:FILES/liver24_2.mzXML:scan:11506	0.79	5	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_QC12.mzXML:scan:4793	0.79	5	NoID
+0.01	mzspec:MTBLS615:FILES/W03.07.mzXML:scan:7575	0.79	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S83_RH7_01_29758.mzML:scan:232	0.79	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_3hr_Lipid_5_089_Neg_28Jan15_Polaroid_14-12-16.mzML:scan:213	0.79	4	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC08.mzXML:scan:6851	0.79	4	NoID
+-0.01	mzspec:ST002968:mzML/N-ZD4-0803-NEG.mzML:scan:4294967295	0.79	3	NoID
+-0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_24hr_Lipid_3_059_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:217	0.79	3	NoID
+-0.0	mzspec:MTBLS3963:FILES/DERIVED_FILES/NEG/QC-5_NEG.mzML:scan:4294967295	0.79	3	NoID
+0.0	mzspec:ST001715:Mesna_24_2_c18neg_fusion.mzXML:scan:243	0.78	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S76_RG11_01_29749.mzML:scan:164	0.78	6	NoID
+0.0	mzspec:ST001715:Tinidazole_0_1_c18neg_fusion.mzXML:scan:245	0.78	6	NoID
+0.0	mzspec:ST001715:Proadifen_24_2_c18neg_fusion.mzXML:scan:251	0.78	6	NoID
+0.0	mzspec:ST001715:Cycloheximide_24_1_c18neg_fusion.mzXML:scan:244	0.78	6	NoID
+0.0	mzspec:ST001715:Cefoxitin_0_2_c18neg_fusion.mzXML:scan:1335	0.78	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S37_RD5_01_29703.mzML:scan:166	0.78	6	NoID
+0.0	mzspec:ST001715:Isotretinon_24_1_c18neg_fusion.mzXML:scan:1151	0.78	6	NoID
+0.0	mzspec:ST001715:Sulfachlorpyridazine_24_2_c18neg_fusion.mzXML:scan:244	0.78	6	NoID
+0.0	mzspec:ST001715:Xylazine_24_1_c18neg_fusion.mzXML:scan:248	0.78	6	NoID
+0.0	mzspec:ST001715:Ranitidine_24_1_c18neg_fusion.mzXML:scan:581	0.78	6	NoID
+0.0	mzspec:ST001715:Salicin_0_1_c18neg_fusion.mzXML:scan:245	0.78	6	NoID
+0.0	mzspec:ST001715:Carbenoxolone_0_2_c18neg_fusion.mzXML:scan:246	0.78	6	NoID
+0.0	mzspec:ST001715:Econazole_24_1_c18neg_fusion.mzXML:scan:235	0.78	6	NoID
+0.0	mzspec:ST001715:Suramin_24_2_c18neg_fusion.mzXML:scan:250	0.78	6	NoID
+0.0	mzspec:ST001715:Bretylium_24_1_c18neg_fusion.mzXML:scan:495	0.78	6	NoID
+0.0	mzspec:ST001715:Saccharin_24_2_c18neg_fusion.mzXML:scan:252	0.78	6	NoID
+0.0	mzspec:ST001715:Anisindione_24_2_c18neg_fusion.mzXML:scan:661	0.78	6	NoID
+0.0	mzspec:ST001715:Carvedilol_24_1_c18neg_fusion.mzXML:scan:660	0.78	6	NoID
+0.0	mzspec:ST001715:Bumetanide_24_2_c18neg_fusion.mzXML:scan:244	0.78	6	NoID
+0.0	mzspec:ST001715:Cinchonidine_0_2_c18neg_fusion.mzXML:scan:253	0.78	6	NoID
+0.0	mzspec:ST001715:Mesna_0_1_c18neg_fusion.mzXML:scan:235	0.78	6	NoID
+0.0	mzspec:ST001715:Cefoperazone_0_2_c18neg_fusion.mzXML:scan:247	0.78	6	NoID
+0.0	mzspec:ST001715:Menadione_24_2_c18neg_fusion.mzXML:scan:252	0.78	6	NoID
+0.0	mzspec:ST001715:Sulfacarbamide_24_1_c18neg_fusion.mzXML:scan:248	0.78	6	NoID
+0.0	mzspec:ST001715:Sulfamethoxypyridazine_24_1_c18neg_fusion.mzXML:scan:243	0.78	6	NoID
+0.0	mzspec:ST001715:Isotretinon_0_2_c18neg_fusion.mzXML:scan:243	0.78	6	NoID
+0.0	mzspec:ST001715:Estradiol_24_1_c18neg_fusion.mzXML:scan:899	0.78	6	NoID
+0.0	mzspec:ST001715:Bretylium_0_2_c18neg_fusion.mzXML:scan:771	0.78	6	NoID
+0.0	mzspec:ST001715:Sulfameter_24_2_c18neg_fusion.mzXML:scan:246	0.78	6	NoID
+0.0	mzspec:ST001715:Sulfamonomethoxine_24_2_c18neg_fusion.mzXML:scan:251	0.78	6	NoID
+0.0	mzspec:ST001715:Nicergoline_0_2_c18neg_fusion.mzXML:scan:235	0.78	6	NoID
+0.0	mzspec:ST001715:Vandetanib_24_1_c18neg_fusion.mzXML:scan:574	0.78	6	NoID
+0.0	mzspec:ST001715:Phthalylsulfathiazole_0_1_c18neg_fusion.mzXML:scan:1206	0.78	6	NoID
+0.0	mzspec:ST001715:2_ethyl_hexyldiphenylphosphate_24_1_c18neg_fusion.mzXML:scan:252	0.78	6	NoID
+0.0	mzspec:ST001715:Azacitidine_0_2_c18neg_fusion.mzXML:scan:1093	0.78	6	NoID
+0.0	mzspec:ST001715:Suramin_0_1_c18neg_fusion.mzXML:scan:240	0.78	6	NoID
+0.0	mzspec:ST001715:Tolazamide_0_1_c18neg_fusion.mzXML:scan:252	0.78	6	NoID
+0.0	mzspec:ST002959:NEG_SH3_2.mzML:scan:1237	0.78	6	NoID
+0.0	mzspec:ST001715:Ranitidine_0_1_c18neg_fusion.mzXML:scan:1380	0.78	6	NoID
+0.0	mzspec:ST002959:NEG_EV1_2.mzML:scan:1081	0.78	6	NoID
+0.0	mzspec:ST001715:Cycloheximide_0_1_c18neg_fusion.mzXML:scan:669	0.78	6	NoID
+0.0	mzspec:ST001715:Bezafibrate_24_1_c18neg_fusion.mzXML:scan:1061	0.78	6	NoID
+0.0	mzspec:ST001715:Sulfaquinoxaline_24_1_c18neg_fusion.mzXML:scan:516	0.78	6	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_8.mzXML:scan:7004	0.78	6	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_30d_0h_3.mzXML:scan:4085	0.78	6	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_30d_0h_10.mzXML:scan:4242	0.78	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_12.mzML:scan:7136	0.78	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_13.mzML:scan:7348	0.78	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_10.mzML:scan:7402	0.78	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_01.mzML:scan:7214	0.78	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_16.mzML:scan:7180	0.78	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_06.mzML:scan:7328	0.78	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_17.mzML:scan:7318	0.78	6	NoID
+0.0	mzspec:ST001715:Cimetidine_24_2_c18neg_fusion.mzXML:scan:968	0.78	6	NoID
+0.0	mzspec:ST001715:Carvedilol_0_1_c18neg_fusion.mzXML:scan:654	0.78	6	NoID
+0.0	mzspec:ST001715:Anisindione_24_1_c18neg_fusion.mzXML:scan:789	0.78	6	NoID
+0.0	mzspec:ST001715:Bumetanide_0_1_c18neg_fusion.mzXML:scan:236	0.78	6	NoID
+0.0	mzspec:ST001715:Nefopam_0_1_c18neg_fusion.mzXML:scan:252	0.78	6	NoID
+0.0	mzspec:ST001715:Ranitidine_24_2_c18neg_fusion.mzXML:scan:251	0.78	6	NoID
+0.0	mzspec:ST001715:Metoprolol_0_2_c18neg_fusion.mzXML:scan:658	0.78	6	NoID
+0.0	mzspec:ST001715:Galantamine_24_1_c18neg_fusion.mzXML:scan:421	0.78	6	NoID
+0.0	mzspec:ST001715:Sulfacarbamide_0_1_c18neg_fusion.mzXML:scan:245	0.78	6	NoID
+0.0	mzspec:ST001715:Cinchonine_0_1_c18neg_fusion.mzXML:scan:251	0.78	6	NoID
+0.0	mzspec:ST001715:Pirenzepine_0_1_c18neg_fusion.mzXML:scan:243	0.78	6	NoID
+0.0	mzspec:ST001715:Menadione_0_1_c18neg_fusion.mzXML:scan:247	0.78	6	NoID
+0.0	mzspec:ST001715:Xylazine_0_1_c18neg_fusion.mzXML:scan:246	0.78	6	NoID
+0.0	mzspec:ST001715:Fleroxacin_24_1_c18neg_fusion.mzXML:scan:244	0.78	6	NoID
+0.0	mzspec:ST001715:Azacitidine_0_1_c18neg_fusion.mzXML:scan:244	0.78	6	NoID
+0.0	mzspec:ST001715:Benzidine_24_1_c18neg_fusion.mzXML:scan:251	0.78	6	NoID
+0.0	mzspec:ST001715:Metoprolol_0_1_c18neg_fusion.mzXML:scan:642	0.78	6	NoID
+0.0	mzspec:ST001715:Cinchonine_0_2_c18neg_fusion.mzXML:scan:250	0.78	6	NoID
+0.0	mzspec:ST001715:Azacitidine_24_1_c18neg_fusion.mzXML:scan:244	0.78	6	NoID
+0.0	mzspec:ST001715:Omeprazole_24_1_c18neg_fusion.mzXML:scan:251	0.78	6	NoID
+0.0	mzspec:ST001715:Cinchonidine_24_1_c18neg_fusion.mzXML:scan:252	0.78	6	NoID
+0.0	mzspec:ST001715:Acetyl_L_Leucine_24_2_c18neg_fusion.mzXML:scan:256	0.78	6	NoID
+0.0	mzspec:ST001715:Warfarin_24_2_c18neg_fusion.mzXML:scan:657	0.78	6	NoID
+0.0	mzspec:ST001715:Cinchonidine_0_1_c18neg_fusion.mzXML:scan:236	0.78	6	NoID
+0.0	mzspec:ST001715:Salicin_0_2_c18neg_fusion.mzXML:scan:244	0.78	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S17_RB7_01_29680.mzML:scan:207	0.78	5	NoID
+0.0	mzspec:ST001715:Phthalylsulfathiazole_0_2_c18neg_fusion.mzXML:scan:494	0.78	5	NoID
+-0.0	mzspec:MTBLS606:FILES/liver24_3.mzXML:scan:11646	0.78	5	NoID
+0.0	mzspec:MTBLS606:FILES/liver78_1.mzXML:scan:11405	0.78	5	NoID
+-0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_36hr_5_PLipid_047_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:228	0.78	4	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_0hr_PLipid_2_043_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:200	0.78	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_12hr_PLipid_4_103_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:198	0.78	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_0hr_PLipid_5_042_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:211	0.78	3	NoID
+-0.0	mzspec:MTBLS3963:FILES/DERIVED_FILES/NEG/Inc-Phe-2_NEG.mzML:scan:4294967295	0.78	3	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_0hr_Lipid_4_088_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:217	0.78	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_0hr_PLipid_4_078_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:198	0.78	3	NoID
+0.0	mzspec:ST001715:Esomeprazole_24_1_c18neg_fusion.mzXML:scan:246	0.77	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_07.mzML:scan:7172	0.77	6	NoID
+0.0	mzspec:ST001715:Carbenoxolone_0_1_c18neg_fusion.mzXML:scan:774	0.77	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_03.mzML:scan:7208	0.77	6	NoID
+0.0	mzspec:ST001715:Spiperone_0_1_c18neg_fusion.mzXML:scan:244	0.77	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_19.mzML:scan:7304	0.77	6	NoID
+-0.0	mzspec:ST002925:Data/Neg_sample_04.mzML:scan:7430	0.77	6	NoID
+0.0	mzspec:ST001715:Aceglutamide_0_2_c18neg_fusion.mzXML:scan:979	0.77	6	NoID
+0.0	mzspec:ST001715:Zidovudine_Azt__0_1_c18neg_fusion.mzXML:scan:1061	0.77	6	NoID
+-0.0	mzspec:ST002925:Data/Neg_sample_08.mzML:scan:7196	0.77	6	NoID
+0.0	mzspec:ST001715:Esomeprazole_0_1_c18neg_fusion.mzXML:scan:249	0.77	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_11.mzML:scan:7121	0.77	6	NoID
+0.0	mzspec:ST001715:Metoprolol_24_2_c18neg_fusion.mzXML:scan:657	0.77	6	NoID
+0.0	mzspec:ST001715:Cefotetan_24_2_c18neg_fusion.mzXML:scan:653	0.77	6	NoID
+0.0	mzspec:ST001715:Avanafil_0_2_c18neg_fusion.mzXML:scan:1383	0.77	6	NoID
+0.0	mzspec:ST001715:Sulfamethoxypyridazine_0_1_c18neg_fusion.mzXML:scan:251	0.77	6	NoID
+0.0	mzspec:ST001715:Hexestrol_24_1_c18neg_fusion.mzXML:scan:252	0.77	6	NoID
+0.0	mzspec:ST001715:Sulfaphenazole_0_2_c18neg_fusion.mzXML:scan:251	0.77	6	NoID
+0.0	mzspec:ST001715:Nicardipine_24_1_c18neg_fusion.mzXML:scan:235	0.77	6	NoID
+0.0	mzspec:ST001715:Carvedilol_24_2_c18neg_fusion.mzXML:scan:660	0.77	6	NoID
+0.0	mzspec:ST001715:Saccharin_24_1_c18neg_fusion.mzXML:scan:768	0.77	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S28_RC7_01_29693.mzML:scan:236	0.77	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S41_RD9_01_29708.mzML:scan:171	0.77	6	NoID
+0.0	mzspec:ST001715:Nicergoline_0_1_c18neg_fusion.mzXML:scan:1223	0.77	6	NoID
+0.0	mzspec:ST001715:Lisinopril_24_2_c18neg_fusion.mzXML:scan:249	0.77	6	NoID
+0.0	mzspec:ST001715:Sulfacarbamide_0_2_c18neg_fusion.mzXML:scan:245	0.77	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S50_RE7_01_29719.mzML:scan:176	0.77	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S127_RD7_01_29816.mzML:scan:242	0.77	6	NoID
+0.0	mzspec:ST001715:Metoprolol_24_1_c18neg_fusion.mzXML:scan:653	0.77	6	NoID
+0.0	mzspec:ST001715:Fleroxacin_0_1_c18neg_fusion.mzXML:scan:726	0.77	6	NoID
+0.0	mzspec:ST001715:Nicergoline_24_1_c18neg_fusion.mzXML:scan:252	0.77	6	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_30d_3h_7.mzXML:scan:4709	0.77	6	NoID
+0.0	mzspec:ST002959:NEG_SH1_2.mzML:scan:1143	0.77	6	NoID
+0.0	mzspec:ST001715:Sulfaguanidine_0_2_c18neg_fusion.mzXML:scan:249	0.77	6	NoID
+0.0	mzspec:ST001715:Sulfaquinoxaline_24_2_c18neg_fusion.mzXML:scan:259	0.77	6	NoID
+0.0	mzspec:ST001715:Rutin_0_1_c18neg_fusion.mzXML:scan:1269	0.77	6	NoID
+0.0	mzspec:ST001715:Sulfachlorpyridazine_0_1_c18neg_fusion.mzXML:scan:251	0.77	6	NoID
+0.0	mzspec:ST001715:Hexetidine_24_2_c18neg_fusion.mzXML:scan:255	0.77	6	NoID
+0.0	mzspec:ST002925:Data/Neg_sample_18.mzML:scan:7120	0.77	6	NoID
+0.0	mzspec:ST001715:Acarbose_24_2_c18neg_fusion.mzXML:scan:1040	0.77	6	NoID
+0.0	mzspec:ST001715:Rutin_24_2_c18neg_fusion.mzXML:scan:244	0.77	6	NoID
+0.0	mzspec:ST001715:Sulfaquinoxaline_0_1_c18neg_fusion.mzXML:scan:265	0.77	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S73_RG8_01_29746.mzML:scan:178	0.77	5	NoID
+0.0	mzspec:MTBLS606:FILES/liver78_7.mzXML:scan:11493	0.77	5	NoID
+0.0	mzspec:MTBLS606:FILES/liver78_8.mzXML:scan:11840	0.77	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_multitracer_Glu_Gln_Ac_01.mzXML:scan:5851	0.77	5	NoID
+0.01	mzspec:MTBLS615:FILES/W03.04.mzXML:scan:6800	0.77	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_1h_9.mzXML:scan:6893	0.77	5	NoID
+0.0	mzspec:MTBLS7713:FILES/DERIVED_FILES/NEG/SAR-S-2-NEG.mzML:scan:4294967295	0.77	5	NoID
+0.0	mzspec:MTBLS7713:FILES/DERIVED_FILES/NEG/SAR-R-1-NEG.mzML:scan:4294967295	0.77	5	NoID
+-0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Cal04_7hr_1_PLipid_053_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:225	0.77	3	NoID
+-0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Mock_36hr_2_PLipid_049_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:226	0.77	3	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_7hr_Lipid_2_098_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:227	0.77	3	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_7hr_Lipid_3_049_Neg_rr_28Jan15_Polaroid_14-12-16.mzML:scan:219	0.77	3	NoID
+-0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_7hr_Lipid_4_047_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:219	0.77	3	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S57_RF3_01_29727.mzML:scan:140	0.76	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S67_RG2_01_29739.mzML:scan:152	0.76	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S26_RC5_01_29690.mzML:scan:194	0.76	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S44_RD12_01_29711.mzML:scan:168	0.76	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S71_RG6_01_29743.mzML:scan:178	0.76	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S122_RD2_01_29810.mzML:scan:356	0.76	6	NoID
+0.0	mzspec:ST001715:Fosfomycin_24_2_c18neg_fusion.mzXML:scan:248	0.76	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S106_RB8_01_29791.mzML:scan:512	0.76	6	NoID
+0.0	mzspec:ST001715:GallicAcid_0_2_c18neg_fusion.mzXML:scan:252	0.76	6	NoID
+0.0	mzspec:ST001715:PipemidicAcid_0_1_c18neg_fusion.mzXML:scan:252	0.76	6	NoID
+0.0	mzspec:ST001715:Salicin_24_1_c18neg_fusion.mzXML:scan:246	0.76	6	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_4.mzXML:scan:4169	0.76	6	NoID
+0.0	mzspec:ST001715:Hexetidine_24_1_c18neg_fusion.mzXML:scan:253	0.76	6	NoID
+0.0	mzspec:ST001715:ClofibricAcid_24_1_c18neg_fusion.mzXML:scan:252	0.76	6	NoID
+0.0	mzspec:ST001715:PipemidicAcid_24_1_c18neg_fusion.mzXML:scan:252	0.76	6	NoID
+0.0	mzspec:ST001715:Hexetidine_0_1_c18neg_fusion.mzXML:scan:251	0.76	6	NoID
+0.0	mzspec:ST001715:Cinchonine_24_1_c18neg_fusion.mzXML:scan:251	0.76	6	NoID
+0.0	mzspec:ST001715:Rosiglitazone_24_2_c18neg_fusion.mzXML:scan:255	0.76	6	NoID
+0.0	mzspec:ST001715:Sulfaguanidine_0_1_c18neg_fusion.mzXML:scan:252	0.76	6	NoID
+0.0	mzspec:ST001715:Mesna_0_2_c18neg_fusion.mzXML:scan:243	0.76	6	NoID
+0.0	mzspec:ST001715:Pioglitazone_24_2_c18neg_fusion.mzXML:scan:1518	0.76	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S131_RD11_01_29820.mzML:scan:267	0.76	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S118_RC9_01_29805.mzML:scan:284	0.76	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S105_RB7_01_29789.mzML:scan:200	0.76	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC01.mzXML:scan:6961	0.76	5	NoID
+-0.0	mzspec:ST002514:The role of dietary inulin in NASH progression/F1254_neg-F1254.mzML:scan:4294967295	0.76	5	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_30d_0h_2.mzXML:scan:4250	0.76	5	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_QC_290_600.mzXML:scan:3466	0.76	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_9.mzXML:scan:7260	0.76	5	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_QC02.mzXML:scan:4208	0.76	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_4.mzXML:scan:7111	0.76	5	NoID
+0.0	mzspec:MTBLS606:FILES/liver24_8.mzXML:scan:11663	0.76	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S6_RA7_01_29664.mzML:scan:198	0.76	4	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_8.mzXML:scan:7330	0.76	4	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_1h_7.mzXML:scan:6571	0.76	4	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_7hr_PLipid_5_083_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:198	0.76	3	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_24hr_Lipid_1_077_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:212	0.76	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_7hr_PLipid_1_081_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:198	0.76	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_7hr_PLipid_1_026_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:198	0.76	3	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_7hr_Lipid_1_013_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:218	0.76	3	NoID
+-0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_0hr_4_PLipid_026_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:225	0.76	3	NoID
+-0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Cal04_7hr_4_PLipid_028_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:233	0.76	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_12hr_PLipid_1_003_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:223	0.76	3	NoID
+-0.0	mzspec:MSV000086174:peak/Peak_List_Files/BetaMarker_noCyto_24h_1389_Lipid_neg_150mm_24Nov15_Polaroid_HSST3-02.mzML:scan:237	0.76	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_12hr_PLipid_2_108_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:198	0.76	3	NoID
+0.0	mzspec:ST001715:Ronidazole_0_2_c18neg_fusion.mzXML:scan:649	0.75	6	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_QC_290_600.mzXML:scan:3069	0.75	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-RPC-02.mzML:scan:842	0.75	6	NoID
+0.0	mzspec:ST001715:Acemetacin_0_2_c18neg_fusion.mzXML:scan:236	0.75	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-01.mzML:scan:995	0.75	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-05.mzML:scan:1105	0.75	6	NoID
+0.0	mzspec:ST001715:Esomeprazole_0_2_c18neg_fusion.mzXML:scan:806	0.75	6	NoID
+0.0	mzspec:ST001715:Sulfaquinoxaline_0_2_c18neg_fusion.mzXML:scan:254	0.75	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S29_RC8_01_29694.mzML:scan:155	0.75	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-03.mzML:scan:2371	0.75	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S32_RC11_01_29697.mzML:scan:194	0.75	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S33_RC12_01_29698.mzML:scan:182	0.75	6	NoID
+0.0	mzspec:ST002341:QC_neg_07.mzML:scan:1694	0.75	6	NoID
+0.0	mzspec:MTBLS5028:FILES/DERIVED_FILES/NEG/QC_neg_07.mzML:scan:1694	0.75	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-04.mzML:scan:666	0.75	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-09.mzML:scan:1050	0.75	6	NoID
+0.0	mzspec:ST001715:Acemetacin_24_2_c18neg_fusion.mzXML:scan:253	0.75	6	NoID
+0.0	mzspec:ST001715:Cinchonine_24_2_c18neg_fusion.mzXML:scan:235	0.75	6	NoID
+0.0	mzspec:ST001715:Aceglutamide_0_1_c18neg_fusion.mzXML:scan:236	0.75	6	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_30d_0h_6.mzXML:scan:4127	0.75	5	NoID
+0.01	mzspec:MTBLS615:FILES/W30.07.mzXML:scan:6860	0.75	5	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_7.mzXML:scan:4416	0.75	5	NoID
+-0.0	mzspec:ST002514:The role of dietary inulin in NASH progression/F1125_neg-F1125.mzML:scan:4294967295	0.75	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S120_RC11_01_29807.mzML:scan:251	0.75	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S126_RD6_01_29814.mzML:scan:206	0.75	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S90_RA3_01_29769.mzML:scan:161	0.75	4	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_6h_1.mzXML:scan:6529	0.75	4	NoID
+-0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_0hr_Lipid_3_069_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:218	0.75	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_12hr_PLipid_5_096_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:198	0.75	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_12hr_PLipid_5_046_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:210	0.75	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_0hr_PLipid_3_036_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:196	0.75	3	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_1.mzXML:scan:4404	0.74	6	NoID
+0.0	mzspec:ST001715:Rosiglitazone_0_1_c18neg_fusion.mzXML:scan:260	0.74	6	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_5.mzXML:scan:4449	0.74	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-07.mzML:scan:1246	0.74	6	NoID
+0.0	mzspec:ST001715:PipemidicAcid_0_2_c18neg_fusion.mzXML:scan:244	0.74	6	NoID
+0.0	mzspec:ST001715:Hexetidine_0_2_c18neg_fusion.mzXML:scan:251	0.74	6	NoID
+-0.0	mzspec:MSV000088661:ccms_peak/LibraryRawData/HILIC/ESINEG/P3F.mzML:scan:4396	0.74	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-05.mzML:scan:1824	0.74	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_QCs-RPC-02.mzML:scan:1307	0.74	6	NoID
+0.0	mzspec:MSV000081160:updates/2017-06-17_lamccall_aa8bf566/peak/Aq_neg/blanks/blank2_170615174149.mzXML:scan:1210	0.74	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S38_RD6_01_29704.mzML:scan:178	0.74	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S72_RG7_01_29745.mzML:scan:173	0.74	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S7_RA8_01_29666.mzML:scan:209	0.74	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S70_RG5_01_29742.mzML:scan:238	0.74	6	NoID
+0.0	mzspec:MTBLS5028:FILES/DERIVED_FILES/NEG/QC_neg_03.mzML:scan:31	0.74	6	NoID
+0.0	mzspec:ST002341:QC_neg_03.mzML:scan:31	0.74	6	NoID
+0.0	mzspec:ST001715:Rutin_24_1_c18neg_fusion.mzXML:scan:244	0.74	6	NoID
+-0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-RPC-04.mzML:scan:860	0.74	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S3_RA4_01_29660.mzML:scan:260	0.74	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S43_RD11_01_29710.mzML:scan:108	0.74	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-04.mzML:scan:924	0.74	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-RPC-09.mzML:scan:450	0.74	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-02.mzML:scan:2505	0.74	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-06.mzML:scan:2802	0.74	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-RPC-02.mzML:scan:824	0.74	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-06.mzML:scan:1193	0.74	6	NoID
+0.01	mzspec:MTBLS615:FILES/W03.01.mzXML:scan:7005	0.74	5	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_6h_2.mzXML:scan:6337	0.74	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S116_RC7_01_29803.mzML:scan:318	0.74	5	NoID
+0.0	mzspec:ST000564:ST000564/Stewart_006f8_3e89f/Data/raw_files/neg/QE2_SBS_16_6[Control16_DayddMS2]n.mzXML:scan:1073	0.74	5	NoID
+0.0	mzspec:MTBLS615:FILES/W03.09.mzXML:scan:7046	0.74	4	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_3h_10.mzXML:scan:6617	0.74	4	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_12hr_PLipid_1_094_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:197	0.74	3	NoID
+-0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_sub_3_3.mzXML:scan:2454	0.74	3	NoID
+-0.0	mzspec:MTBLS3963:FILES/DERIVED_FILES/NEG/Inc-Leu-2_NEG.mzML:scan:4294967295	0.74	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_7hr_PLipid_3_100_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:197	0.74	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_3hr_PLipid_1_057_NEG_150mm_15Aug15_Polaroid_HSST3-02.mzML:scan:197	0.74	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-03.mzML:scan:1450	0.73	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-RPC-08.mzML:scan:383	0.73	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-08.mzML:scan:1601	0.73	6	NoID
+0.0	mzspec:ST001715:Sulfaphenazole_24_2_c18neg_fusion.mzXML:scan:251	0.73	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Blank-NPC-01.mzML:scan:6997	0.73	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-RPC-08.mzML:scan:804	0.73	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-NPC-08.mzML:scan:7970	0.73	6	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_10.mzXML:scan:4314	0.73	6	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_30d_0h_5.mzXML:scan:4613	0.73	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S55_RE12_01_29724.mzML:scan:154	0.73	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S42_RD10_01_29709.mzML:scan:166	0.73	6	NoID
+0.0	mzspec:MTBLS5028:FILES/DERIVED_FILES/NEG/SW620_neg_02.mzML:scan:213	0.73	5	NoID
+0.0	mzspec:MTBLS5028:FILES/DERIVED_FILES/NEG/SW480_neg_05.mzML:scan:2658	0.73	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_QCs-RPC-01.mzML:scan:462	0.73	5	NoID
+0.0	mzspec:ST002341:SW480_neg_05.mzML:scan:2658	0.73	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-RPC-09.mzML:scan:743	0.73	5	NoID
+0.0	mzspec:ST002341:SW620_neg_02.mzML:scan:213	0.73	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-10.mzML:scan:869	0.73	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-NPC-03.mzML:scan:7426	0.73	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_QCs-NPC-02.mzML:scan:7368	0.73	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_QCs-RPC-04.mzML:scan:865	0.73	5	NoID
+0.0	mzspec:MTBLS606:FILES/liver78_10.mzXML:scan:11062	0.73	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_1h_8.mzXML:scan:6863	0.73	5	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_9.mzXML:scan:4477	0.73	5	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC05.mzXML:scan:6937	0.73	5	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_1h_4.mzXML:scan:7227	0.73	4	NoID
+-0.01	mzspec:MSV000088638:raw/Original experiment/Intracellular/24h exposure/Polar_Fraction_ESI-/MS2/24_QC_Cond_IIE_2.mzML:scan:4294967295	0.73	3	NoID
+-0.0	mzspec:MTBLS3963:FILES/DERIVED_FILES/NEG/Inc-Trp-4_NEG.mzML:scan:4294967295	0.73	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_0hr_PLipid_1_116_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:197	0.73	3	NoID
+0.0	mzspec:ST001715:Acetyl_L_Leucine_0_2_c18neg_fusion.mzXML:scan:254	0.72	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-10.mzML:scan:2372	0.72	6	NoID
+0.0	mzspec:MTBLS5028:FILES/DERIVED_FILES/NEG/SW620_neg_07.mzML:scan:57	0.72	6	NoID
+0.0	mzspec:ST002341:SW620_neg_07.mzML:scan:57	0.72	6	NoID
+0.0	mzspec:ST003483:Extracellular/d7-T5.mzXML:scan:4310	0.72	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S75_RG10_01_29748.mzML:scan:158	0.72	6	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S81_RH5_01_29755.mzML:scan:292	0.72	6	NoID
+0.0	mzspec:ST003398:X0220-M004B-13_11_WT_Dim_4h_2.mzML:scan:334	0.72	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-01.mzML:scan:1524	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-RPC-05.mzML:scan:726	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-NPC-07.mzML:scan:7611	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Blank-NPC-01.mzML:scan:6200	0.72	5	NoID
+0.0	mzspec:MTBLS606:FILES/liver78_9.mzXML:scan:11426	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-NPC-04.mzML:scan:7585	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-RPC-10.mzML:scan:672	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_QCs-NPC-04.mzML:scan:7443	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_QCs-RPC-03.mzML:scan:736	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-RPC-01.mzML:scan:462	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_QCs-RPC-05.mzML:scan:1260	0.72	5	NoID
+-0.0	mzspec:MTBLS615:FILES/W30.03.mzXML:scan:6872	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_QCs-RPC-01.mzML:scan:525	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-RPC-05.mzML:scan:745	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-07.mzML:scan:1508	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-NPC-05.mzML:scan:7836	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-RPC-07.mzML:scan:414	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-RPC-03.mzML:scan:893	0.72	5	NoID
+-0.0	mzspec:MSV000081160:updates/2017-06-17_lamccall_aa8bf566/peak/Aq_neg/blanks/blank2_170615153310.mzXML:scan:1357	0.72	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S5_RA6_01_29663.mzML:scan:220	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_QCs-RPC-04.mzML:scan:618	0.72	5	NoID
+0.0	mzspec:MTBLS606:FILES/liver24_1.mzXML:scan:10757	0.72	5	NoID
+0.0	mzspec:MSV000081160:updates/2017-06-17_lamccall_aa8bf566/peak/Aq_neg/Samples/G1_RV2_CV0451.mzXML:scan:1114	0.72	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S117_RC8_01_29804.mzML:scan:648	0.72	5	NoID
+0.0	mzspec:ST002341:HT29_neg_01.mzML:scan:3053	0.72	5	NoID
+0.01	mzspec:MTBLS615:FILES/W03.10.mzXML:scan:7686	0.72	5	NoID
+0.0	mzspec:MTBLS5028:FILES/DERIVED_FILES/NEG/COLO205_neg_09.mzML:scan:1822	0.72	5	NoID
+0.0	mzspec:ST002341:COLO205_neg_09.mzML:scan:1822	0.72	5	NoID
+0.0	mzspec:MTBLS5028:FILES/DERIVED_FILES/NEG/HT29_neg_01.mzML:scan:3053	0.72	5	NoID
+-0.0	mzspec:MSV000081160:updates/2017-06-17_lamccall_aa8bf566/peak/Aq_neg/QC/QC_180-20_170615200055.mzXML:scan:1436	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-RPC-07.mzML:scan:532	0.72	5	NoID
+0.0	mzspec:MTBLS5028:FILES/DERIVED_FILES/NEG/COLO205_neg_04.mzML:scan:1513	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Blank-RPC-03.mzML:scan:572	0.72	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_4.mzXML:scan:7317	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_QCs-NPC-03.mzML:scan:7385	0.72	5	NoID
+0.0	mzspec:ST002341:COLO205_neg_04.mzML:scan:1513	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-NPC-07.mzML:scan:8520	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-RPC-10.mzML:scan:452	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-RPC-03.mzML:scan:756	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_QCs-NPC-01.mzML:scan:7311	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-RPC-01.mzML:scan:536	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-NPC-04.mzML:scan:7553	0.72	5	NoID
+0.0	mzspec:MTBLS5028:FILES/DERIVED_FILES/NEG/HT29_neg_06.mzML:scan:1237	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-09.mzML:scan:1127	0.72	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S68_RG3_01_29740.mzML:scan:156	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-NPC-01.mzML:scan:8579	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_QCs-RPC-05.mzML:scan:695	0.72	5	NoID
+-0.0	mzspec:MSV000081160:updates/2017-06-17_lamccall_aa8bf566/peak/Aq_neg/blanks/blank2_170614173401.mzXML:scan:1269	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_QCs-RPC-02.mzML:scan:560	0.72	5	NoID
+0.0	mzspec:MTBLS5028:FILES/DERIVED_FILES/NEG/COLO205_neg_01.mzML:scan:757	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-08.mzML:scan:1959	0.72	5	NoID
+0.0	mzspec:ST002341:HT29_neg_06.mzML:scan:1237	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_QCs-NPC-02.mzML:scan:7445	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-NPC-02.mzML:scan:7605	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Blank-NPC-03.mzML:scan:6117	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-02.mzML:scan:1636	0.72	5	NoID
+0.0	mzspec:ST002341:COLO205_neg_01.mzML:scan:757	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-NPC-10.mzML:scan:7386	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Blank-NPC-02.mzML:scan:6261	0.72	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-NPC-09.mzML:scan:8141	0.72	5	NoID
+0.0	mzspec:MTBLS7713:FILES/DERIVED_FILES/NEG/QC-3_NEG.mzML:scan:4294967295	0.72	4	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_QC01.mzXML:scan:4199	0.72	4	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_10.mzXML:scan:6678	0.72	4	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_6.mzXML:scan:4480	0.72	4	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_18hr_PLipid_3_039_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:199	0.72	3	NoID
+0.0	mzspec:MTBLS7713:FILES/DERIVED_FILES/NEG/QC-2_NEG.mzML:scan:4294967295	0.72	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_0hr_PLipid_5_042_NEG_150mm_15Aug15_Polaroid_HSST3-02.mzML:scan:197	0.72	3	NoID
+-0.0	mzspec:MTBLS1861:FILES/IROA_PLATE_neg_3_F.mzML:scan:5921	0.71	6	NoID
+0.0	mzspec:MTBLS2207:FILES/IROA_P1-6_ddMS2_neg_1Da.mzML:scan:5707	0.71	6	NoID
+0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C8.mzML:scan:886	0.71	6	NoID
+0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C5.mzML:scan:912	0.71	6	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-NPC-10.mzML:scan:7619	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-NPC-07.mzML:scan:7634	0.71	5	NoID
+0.0	mzspec:ST002341:HT29_neg_08.mzML:scan:77	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-NPC-09.mzML:scan:7317	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_QCs-NPC-05.mzML:scan:7355	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_QCs-NPC-05.mzML:scan:7318	0.71	5	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_3.mzXML:scan:7305	0.71	5	NoID
+-0.0	mzspec:MTBLS3003:FILES/DERIVED_FILES/21 d_neg_A2.mzXML:scan:335	0.71	5	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_30d_0h_8.mzXML:scan:4103	0.71	5	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_QC09.mzXML:scan:4828	0.71	5	NoID
+0.0	mzspec:MTBLS5028:FILES/DERIVED_FILES/NEG/HT29_neg_08.mzML:scan:77	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-NPC-08.mzML:scan:7834	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-RPC-06.mzML:scan:548	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-NPC-06.mzML:scan:7547	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-NPC-05.mzML:scan:7397	0.71	5	NoID
+0.0	mzspec:ST001715:Rosiglitazone_24_1_c18neg_fusion.mzXML:scan:527	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_QCs-RPC-03.mzML:scan:1130	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Blank-NPC-02.mzML:scan:6281	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-NPC-10.mzML:scan:7893	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_QCs-NPC-03.mzML:scan:7318	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-NPC-03.mzML:scan:8773	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-RPC-04.mzML:scan:803	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-NPC-01.mzML:scan:7384	0.71	5	NoID
+0.0	mzspec:ST002341:COLO205_neg_05.mzML:scan:1797	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-NPC-02.mzML:scan:7610	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-RPC-06.mzML:scan:839	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-NPC-06.mzML:scan:7712	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-NPC-08.mzML:scan:7480	0.71	5	NoID
+0.0	mzspec:ST002341:HT29_neg_07.mzML:scan:1902	0.71	5	NoID
+0.0	mzspec:MTBLS5028:FILES/DERIVED_FILES/NEG/COLO205_neg_05.mzML:scan:1797	0.71	5	NoID
+0.0	mzspec:MTBLS5028:FILES/DERIVED_FILES/NEG/HT29_neg_07.mzML:scan:1902	0.71	5	NoID
+-0.0	mzspec:MSV000081160:updates/2017-06-17_lamccall_aa8bf566/peak/Aq_neg/Samples/G4_RV3_CV0470.mzXML:scan:1165	0.71	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-NPC-07.mzML:scan:7589	0.71	5	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_6h_8.mzXML:scan:6648	0.71	4	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_2.mzXML:scan:4738	0.71	4	NoID
+-0.01	mzspec:MSV000088638:raw/Original experiment/Intracellular/48h exposure/Polar_Fraction_ESI-/MS2/48_QC_Cond_IIE_5.mzML:scan:4294967295	0.71	3	NoID
+-0.0	mzspec:MTBLS3963:FILES/DERIVED_FILES/NEG/Inc-Leu-1_NEG.mzML:scan:4294967295	0.71	3	NoID
+-0.0	mzspec:MTBLS3963:FILES/DERIVED_FILES/NEG/Inc-Lys-6_NEG.mzML:scan:4294967295	0.71	3	NoID
+-0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_7hr_Lipid_3_049_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:214	0.71	3	NoID
+-0.02	mzspec:MSV000086101:ccms_peak/NEG-AntiinsectQC-30V.mzML:scan:178	0.71	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_12hr_PLipid_3_050_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:334	0.71	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-NPC-09.mzML:scan:7576	0.7	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-NPC-09.mzML:scan:7665	0.7	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-NPC-08.mzML:scan:7723	0.7	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-NPC-04.mzML:scan:8196	0.7	5	NoID
+-0.0	mzspec:MSV000081160:updates/2017-06-17_lamccall_aa8bf566/peak/Aq_neg/Samples/G3_LV2_CV0418.mzXML:scan:1449	0.7	5	NoID
+-0.0	mzspec:MSV000081160:updates/2017-06-17_lamccall_aa8bf566/peak/Aq_neg/Samples/G2_RV3_CV0458.mzXML:scan:263	0.7	5	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-NPC-04.mzML:scan:7472	0.7	5	NoID
+-0.0	mzspec:MSV000081160:updates/2017-06-17_lamccall_aa8bf566/peak/Aq_neg/QC/QC_180-20_170615220920.mzXML:scan:1195	0.7	5	NoID
+0.0	mzspec:MTBLS5028:FILES/DERIVED_FILES/NEG/SW480_neg_06.mzML:scan:2683	0.7	5	NoID
+0.0	mzspec:ST002341:SW480_neg_06.mzML:scan:2683	0.7	5	NoID
+0.0	mzspec:MSV000081468:ccms_peak/mzxml/BM_S132_RD12_01_29821.mzML:scan:202	0.7	4	NoID
+0.0	mzspec:MTBLS5861:FILES/DERIVED_FILES/HEK cell/CID-Neg/HEK_NegCID2.mzML:scan:192	0.7	4	NoID

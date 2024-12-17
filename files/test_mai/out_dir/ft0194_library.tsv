@@ -1,0 +1,39 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000221768	CCMSLIB00000221768	1.0	3	ReSpect:PT200560 L-Tyrosine|L-Tyr|(-)-alpha-Amino-p-hydroxyhydrocinnamic acid|4-Hydroxyphenylalanine|L-2-Amino-3-p-hydroxyphenylpropanoic acid|(S)-2-Amino-3-(4-hydroxyphenyl)propionic acid|(2S)-2-amino-3-(4-hydroxyphe	[M+H]	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005757204	CCMSLIB00005757204	1.0	3	Massbank:PT200560 L-Tyr|(-)-alpha-Amino-p-hydroxyhydrocinnamic acid|L-2-Amino-3-p-hydroxyphenylpropanoic acid|L-Tyrosine|(S)-2-Amino-3-(4-hydroxyphenyl)propionic acid|4-Hydroxyphenylalanine|(2S)-2-amino-3-(4-hydroxyphe	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005747302	CCMSLIB00005747302	1.0	3	Massbank:PR100499 L-Tyrosine|L-Tyr|(-)-alpha-Amino-p-hydroxyhydrocinnamic acid|4-Hydroxyphenylalanine|L-2-Amino-3-p-hydroxyphenylpropanoic acid|(S)-2-Amino-3-(4-hydroxyphenyl)propionic acid	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00012110527	CCMSLIB00012110527	0.99	4	Suspect related to L-TRYPTOPHAN (predicted molecular formula SIRIUS: C9H11NO3 / BUDDY: C9H11NO3) with delta m/z -23.015 (putative explanation: His->Asn substitution|Trp->Tyr substitution; atomic difference: -2C,-1H,-1N,1O|-2C,-1H,-1N,1O) [M-H]-	[M-H]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006112569	CCMSLIB00006112569	0.99	4	L-(-)-Tyrosine - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006112566	CCMSLIB00006112566	0.99	4	L-(-)-Tyrosine - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006679719	CCMSLIB00006679719	0.99	4	TYROSINE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010102646	CCMSLIB00010102646	0.99	4	L-tyrosine CollisionEnergy:102040	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00010126261	CCMSLIB00010126261	0.99	4	L-tyrosine CollisionEnergy:102040	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00012110548	CCMSLIB00012110548	0.98	4	Suspect related to L-Tryptophan (predicted molecular formula SIRIUS: C9H11NO3 / BUDDY: C9H11NO3) with delta m/z -23.015 (putative explanation: His->Asn substitution|Trp->Tyr substitution; atomic difference: -2C,-1H,-1N,1O|-2C,-1H,-1N,1O) [M-H]-	[M-H]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00012154780	CCMSLIB00012154780	0.98	4	Suspect related to Spectral Match to L-Tryptophan from NIST14 (predicted molecular formula SIRIUS: C9H11NO3 / BUDDY: C9H11NO3) with delta m/z -23.015 (putative explanation: His->Asn substitution|Trp->Tyr substitution; atomic difference: -2C,-1H,-1N,1O|-2C,-1H,-1N,1O) [M-H]-	[M-H]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00012161623	CCMSLIB00012161623	0.98	4	Suspect related to TRYPTOPHAN (predicted molecular formula SIRIUS: C9H11NO3 / BUDDY: C9H11NO3) with delta m/z -23.015 (putative explanation: His->Asn substitution|Trp->Tyr substitution; atomic difference: -2C,-1H,-1N,1O|-2C,-1H,-1N,1O) [M-H]-	[M-H]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000578142	CCMSLIB00000578142	0.98	4	L-TYROSINE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006112567	CCMSLIB00006112567	0.98	4	L-(-)-Tyrosine - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006112568	CCMSLIB00006112568	0.98	4	L-(-)-Tyrosine - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006112570	CCMSLIB00006112570	0.97	4	L-(-)-Tyrosine - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006125839	CCMSLIB00006125839	0.93	3	YP2278000 - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006112572	CCMSLIB00006112572	0.93	4	L-(-)-Tyrosine - 30.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006112571	CCMSLIB00006112571	0.93	4	L-(-)-Tyrosine - 30.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006112573	CCMSLIB00006112573	0.92	4	L-(-)-Tyrosine - 30.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006125838	CCMSLIB00006125838	0.92	3	YP2278000 - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006125836	CCMSLIB00006125836	0.92	3	YP2278000 - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006125840	CCMSLIB00006125840	0.92	3	YP2278000 - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006112574	CCMSLIB00006112574	0.92	4	L-(-)-Tyrosine - 30.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006125837	CCMSLIB00006125837	0.92	3	YP2278000 - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006125842	CCMSLIB00006125842	0.9	3	YP2278000 - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006125844	CCMSLIB00006125844	0.9	3	YP2278000 - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006125843	CCMSLIB00006125843	0.9	3	YP2278000 - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006125845	CCMSLIB00006125845	0.9	3	YP2278000 - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006125846	CCMSLIB00006125846	0.89	3	YP2278000 - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005738025	CCMSLIB00005738025	0.89	3	Massbank:RP000312 L-Tyrosine|(2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006683919	CCMSLIB00006683919	0.88	3	TYROSINE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005738334	CCMSLIB00005738334	0.86	3	Massbank:RP000311 L-Tyrosine|(2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005743877	CCMSLIB00005743877	0.83	3	Massbank:PR309415 Tyrosine (Not validated)	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006683595	CCMSLIB00006683595	0.8	3	TYROSINE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006125847	CCMSLIB00006125847	0.76	3	YP2278000 - 30.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006125848	CCMSLIB00006125848	0.71	3	YP2278000 - 30.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006125849	CCMSLIB00006125849	0.71	3	YP2278000 - 30.0 eV	M-H	1

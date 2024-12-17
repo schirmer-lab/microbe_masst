@@ -1,0 +1,1280 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+0.01	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2555.mzML:scan:642	0.93	9	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2486.mzML:scan:681	0.93	8	NoID
+0.0	mzspec:MSV000090016:peak/XGLab_M. bovis BCG Growth Phase/PL/017_Mbovis_BCG_stat_phase__PL.mzML:scan:4294967295	0.93	5	NoID
+0.0	mzspec:MSV000090016:peak/XGLab_M. bovis BCG Growth Phase/PL/016_Mbovis_BCG_log_phase__PL.mzML:scan:4294967295	0.93	5	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026193_N.mzXML:scan:1071	0.92	8	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_32.119.mzML:scan:4294967295	0.92	7	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_33.47.mzML:scan:4294967295	0.92	7	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_31.46.mzML:scan:4294967295	0.92	7	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_27.37.mzML:scan:4294967295	0.92	6	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_59.48.mzML:scan:4294967295	0.92	6	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_84.39.mzML:scan:4294967295	0.92	6	NoID
+0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026196_N.mzXML:scan:1124	0.91	8	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026199_N.mzXML:scan:1106	0.91	8	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/Tafesse_HEK293T_Round2_24hr_Mock_R1_Lip_003_Neg_29Mar21_Brandi-WCSH316609.mzML:scan:3927	0.91	7	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_12hr_5_PLipid_066_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4433	0.91	6	NoID
+0.01	mzspec:MSV000089983:peak/mzML/220721_HG220720_2Ra_neg.mzML:scan:8155	0.91	5	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP7_A09_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3688	0.9	8	NoID
+-0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Cal04_24hr_4_PLipid_060_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4378	0.9	6	NoID
+-0.0	mzspec:MSV000089965:peak/mzxml/20210201_84.mzXML:scan:11318	0.9	6	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_76.120.mzML:scan:4294967295	0.9	6	NoID
+-0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_12hr_3_PLipid_063_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4397	0.9	6	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_53.109.mzML:scan:4294967295	0.9	6	NoID
+0.0	mzspec:ST003290:MW_mzML_upload/negative/231201_BC-7661_10.mzML:scan:9283	0.9	5	NoID
+0.0	mzspec:MTBLS4618:FILES/DERIVED_FILES/T-I-128-4 HILIC NEG.mzML:scan:4294967295	0.89	8	NoID
+0.0	mzspec:MTBLS4618:FILES/DERIVED_FILES/T-I-128-2 HILIC NEG.mzML:scan:4294967295	0.89	8	NoID
+0.0	mzspec:MTBLS4618:FILES/DERIVED_FILES/T-I-128-3 HILIC NEG.mzML:scan:4294967295	0.89	8	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026192_N.mzXML:scan:1099	0.89	8	NoID
+0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026069_N.mzXML:scan:1051	0.89	8	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2556.mzML:scan:719	0.89	7	NoID
+-0.0	mzspec:ST001405:LIPNEG17MAR_09.38.mzML:scan:4294967295	0.89	7	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_47.1.mzML:scan:4294967295	0.89	7	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/Tafesse_HEK293T_Round2_24hr_SARSCoV2_R2_Lip_008_Neg_29Mar21_Brandi-WCSH316609.mzML:scan:3918	0.89	6	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_71.2.mzML:scan:4294967295	0.89	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_3hr_PLipid_4_016_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4628	0.89	6	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_24hr_PLipid_4_058_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4723	0.89	6	NoID
+-0.01	mzspec:ST002968:mzML/N-M1-0803-NEG.mzML:scan:4294967295	0.89	4	NoID
+0.0	mzspec:MSV000090021:peak/XGLab_M. bovis BCG Csource_PL/042_Glucose 1.mzML:scan:4294967295	0.89	4	NoID
+0.01	mzspec:ST002968:mzML/N-M3-0803-NEG.mzML:scan:4294967295	0.89	3	NoID
+0.01	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2575.mzML:scan:688	0.88	8	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026184_N.mzXML:scan:1057	0.88	8	NoID
+0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026183_N.mzXML:scan:1077	0.88	8	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_TP_CS00000001-12_N.mzXML:scan:1064	0.88	8	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2477.mzML:scan:687	0.88	8	NoID
+-0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026065_N.mzXML:scan:1304	0.88	7	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_orf6_B12_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3713	0.88	7	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_orf9c_C06_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3666	0.88	7	NoID
+-0.0	mzspec:MSV000089965:peak/mzxml/20210201_83.mzXML:scan:11489	0.88	7	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_12hr_PLipid_4_010_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4732	0.88	7	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_MOCK_24HRS_A_LIPID_095_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4497	0.88	7	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP11_B01_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3672	0.88	7	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_24hr_PLipid_2_029_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4697	0.88	7	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_18hr_PLipid_2_054_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4653	0.88	7	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_24hr_PLipid_5_051_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4583	0.88	7	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_18hr_PLipid_3_039_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4670	0.88	7	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_MIXED_0HRS_C_LIPID_046_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4237	0.88	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_7hr_PLipid_4_005_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4646	0.88	6	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_12hr_4_PLipid_069_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4454	0.88	5	NoID
+0.01	mzspec:ST002875:LAT1-4F2hc_WT_1.mzML:scan:735	0.88	5	NoID
+-0.0	mzspec:MSV000087018:ccms_peak/Plasma_Suite_2_C_2_NEG_C18.mzML:scan:11634	0.88	4	NoID
+0.0	mzspec:MSV000090021:peak/XGLab_M. bovis BCG Csource_PL/050_0.005pc Oleate 1.mzML:scan:4294967295	0.88	4	NoID
+0.01	mzspec:MSV000089983:peak/mzML/220721_HG220720_2go_neg.mzML:scan:8320	0.88	4	NoID
+0.01	mzspec:MTBLS4618:FILES/DERIVED_FILES/T-I-128-5 HILIC NEG.mzML:scan:4294967295	0.87	8	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_QC3.mzXML:scan:480	0.87	8	NoID
+0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026068_N.mzXML:scan:1076	0.87	8	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_51.145.mzML:scan:4294967295	0.87	8	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_TP_CS00000001-10_N.mzXML:scan:1081	0.87	8	NoID
+0.0	mzspec:MTBLS4618:FILES/DERIVED_FILES/T-I-128-1 HILIC NEG.mzML:scan:4294967295	0.87	8	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_GFP_C08_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3787	0.87	7	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_3hr_PLipid_4_052_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4611	0.87	7	NoID
+0.0	mzspec:ST003401:Raw_Data_FabT_Lipids/mFabT_THY-Tween_1.mzML:scan:7095	0.87	7	NoID
+0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Mock_7hr_5_PLipid_067_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4382	0.87	7	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2487.mzML:scan:711	0.87	7	NoID
+-0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026064_N.mzXML:scan:1207	0.87	7	NoID
+-0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026073_N.mzXML:scan:1212	0.87	7	NoID
+-0.02	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_TP_CS00000001-11_N.mzXML:scan:1065	0.87	7	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_7hr_PLipid_1_032_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4734	0.87	7	NoID
+-0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_852A.mzXML:scan:508	0.87	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_861.mzXML:scan:517	0.87	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_284.mzXML:scan:503	0.87	6	NoID
+0.0	mzspec:MSV000091302:peak/Peak_List_Files/FXM_Stone_PAM_0316_wash01_L_Neg_19Apr18_Lola-WCSH7804.mzML:scan:2273	0.87	6	NoID
+0.0	mzspec:ST002749:BromeliadLipidomics_LCMS/BromeliadLipidomics_NEG_mZML/PAP24-NEG.mzML:scan:4842	0.87	5	NoID
+-0.0	mzspec:MSV000087018:peak/Plasma_Suite_3_A_1_NEG_C18.mzML:scan:14498	0.87	4	NoID
+0.0	mzspec:ST002968:mzML/N-ZD3-0803-NEG.mzML:scan:4294967295	0.87	3	NoID
+0.01	mzspec:MTBLS4618:FILES/DERIVED_FILES/T-I-128-6 HILIC NEG.mzML:scan:4294967295	0.86	9	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_90.POOL.5.mzML:scan:4294967295	0.86	8	NoID
+0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026194_N.mzXML:scan:1128	0.86	8	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_431.mzXML:scan:467	0.86	8	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_874.mzXML:scan:496	0.86	7	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf6_B12_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3672	0.86	7	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_GFP_C08_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3668	0.86	7	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf9c_C06_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3636	0.86	7	NoID
+-0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026061_N.mzXML:scan:1216	0.86	7	NoID
+0.01	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2546.mzML:scan:638	0.86	7	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_S_B07_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3697	0.86	7	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_S_B07_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3668	0.86	7	NoID
+-0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026066_N.mzXML:scan:1176	0.86	7	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2558.mzML:scan:693	0.86	6	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_58.156.mzML:scan:4294967295	0.86	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_628.mzXML:scan:515	0.86	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_3hr_PLipid_2_027_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4725	0.86	6	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_69.11.mzML:scan:4294967295	0.86	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_0hr_PLipid_1_031_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4746	0.86	5	NoID
+-0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_7hr_1_PLipid_044_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4298	0.86	5	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/Tafesse_HEK293T_Round2_24hr_SARSCoV2_R5_Lip_009_Neg_29Mar21_Brandi-WCSH316609.mzML:scan:3963	0.86	5	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/Tafesse_HEK293T_Round2_24hr_Mock_R2_Lip_006_Neg_29Mar21_Brandi-WCSH316609.mzML:scan:3960	0.86	5	NoID
+0.01	mzspec:ST002875:LAT1-4F2hc_WT_2.mzML:scan:749	0.86	5	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/Tafesse_HEK293T_Round2_24hr_SARSCoV2_R4_Lip_004_Neg_29Mar21_Brandi-WCSH316609.mzML:scan:3902	0.86	4	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Cal04_0hr_2_PLipid_054_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4402	0.86	4	NoID
+-0.0	mzspec:MSV000087018:ccms_peak/Exp_Blank_C_1_NEG_C18.mzML:scan:14366	0.86	4	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_24hr_PLipid_3_013_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4746	0.86	4	NoID
+0.0	mzspec:ST002749:BromeliadLipidomics_LCMS/BromeliadLipidomics_NEG_mZML/PAP01-NEG.mzML:scan:4822	0.86	4	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_975.mzXML:scan:498	0.85	8	NoID
+0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026072_N.mzXML:scan:1271	0.85	7	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP4_A05_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3699	0.85	7	NoID
+0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_S00021741_N.mzXML:scan:815	0.85	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_985.mzXML:scan:502	0.85	7	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_combo_A09-A10_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3740	0.85	7	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf9c_C06_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3677	0.85	7	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP5_C145A_A07_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3731	0.85	7	NoID
+-0.02	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026057_N.mzXML:scan:1125	0.85	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_885B.mzXML:scan:499	0.85	7	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP6_A08_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3643	0.85	7	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf9c_C06_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3661	0.85	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_517.mzXML:scan:534	0.85	7	NoID
+0.0	mzspec:ST003401:Raw_Data_FabT_Lipids/mFabT_THY-Tween_4.mzML:scan:7083	0.85	7	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP7_A09_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3697	0.85	7	NoID
+-0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026053_N.mzXML:scan:1172	0.85	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_183.mzXML:scan:491	0.85	6	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_icMERS_24HRS_C_LIPID_060_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4167	0.85	6	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_NS1_2d_lipid_4_014_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5102	0.85	6	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_52.3.mzML:scan:4294967295	0.85	6	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2481.mzML:scan:705	0.85	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP8_A10_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3699	0.85	6	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2576.mzML:scan:640	0.85	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_18hr_PLipid_2_009_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4775	0.85	6	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_12HRS_B_Lipid_008_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4227	0.85	5	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_57.155.mzML:scan:4294967295	0.85	5	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_NS1_2d_lipid_5_062_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5436	0.85	5	NoID
+0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Cal04_48hr_2_PLipid_035_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4350	0.85	4	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/Tafesse_HEK293T_Round2_24hr_SARSCoV2_R3_Lip_001_Neg_29Mar21_Brandi-WCSH316609.mzML:scan:4217	0.85	4	NoID
+-0.0	mzspec:MSV000087018:ccms_peak/Plasma_Suite_1_C_2_NEG_C18.mzML:scan:13828	0.85	4	NoID
+0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_spinal_cord/negative_mode/neg_mouse_female_spinal_4w_1.mzML:scan:8406	0.85	4	NoID
+-0.0	mzspec:MSV000087018:peak/Exp_Blank_E_2_NEG_C18.mzML:scan:14506	0.85	3	NoID
+-0.0	mzspec:MSV000081048:peak/Peak_List_Files/OMICS_WCT001_WNVWT_4d_3_Lipid_021_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5030	0.85	3	NoID
+0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026195_N.mzXML:scan:1125	0.84	8	NoID
+-0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026059_N.mzXML:scan:1025	0.84	8	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_802.mzXML:scan:215	0.84	8	NoID
+0.01	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_894.mzXML:scan:215	0.84	8	NoID
+-0.01	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_TP_CS00000001-6_N.mzXML:scan:1061	0.84	8	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_568.mzXML:scan:214	0.84	7	NoID
+0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_S00021740_N.mzXML:scan:817	0.84	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_205.mzXML:scan:528	0.84	7	NoID
+0.01	mzspec:ST003401:Raw_Data_FabT_Lipids/mFabT_THY_1.mzML:scan:6176	0.84	7	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP11_B01_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3681	0.84	7	NoID
+0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_S00021738_N.mzXML:scan:789	0.84	7	NoID
+-0.0	mzspec:ST001405:LIPNEG17MAR_10.111.mzML:scan:4294967295	0.84	7	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_15.118.mzML:scan:4294967295	0.84	7	NoID
+-0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026060_N.mzXML:scan:1054	0.84	7	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_67.181.mzML:scan:4294967295	0.84	7	NoID
+0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_S00021737_N.mzXML:scan:806	0.84	7	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_ORF3a_B08_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3663	0.84	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_3hr_PLipid_5_028_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4664	0.84	6	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta16_0HRS_A_LIPID_135_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4660	0.84	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_24hr_PLipid_1_024_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4669	0.84	6	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_MOCK_18HRS_B_LIPID_175_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4577	0.84	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_combo_A05-A08_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3684	0.84	6	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026031_N.mzXML:scan:1165	0.84	6	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026014_N.mzXML:scan:1039	0.84	6	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta4b_7HRS_A_LIPID_176_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4673	0.84	6	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_70.182.mzML:scan:4294967295	0.84	6	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta4b_12HRS_E_LIPID_002_NEG_24Mar16_Legolas_Mclass.mzML:scan:4653	0.84	5	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_MIXED_0HRS_D_LIPID_029_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4112	0.84	5	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_907.mzXML:scan:500	0.84	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_24hr_PLipid_5_034_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4621	0.84	5	NoID
+-0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_spinal_cord/negative_mode/neg_mouse_female_spinal_4w_2.mzML:scan:8388	0.84	4	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_7hr_PLipid_1_055_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4776	0.84	4	NoID
+-0.0	mzspec:MSV000087018:peak/Plasma_Suite_1_A_2_NEG_C18.mzML:scan:10811	0.84	4	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_MOCK_48HRS_E_Lipid_012_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4241	0.84	4	NoID
+0.0	mzspec:MSV000079154:ccms_peak/OMICS_MCL003_MOCK_18hr_Lipid_1_008_NEG_22Aug14_Polaroid_14-02-11.mzXML:scan:5720	0.83	8	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_combo_B10-B11-C04_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3690	0.83	8	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_865.mzXML:scan:501	0.83	8	NoID
+-0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026029_N.mzXML:scan:972	0.83	8	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf8_C03_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3715	0.83	7	NoID
+0.01	mzspec:ST003401:Raw_Data_FabT_Lipids/mFabT_THY_4.mzML:scan:7328	0.83	7	NoID
+0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026070_N.mzXML:scan:1262	0.83	7	NoID
+0.0	mzspec:MSV000082713:ccms_peak/ST000673/EX00575-lipidomics/Raw data/NEG/20160517_S00022405_N.mzXML:scan:1087	0.83	7	NoID
+0.01	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_102.mzXML:scan:480	0.83	7	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP8_A10_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3695	0.83	7	NoID
+0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_S00021735_N.mzXML:scan:817	0.83	7	NoID
+0.0	mzspec:ST003401:Raw_Data_FabT_Lipids/WT_THY_1.mzML:scan:6441	0.83	7	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_TP_CS00000001-8_N.mzXML:scan:1097	0.83	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_106A.mzXML:scan:530	0.83	7	NoID
+0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_TP_CS00000001-2_N.mzXML:scan:962	0.83	7	NoID
+0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_S00021736_N.mzXML:scan:809	0.83	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_QC2.mzXML:scan:500	0.83	7	NoID
+-0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_TP_CS00000001-3_N.mzXML:scan:935	0.83	7	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_63.POOL.4.mzML:scan:4294967295	0.83	6	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_39.192.mzML:scan:4294967295	0.83	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_806.mzXML:scan:504	0.83	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_12h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:9313	0.83	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP5_C145A_A07_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3742	0.83	6	NoID
+0.01	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_592.mzXML:scan:501	0.83	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_N_C04_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3688	0.83	6	NoID
+0.01	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_MOCK_7HRS_B_LIPID_056_NEG_24Mar16_Legolas_Mclass.mzML:scan:4767	0.83	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_S_B07_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3699	0.83	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_combo_A05-A08_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3643	0.83	6	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/15M.N8.mzML:scan:4294967295	0.83	6	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_18.146.mzML:scan:4294967295	0.83	6	NoID
+-0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026017_N.mzXML:scan:1016	0.83	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_782.mzXML:scan:490	0.83	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_24hr_PLipid_4_007_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4762	0.83	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP8_A10_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3668	0.83	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_72h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8297	0.83	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_235.mzXML:scan:468	0.83	6	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_21.POOL.2.mzML:scan:4294967295	0.83	6	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_36HRS_D_Lipid_023_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4348	0.83	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_3hr_PLipid_5_025_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4653	0.83	5	NoID
+0.01	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_12hr_Lipid_3_103_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:4250	0.83	5	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Cal04_48hr_3_PLipid_031_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4312	0.83	5	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_12hr_1_PLipid_032_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4432	0.83	5	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta4b_12HRS_D_LIPID_143_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4723	0.83	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_24hr_PLipid_2_029_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4982	0.83	5	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_12HRS_D_Lipid_016_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4186	0.83	5	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_12HRS_C_Lipid_059_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:3864	0.83	4	NoID
+-0.0	mzspec:MSV000087018:peak/Plasma_Suite_1_A_1_NEG_C18.mzML:scan:10958	0.83	4	NoID
+-0.0	mzspec:MSV000087018:ccms_peak/Plasma_Suite_1_C_1_NEG_C18.mzML:scan:12982	0.83	4	NoID
+-0.0	mzspec:MSV000087018:peak/Plasma_Suite_3_C_1_NEG_C18.mzML:scan:13885	0.83	4	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_MOCK_12HRS_D_Lipid_011_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4222	0.83	4	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_36HRS_C_Lipid_035_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4217	0.83	4	NoID
+0.0	mzspec:MSV000081973:ccms_peak/raw/hLm_HTC_D08_MIC_1_L_NEG_26Aug16_Lola-WCSH8005.mzML:scan:2118	0.83	4	NoID
+0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Cal04_12hr_1_PLipid_003_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4385	0.83	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/9M.N13.mzML:scan:4294967295	0.83	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_3hr_PLipid_1_115_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4896	0.83	3	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_500A.mzXML:scan:463	0.82	8	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_819.mzXML:scan:727	0.82	8	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_331.mzXML:scan:212	0.82	8	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_421.mzXML:scan:503	0.82	8	NoID
+0.01	mzspec:ST003401:Raw_Data_FabT_Lipids/mFabT_THY-Tween_2.mzML:scan:6307	0.82	7	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026030_N.mzXML:scan:1180	0.82	7	NoID
+0.01	mzspec:ST003401:Raw_Data_FabT_Lipids/mFabT_THY_3.mzML:scan:6297	0.82	7	NoID
+0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_S00021742_N.mzXML:scan:799	0.82	7	NoID
+0.0	mzspec:ST003401:Raw_Data_FabT_Lipids/mFabT_THY-Tween_3.mzML:scan:6235	0.82	7	NoID
+0.01	mzspec:ST003401:Raw_Data_FabT_Lipids/mFabT_THY_2.mzML:scan:6314	0.82	7	NoID
+-0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_S00021731_N.mzXML:scan:799	0.82	7	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026188_N.mzXML:scan:1073	0.82	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_QC4.mzXML:scan:472	0.82	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_N_C04_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3695	0.82	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_12h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8943	0.82	6	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta35_18HRS_A_LIPID_140_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4686	0.82	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_120B.mzXML:scan:511	0.82	6	NoID
+0.0	mzspec:MSV000093172:peak/Converted/1293-DD.mzXML:scan:525	0.82	6	NoID
+-0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_24hr_Lipid_1_006_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4124	0.82	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_582.mzXML:scan:525	0.82	6	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_24HRS_B_Lipid_057_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4265	0.82	6	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_NS1_lipid_7d_3_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5853	0.82	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_24hr_PLipid_1_024_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4850	0.82	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_24hr_PLipid_2_077_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4762	0.82	5	NoID
+0.01	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta4b_0HRS_D_LIPID_001_NEG_24Mar16_Legolas_Mclass.mzML:scan:4582	0.82	5	NoID
+-0.02	mzspec:ST001405:LIPNEG17MAR_72.147.mzML:scan:4294967295	0.82	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_24hr_PLipid_1_008_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4826	0.82	5	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_0HRS_E_Lipid_033_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4204	0.82	5	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_83.83.mzML:scan:4294967295	0.82	5	NoID
+-0.0	mzspec:MSV000087018:ccms_peak/Plasma_Suite_1_B_2_NEG_C18.mzML:scan:11531	0.82	4	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_12HRS_E_Lipid_029_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4205	0.82	4	NoID
+0.01	mzspec:MSV000089983:peak/mzML/220721_HG220720_2ma_neg.mzML:scan:8219	0.82	4	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_300.mzXML:scan:482	0.82	4	NoID
+0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_spinal_cord/negative_mode/neg_mouse_female_spinal_4w_4.mzML:scan:8508	0.82	4	NoID
+0.0	mzspec:MSV000086174:peak/Peak_List_Files/BetaMarker_noCyto_24h_1409_Lipid__NEG_150mm_28Jan16_Polaroid_HSST3-02.mzML:scan:5398	0.82	4	NoID
+0.0	mzspec:MSV000087018:peak/Plasma_Suite_2_C_1_NEG_C18.mzML:scan:11722	0.82	4	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_12hr_PLipid_3_020_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4663	0.82	4	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_2d_lipid_3_051_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5476	0.82	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/28M.N6.mzML:scan:4294967295	0.82	4	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_MOCK_24HRS_D_Lipid_034_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4216	0.82	4	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_18hr_PLipid_4_021_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4852	0.82	3	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Cal04_36hr_5_PLipid_004_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4358	0.82	3	NoID
+-0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_0hr_3_PLipid_052_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4322	0.82	3	NoID
+0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_spinal_cord/negative_mode/neg_mouse_female_spinal_4w_3.mzML:scan:8499	0.82	3	NoID
+-0.0	mzspec:MSV000087018:peak/Plasma_Suite_2_B_2_NEG_C18.mzML:scan:12525	0.82	3	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/Tafesse_HEK293T_Round2_24hr_SARSCoV2_R1_Lip_002_Neg_29Mar21_Brandi-WCSH316609.mzML:scan:3927	0.82	3	NoID
+0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_spinal_cord/negative_mode/neg_mouse_female_spinal_78w_3.mzML:scan:8697	0.82	3	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_QC4.mzXML:scan:221	0.81	9	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_TP_CS00000001-9_N.mzXML:scan:1104	0.81	9	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP7_A09_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3668	0.81	8	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_382.mzXML:scan:648	0.81	8	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_778.mzXML:scan:223	0.81	8	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_277.mzXML:scan:210	0.81	8	NoID
+0.0	mzspec:MSV000082692:ccms_peak/ST000665/EX00348-lipidomics/Raw data/NEG/S00015868_Negative_01.mzXML:scan:1327	0.81	8	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_NS1_7d_lipid_5_045_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5608	0.81	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_0h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8384	0.81	7	NoID
+0.0	mzspec:MSV000081894:peak/Peak_List_Files/OMICS_MMVE003_icMERS_12HRS_3_Lipid_042_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:4685	0.81	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_QC7.mzXML:scan:480	0.81	7	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_912.mzXML:scan:221	0.81	7	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026190_N.mzXML:scan:1062	0.81	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_72h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8612	0.81	7	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_852B.mzXML:scan:222	0.81	7	NoID
+-0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_S00021734_N.mzXML:scan:790	0.81	7	NoID
+0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_TP_CS00000001-5_N.mzXML:scan:997	0.81	7	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_ORF3a_B08_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3657	0.81	6	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_TP_CS00000001-7_N.mzXML:scan:1083	0.81	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP4_A05_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3715	0.81	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_QC8.mzXML:scan:501	0.81	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_515.mzXML:scan:822	0.81	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_0hr_PLipid_2_049_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4750	0.81	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_250.mzXML:scan:500	0.81	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_24h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8301	0.81	6	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_PB2_1d_lipid_1_071_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5294	0.81	6	NoID
+0.01	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_12hr_PLipid_2_004_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4699	0.81	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_60h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8312	0.81	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_QC9.mzXML:scan:499	0.81	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP10_A12_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3654	0.81	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP5_C145A_A07_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3740	0.81	6	NoID
+0.01	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta16_0HRS_D_LIPID_053_NEG_24Mar16_Legolas_Mclass.mzML:scan:4773	0.81	5	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_56.10.mzML:scan:4294967295	0.81	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_12hr_PLipid_4_071_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4844	0.81	5	NoID
+0.01	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_QC1.mzXML:scan:492	0.81	5	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_NS1_4d_lipid_3_080_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5541	0.81	5	NoID
+-0.01	mzspec:ST001405:LIPNEG17MAR_07.73.mzML:scan:4294967295	0.81	5	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP5_A06_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3661	0.81	5	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_60h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8427	0.81	5	NoID
+0.01	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_373.mzXML:scan:495	0.81	5	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MOCK_0HRS_C_LIPID_118_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4538	0.81	5	NoID
+0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_spinal_cord/negative_mode/neg_mouse_female_spinal_25w_2.mzML:scan:8396	0.81	5	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MERSRFP_3HRS_E_LIPID_087_NEG_24Mar16_Legolas_Mclass.mzML:scan:4619	0.81	5	NoID
+0.01	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_3hr_Lipid_4_091_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:4263	0.81	4	NoID
+0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Mock_7hr_3_PLipid_025_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4345	0.81	4	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_CA04_2d_lipid_4_028_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5101	0.81	4	NoID
+-0.01	mzspec:MSV000089965:peak/mzxml/20200519_31.mzXML:scan:11891	0.81	4	NoID
+0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_spinal_cord/negative_mode/neg_mouse_female_spinal_78w_2.mzML:scan:8500	0.81	4	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_CA04_4d_lipid_3_011_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5057	0.81	4	NoID
+0.01	mzspec:ST002968:mzML/N-QC5-0803-NEG.mzML:scan:4294967295	0.81	3	NoID
+0.01	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/9M.N11.mzML:scan:4294967295	0.81	3	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/24M.N4.mzML:scan:4294967295	0.81	3	NoID
+0.01	mzspec:MSV000089983:peak/mzML/220721_HG220720_2ph_neg.mzML:scan:8207	0.81	3	NoID
+-0.01	mzspec:ST002968:mzML/N-QC3-0803-NEG.mzML:scan:4294967295	0.81	3	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_MOCK_12HRS_C_Lipid_026_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4291	0.81	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_7hr_PLipid_4_005_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4762	0.81	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_18hr_PLipid_4_006_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4848	0.81	3	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_TP_CS00000001-1_N.mzXML:scan:1045	0.8	8	NoID
+0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026062_N.mzXML:scan:1278	0.8	8	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_combo_A05-A08_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3688	0.8	8	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_797.mzXML:scan:477	0.8	8	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_combo_B10-B11-C04_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3679	0.8	8	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_523.mzXML:scan:210	0.8	8	NoID
+0.0	mzspec:ST003401:Raw_Data_FabT_Lipids/WT_THY_4.mzML:scan:7346	0.8	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_0h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8434	0.8	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_72h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:3338	0.8	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_0h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:9077	0.8	7	NoID
+0.0	mzspec:MSV000086931:peak/GNPS mzml files_lipids archived 30/SFA_0m_R5_soil_lipids_Neg_20Feb20_Lola-WCSH617902.mzML:scan:4876	0.8	7	NoID
+0.0	mzspec:MSV000086931:ccms_peak/GNPS mzml files_lipids archived 30/SFA_20m_R5_soil_lipids_Neg_20Feb20_Lola-WCSH617902.mzML:scan:4802	0.8	7	NoID
+0.0	mzspec:MSV000086931:ccms_peak/GNPS mzml files_lipids archived 30/SFA_30m_R5_soil_lipids_Neg_20Feb20_Lola-WCSH617902.mzML:scan:4818	0.8	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_225.mzXML:scan:496	0.8	7	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP1_A01_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3713	0.8	7	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP1_A01_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3733	0.8	7	NoID
+0.01	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027656_N.mzXML:scan:851	0.8	7	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_120A.mzXML:scan:610	0.8	7	NoID
+0.0	mzspec:MSV000082719:ccms_peak/ST000685/EX00694-lipidomics/Raw data/NEG/20170314_S00027753_Repeat_N.mzXML:scan:939	0.8	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_577B.mzXML:scan:505	0.8	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_747.mzXML:scan:499	0.8	6	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_4d_lipid_1_058_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5839	0.8	6	NoID
+0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_TP_CS00000001-1_N.mzXML:scan:982	0.8	6	NoID
+0.0	mzspec:MSV000086931:peak/GNPS mzml files_lipids archived 30/SFA_180m_R3_soil_lipids_Neg_20Feb20_Lola-WCSH617902.mzML:scan:4797	0.8	6	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_43.POOL.3.mzML:scan:4294967295	0.8	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP1_A01_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3762	0.8	6	NoID
+0.0	mzspec:MSV000082718:ccms_peak/ST000666/EX00376-lipidomics/Raw data/NEG/S00016802_Rat.mzXML:scan:798	0.8	6	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_36HRS_E_Lipid_047_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4172	0.8	6	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_orf9c_C06_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3681	0.8	6	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_36HRS_B_Lipid_027_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4185	0.8	5	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_MERSRFP_7HRS_D_LIPID_173_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4689	0.8	5	NoID
+-0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Cal04_12hr_3_PLipid_038_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4367	0.8	5	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MOCK_24HRS_D_LIPID_093_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4502	0.8	5	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_430.mzXML:scan:472	0.8	5	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_0h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:9339	0.8	5	NoID
+-0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_736.mzXML:scan:497	0.8	5	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_M_B11_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3715	0.8	5	NoID
+-0.01	mzspec:MSV000089965:peak/mzxml/20200519_29.mzXML:scan:11703	0.8	5	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_MOCK_0HRS_E_Lipid_006_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4201	0.8	5	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_30.75.mzML:scan:4294967295	0.8	5	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_60.84.mzML:scan:4294967295	0.8	5	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_316.mzXML:scan:513	0.8	5	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta35_3HRS_D_LIPID_101_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4419	0.8	4	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_12hr_PLipid_1_094_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4928	0.8	4	NoID
+-0.0	mzspec:MSV000082945:ccms_peak/Raw/Hilic-neg/HILIC-neg-24h-Mock-6.mzML:scan:649	0.8	4	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_7hr_PLipid_2_056_NEG_150mm_15Aug15_Polaroid_HSST3-02.mzML:scan:4932	0.8	4	NoID
+0.0	mzspec:MSV000086174:peak/Peak_List_Files/BetaMarker_Cyto_24h_1417_Lipid__NEG_150mm_28Jan16_Polaroid_HSST3-02.mzML:scan:5164	0.8	4	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_0hr_PLipid_4_063_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4770	0.8	4	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_0hr_PLipid_2_049_NEG_150mm_15Aug15_Polaroid_HSST3-02.mzML:scan:4737	0.8	4	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_37.154.mzML:scan:4294967295	0.8	4	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_12hr_PLipid_1_017_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4724	0.8	4	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_MOCK_48HRS_A_LIPID_038_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4045	0.8	3	NoID
+-0.01	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_Mock_2d_lipid_2_083_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5239	0.8	3	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta16_7HRS_C_LIPID_072_NEG_24Mar16_Legolas_Mclass.mzML:scan:4543	0.8	3	NoID
+0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_spinal_cord/negative_mode/neg_mouse_female_spinal_78w_1.mzML:scan:8711	0.8	3	NoID
+-0.0	mzspec:MSV000081973:ccms_peak/raw/hLm_HTC_D11_PMX_1_L_NEG_26Aug16_Lola-WCSH8005.mzML:scan:2185	0.8	3	NoID
+0.0	mzspec:ST002749:BromeliadLipidomics_LCMS/BromeliadLipidomics_NEG_mZML/PES142-NEG.mzML:scan:4829	0.8	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_18hr_PLipid_3_039_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4753	0.8	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_0hr_PLipid_1_031_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4770	0.8	3	NoID
+0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_spinal_cord/negative_mode/neg_mouse_female_spinal_12w_3.mzML:scan:8528	0.8	3	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP6_A08_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3654	0.79	8	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_12h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7903	0.79	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_72h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:9028	0.79	7	NoID
+0.01	mzspec:ST003401:Raw_Data_FabT_Lipids/WT_THY_2.mzML:scan:6299	0.79	7	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_24hr_PLipid_1_008_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4705	0.79	7	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_0hr_PLipid_3_036_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4780	0.79	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_12h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:9346	0.79	7	NoID
+-0.0	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027657_N.mzXML:scan:888	0.79	7	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf7b_C02_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3681	0.79	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_48h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8836	0.79	7	NoID
+0.01	mzspec:ST003401:Raw_Data_FabT_Lipids/WT_THY_3.mzML:scan:6003	0.79	7	NoID
+0.0	mzspec:MSV000082712:ccms_peak/ST000671/EX00540-lipidomics/Raw data/NEG/20160223_S00021232_N.mzXML:scan:1348	0.79	7	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_orf9b_C05_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3751	0.79	6	NoID
+0.0	mzspec:MTBLS464:FILES/AZ5_T2_1e.mzXML:scan:6964	0.79	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_800.mzXML:scan:486	0.79	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_295.mzXML:scan:494	0.79	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf8_C03_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3717	0.79	6	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_24hr_Lipid_5_008_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4444	0.79	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_158.mzXML:scan:494	0.79	6	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_24hr_Lipid_3_062_Neg_rr_28Jan15_Polaroid_14-12-16.mzML:scan:4334	0.79	6	NoID
+-0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_S00021739_N.mzXML:scan:841	0.79	6	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_combo_B10-B11-C04_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3724	0.79	6	NoID
+0.0	mzspec:MTBLS4618:FILES/DERIVED_FILES/QC-1 HILIC NEG.mzML:scan:4294967295	0.79	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_0h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8967	0.79	6	NoID
+0.0	mzspec:MSV000082719:ccms_peak/ST000685/EX00694-lipidomics/Raw data/NEG/20170314_S00027752_N.mzXML:scan:912	0.79	6	NoID
+0.0	mzspec:MSV000082782:ccms_peak/raw/MTBLS464/AZ5_T2_1e.mzXML:scan:6964	0.79	6	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta16_7HRS_A_LIPID_169_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4761	0.79	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_24hr_Lipid_5_064_Neg_rr_28Jan15_Polaroid_14-12-16.mzML:scan:4364	0.79	5	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_MOCK_36HRS_E_LIPID_030_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4168	0.79	5	NoID
+0.01	mzspec:MSV000083533:ccms_peak/OMICS_MHAE001_MOCK_0HRS_5_Lipid_011_NEG_14May17_Polaroid_HSST-T3-A923.mzML:scan:11698	0.79	5	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_4d_lipid_3_049_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5610	0.79	5	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta16_0HRS_E_LIPID_146_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4772	0.79	5	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026020_N.mzXML:scan:1102	0.79	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_18hr_Lipid_5_097_Neg_rr_28Jan15_Polaroid_14-12-16.mzML:scan:4386	0.79	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_3hr_Lipid_3_066_Neg_rr_29Jan15_Polaroid_14-12-16.mzML:scan:4336	0.79	5	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_CA04_7d_lipid_3_009_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5292	0.79	5	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_48h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8447	0.79	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_18hr_PLipid_4_006_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4752	0.79	5	NoID
+0.01	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_627.mzXML:scan:469	0.79	5	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta4b_7HRS_D_LIPID_138_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4656	0.79	4	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta4b_12HRS_A_LIPID_109_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4356	0.79	4	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta4b_24HRS_A_LIPID_061_NEG_24Mar16_Legolas_Mclass.mzML:scan:4656	0.79	4	NoID
+-0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_3hr_Lipid_3_015_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4362	0.79	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_12hr_Lipid_2_024_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:4282	0.79	4	NoID
+-0.0	mzspec:MSV000081048:ccms_peak/Peak_List_Files/OMICS_WCT001_mock_2d_3_Lipid_060_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5180	0.79	4	NoID
+0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-08.mzXML:scan:5235	0.79	4	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta4b_7HRS_C_LIPID_122_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4550	0.79	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/3M.N16.mzML:scan:4294967295	0.79	4	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta35_7HRS_D_LIPID_136_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4598	0.79	4	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_48HRS_B_Lipid_024_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4338	0.79	4	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_408.mzXML:scan:474	0.79	4	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/Tafesse_HEK293T_Round2_24hr_Mock_R4_Lip_007_Neg_29Mar21_Brandi-WCSH316609.mzML:scan:4041	0.79	3	NoID
+-0.0	mzspec:MSV000081973:ccms_peak/raw/hLm_HTC_D01_MIC_1_L_NEG_26Aug16_Lola-WCSH8005.mzML:scan:2122	0.79	3	NoID
+0.01	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/9M.N4.mzML:scan:4294967295	0.79	3	NoID
+0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_spinal_cord/negative_mode/neg_mouse_female_spinal_12w_2.mzML:scan:8673	0.79	3	NoID
+-0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/9M.N8.mzML:scan:4294967295	0.79	3	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/28M.N9.mzML:scan:4294967295	0.79	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_24hr_PLipid_2_114_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4833	0.79	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-06.mzML:scan:10022	0.79	3	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_MOCK_48HRS_D_Lipid_040_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4234	0.79	3	NoID
+0.01	mzspec:MSV000079154:ccms_peak/OMICS_MCL003_MERS-CoV_18hr_Lipid_9_009_NEG_22Aug14_Polaroid_14-02-13.mzXML:scan:5696	0.78	8	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_orf7b_C02_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3742	0.78	7	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_Empty_Vector_PLVX_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3708	0.78	7	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_Empty_Vector_PLVX_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3742	0.78	7	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_orf7b_C02_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3717	0.78	7	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP2_A02_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3726	0.78	7	NoID
+-0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026075_N.mzXML:scan:1056	0.78	7	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_163.mzXML:scan:634	0.78	7	NoID
+-0.0	mzspec:MSV000082692:ccms_peak/ST000665/EX00348-lipidomics/Raw data/NEG/S00015865_Negative_01.mzXML:scan:1349	0.78	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_24h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7879	0.78	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_36h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7632	0.78	7	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026185_N.mzXML:scan:1082	0.78	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_48h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7480	0.78	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_36h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8675	0.78	7	NoID
+-0.0	mzspec:MSV000082739:ccms_peak/ST000819/EX00555/Raw data/Lipidomics/NEG/20160624_S00021732_N.mzXML:scan:790	0.78	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_688.mzXML:scan:541	0.78	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_24h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7616	0.78	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_131.mzXML:scan:873	0.78	6	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_24hr_Lipid_2_009_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4436	0.78	6	NoID
+0.01	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027664_N.mzXML:scan:880	0.78	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_36h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7792	0.78	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_24h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8952	0.78	6	NoID
+0.0	mzspec:MSV000082712:ccms_peak/ST000671/EX00540-lipidomics/Raw data/NEG/20160223_S00021230_N.mzXML:scan:1404	0.78	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_885A.mzXML:scan:515	0.78	6	NoID
+0.0	mzspec:MSV000086931:ccms_peak/GNPS mzml files_lipids archived 30/SFA_180m_R5_soil_lipids_Neg_20Feb20_Lola-WCSH617902.mzML:scan:4836	0.78	6	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_25.110.mzML:scan:4294967295	0.78	6	NoID
+0.0	mzspec:MTBLS464:FILES/AZ5_T4_1e.mzXML:scan:7149	0.78	6	NoID
+0.0	mzspec:MSV000086931:peak/GNPS mzml files_lipids archived 30/SFA_10m_R4_soil_lipids_Neg_20Feb20_Lola-WCSH617902.mzML:scan:4815	0.78	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_72h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7661	0.78	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_60h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8198	0.78	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_72h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:9214	0.78	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_60h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8373	0.78	6	NoID
+0.0	mzspec:MSV000082782:ccms_peak/raw/MTBLS464/AZ5_T4_1e.mzXML:scan:7149	0.78	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_679.mzXML:scan:493	0.78	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_12hr_Lipid_3_Neg_rr_29Jan15_Polaroid_14-12-16.mzML:scan:4297	0.78	5	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_24h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8200	0.78	5	NoID
+0.01	mzspec:ST001405:LIPNEG17MAR_40.190.mzML:scan:4294967295	0.78	5	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP6_A08_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3668	0.78	5	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_77.82.mzML:scan:4294967295	0.78	5	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_12h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7984	0.78	5	NoID
+0.0	mzspec:ST001405:LIPNEG17MAR_38.183.mzML:scan:4294967295	0.78	5	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_combo_B10-B11-C04_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3668	0.78	5	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_48h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8600	0.78	5	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_PB2_1d_lipid_3_025_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5091	0.78	5	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_0h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8498	0.78	5	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_MERSRFP_24HRS_A_LIPID_081_NEG_24Mar16_Legolas_Mclass.mzML:scan:4853	0.78	5	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_60h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:9201	0.78	5	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_QC6.mzXML:scan:480	0.78	5	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MOCK_3HRS_C_LIPID_020_NEG_24Mar16_Legolas_Mclass.mzML:scan:4628	0.78	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_7hr_Lipid_1_031_Neg_28Jan15_Polaroid_14-12-16.mzML:scan:4351	0.78	5	NoID
+-0.0	mzspec:ST001405:LIPNEG17MAR_16.12.mzML:scan:4294967295	0.78	4	NoID
+-0.0	mzspec:MSV000087018:ccms_peak/Exp_Blank_B_1_NEG_C18.mzML:scan:13404	0.78	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/9M.N9.mzML:scan:4294967295	0.78	4	NoID
+0.01	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-10.mzXML:scan:4908	0.78	4	NoID
+-0.0	mzspec:MSV000087018:peak/Plasma_Suite_2_A_1_NEG_C18.mzML:scan:11364	0.78	4	NoID
+-0.0	mzspec:ST003398:X0220-M004B-22_9_WT_Dim_2h_3.mzML:scan:4225	0.78	4	NoID
+-0.0	mzspec:MSV000087018:peak/1950_A_3_NEG_C18.mzML:scan:11610	0.78	4	NoID
+-0.0	mzspec:MSV000087018:ccms_peak/1950_A_4_NEG_C18.mzML:scan:12335	0.78	4	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_MOCK_7HRS_A_LIPID_132_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4610	0.78	4	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_MOCK_24HRS_D_LIPID_032_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4245	0.78	4	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_24hr_PLipid_4_007_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4854	0.78	4	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta16_18HRS_E_LIPID_147_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4625	0.78	4	NoID
+0.01	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta35_18HRS_B_LIPID_018_NEG_24Mar16_Legolas_Mclass.mzML:scan:4663	0.78	4	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_icMERS_12HRS_E_LIPID_152_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4663	0.78	4	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_CA04_4d_lipid_4_077_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5396	0.78	4	NoID
+0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_spinal_cord/negative_mode/neg_mouse_female_spinal_78w_4.mzML:scan:8495	0.78	3	NoID
+0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_spinal_cord/negative_mode/neg_mouse_female_spinal_25w_1.mzML:scan:8668	0.78	3	NoID
+0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-40.mzXML:scan:5215	0.78	3	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_MOCK_24HRS_A_LIPID_058_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4081	0.78	3	NoID
+0.0	mzspec:MSV000086174:peak/Peak_List_Files/BetaMarker_Cyto_24h_1423_Lipid__NEG_150mm_28Jan16_Polaroid_HSST3-02.mzML:scan:5504	0.78	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_7hr_PLipid_3_011_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4789	0.78	3	NoID
+0.0	mzspec:MSV000090021:peak/XGLab_M. bovis BCG Csource_PL/040_Control 1.mzML:scan:4294967295	0.78	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_24hr_PLipid_5_101_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4963	0.78	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_24hr_PLipid_4_109_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:5112	0.78	3	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MOCK_18HRS_E_LIPID_133_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4538	0.78	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_18hr_PLipid_1_119_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4982	0.78	3	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_NS1_7d_lipid_4_065_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5424	0.78	3	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_577A.mzXML:scan:515	0.77	8	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_QC9.mzXML:scan:664	0.77	8	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_501.mzXML:scan:613	0.77	8	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_TP_CS00000001-2_N.mzXML:scan:1102	0.77	8	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_24h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7760	0.77	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_72h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8747	0.77	7	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_orf10_C07_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3724	0.77	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_48h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8719	0.77	7	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_321.mzXML:scan:765	0.77	7	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_233.mzXML:scan:617	0.77	7	NoID
+0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026052_N.mzXML:scan:1128	0.77	7	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_904.mzXML:scan:765	0.77	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_60h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8035	0.77	7	NoID
+0.01	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_248.mzXML:scan:475	0.77	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_533.mzXML:scan:498	0.77	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_24h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:9005	0.77	7	NoID
+-0.02	mzspec:MSV000082719:ccms_peak/ST000685/EX00694-lipidomics/Raw data/NEG/20170314_S00027767_N.mzXML:scan:861	0.77	7	NoID
+-0.01	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026189_N.mzXML:scan:1035	0.77	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_977.mzXML:scan:508	0.77	7	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_0hr_Lipid_1_007_Neg_rr_28Jan15_Polaroid_14-12-16.mzML:scan:4488	0.77	6	NoID
+0.0	mzspec:MSV000086931:ccms_peak/GNPS mzml files_lipids archived 30/SFA_0m_R3_soil_lipids_Neg_20Feb20_Lola-WCSH617902.mzML:scan:4838	0.77	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP5_A06_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3706	0.77	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_36h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8739	0.77	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_0h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8108	0.77	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP5_A06_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3706	0.77	6	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_18hr_Lipid_1_087_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4334	0.77	6	NoID
+-0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_12hr_Lipid_4_061_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4539	0.77	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_36h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8174	0.77	6	NoID
+0.0	mzspec:MSV000082712:ccms_peak/ST000671/EX00540-lipidomics/Raw data/NEG/20160223_S00021225_N.mzXML:scan:1378	0.77	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_12hr_PLipid_1_003_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4753	0.77	6	NoID
+-0.0	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027665_N.mzXML:scan:869	0.77	6	NoID
+0.0	mzspec:MSV000082713:ccms_peak/ST000673/EX00575-lipidomics/Raw data/NEG/20160517_S00022417_N.mzXML:scan:1071	0.77	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_36h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8570	0.77	6	NoID
+0.0	mzspec:MSV000082712:ccms_peak/ST000671/EX00540-lipidomics/Raw data/NEG/20160223_S00021223_N.mzXML:scan:1400	0.77	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_12h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:9071	0.77	6	NoID
+0.0	mzspec:MSV000082712:ccms_peak/ST000671/EX00540-lipidomics/Raw data/NEG/20160223_S00021224_N.mzXML:scan:1280	0.77	6	NoID
+0.0	mzspec:MSV000082719:ccms_peak/ST000685/EX00694-lipidomics/Raw data/NEG/20170314_S00027761_N.mzXML:scan:884	0.77	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_72h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7963	0.77	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP10_A12_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3672	0.77	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_ORF3a_B08_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3715	0.77	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_882.mzXML:scan:507	0.77	6	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_12hr_Lipid_1_042_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:4468	0.77	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_0h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8078	0.77	6	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_icMERS_24HRS_A_LIPID_158_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4606	0.77	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_24h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8494	0.77	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_7hr_Lipid_4_057_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4347	0.77	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_18hr_Lipid_3_076_Neg_rr_28Jan15_Polaroid_14-12-16.mzML:scan:4410	0.77	5	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_48h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8581	0.77	5	NoID
+0.0	mzspec:MTBLS417:FILES/PH697129_neg_SWATH.mzXML:scan:9168	0.77	5	NoID
+0.0	mzspec:MSV000085870:peak/peak/PH697129_neg_SWATH.mzXML:scan:9168	0.77	5	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_12h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8471	0.77	5	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_381.mzXML:scan:533	0.77	5	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_60h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8741	0.77	5	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_48h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:11389	0.77	4	NoID
+-0.0	mzspec:MSV000087018:ccms_peak/Exp_Blank_A_2_NEG_C18.mzML:scan:12783	0.77	4	NoID
+-0.0	mzspec:MSV000087018:peak/Plasma_Suite_3_C_3_NEG_C18.mzML:scan:11642	0.77	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/3M.N9.mzML:scan:4294967295	0.77	4	NoID
+-0.0	mzspec:ST003090:20211112 TACAN_Neg/TMEM120B_MS2.mzXML:scan:1859	0.77	4	NoID
+-0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/28M.N5.mzML:scan:4294967295	0.77	4	NoID
+0.01	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta4b_3HRS_B_LIPID_023_NEG_24Mar16_Legolas_Mclass.mzML:scan:4639	0.77	4	NoID
+0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadMetabolitesM3_uninfected_NA_3__011.mzXML:scan:3257	0.77	4	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MERSRFP_0HRS_A_LIPID_038_NEG_24Mar16_Legolas_Mclass.mzML:scan:4727	0.77	4	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_orf7a_C01_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3663	0.77	4	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MERSRFP_18HRS_A_LIPID_060_NEG_24Mar16_Legolas_Mclass.mzML:scan:4665	0.77	4	NoID
+0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadLipidsNegM3_uninfected_NA_3__011.mzXML:scan:3257	0.77	4	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_3hr_PLipid_5_018_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4772	0.77	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_18hr_PLipid_3_030_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4797	0.77	3	NoID
+-0.0	mzspec:MSV000087018:peak/Plasma_Suite_2_C_3_NEG_C18.mzML:scan:11674	0.77	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_24hr_PLipid_3_033_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4783	0.77	3	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta16_12HRS_A_LIPID_164_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4474	0.77	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_12hr_PLipid_2_004_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4762	0.77	3	NoID
+0.0	mzspec:MSV000082945:ccms_peak/Raw/Hilic-neg/HILIC-neg-48h-ZIKV-3.mzML:scan:626	0.77	3	NoID
+0.01	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/3M.N8.mzML:scan:4294967295	0.77	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_3hr_PLipid_4_052_NEG_150mm_15Aug15_Polaroid_HSST3-02.mzML:scan:4815	0.77	3	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/Tafesse_HEK293T_Round2_24hr_Mock_R3_Lip_010_Neg_29Mar21_Brandi-WCSH316609.mzML:scan:4028	0.77	3	NoID
+-0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_12hr_Lipid_2_019_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4323	0.77	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_12hr_PLipid_4_010_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4718	0.77	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_3hr_PLipid_4_016_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4668	0.77	3	NoID
+0.0	mzspec:MSV000082945:ccms_peak/Raw/Hilic-neg/HILIC-neg-48h-ZIKV-2.mzML:scan:633	0.77	3	NoID
+0.0	mzspec:MSV000082945:ccms_peak/Raw/Hilic-neg/HILIC-neg-48h-Mock-1.mzML:scan:636	0.77	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_24hr_PLipid_3_120_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4789	0.77	3	NoID
+0.0	mzspec:ST002956:X0141-M004A-10_1B9.mzML:scan:4611	0.77	3	NoID
+0.0	mzspec:MSV000088048:ccms_peak/Harper_2021_EndosomalTrafficking/20200811_LRS_13_TaggedEndosomes_wholecell_lysate_1.mzML:scan:2593	0.77	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_7hr_PLipid_5_112_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:5104	0.77	3	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_830.mzXML:scan:650	0.76	9	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_232.mzXML:scan:747	0.76	8	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_24h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:6911	0.76	7	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP2_A02_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3690	0.76	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_412.mzXML:scan:492	0.76	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_72h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:10032	0.76	7	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_ORF3a_B08_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3733	0.76	7	NoID
+0.01	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_613.mzXML:scan:636	0.76	7	NoID
+0.01	mzspec:MSV000081894:ccms_peak/Raw_Spectrum_Files/OMICS_MMVE003_icMERS_24HRS_2_Lipid_020_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:334	0.76	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_36h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8232	0.76	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf9b_C05_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4071	0.76	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP4_A05_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3778	0.76	6	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_2d_lipid_2_040_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:4852	0.76	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_12h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8167	0.76	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_72h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8159	0.76	6	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_CA04_4d_lipid_5_002_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:4887	0.76	6	NoID
+0.0	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027685_N.mzXML:scan:976	0.76	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP5_A06_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3688	0.76	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_253.mzXML:scan:892	0.76	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP8_A10_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3688	0.76	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_48h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8721	0.76	6	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_icMERS_12HRS_C_LIPID_151_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4514	0.76	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_60h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8662	0.76	6	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP11_B01_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3749	0.76	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_QC10.mzXML:scan:469	0.76	6	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_24hr_Lipid_4_078_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4366	0.76	6	NoID
+0.01	mzspec:ST002181:RawData/Negative/RF12-11152018-2.mzML:scan:4294967295	0.76	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP13_B03_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3996	0.76	6	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_combo_A09-A10_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3780	0.76	6	NoID
+-0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_0h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7481	0.76	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_839.mzXML:scan:466	0.76	5	NoID
+0.0	mzspec:MSV000085508:ccms_peak/Raw_Spectrum_Files/UDN_plasma_lipid/UDN_Project03_P3_A_1fa13fff-211d-4ea5-8217-0433037bc367_L_014_NEG_12Oct17_Lola-WCSH5805.mzML:scan:2023	0.76	5	NoID
+0.0	mzspec:MSV000084716:ccms_peak/Raw_Spectrum_Files/UDN_plasma_lipid/UDN_Project03_P3_A_1fa13fff-211d-4ea5-8217-0433037bc367_L_014_NEG_12Oct17_Lola-WCSH5805.mzML:scan:2023	0.76	5	NoID
+-0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Mock_36hr_4_PLipid_040_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4609	0.76	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_0hr_PLipid_5_042_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4744	0.76	5	NoID
+0.0	mzspec:MSV000082718:ccms_peak/peak/ST000666/EX00376-lipidomics/Raw data/NEG/S00016805_Rat.mzXML:scan:798	0.76	5	NoID
+-0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_36hr_1_PLipid_062_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4876	0.76	5	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_icMERS_36HRS_D_LIPID_042_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4127	0.76	5	NoID
+-0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_TP_CS00000001-1_N.mzXML:scan:1050	0.76	5	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_Mock_2d_lipid_3_085_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5411	0.76	5	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_icMERS_12HRS_A_LIPID_121_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4506	0.76	5	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_PB2_2d_lipid_2_064_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5567	0.76	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_7hr_Lipid_4_047_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4592	0.76	5	NoID
+0.0	mzspec:MSV000085508:ccms_peak/Raw_Spectrum_Files/UDN_plasma_lipid/UDN_Project03_P4_A_1fa13fff-211d-4ea5-8217-0433037bc367_L_010_NEG_12Oct17_Lola-WCSH5805.mzML:scan:1998	0.76	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_3hr_Lipid_5_089_Neg_28Jan15_Polaroid_14-12-16.mzML:scan:4709	0.76	5	NoID
+-0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Cal04_36hr_4_PLipid_033_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4587	0.76	5	NoID
+0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Mock_48hr_2_PLipid_011_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4656	0.76	5	NoID
+-0.0	mzspec:MSV000081048:ccms_peak/Peak_List_Files/OMICS_WCT001_mock_1d_4_Lipid_010_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5133	0.76	5	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_Mock_2d_lipid_1_017_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:4800	0.76	5	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_171.mzXML:scan:485	0.76	5	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_48HRS_E_Lipid_009_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4476	0.76	5	NoID
+0.0	mzspec:MSV000084716:ccms_peak/Raw_Spectrum_Files/UDN_plasma_lipid/UDN_Project03_P5_A_1fa13fff-211d-4ea5-8217-0433037bc367_L_004_NEG_12Oct17_Lola-WCSH5805.mzML:scan:1947	0.76	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_12hr_Lipid_3_016_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4523	0.76	5	NoID
+-0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_892.mzXML:scan:471	0.76	5	NoID
+0.0	mzspec:MSV000084716:peak/Peak_List_Files/UDN_plasma_lipid/UDN_Project03_P1_A_1fa13fff-211d-4ea5-8217-0433037bc367_L_018_NEG_12Oct17_Lola-WCSH5805.mzML:scan:1971	0.76	5	NoID
+0.0	mzspec:MSV000085508:ccms_peak/Raw_Spectrum_Files/UDN_plasma_lipid/UDN_Project03_P5_A_1fa13fff-211d-4ea5-8217-0433037bc367_L_004_NEG_12Oct17_Lola-WCSH5805.mzML:scan:1947	0.76	5	NoID
+0.0	mzspec:MSV000085508:ccms_peak/Raw_Spectrum_Files/UDN_plasma_lipid/UDN_Project03_P1_A_1fa13fff-211d-4ea5-8217-0433037bc367_L_018_NEG_12Oct17_Lola-WCSH5805.mzML:scan:1971	0.76	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_0hr_Lipid_4_107_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4263	0.76	5	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_PB2_4d_lipid_3_053_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5489	0.76	5	NoID
+0.0	mzspec:MSV000084716:ccms_peak/Raw_Spectrum_Files/UDN_plasma_lipid/UDN_Project03_P4_A_1fa13fff-211d-4ea5-8217-0433037bc367_L_010_NEG_12Oct17_Lola-WCSH5805.mzML:scan:1998	0.76	5	NoID
+0.0	mzspec:MSV000081894:peak/Peak_List_Files/OMICS_MMVE003_MOCK_48HRS_2_Lipid_047_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:4674	0.76	4	NoID
+-0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadLipidsNegInf2_infected_NA_2__021.mzXML:scan:3270	0.76	4	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta35_12HRS_E_LIPID_174_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4678	0.76	4	NoID
+-0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadMetabolitesInf2_infected_NA_2__021.mzXML:scan:3270	0.76	4	NoID
+-0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_3hr_Lipid_5_060_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4297	0.76	4	NoID
+0.0	mzspec:MSV000091302:peak/Peak_List_Files/FXM_Stone_test_1_L_NEG_24Oct17_Lola-WCSH5805.mzML:scan:2928	0.76	4	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MERSRFP_3HRS_D_LIPID_145_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4664	0.76	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_3hr_Lipid_4_117_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:4199	0.76	4	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_icMERS_0HRS_E_LIPID_039_NEG_24Mar16_Legolas_Mclass.mzML:scan:5041	0.76	4	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta16_3HRS_E_LIPID_178_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4603	0.76	4	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_MOCK_12HRS_D_LIPID_018_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:3972	0.76	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/24M.N5.mzML:scan:4294967295	0.76	4	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_icMERS_24HRS_E_LIPID_035_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4096	0.76	4	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_orf7a_C01_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3672	0.76	4	NoID
+-0.0	mzspec:ST002505:workbench/L-KO-4_NEG.mzXML:scan:6687	0.76	4	NoID
+-0.0	mzspec:ST003398:X0220-M004B-09_1_WT_Dim_0h_1.mzML:scan:4170	0.76	3	NoID
+-0.0	mzspec:ST003398:X0220-M004B-17_3_WT_Dim_0h_3.mzML:scan:4088	0.76	3	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_icMERS_24HRS_B_LIPID_062_NEG_24Mar16_Legolas_Mclass.mzML:scan:4556	0.76	3	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_24hr_PLipid_4_058_NEG_150mm_15Aug15_Polaroid_HSST3-02.mzML:scan:4739	0.76	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_QCs-RPC-02.mzML:scan:11935	0.76	3	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/28M.N10.mzML:scan:4294967295	0.76	3	NoID
+-0.0	mzspec:MSV000081048:ccms_peak/Peak_List_Files/OMICS_WCT001_mock_4d_5_Lipid_064_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5106	0.76	3	NoID
+-0.0	mzspec:MSV000081048:peak/Peak_List_Files/OMICS_WCT001_WNVWT_2d_3_Lipid_040_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5157	0.76	3	NoID
+-0.0	mzspec:MSV000081048:ccms_peak/Peak_List_Files/OMICS_WCT001_WNVE218A_2d_5_Lipid_071_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5092	0.76	3	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MOCK_12HRS_E_LIPID_124_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4625	0.76	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_7hr_PLipid_3_085_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4863	0.76	3	NoID
+0.0	mzspec:MSV000082945:ccms_peak/Raw/Hilic-neg/HILIC-neg-48h-Mock-5.mzML:scan:645	0.76	3	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta16_18HRS_D_LIPID_104_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4380	0.76	3	NoID
+-0.0	mzspec:ST003398:X0220-M004B-11_5_WT_Dim_1h_2.mzML:scan:4138	0.76	3	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_CA04_4d_lipid_1_081_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5530	0.76	3	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_MOCK_12HRS_A_Lipid_058_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4050	0.76	3	NoID
+0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-36.mzXML:scan:5212	0.76	3	NoID
+0.01	mzspec:MSV000089983:peak/mzML/220721_HG220720_6gi_neg.mzML:scan:8186	0.76	3	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta35_0HRS_A_LIPID_051_NEG_24Mar16_Legolas_Mclass.mzML:scan:4756	0.76	3	NoID
+0.0	mzspec:MSV000081048:peak/Peak_List_Files/OMICS_WCT001_WNVWT_6d_3_Lipid_011_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5179	0.76	3	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_MOCK_0HRS_B_LIPID_098_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4638	0.76	3	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_MOCK_36HRS_B_LIPID_048_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4030	0.76	3	NoID
+-0.0	mzspec:ST003398:X0220-M004B-12_2_WT_Dim_0h_2.mzML:scan:4148	0.76	3	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_24HRS_D_Lipid_042_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4201	0.76	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_7hr_PLipid_5_075_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4967	0.76	3	NoID
+0.01	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_291.mzXML:scan:659	0.75	9	NoID
+0.01	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_QC7.mzXML:scan:617	0.75	8	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_QC3.mzXML:scan:636	0.75	8	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_QC5.mzXML:scan:502	0.75	7	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf7a_C01_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3706	0.75	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_918.mzXML:scan:490	0.75	7	NoID
+0.01	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_436.mzXML:scan:616	0.75	7	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_767.mzXML:scan:815	0.75	7	NoID
+-0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_TP_CS00000001-3_N.mzXML:scan:987	0.75	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_72h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:3262	0.75	7	NoID
+0.0	mzspec:MSV000082692:ccms_peak/ST000665/EX00348-lipidomics/Raw data/NEG/S00015864_Negative_01.mzXML:scan:1362	0.75	7	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_QC1.mzXML:scan:633	0.75	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_60h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:9194	0.75	7	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_combo_A09-A10_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3758	0.75	6	NoID
+0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Cal04_24hr_3_PLipid_030_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4351	0.75	6	NoID
+-0.0	mzspec:MSV000082691:ccms_peak/ST000662/EX00303-lipidomics/Raw data/NEG/20140614_345_Negative_01.mzXML:scan:882	0.75	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_GFP_C08_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3776	0.75	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP13_B03_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3742	0.75	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP10_A12_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4005	0.75	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_Empty_Vector_PLVX_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3706	0.75	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP5_A06_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3690	0.75	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_M_B11_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4055	0.75	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_E_B10_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3733	0.75	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_18hr_PLipid_5_038_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4828	0.75	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_12hr_PLipid_1_017_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4727	0.75	6	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026191_N.mzXML:scan:1113	0.75	6	NoID
+-0.0	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027659_N.mzXML:scan:934	0.75	6	NoID
+0.0	mzspec:MSV000085584:peak/Peak_List_Files/Tafesse_NS4B_Transfect_3_Neg_19Jul19_Lola-WCSH417820.mzML:scan:2012	0.75	6	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_7hr_Lipid_1_083_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4443	0.75	6	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_24hr_Lipid_2_018_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4638	0.75	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_0h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8145	0.75	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_18hr_PLipid_2_002_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4836	0.75	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_12h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8720	0.75	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_24h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7586	0.75	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_567.mzXML:scan:468	0.75	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_24h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:9710	0.75	6	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_N_C04_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4037	0.75	6	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_3hr_Lipid_2_045_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4786	0.75	6	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_271.mzXML:scan:659	0.75	6	NoID
+0.0	mzspec:MSV000082717:ccms_peak/peak/ST000675/EX00586-lipidomics/Raw data/NEG/20160618_S00022666_N.mzXML:scan:787	0.75	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_M_B11_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3742	0.75	6	NoID
+0.0	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027666_N.mzXML:scan:934	0.75	6	NoID
+0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadMetabolitesInf5_infected_NA_5__015.mzXML:scan:3482	0.75	5	NoID
+0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadMetabolitesInf3_infected_NA_3__027.mzXML:scan:3191	0.75	5	NoID
+0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadLipidsNegInf3_infected_NA_3__027.mzXML:scan:3191	0.75	5	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Cal04_36hr_1_PLipid_056_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4361	0.75	5	NoID
+-0.0	mzspec:MSV000081048:ccms_peak/Peak_List_Files/OMICS_WCT001_WNVE218A_6d_2_Lipid_044_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5326	0.75	5	NoID
+0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadLipidsNegInf5_infected_NA_5__015.mzXML:scan:3482	0.75	5	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_CA04_1d_lipid_1_079_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5114	0.75	5	NoID
+0.0	mzspec:MSV000084716:ccms_peak/Raw_Spectrum_Files/UDN_plasma_lipid/UDN_Project03_P2_A_1fa13fff-211d-4ea5-8217-0433037bc367_L_019_NEG_12Oct17_Lola-WCSH5805.mzML:scan:2007	0.75	5	NoID
+0.0	mzspec:MSV000085508:ccms_peak/Raw_Spectrum_Files/UDN_plasma_lipid/UDN_Project03_P2_A_1fa13fff-211d-4ea5-8217-0433037bc367_L_019_NEG_12Oct17_Lola-WCSH5805.mzML:scan:2007	0.75	5	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_icMERS_3HRS_A_LIPID_096_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4638	0.75	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_3hr_PLipid_3_106_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4811	0.75	5	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Cal04_0hr_5_PLipid_012_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4427	0.75	5	NoID
+-0.0	mzspec:MSV000081048:peak/Peak_List_Files/OMICS_WCT001_mock_2d_5_Lipid_020_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5175	0.75	5	NoID
+0.0	mzspec:MSV000082782:ccms_peak/raw/MTBLS464/AZ5_T2_3e.mzXML:scan:7031	0.75	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_12hr_Lipid_1_Neg_rr_29Jan15_Polaroid_14-12-16.mzML:scan:4542	0.75	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_24hr_Lipid_2_Neg_rr_29Jan15_Polaroid_14-12-16.mzML:scan:4657	0.75	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_18hr_Lipid_4_070_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4388	0.75	5	NoID
+0.0	mzspec:MSV000081894:peak/Peak_List_Files/OMICS_MMVE003_MOCK_36HRS_3_Lipid_005_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:4869	0.75	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_18hr_Lipid_3_004_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4592	0.75	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_0hr_Lipid_3_069_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4349	0.75	5	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_0h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:9562	0.75	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_0hr_Lipid_2_039_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4418	0.75	5	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_929.mzXML:scan:491	0.75	5	NoID
+-0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Cal04_36hr_3_PLipid_055_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4616	0.75	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_7hr_PLipid_2_044_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4689	0.75	5	NoID
+0.0	mzspec:MTBLS464:FILES/AZ5_T2_3e.mzXML:scan:7031	0.75	5	NoID
+-0.01	mzspec:MSV000082718:ccms_peak/peak/ST000666/EX00376-lipidomics/Raw data/NEG/S00016812_Rat.mzXML:scan:787	0.75	5	NoID
+0.01	mzspec:MSV000082718:ccms_peak/peak/ST000666/EX00376-lipidomics/Raw data/NEG/S00016775_Rat.mzXML:scan:868	0.75	5	NoID
+-0.0	mzspec:MSV000081048:ccms_peak/Peak_List_Files/OMICS_WCT001_WNVWT_2d_4_Lipid_046_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5415	0.75	5	NoID
+-0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Cal04_0hr_1_PLipid_058_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4591	0.75	5	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_CA04_7d_lipid_4_026_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5342	0.75	4	NoID
+-0.0	mzspec:MSV000087018:ccms_peak/Exp_Blank_D_2_NEG_C18.mzML:scan:12981	0.75	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/15M.N4.mzML:scan:4294967295	0.75	4	NoID
+0.01	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta16_12HRS_C_LIPID_022_NEG_24Mar16_Legolas_Mclass.mzML:scan:4592	0.75	4	NoID
+-0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Cal04_7hr_1_PLipid_053_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4432	0.75	4	NoID
+-0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_18hr_Lipid_3_033_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4436	0.75	4	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_CA04_2d_lipid_3_069_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5049	0.75	4	NoID
+0.01	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/24M.N15.mzML:scan:4294967295	0.75	4	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta4b_0HRS_C_LIPID_115_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4817	0.75	4	NoID
+0.0	mzspec:ST002505:workbench/L-WT-5_NEG.mzXML:scan:6647	0.75	4	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_7d_lipid_3_073_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5628	0.75	4	NoID
+0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadMetabolitesM2_uninfected_NA_2__009.mzXML:scan:3241	0.75	4	NoID
+0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadLipidsNegM2_uninfected_NA_2__009.mzXML:scan:3241	0.75	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_7hr_Lipid_3_049_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4225	0.75	4	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_CA04_7d_lipid_2_078_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5413	0.75	4	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_36HRS_A_Lipid_050_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4233	0.75	4	NoID
+0.01	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta16_12HRS_D_LIPID_006_NEG_24Mar16_Legolas_Mclass.mzML:scan:4566	0.75	4	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_PB2_2d_lipid_4_018_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5157	0.75	4	NoID
+0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_spinal_cord/negative_mode/neg_mouse_female_spinal_25w_4.mzML:scan:8469	0.75	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_12hr_Lipid_4_023_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4347	0.75	4	NoID
+0.0	mzspec:ST003168:86_neg.mzML:scan:6337	0.75	3	NoID
+0.01	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta35_0HRS_B_LIPID_046_NEG_24Mar16_Legolas_Mclass.mzML:scan:4641	0.75	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-08.mzML:scan:9062	0.75	3	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_icMERS_3HRS_D_LIPID_091_NEG_24Mar16_Legolas_Mclass.mzML:scan:4576	0.75	3	NoID
+0.0	mzspec:ST002956:X0141-M004A-88_3B7.mzML:scan:3952	0.75	3	NoID
+-0.0	mzspec:MSV000082945:ccms_peak/Raw/Hilic-neg/HILIC-neg-48h-Mock-6.mzML:scan:635	0.75	3	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta16_7HRS_E_LIPID_100_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4414	0.75	3	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta16_7HRS_D_LIPID_129_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4691	0.75	3	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta16_18HRS_C_LIPID_153_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4548	0.75	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_24hr_PLipid_2_098_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4705	0.75	3	NoID
+0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_MOCK_48HRS_E_LIPID_005_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4115	0.75	3	NoID
+0.0	mzspec:MTBLS8280:FILES/DERIVED_FILES/IDX/NEG/20220602_IDX_WH_Job2557_neg_10.mzXML:scan:4872	0.75	3	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MOCK_12HRS_B_LIPID_128_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4673	0.75	3	NoID
+0.0	mzspec:ST002956:X0141-M004A-45_1B10.mzML:scan:4292	0.75	3	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta35_12HRS_C_LIPID_125_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4651	0.75	3	NoID
+0.0	mzspec:MSV000082945:ccms_peak/Raw/Hilic-neg/HILIC-neg-48h-Mock-2.mzML:scan:635	0.75	3	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_187.mzXML:scan:215	0.74	8	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_72h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8538	0.74	8	NoID
+0.01	mzspec:MSV000079154:ccms_peak/OMICS_MCL003_MOCK_18hr_Lipid_2_001_NEG_22Aug14_Polaroid_14-02-13.mzXML:scan:5624	0.74	8	NoID
+-0.01	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026019_N.mzXML:scan:812	0.74	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_36h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7421	0.74	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_60h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7439	0.74	7	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_QC10.mzXML:scan:645	0.74	7	NoID
+0.0	mzspec:MSV000082717:ccms_peak/peak/ST000675/EX00586-lipidomics/Raw data/NEG/20160618_TP_CS00000001-3_N.mzXML:scan:752	0.74	7	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf7a_C01_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3994	0.74	6	NoID
+-0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_TP_CS00000001-4_N.mzXML:scan:1062	0.74	6	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_M_B11_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4028	0.74	6	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_N_C04_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4035	0.74	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_combo_A09-A10_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4057	0.74	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP2_A02_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3967	0.74	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_GFP_C08_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4046	0.74	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP10_A12_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4041	0.74	6	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_E_B10_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4059	0.74	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP8_A10_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3951	0.74	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP6_A08_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3951	0.74	6	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_orf7b_C02_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3978	0.74	6	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_orf6_B12_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3985	0.74	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_orf6_B12_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4019	0.74	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_N_C04_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4001	0.74	6	NoID
+-0.02	mzspec:MSV000082719:ccms_peak/ST000685/EX00694-lipidomics/Raw data/NEG/20170314_S00027758_N.mzXML:scan:911	0.74	6	NoID
+-0.02	mzspec:MSV000082743:ccms_peak/ST000708/EX00508/Raw data/Glycolysis-TCA-nucleotides/LCMS/Plasma/2160107-EX00508-A011-IN0001-S00020399-N.mzXML:scan:911	0.74	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP4_A05_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3762	0.74	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_327.mzXML:scan:460	0.74	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_60h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:9573	0.74	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_0h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7959	0.74	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_18hr_PLipid_3_030_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4902	0.74	6	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_icMERS_36HRS_C_LIPID_033_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4122	0.74	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP12_B02_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3985	0.74	6	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP12_B02_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3724	0.74	6	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_3hr_PLipid_2_037_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4842	0.74	6	NoID
+0.01	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026054_N.mzXML:scan:955	0.74	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_18hr_PLipid_4_021_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4695	0.74	6	NoID
+-0.0	mzspec:MSV000082717:ccms_peak/peak/ST000675/EX00586-lipidomics/Raw data/NEG/20160618_S00022667_N.mzXML:scan:788	0.74	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf7b_C02_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3751	0.74	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf7a_C01_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3697	0.74	6	NoID
+0.0	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_TP_CS00000001-4_N.mzXML:scan:1099	0.74	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_combo_A09-A10_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3805	0.74	6	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_TP_CS00000001-5_N.mzXML:scan:1036	0.74	6	NoID
+0.01	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027667_N.mzXML:scan:856	0.74	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_48h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:11240	0.74	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_7hr_PLipid_3_011_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4679	0.74	6	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_0HRS_D_Lipid_002_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4419	0.74	5	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_48HRS_C_Lipid_020_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4487	0.74	5	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_NS1_7d_lipid_2_015_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5353	0.74	5	NoID
+-0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Cal04_0hr_4_PLipid_016_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4565	0.74	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_7hr_Lipid_4_115_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:4699	0.74	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_3hr_Lipid_5_074_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4603	0.74	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_7hr_Lipid_3_073_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:4568	0.74	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_3hr_Lipid_1_011_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4435	0.74	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_0hr_Lipid_5_081_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4338	0.74	5	NoID
+0.0	mzspec:MSV000085584:peak/Peak_List_Files/Tafesse_Empty_Vector_3_Neg_19Jul19_Lola-WCSH417820.mzML:scan:2037	0.74	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_3hr_PLipid_4_093_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4748	0.74	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_12hr_PLipid_5_041_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4790	0.74	5	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_0hr_PLipid_5_042_NEG_150mm_15Aug15_Polaroid_HSST3-02.mzML:scan:5097	0.74	5	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_343.mzXML:scan:470	0.74	5	NoID
+0.01	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027687_N.mzXML:scan:854	0.74	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_0hr_Lipid_3_108_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4269	0.74	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_24hr_Lipid_5_093_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4559	0.74	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_0hr_Lipid_2_040_Neg_rr_28Jan15_Polaroid_14-12-16.mzML:scan:4505	0.74	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_0hr_Lipid_5_048_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4358	0.74	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_0hr_Lipid_2_116_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4420	0.74	5	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_3hr_PLipid_4_053_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:5105	0.74	5	NoID
+0.01	mzspec:MSV000082718:ccms_peak/ST000666/EX00376-lipidomics/Raw data/NEG/S00016780_Rat.mzXML:scan:788	0.74	5	NoID
+0.02	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_icMERS_0HRS_B_LIPID_017_NEG_24Mar16_Legolas_Mclass.mzML:scan:4731	0.74	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_3hr_Lipid_1_084_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:4431	0.74	5	NoID
+-0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Mock_0hr_1_PLipid_070_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4591	0.74	4	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_CA04_1d_lipid_3_031_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:4874	0.74	4	NoID
+-0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadLipidsNegM5_uninfected_NA_5__013.mzXML:scan:3217	0.74	4	NoID
+-0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadMetabolitesM5_uninfected_NA_5__013.mzXML:scan:3217	0.74	4	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_CA04_4d_lipid_2_059_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5697	0.74	4	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta35_12HRS_B_LIPID_114_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4523	0.74	4	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-NPC-05.mzML:scan:553	0.74	4	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_NS1_4d_lipid_5_052_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5335	0.74	4	NoID
+-0.0	mzspec:MSV000081048:peak/Peak_List_Files/OMICS_WCT001_WNVWT_4d_2_Lipid_057_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5073	0.74	4	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_7hr_PLipid_2_001_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4637	0.74	4	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_36h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8831	0.74	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_3hr_Lipid_2_027_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4308	0.74	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_18hr_Lipid_2_014_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4709	0.74	4	NoID
+0.01	mzspec:MSV000087018:peak/Exp_Blank_C_2_NEG_C18.mzML:scan:12443	0.74	4	NoID
+0.02	mzspec:ST003290:MW_mzML_upload/negative/231201_BC-7661_1.mzML:scan:9784	0.74	4	NoID
+0.0	mzspec:MSV000086174:peak/Peak_List_Files/BetaMarker_noCyto_24h_1423_Lipid__NEG_150mm_28Jan16_Polaroid_HSST3-02.mzML:scan:5439	0.74	4	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta35_7HRS_B_LIPID_033_NEG_24Mar16_Legolas_Mclass.mzML:scan:4583	0.74	4	NoID
+-0.0	mzspec:MTBLS721:FILES/2-1-2.mzML:scan:4294967295	0.74	3	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_MOCK_36HRS_E_Lipid_015_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4159	0.74	3	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_MOCK_0HRS_A_Lipid_039_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4194	0.74	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-02.mzML:scan:12391	0.74	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_QCs-RPC-03.mzML:scan:9642	0.74	3	NoID
+0.01	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_icMERS_7HRS_B_LIPID_003_NEG_24Mar16_Legolas_Mclass.mzML:scan:4567	0.74	3	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MERSRFP_24HRS_B_LIPID_171_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4651	0.74	3	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MOCK_7HRS_D_LIPID_047_NEG_24Mar16_Legolas_Mclass.mzML:scan:4656	0.74	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_0hr_PLipid_5_091_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4893	0.74	3	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_icMERS_3HRS_B_LIPID_130_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4562	0.74	3	NoID
+-0.0	mzspec:MSV000087018:peak/Plasma_Suite_1_A_3_NEG_C18.mzML:scan:14183	0.74	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-04.mzML:scan:11696	0.74	3	NoID
+-0.0	mzspec:MSV000091324:peak/diet-neg/inj-03-lipids-120918-neg-QC-22-conditioning.mzXML:scan:5235	0.74	3	NoID
+0.0	mzspec:ST002956:X0141-M004A-13_1B8.mzML:scan:4526	0.74	3	NoID
+0.0	mzspec:MTBLS8280:FILES/DERIVED_FILES/IDX/NEG/20220602_IDX_WH_Job2557_neg_11.mzXML:scan:4926	0.74	3	NoID
+0.0	mzspec:ST002956:X0141-M004A-87_1B7.mzML:scan:3906	0.74	3	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta4b_0HRS_A_LIPID_157_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4732	0.74	3	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta35_3HRS_A_LIPID_037_NEG_24Mar16_Legolas_Mclass.mzML:scan:4710	0.74	3	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_12h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8416	0.73	8	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_529.mzXML:scan:671	0.73	8	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026187_N.mzXML:scan:1215	0.73	7	NoID
+0.01	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_121.mzXML:scan:720	0.73	7	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_214.mzXML:scan:689	0.73	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_36h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:6494	0.73	7	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_114.mzXML:scan:605	0.73	7	NoID
+0.0	mzspec:MSV000082727:ccms_peak/ST000753/EX00635/Raw data/Lipidomics/NEG/20161021_S00025564_N.mzXML:scan:1106	0.73	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_36h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7612	0.73	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_24hr_PLipid_3_033_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4889	0.73	6	NoID
+0.0	mzspec:MSV000082718:ccms_peak/ST000666/EX00376-lipidomics/Raw data/NEG/S00016806_Rat.mzXML:scan:820	0.73	6	NoID
+0.01	mzspec:MSV000081894:ccms_peak/Raw_Spectrum_Files/OMICS_MMVE003_MOCK_12HRS_4_Lipid_039_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:332	0.73	6	NoID
+-0.0	mzspec:MSV000087944:updates/2022-05-16_alchemistmatt_69cdd16e/peak/Peak_List_Files/LipidIso_Tafesse_SARS2-var_WA1_G2_R2_Lip_Velos_Neg_03Mar22_Lola-WCSH019512.mzML:scan:4077	0.73	6	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP2_A02_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4001	0.73	6	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_PB2_4d_lipid_2_038_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5357	0.73	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_E_B10_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3726	0.73	6	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP10_A12_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3699	0.73	6	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP1_A01_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3742	0.73	6	NoID
+-0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_3hr_Lipid_2_092_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4317	0.73	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_12h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7430	0.73	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_48h_2_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7310	0.73	6	NoID
+0.01	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027681_N.mzXML:scan:907	0.73	6	NoID
+0.01	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_270.mzXML:scan:473	0.73	6	NoID
+0.0	mzspec:MSV000079154:ccms_peak/OMICS_MCL003_MERS-CoV_18hr_Lipid_1_003_NEG_22Aug14_Polaroid_14-02-11.mzXML:scan:5850	0.73	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf6_B12_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3960	0.73	6	NoID
+0.0	mzspec:MSV000085584:peak/Peak_List_Files/Tafesse_NS4B_Transfect_1_Neg_19Jul19_Lola-WCSH417820.mzML:scan:2280	0.73	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_7hr_PLipid_1_026_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4945	0.73	5	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP4_A05_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4086	0.73	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_12hr_PLipid_5_046_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4723	0.73	5	NoID
+-0.0	mzspec:MSV000081048:ccms_peak/Peak_List_Files/OMICS_WCT001_WNVWT_6d_1_Lipid_014_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5466	0.73	5	NoID
+-0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Mock_36hr_5_PLipid_047_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4458	0.73	5	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_Empty_Vector_PLVX_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3726	0.73	5	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Cal04_0hr_3_PLipid_014_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4568	0.73	5	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta35_7HRS_A_LIPID_019_NEG_24Mar16_Legolas_Mclass.mzML:scan:4663	0.73	5	NoID
+0.01	mzspec:MSV000079154:ccms_peak/OMICS_MCL003_MERS-CoV_18hr_Lipid_8_006_NEG_22Aug14_Polaroid_14-02-13.mzXML:scan:5720	0.73	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_7hr_Lipid_2_106_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4608	0.73	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_3hr_PLipid_3_012_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4996	0.73	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_7hr_Lipid_1_013_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4677	0.73	5	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP9_A11_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3985	0.73	5	NoID
+0.0	mzspec:MSV000086620:ccms_peak/BIDMC/BIDMC-4-Lipid-Velos-NEG_03Feb17_Lola-WCSH7905.mzML:scan:2205	0.73	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_12hr_PLipid_2_022_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4851	0.73	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_18hr_PLipid_3_040_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4802	0.73	5	NoID
+0.0	mzspec:MSV000089784:peak/Peak_List_Files/OMICS_IM102_FM_2d_Lipid_3_019_NEG_150mm_11May15_Polaroid_14-12-16.mzML:scan:4688	0.73	5	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_12h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8873	0.73	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_24hr_PLipid_3_013_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4866	0.73	5	NoID
+0.0	mzspec:MSV000089784:ccms_peak/Raw_Spectrum_Files/OMICS_IM102_691_1d_Lipid_2_005_NEG_150mm_10May15_Polaroid_14-12-16.mzML:scan:4234	0.73	5	NoID
+0.0	mzspec:MSV000079542:ccms_peak/Peak_List_Files/OMICS_IM102_691_1d_Lipid_2_005_NEG_150mm_10May15_Polaroid_14-12-16.mzML:scan:4234	0.73	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_0hr_Lipid_2_040_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4078	0.73	5	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_icMERS_7HRS_E_LIPID_025_NEG_24Mar16_Legolas_Mclass.mzML:scan:4807	0.73	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_24hr_Lipid_4_114_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:4536	0.73	5	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Cal04_24hr_1_PLipid_005_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4398	0.73	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_0hr_Lipid_5_034_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4618	0.73	5	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/3M.N15.mzML:scan:4294967295	0.73	5	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_PB2_2d_lipid_1_043_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5488	0.73	5	NoID
+0.0	mzspec:MSV000079542:ccms_peak/Peak_List_Files/OMICS_IM102_FM_2d_Lipid_3_019_NEG_150mm_11May15_Polaroid_14-12-16.mzML:scan:4688	0.73	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_24hr_Lipid_2_071_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:4537	0.73	5	NoID
+-0.0	mzspec:ST002505:workbench/L-KO-1_NEG.mzXML:scan:6641	0.73	4	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_NS1_7d_lipid_1_030_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5302	0.73	4	NoID
+-0.0	mzspec:ST002505:workbench/L-WT-3_NEG.mzXML:scan:6638	0.73	4	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_1d_lipid_1_084_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5307	0.73	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/28M.N18.mzML:scan:4294967295	0.73	4	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Cal04_12hr_4_PLipid_024_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4550	0.73	4	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_12hr_PLipid_2_108_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4813	0.73	4	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta4b_3HRS_D_LIPID_154_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4608	0.73	4	NoID
+-0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Mock_0hr_5_PLipid_037_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4534	0.73	4	NoID
+0.0	mzspec:MSV000086174:peak/Peak_List_Files/BetaMarker_noCyto_24h_1417_Lipid__NEG_150mm_28Jan16_Polaroid_HSST3-02.mzML:scan:5203	0.73	4	NoID
+-0.0	mzspec:MSV000081048:peak/Peak_List_Files/OMICS_WCT001_mock_2d_4_Lipid_017_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5498	0.73	4	NoID
+0.0	mzspec:MSV000081894:ccms_peak/Raw_Spectrum_Files/OMICS_MMVE003_MOCK_0HRS_4_Lipid_003_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:4737	0.73	4	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MERSRFP_3HRS_C_LIPID_180_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4640	0.73	4	NoID
+0.01	mzspec:ST003125:Neg/fLiver_lipid_neg_QC04.mzML:scan:4294967295	0.73	4	NoID
+0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadLipidsNegInf1_infected_NA_1__025.mzXML:scan:3190	0.73	4	NoID
+0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadMetabolitesInf1_infected_NA_1__025.mzXML:scan:3190	0.73	4	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_Mock_7d_lipid_3_057_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5437	0.73	4	NoID
+-0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/3M.N12.mzML:scan:4294967295	0.73	4	NoID
+-0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadLipidsNegM4_uninfected_NA_4__029.mzXML:scan:3183	0.73	4	NoID
+-0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadMetabolitesM4_uninfected_NA_4__029.mzXML:scan:3183	0.73	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_24hr_Lipid_5_109_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:4448	0.73	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_12hr_Lipid_1_041_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4315	0.73	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_24hr_Lipid_1_082_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4280	0.73	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_0hr_Lipid_4_056_Neg_rr_28Jan15_Polaroid_14-12-16.mzML:scan:4399	0.73	4	NoID
+0.01	mzspec:MTBLS417:FILES/PH697025_neg_IDA.mzXML:scan:10022	0.73	4	NoID
+0.01	mzspec:MSV000085870:peak/peak/PH697025_neg_IDA.mzXML:scan:10022	0.73	4	NoID
+0.0	mzspec:ST002505:workbench/L-KO-3_NEG.mzXML:scan:6645	0.73	4	NoID
+0.0	mzspec:ST002505:workbench/L-WT-4_NEG.mzXML:scan:6656	0.73	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_7hr_Lipid_1_055_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4440	0.73	4	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_MERSRFP_3HRS_A_LIPID_150_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4622	0.73	3	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta16_18HRS_B_LIPID_024_NEG_24Mar16_Legolas_Mclass.mzML:scan:4545	0.73	3	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta4b_0HRS_E_LIPID_117_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4784	0.73	3	NoID
+-0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_12hr_Lipid_2_032_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4371	0.73	3	NoID
+-0.0	mzspec:MSV000087018:ccms_peak/Plasma_Suite_3_C_2_NEG_C18.mzML:scan:14489	0.73	3	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_delta16_12HRS_B_LIPID_149_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4672	0.73	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_7hr_PLipid_1_081_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4961	0.73	3	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_MERSRFP_0HRS_E_LIPID_159_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4682	0.73	3	NoID
+0.0	mzspec:ST002956:X0141-M004A-49_1B3.mzML:scan:4320	0.73	3	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Cal04_7hr_3_PLipid_013_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4535	0.73	3	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_PB2_7d_lipid_3_013_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5288	0.73	3	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_NS1_4d_lipid_2_005_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5293	0.73	3	NoID
+0.0	mzspec:MTBLS8280:FILES/DERIVED_FILES/IDX/NEG/20220602_IDX_WH_Job2557_neg_12.mzXML:scan:4973	0.73	3	NoID
+0.0	mzspec:ST002956:X0141-M004A-108_2B7.mzML:scan:4019	0.73	3	NoID
+0.01	mzspec:MSV000079154:ccms_peak/OMICS_MCL003_MERS-CoV_18hr_Lipid_3_010_NEG_22Aug14_Polaroid_14-02-13.mzXML:scan:5704	0.72	8	NoID
+0.01	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_QC8.mzXML:scan:640	0.72	8	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP13_B03_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3778	0.72	8	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_48h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8169	0.72	7	NoID
+-0.0	mzspec:ST002181:RawData/Negative/RF12-11172018-3.mzML:scan:4294967295	0.72	7	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_387.mzXML:scan:584	0.72	7	NoID
+0.01	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_212.mzXML:scan:661	0.72	7	NoID
+0.01	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_QC2.mzXML:scan:625	0.72	7	NoID
+0.01	mzspec:MSV000095439:peak/mzML/JLW8_MINUS_NEG.mzML:scan:5694	0.72	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS-DORF6_24h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:9413	0.72	6	NoID
+-0.0	mzspec:MSV000081048:peak/Peak_List_Files/OMICS_WCT001_WNVWT_6d_5_Lipid_047_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5120	0.72	6	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_60h_1_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7966	0.72	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_208.mzXML:scan:492	0.72	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_combo_A05-A08_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4003	0.72	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_combo_A05-A08_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3956	0.72	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_S_B07_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4012	0.72	6	NoID
+-0.0	mzspec:MSV000082692:ccms_peak/ST000665/EX00348-lipidomics/Raw data/NEG/S00015878_Negative_01.mzXML:scan:1321	0.72	6	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP6_A08_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4028	0.72	6	NoID
+0.0	mzspec:MSV000082719:ccms_peak/ST000685/EX00694-lipidomics/Raw data/NEG/20170314_S00027756_N.mzXML:scan:816	0.72	6	NoID
+-0.0	mzspec:MSV000082712:ccms_peak/ST000671/EX00540-lipidomics/Raw data/NEG/20160223_S00021227_N.mzXML:scan:1373	0.72	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf8_C03_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3717	0.72	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP12_B02_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3715	0.72	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP13_B03_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3726	0.72	6	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_3hr_PLipid_5_018_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4694	0.72	6	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_Empty_Vector_PLVX_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3735	0.72	6	NoID
+-0.0	mzspec:MSV000082692:ccms_peak/ST000665/EX00348-lipidomics/Raw data/NEG/S00015874_Negative_01.mzXML:scan:1285	0.72	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_S_B07_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3812	0.72	6	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_3hr_Lipid_5_063_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:4618	0.72	5	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP9_A11_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4041	0.72	5	NoID
+0.01	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Mock_12hr_2_PLipid_068_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:3997	0.72	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_12hr_Lipid_5_079_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4641	0.72	5	NoID
+0.0	mzspec:MSV000081894:ccms_peak/Raw_Spectrum_Files/OMICS_MMVE003_MOCK_36HRS_4_Lipid_048_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:4711	0.72	5	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_210.mzXML:scan:515	0.72	5	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta16_24HRS_B_LIPID_131_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4568	0.72	5	NoID
+-0.0	mzspec:MSV000081048:ccms_peak/Peak_List_Files/OMICS_WCT001_mock_6d_1_Lipid_070_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5177	0.72	5	NoID
+0.01	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_PB2_7d_lipid_1_036_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:4425	0.72	5	NoID
+0.01	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_610.mzXML:scan:457	0.72	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_0hr_PLipid_4_023_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4864	0.72	5	NoID
+-0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_12hr_PLipid_2_059_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4870	0.72	5	NoID
+0.0	mzspec:MSV000085584:peak/Peak_List_Files/Tafesse_Empty_Vector_1_Neg_19Jul19_Lola-WCSH417820.mzML:scan:2010	0.72	5	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_GFP_C08_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4037	0.72	5	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_ORF3a_B08_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4028	0.72	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_7hr_Lipid_3_104_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4668	0.72	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_7hr_Lipid_5_038_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4388	0.72	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_3hr_Lipid_1_096_NEG_19Jan15_Polaroid_14-12-16.mzML:scan:4481	0.72	5	NoID
+0.01	mzspec:MTBLS417:FILES/PH697026_neg_IDA.mzXML:scan:9191	0.72	5	NoID
+0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadMetabolitesInf4_infected_NA_4__023.mzXML:scan:3230	0.72	5	NoID
+0.01	mzspec:MSV000085870:peak/peak/PH697026_neg_IDA.mzXML:scan:9191	0.72	5	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_M_B11_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4014	0.72	5	NoID
+0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadLipidsNegInf4_infected_NA_4__023.mzXML:scan:3230	0.72	5	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_MIXED_0HRS_A_LIPID_021_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4190	0.72	5	NoID
+0.0	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027684_N.mzXML:scan:1016	0.72	5	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MERSRFP_0HRS_D_LIPID_058_NEG_24Mar16_Legolas_Mclass.mzML:scan:4574	0.72	4	NoID
+0.0	mzspec:MSV000081894:ccms_peak/Raw_Spectrum_Files/OMICS_MMVE003_MOCK_0HRS_2_Lipid_045_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:4696	0.72	4	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MOCK_3HRS_E_LIPID_034_NEG_24Mar16_Legolas_Mclass.mzML:scan:4703	0.72	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_24hr_Lipid_2_026_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4322	0.72	4	NoID
+0.0	mzspec:MTBLS464:FILES/NDr_T2_2e.mzXML:scan:6932	0.72	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_18hr_Lipid_2_010_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4414	0.72	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_12hr_Lipid_1_090_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4416	0.72	4	NoID
+0.0	mzspec:MSV000082782:ccms_peak/raw/MTBLS464/NDr_T2_2e.mzXML:scan:6932	0.72	4	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_MERSRFP_7HRS_E_LIPID_137_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4703	0.72	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_18hr_Lipid_1_017_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4618	0.72	4	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_12hr_PLipid_1_113_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4761	0.72	4	NoID
+0.0	mzspec:MSV000081048:peak/Peak_List_Files/OMICS_WCT001_WNVE218A_2d_2_Lipid_006_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5488	0.72	4	NoID
+0.0	mzspec:MSV000081894:ccms_peak/Raw_Spectrum_Files/OMICS_MMVE003_icMERS_24HRS_4_Lipid_035_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:4782	0.72	4	NoID
+0.0	mzspec:MSV000081894:ccms_peak/Raw_Spectrum_Files/OMICS_MMVE003_icMERS_0HRS_1_Lipid_044_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:4659	0.72	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_7hr_Lipid_3_049_Neg_rr_28Jan15_Polaroid_14-12-16.mzML:scan:4683	0.72	4	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_0HRS_C_Lipid_032_NEG_150mm_21Mar16_Polaroid_HSST3-02_160325200950.mzML:scan:4462	0.72	4	NoID
+-0.0	mzspec:MSV000081048:ccms_peak/Peak_List_Files/OMICS_WCT001_WNVWT_4d_1_Lipid_012_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5372	0.72	4	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_icMERS_48HRS_A_LIPID_026_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4339	0.72	4	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_icMERS_7HRS_C_LIPID_179_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4490	0.72	4	NoID
+0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_icMERS_36HRS_B_LIPID_006_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4185	0.72	4	NoID
+-0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Mock_48hr_3_PLipid_061_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4740	0.72	4	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-01.mzML:scan:10331	0.72	4	NoID
+-0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_24hr_2_PLipid_041_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4558	0.72	4	NoID
+0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_brain/negative_mode/neg_mouse_female_brain_12w_1.mzML:scan:8573	0.72	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_24hr_Lipid_3_058_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4327	0.72	4	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP5_C145A_A07_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4233	0.72	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_12hr_Lipid_3_075_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4591	0.72	4	NoID
+-0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadMetabolitesM1_uninfected_NA_1__017.mzXML:scan:3469	0.72	4	NoID
+-0.0	mzspec:MSV000081048:peak/Peak_List_Files/OMICS_WCT001_WNVE218A_4d_4_Lipid_063_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5357	0.72	4	NoID
+0.0	mzspec:ST003168:89_neg.mzML:scan:5494	0.72	4	NoID
+-0.0	mzspec:ST002747:VIAH002_003_WorkbenchUploadLipidsNegM1_uninfected_NA_1__017.mzXML:scan:3469	0.72	4	NoID
+0.0	mzspec:MSV000080389:peak/Peak_List_Files/mLm_CC_Tmem111_E18-5_AT2_Mut_2_L_NEG_150mm_15Aug16_Polaroid_HSST3-A923.mzML:scan:4770	0.72	4	NoID
+0.0	mzspec:MSV000089064:peak/mzML/neg_mode/Sample_MSC_d5_MS3ITfinal_neg_2.mzML:scan:5355	0.72	4	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_icMERS_12HRS_E_LIPID_023_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4290	0.72	4	NoID
+0.0	mzspec:MSV000081973:ccms_peak/raw/hLm_HTC_D01_PMX_1_L_NEG_26Aug16_Lola-WCSH8005.mzML:scan:2066	0.72	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_12hr_Lipid_3_022_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4332	0.72	4	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_NS1_1d_lipid_4_004_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5227	0.72	3	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Cal04_36hr_2_PLipid_027_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4426	0.72	3	NoID
+0.0	mzspec:MSV000081894:ccms_peak/Raw_Spectrum_Files/OMICS_MMVE003_MOCK_12HRS_1_Lipid_016_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:4771	0.72	3	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/Tafesse_HEK293T_Round2_24hr_Mock_R5_Lip_005_Neg_29Mar21_Brandi-WCSH316609.mzML:scan:4440	0.72	3	NoID
+0.01	mzspec:MSV000089983:peak/mzML/220721_HG220720_2sm_neg.mzML:scan:7955	0.72	3	NoID
+-0.0	mzspec:MSV000081048:peak/Peak_List_Files/OMICS_WCT001_WNVE218A_1d_4_Lipid_023_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5229	0.72	3	NoID
+0.01	mzspec:MSV000089983:peak/mzML/220721_HG220720_2an_neg.mzML:scan:7958	0.72	3	NoID
+-0.0	mzspec:MSV000086174:peak/Peak_List_Files/BetaMarker_noCyto_24h_1256_Lipid_neg_150mm_24Nov15_Polaroid_HSST3-02.mzML:scan:4985	0.72	3	NoID
+-0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Cal04_48hr_5_PLipid_065_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4592	0.72	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_627E_18hr_PLipid_3_040_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:4730	0.72	3	NoID
+0.0	mzspec:MSV000081052:peak/Peak_List_Files/OMICS_WCB001_WNVWT_6d_3_Lipid_069_NEG_150mm_21July16_Polaroid_HSST3-A923.mzML:scan:5528	0.72	3	NoID
+-0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_48hr_1_PLipid_051_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4442	0.72	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-NPC-09.mzML:scan:582	0.72	3	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/24M.N7.mzML:scan:4294967295	0.72	3	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta35_3HRS_C_LIPID_167_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4679	0.72	3	NoID
+0.0	mzspec:ST002283:AB_Human_Bone/Human_Lipid_Neg/D4_TS_B_Lip_Neg.mzML:scan:3908	0.72	3	NoID
+0.0	mzspec:MSV000082945:ccms_peak/Raw/Hilic-neg/HILIC-neg-48h-ZIKV-6.mzML:scan:638	0.72	3	NoID
+0.0	mzspec:MTBLS8280:FILES/DERIVED_FILES/IDX/NEG/20210528_IDX_WH_Job2271_NEG_02.mzXML:scan:3844	0.72	3	NoID
+-0.0	mzspec:MSV000087018:peak/Plasma_Suite_2_A_2_NEG_C18.mzML:scan:12285	0.72	3	NoID
+0.0	mzspec:MTBLS8280:FILES/DERIVED_FILES/IDX/NEG/20210528_IDX_WH_Job2271_NEG_pool01.mzXML:scan:3953	0.72	3	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MOCK_3HRS_B_LIPID_144_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4659	0.72	3	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_Mock_1d_lipid_3_067_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5139	0.72	3	NoID
+0.0	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Cal04_7hr_5_PLipid_010_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4663	0.72	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_QCs-RPC-01.mzML:scan:9777	0.72	3	NoID
+0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_PB2_4d_lipid_4_016_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5159	0.72	3	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_pooled_0_3_7_Lipid_NEG_12Jan15_Polaroid_14-12-16.mzML:scan:4787	0.72	3	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_24hr_1_PLipid_020_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4436	0.72	3	NoID
+0.0	mzspec:ST002505:workbench/L-WT-2_NEG.mzXML:scan:6637	0.72	3	NoID
+0.02	mzspec:MTBLS2145:FILES/DERIVED_FILES/lipidneg/00048282TP72_1Lneg_P2c1_01_14353.mzML:scan:4950	0.72	3	NoID
+0.0	mzspec:ST002283:AB_Human_Bone/Human_Hilic_Neg/D4_TS_B_Hilic_Neg.mzML:scan:3908	0.72	3	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_mock_48h_4_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:8089	0.71	8	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_708B.mzXML:scan:507	0.71	7	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_268A.mzXML:scan:670	0.71	7	NoID
+0.0	mzspec:MSV000078781:ccms_peak/GNPS_Lipidomics_charactarization_Negative/SysVirol_SCL012_icSARS_36h_3_Lip_Neg_5Sep12_Sam_12-05-13.mzXML:scan:7655	0.71	7	NoID
+0.01	mzspec:MSV000079154:ccms_peak/OMICS_MCL003_MERS-CoV_18hr_Lipid_4_004_NEG_22Aug14_Polaroid_14-02-11.mzXML:scan:5833	0.71	7	NoID
+0.0	mzspec:MSV000079150:ccms_peak/RAW/OMICS_WCD003_Mock_8h_1_lipid_NEG_29Apr14_Polaroid_14-02-05.mzXML:scan:6756	0.71	6	NoID
+0.01	mzspec:MSV000081894:ccms_peak/Raw_Spectrum_Files/OMICS_MMVE003_MOCK_48HRS_4_Lipid_007_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:345	0.71	6	NoID
+0.0	mzspec:ST002181:RawData/Negative/RF7-07312018-2.mzML:scan:4294967295	0.71	6	NoID
+0.0	mzspec:MSV000082692:ccms_peak/ST000665/EX00348-lipidomics/Raw data/NEG/S00015861_Negative_01.mzXML:scan:1324	0.71	6	NoID
+0.0	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027673_N.mzXML:scan:911	0.71	6	NoID
+-0.0	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027652_N.mzXML:scan:915	0.71	6	NoID
+-0.0	mzspec:MSV000082692:ccms_peak/ST000665/EX00348-lipidomics/Raw data/NEG/S00015863_Negative_01.mzXML:scan:1221	0.71	6	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_24hr_3_PLipid_018_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4443	0.71	6	NoID
+-0.0	mzspec:MSV000082713:ccms_peak/ST000673/EX00575-lipidomics/Raw data/NEG/20160517_S00022437_N.mzXML:scan:1067	0.71	6	NoID
+-0.0	mzspec:MSV000082744:ccms_peak/ST000763/EX00543/Raw data/Lipidomics/NEG/BATCH1/20160325_S00021303_N.mzXML:scan:1076	0.71	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_361.mzXML:scan:488	0.71	6	NoID
+0.0	mzspec:MSV000085584:peak/Peak_List_Files/OMICS_Tafesse_ZHuh_mock_24h_5_Lipid_Neg_18Sep18_Brandi-WCSH7803.mzML:scan:1911	0.71	5	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_E_B10_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3992	0.71	5	NoID
+0.01	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_MOCK_18HRS_C_LIPID_065_NEG_24Mar16_Legolas_Mclass.mzML:scan:4507	0.71	5	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_E_B10_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3978	0.71	5	NoID
+-0.0	mzspec:MSV000081047:peak/Peak_List_Files/OMICS_MMVE001_icMERS_48HRS_A_Lipid_017_NEG_150mm_21Mar16_Polaroid_HSST3-02.mzML:scan:4480	0.71	5	NoID
+0.01	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027663_N.mzXML:scan:867	0.71	5	NoID
+0.0	mzspec:MSV000085870:peak/peak/PH697206_neg_IDA.mzXML:scan:9517	0.71	5	NoID
+0.0	mzspec:MTBLS417:FILES/PH697206_neg_IDA.mzXML:scan:9517	0.71	5	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_859.mzXML:scan:454	0.71	5	NoID
+0.0	mzspec:MSV000089064:peak/mzML/neg_mode/Sample_MSC_d5_MS3ITfinal_neg_3.mzML:scan:5359	0.71	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_7hr_PLipid_4_048_NEG_150mm_23July15_Polaroid_HSST3-02.mzML:scan:4787	0.71	5	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP9_A11_R4__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4014	0.71	5	NoID
+-0.0	mzspec:MSV000082727:ccms_peak/ST000753/EX00635/Raw data/Lipidomics/NEG/20161021_S00025567_N.mzXML:scan:1078	0.71	5	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_combo_B10-B11-C04_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3994	0.71	5	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_NS1_4d_lipid_1_037_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:5508	0.71	5	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_orf10_C07_R3__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4044	0.71	5	NoID
+-0.0	mzspec:MSV000081048:ccms_peak/Peak_List_Files/OMICS_WCT001_mock_1d_2_Lipid_015_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5109	0.71	5	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_NSP9_A11_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3956	0.71	5	NoID
+-0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP7_A09_R5__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4003	0.71	5	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_18hr_Lipid_4_030_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4405	0.71	5	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_NS1_18hr_PLipid_1_066_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:4926	0.71	4	NoID
+0.0	mzspec:MTBLS464:FILES/NDr_T2_3e.mzXML:scan:6953	0.71	4	NoID
+0.0	mzspec:MSV000082782:ccms_peak/raw/MTBLS464/NDr_T2_3e.mzXML:scan:6953	0.71	4	NoID
+0.0	mzspec:MSV000080389:peak/Peak_List_Files/mLm_CC_Tmem111_E18-5_AT2_Ctl_3_L_NEG_150mm_15Aug16_Polaroid_HSST3-A923.mzML:scan:4804	0.71	4	NoID
+0.01	mzspec:MSV000082776:ccms_peak/raw/MTBLS426/Maloyan_25680_Lip__NEG_15Jun16_Legolas_HSS-T3_A925.mzXML:scan:4274	0.71	4	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Cell_clusters-NPC-02.mzML:scan:666	0.71	4	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf9b_C05_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4035	0.71	4	NoID
+0.01	mzspec:MTBLS426:FILES/Maloyan_25680_Lip__NEG_15Jun16_Legolas_HSS-T3_A925.mzXML:scan:4274	0.71	4	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-NPC-08.mzML:scan:9529	0.71	4	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-NPC-10.mzML:scan:9610	0.71	4	NoID
+0.0	mzspec:MSV000088048:ccms_peak/Harper_2021_EndosomalTrafficking/20200811_LRS_09_Control_IP_3.mzML:scan:2619	0.71	4	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-NPC-07.mzML:scan:9285	0.71	4	NoID
+-0.0	mzspec:MSV000081048:peak/Peak_List_Files/OMICS_WCT001_mock_4d_1_Lipid_038_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5071	0.71	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_7hr_Lipid_5_068_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4436	0.71	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_12hr_Lipid_5_050_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4308	0.71	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_12hr_Lipid_5_110_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4371	0.71	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_3hr_Lipid_1_021_Neg_30Jan15_Polaroid_14-12-16.mzML:scan:4336	0.71	4	NoID
+-0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_0hr_2_PLipid_046_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4560	0.71	4	NoID
+0.0	mzspec:MSV000090179:ccms_peak/lipidomics_mouse_brain/negative_mode/neg_mouse_female_brain_78w_3.mzML:scan:8580	0.71	4	NoID
+0.0	mzspec:MSV000087944:peak/Peak_List_Files/PNACIC_SARS2plasmid_NSP9_A11_R2__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:3956	0.71	4	NoID
+-0.0	mzspec:MSV000086174:peak/Peak_List_Files/BetaMarker_Cyto_24h_1251_Lipid_neg_150mm_24Nov15_Polaroid_HSST3-02.mzML:scan:5271	0.71	4	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_142.mzXML:scan:505	0.71	4	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta16_3HRS_A_LIPID_044_NEG_24Mar16_Legolas_Mclass.mzML:scan:5111	0.71	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_AH1_7hr_Lipid_5_119_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4595	0.71	4	NoID
+0.01	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_Mock_7d_lipid_1_035_NEG_150mm_29Dec15_Polaroid_HSST3-02.mzML:scan:4428	0.71	4	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_VN1203_18hr_PLipid_3_070_NEG_150mm_31July15_Polaroid_HSST3-02.mzML:scan:5056	0.71	3	NoID
+0.0	mzspec:MSV000082945:ccms_peak/Raw/Hilic-neg/HILIC-neg-24h-ZIKV-2.mzML:scan:630	0.71	3	NoID
+0.0	mzspec:MSV000081048:ccms_peak/Peak_List_Files/OMICS_WCT001_WNVWT_6d_4_Lipid_018_NEG_150mm_07May16_Polaroid_HSST3-A923.mzML:scan:5168	0.71	3	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta35_3HRS_E_LIPID_161_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4623	0.71	3	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta35_3HRS_B_LIPID_045_NEG_24Mar16_Legolas_Mclass.mzML:scan:4686	0.71	3	NoID
+0.0	mzspec:MSV000083535:ccms_peak/OMICS_MHAE003_icMERS_48HRS_2_Lipid_031_NEG_17July17_Polaroid_HSST-T3-A923.mzML:scan:11751	0.71	3	NoID
+0.0	mzspec:MSV000080023:ccms_peak/Peak_List_Files/OMICS_ICL103_Mock_18hr_PLipid_5_038_NEG_150mm_9Aug15_Polaroid_HSST3-02.mzML:scan:5114	0.71	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-02.mzML:scan:11980	0.71	3	NoID
+0.0	mzspec:MSV000081973:ccms_peak/raw/hLm_HTC_D08_PMX_1_L_NEG_26Aug16_Lola-WCSH8005.mzML:scan:2266	0.71	3	NoID
+0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_36hr_3_PLipid_042_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4390	0.71	3	NoID
+0.0	mzspec:MTBLS464:FILES/AZ5_T4_3e.mzXML:scan:7109	0.71	3	NoID
+0.0	mzspec:MSV000082782:ccms_peak/raw/MTBLS464/AZ5_T4_3e.mzXML:scan:7109	0.71	3	NoID
+0.0	mzspec:MSV000082782:ccms_peak/raw/MTBLS464/NDr_T2_1e.mzXML:scan:6984	0.71	3	NoID
+0.0	mzspec:MTBLS464:FILES/NDr_T2_1e.mzXML:scan:6984	0.71	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-07.mzML:scan:11541	0.71	3	NoID
+0.0	mzspec:MTBLS8280:FILES/DERIVED_FILES/IDX/NEG/20210528_IDX_WH_Job2271_NEG_pool_condition.mzXML:scan:3545	0.71	3	NoID
+0.01	mzspec:MTBLS417:FILES/PH697053_neg_IDA.mzXML:scan:9512	0.71	3	NoID
+-0.0	mzspec:ST002505:workbench/L-KO-5_NEG.mzXML:scan:6637	0.71	3	NoID
+0.0	mzspec:MTBLS8280:FILES/DERIVED_FILES/IDX/NEG/20210528_IDX_WH_Job2271_NEG_09.mzXML:scan:3930	0.71	3	NoID
+-0.0	mzspec:MSV000091324:peak/diet-neg/inj-59-lipids-120918-neg-QC-26.mzXML:scan:5172	0.71	3	NoID
+0.01	mzspec:MSV000085870:peak/peak/PH697053_neg_IDA.mzXML:scan:9512	0.71	3	NoID
+0.0	mzspec:ST002956:X0141-M004A-92_2B8.mzML:scan:3977	0.71	3	NoID
+0.0	mzspec:MTBLS8280:FILES/DERIVED_FILES/IDX/NEG/20220602_IDX_WH_Job2557_neg_06.mzXML:scan:4884	0.71	3	NoID
+-0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_999.mzXML:scan:476	0.71	3	NoID
+0.0	mzspec:MTBLS8280:FILES/DERIVED_FILES/IDX/NEG/20220602_IDX_WH_Job2557_neg_02.mzXML:scan:4733	0.71	3	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MOCK_3HRS_D_LIPID_172_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4679	0.71	3	NoID
+0.0	mzspec:MSV000081894:ccms_peak/Raw_Spectrum_Files/OMICS_MMVE003_icMERS_12HRS_4_Lipid_018_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:4739	0.71	3	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_icMERS_3HRS_C_LIPID_111_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4579	0.71	3	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_CA04_7d_lipid_5_087_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5540	0.71	3	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_MOCK_12HRS_E_LIPID_036_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4044	0.71	3	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_616.mzXML:scan:614	0.7	8	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_756.mzXML:scan:601	0.7	7	NoID
+-0.0	mzspec:MSV000082717:ccms_peak/ST000675/EX00586-lipidomics/Raw data/NEG/20160618_S00022664_N.mzXML:scan:799	0.7	6	NoID
+0.01	mzspec:MSV000081894:peak/Peak_List_Files/OMICS_MMVE003_icMERS_12HRS_5_Lipid_037_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:334	0.7	6	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_215.mzXML:scan:506	0.7	6	NoID
+-0.0	mzspec:MSV000082722:ccms_peak/ST000684/EX00689-lipidomics/Raw data/NEG/20170126_S00027674_N.mzXML:scan:967	0.7	6	NoID
+0.0	mzspec:MSV000082712:ccms_peak/ST000671/EX00540-lipidomics/Raw data/NEG/20160223_S00021231_N.mzXML:scan:1395	0.7	6	NoID
+0.01	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Mock_36hr_2_PLipid_049_NEG_150mm_19Feb16_Polaroid_HSST3-02.mzML:scan:4164	0.7	6	NoID
+0.0	mzspec:MSV000082719:ccms_peak/ST000685/EX00694-lipidomics/Raw data/NEG/20170314_TP_CS00000001-3_N.mzXML:scan:976	0.7	6	NoID
+0.0	mzspec:MSV000082692:ccms_peak/ST000665/EX00348-lipidomics/Raw data/NEG/S00015867_Negative_01.mzXML:scan:1326	0.7	6	NoID
+0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf9b_C05_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4064	0.7	5	NoID
+0.0	mzspec:MSV000080000:peak/Peak_List_Files/mLm_PNNL_WL_008_L_NEG_150mm_8Sept15_Polaroid_HSST3-02.mzML:scan:4743	0.7	5	NoID
+0.01	mzspec:MSV000081049:ccms_peak/Peak_List_Files/OMICS_ICL104_Mock_24hr_5_PLipid_006_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:3929	0.7	5	NoID
+0.0	mzspec:MSV000085584:peak/Peak_List_Files/OMICS_Tafesse_ZHuh_ZIKV_48h_5_Lipid_Neg_18Sep18_Brandi-WCSH7803.mzML:scan:2030	0.7	5	NoID
+-0.0	mzspec:MSV000087944:ccms_peak/Raw_Spectrum_Files/PNACIC_SARS2plasmid_orf8_C03_R1__Neg_10Jul20_Brandi-WCSH115315.mzML:scan:4001	0.7	5	NoID
+0.0	mzspec:MSV000081894:ccms_peak/Raw_Spectrum_Files/OMICS_MMVE003_icMERS_24HRS_1_Lipid_010_NEG_23Nov16_Precious_HSS-T3_A924.mzML:scan:4832	0.7	5	NoID
+0.0	mzspec:MSV000085584:peak/Peak_List_Files/OMICS_Tafesse_ZHuh_ZIKV_24h_2_Lipid_Neg_18Sep18_Brandi-WCSH7803.mzML:scan:1879	0.7	5	NoID
+0.0	mzspec:MSV000084716:ccms_peak/Raw_Spectrum_Files/UDN_plasma_lipid/UDN_Project09_P1_A_629728ce-a74a-49e5-b93c-2f8d1660d099_L_024_NEG_04Mar18_Brandi-WCSH7802.mzML:scan:2032	0.7	5	NoID
+0.0	mzspec:MSV000085508:ccms_peak/Raw_Spectrum_Files/UDN_plasma_lipid/UDN_Project09_P1_A_629728ce-a74a-49e5-b93c-2f8d1660d099_L_024_NEG_04Mar18_Brandi-WCSH7802.mzML:scan:2032	0.7	5	NoID
+0.0	mzspec:MSV000085584:peak/Peak_List_Files/OMICS_Tafesse_ZHuh_mock_48h_5_Lipid_Neg_18Sep18_Brandi-WCSH7803.mzML:scan:1983	0.7	5	NoID
+0.0	mzspec:MSV000085584:peak/Peak_List_Files/OMICS_Tafesse_ZHuh_ZIKV_48h_4_Lipid_Neg_18Sep18_Brandi-WCSH7803.mzML:scan:2055	0.7	5	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026021_N.mzXML:scan:1101	0.7	5	NoID
+0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_MIXED_12HRS_B_LIPID_011_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4373	0.7	4	NoID
+0.0	mzspec:MSV000085693:ccms_peak/DDA-discovery cohort/Negative ion mode/68.mzML:scan:2853	0.7	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_691_12hr_Lipid_1_100_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4410	0.7	4	NoID
+0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_Mock_24hr_Lipid_1_028_Neg_23Jan15_Polaroid_14-12-16.mzML:scan:4432	0.7	4	NoID
+-0.0	mzspec:MSV000079386:ccms_peak/Peak_List_Files/OMICS_ICL102_FM_3hr_Lipid_3_067_NEG_15Jan15_Polaroid_14-12-16.mzML:scan:4319	0.7	4	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-231_Single_cells-NPC-06.mzML:scan:667	0.7	4	NoID
+0.0	mzspec:MTBLS8280:FILES/DERIVED_FILES/IDX/NEG/20220602_IDX_WH_Job2557_neg_Pools_condition.mzXML:scan:4298	0.7	4	NoID
+-0.0	mzspec:ST002505:workbench/L-WT-1_NEG.mzXML:scan:6710	0.7	4	NoID
+0.0	mzspec:MSV000089064:peak/mzML/neg_mode/Sample_MSC_d5_MS3ITfinal_neg_5.mzML:scan:5338	0.7	4	NoID
+-0.0	mzspec:MSV000081049:peak/Peak_List_Files/OMICS_ICL104_Cal04_24hr_2_PLipid_023_NEG_150mm_16Feb16_Polaroid_HSST3-02.mzML:scan:4616	0.7	3	NoID
+0.0	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_delta4b_3HRS_A_LIPID_177_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4656	0.7	3	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_icMERS_7HRS_A_LIPID_073_NEG_24Mar16_Legolas_Mclass.mzML:scan:4665	0.7	3	NoID
+0.0	mzspec:MSV000081045:ccms_peak/Peak_List_Files/OMICS_MCL002_icMERS_7HRS_D_LIPID_156_NEG_19Apr16_Legolas_HSS-T3_A925.mzML:scan:4652	0.7	3	NoID
+0.01	mzspec:MSV000083534:ccms_peak/OMICS_MHAE002_MOCK_48HRS_1_Lipid_028_NEG_26Jun17_Polaroid_HSST-T3-A923.mzML:scan:11648	0.7	3	NoID
+0.01	mzspec:MSV000081045:peak/Peak_List_Files/OMICS_MCL002_MERSRFP_12HRS_C_LIPID_041_NEG_24Mar16_Legolas_Mclass.mzML:scan:4608	0.7	3	NoID
+-0.0	mzspec:MSV000081051:updates/2019-11-12_alchemistmatt_09e3afe6/peak/Peak_List_Files/OMICS_MMVE002_icMERS_24HRS_D_LIPID_040_NEG_150mm_6Apr16_Polaroid_HSST3-02.mzML:scan:4177	0.7	3	NoID
+-0.0	mzspec:MSV000087018:ccms_peak/Exp_Blank_E_1_NEG_C18.mzML:scan:11588	0.7	3	NoID
+0.0	mzspec:MSV000081973:ccms_peak/raw/hLm_HTC_D08_EPI_1_L_NEG_26Aug16_Lola-WCSH8005.mzML:scan:2336	0.7	3	NoID
+-0.0	mzspec:MSV000080027:ccms_peak/Peak_List_Files/OMICS_IM103_VN1203_PB2_7d_lipid_4_082_NEG_150mm_04Jan16_Polaroid_HSST3-02.mzML:scan:5476	0.7	3	NoID

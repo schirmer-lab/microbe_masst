@@ -1,0 +1,733 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_1h_10.mzXML:scan:7233	1.0	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_12h_2.mzXML:scan:6214	1.0	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_24h_8.mzXML:scan:6513	1.0	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J_Fungal_mycelia_1week.mzML:scan:1343	0.99	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J_Fungal_mycelia_24h.mzML:scan:1221	0.99	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_6h_8.mzXML:scan:6398	0.99	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_NEG_2.mzXML:scan:881	0.99	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H_fungal_mycelia_1_month.mzML:scan:1208	0.99	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_JRC_NEG_4.mzXML:scan:879	0.99	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_NEG_1.mzXML:scan:882	0.99	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_NEG_3.mzXML:scan:874	0.99	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_JRC_NEG_1.mzXML:scan:887	0.99	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J_fungal_mycelia_1month.mzML:scan:1378	0.99	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_4_3.mzXML:scan:2149	0.98	3	NoID
+-0.0	mzspec:MSV000081040:ccms_peak/Beers/NEG/Beer_PoolB_T10_NEG.mzXML:scan:3752	0.98	3	NoID
+-0.0	mzspec:MSV000093311:raw/52_HILIC_F1246_Bcurtipendula.mzML:scan:11466	0.98	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_JRC_NEG_3.mzXML:scan:890	0.98	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_NEG_4.mzXML:scan:875	0.98	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will017_MX607857_negRP_SP5-005.mzML:scan:195	0.98	3	NoID
+0.01	mzspec:MSV000095512:peak/neg_mzml/Control_3_neg.mzML:scan:234	0.98	3	NoID
+0.01	mzspec:MSV000095512:peak/neg_mzml/Control_2_neg.mzML:scan:249	0.98	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/J_Fungal_filtrate.mzML:scan:1113	0.98	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_JRC_NEG_2.mzXML:scan:888	0.98	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_QC_06.mzXML:scan:2109	0.98	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/H_Fungal_filltrate_24h.mzML:scan:1201	0.98	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_4_1.mzXML:scan:2185	0.98	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_QC_08.mzXML:scan:2203	0.98	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/O_1x_PD_media_fungal.mzML:scan:1196	0.97	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/J_Fungal_filtrate_24h.mzML:scan:1101	0.97	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/H_Fungal_filltrate_24h_170814185415.mzML:scan:1162	0.97	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/J_fungal_filtrate_1week.mzML:scan:1092	0.97	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/PD_Media_Fungal.mzML:scan:1148	0.97	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/QC_Plant3.mzML:scan:1032	0.97	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H_fungal_mycelia_1w.mzML:scan:1094	0.97	3	NoID
+0.01	mzspec:MSV000095512:peak/neg_mzml/Control_4_neg.mzML:scan:247	0.97	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_34_yeast_09.mzXML:scan:3535	0.97	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_24_yeast_04.mzXML:scan:3536	0.97	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_18_yeast_01.mzXML:scan:3543	0.97	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H_fungal_media_24h.mzML:scan:1157	0.97	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/QC_Plant_2_170815154211.mzML:scan:1073	0.97	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/H_Fungal_filtrate_1w.mzML:scan:1064	0.97	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/QC_Plant_startup.mzML:scan:1134	0.97	3	NoID
+-0.0	mzspec:MSV000081040:ccms_peak/Beers/NEG/Beer_1_T10_NEG.mzXML:scan:3772	0.97	3	NoID
+-0.0	mzspec:MSV000093311:raw/8_HILIC_F1246_Elehmanniana.mzML:scan:11462	0.97	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J_Fungal_filtrate_24h_170814171922.mzML:scan:1071	0.97	3	NoID
+-0.0	mzspec:MSV000081119:ccms_peak/Beers19_ms2ldaPLUS/NEGmode/Beer_multibeers_4_T10_NEG.mzXML:scan:5421	0.97	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_32_yeast_08.mzXML:scan:3536	0.97	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_26_yeast_05.mzXML:scan:3545	0.97	3	NoID
+0.0	mzspec:MTBLS7713:FILES/DERIVED_FILES/NEG/SAR-R-1-NEG.mzML:scan:4294967295	0.97	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/NS_Plant_3_Stem_Stem_1_E11_E11.mzML:scan:1353	0.97	3	NoID
+-0.0	mzspec:MSV000093311:raw/56_HILIC_F1246_Bcurtipendula.mzML:scan:11448	0.97	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_30_yeast_07.mzXML:scan:3536	0.97	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_22_yeast_03.mzXML:scan:3536	0.97	3	NoID
+-0.01	mzspec:MTBLS11360:FILES/DERIVED_FILES/Col-0-3_N.mzML:scan:4294967295	0.97	3	NoID
+0.0	mzspec:MSV000092369:raw/220803_M180_01_Proben_RP_neg/220803_M180_01_Proben_RP_neg_5.mzXML:scan:731	0.97	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will016_MX607857_negRP_SP7-007.mzML:scan:197	0.96	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will020_MX607857_negRP_OP7-017.mzML:scan:192	0.96	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/NS_Plant_2_leaves_Leaves_1_A11_A11.mzML:scan:1179	0.96	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will009_MX607857_negRP_OP3-013.mzML:scan:192	0.96	3	NoID
+-0.0	mzspec:MSV000083835:ccms_peak/MeOH_Neg_RAW/48.mzML:scan:651	0.96	3	NoID
+-0.0	mzspec:MSV000093311:raw/19_HILIC_F1246_Axenic.mzML:scan:11464	0.96	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/QC_Plant_2_170816020807.mzML:scan:1063	0.96	3	NoID
+-0.01	mzspec:MTBLS11360:FILES/DERIVED_FILES/rsl2rsl4-3_N.mzML:scan:4294967295	0.96	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/QC_Plant2_170814160334.mzML:scan:1039	0.96	3	NoID
+0.0	mzspec:MTBLS4618:FILES/DERIVED_FILES/QC-1 HILIC NEG.mzML:scan:4294967295	0.96	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will015_MX607857_negRP_OP9-019.mzML:scan:194	0.96	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_36_yeast_10.mzXML:scan:3537	0.96	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_28_yeast_06.mzXML:scan:3535	0.96	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_1h_6.mzXML:scan:6556	0.96	3	NoID
+0.0	mzspec:MTBLS4618:FILES/DERIVED_FILES/QC-8 HILIC NEG.mzML:scan:4294967295	0.96	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will019_MX607857_negRP_OP5-015.mzML:scan:198	0.96	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_20_yeast_02.mzXML:scan:3529	0.96	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will013_MX607857_negRP_SP8-008.mzML:scan:194	0.95	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will012_MX607857_negRP_OP1-011.mzML:scan:188	0.95	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_1h_8.mzXML:scan:6590	0.95	3	NoID
+-0.0	mzspec:MTBLS840:FILES/C6P3neg.mzXML:scan:871	0.95	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL31_M10_S2_W1.mzML:scan:3256	0.95	3	NoID
+0.0	mzspec:MSV000090663:raw/GNPS_Credentialing-based high-throughput untargeted metabolomics in Saccharomyces cerevisiae_SupplementaryFiles/PreeScreen_Shiny/HILIC_NEG_D48_SHINY_DONE/D48_12C_WT1_NEG.mzML:scan:5662	0.95	3	NoID
+-0.0	mzspec:MSV000083835:peak/MeOH_Neg_mzML/26.mzML:scan:963	0.95	3	NoID
+-0.0	mzspec:MSV000081119:ccms_peak/Beers19_ms2ldaPLUS/NEGmode/Beer_multibeers_17_T10_NEG.mzXML:scan:5476	0.95	3	NoID
+-0.0	mzspec:MSV000081119:ccms_peak/Beers19_ms2ldaPLUS/NEGmode/Beer_multibeers_2_T10_NEG.mzXML:scan:5501	0.95	3	NoID
+-0.0	mzspec:MSV000081119:ccms_peak/Beers19_ms2ldaPLUS/NEGmode/Beer_multibeers_13_T10_NEG.mzXML:scan:5336	0.95	3	NoID
+-0.01	mzspec:MTBLS11360:FILES/DERIVED_FILES/rsl2rsl4-2_N.mzML:scan:4294967295	0.95	3	NoID
+0.0	mzspec:MSV000096221:ccms_peak/WU02/150ppm_WU02_in75MeOH_neg_3.mzML:scan:802	0.95	3	NoID
+0.0	mzspec:MSV000092369:raw/220803_M180_01_Proben_RP_neg/220803_M180_01_Proben_RP_neg_8.mzXML:scan:584	0.95	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/QC_Plant_2.mzML:scan:1033	0.95	3	NoID
+0.0	mzspec:MSV000096197:ccms_peak/150ppm_WU02_in75MeOH_neg_3.mzML:scan:802	0.95	3	NoID
+0.0	mzspec:MSV000096194:peak/neg/150ppm_WU02_in75MeOH_neg_3.mzML:scan:802	0.95	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL27_M10_S3_W1.mzML:scan:3273	0.94	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J_1_top_soil_2_Y_C5.mzML:scan:1174	0.94	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL31_M10_S1_W1.mzML:scan:3321	0.94	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM3_I48.mzML:scan:3268	0.94	3	NoID
+0.0	mzspec:MSV000092369:raw/220809_M180_01_Proben_HILIC_neg/220809_M180_01_Proben_HILIC_neg_7.mzXML:scan:2146	0.94	3	NoID
+-0.0	mzspec:MSV000081040:ccms_peak/Beers/NEG/Beer_2_T10_NEG.mzXML:scan:4150	0.94	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will004_MX607857_negRP_OP2-012.mzML:scan:198	0.94	3	NoID
+0.0	mzspec:MSV000092369:raw/220803_M180_01_Proben_RP_neg/220803_M180_01_Proben_RP_neg_QC.mzXML:scan:558	0.94	3	NoID
+-0.0	mzspec:MSV000083835:ccms_peak/MeOH_Neg_RAW/7.mzML:scan:789	0.94	3	NoID
+-0.0	mzspec:MSV000083835:updates/2019-05-21_lfnothias_ad043d61/peak/Methanol/SJ/7 SJ on SA meth-neg.mzXML:scan:789	0.94	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will003_MX607857_negRP_OP4-014.mzML:scan:188	0.94	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will011_MX607857_negRP_OP6-016.mzML:scan:193	0.94	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_6.mzXML:scan:7062	0.94	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will005_MX607857_negRP_SP2-002.mzML:scan:211	0.94	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will023_MX607857_negRP_SP1-001.mzML:scan:211	0.94	3	NoID
+-0.0	mzspec:MSV000083835:peak/MeOH_Neg_mzML/49.mzML:scan:706	0.93	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J_1_top_soil_2_Y_C5_170815222029.mzML:scan:1183	0.93	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL44_M10_S2_W1.mzML:scan:3269	0.93	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_QC_07.mzXML:scan:2174	0.93	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_12h_5.mzXML:scan:6394	0.93	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_12h_1.mzXML:scan:6375	0.93	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_7.mzXML:scan:6914	0.93	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL58_M10_S3_W1.mzML:scan:3301	0.93	3	NoID
+-0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_3_3.mzXML:scan:2373	0.93	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM1_I48.mzML:scan:3244	0.93	3	NoID
+-0.0	mzspec:MSV000085101:ccms_peak/RS_neg.mzML:scan:790	0.93	3	NoID
+0.0	mzspec:MSV000096221:ccms_peak/WU12/300ppm_WU12_in75MeOH_neg_1.mzML:scan:810	0.93	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_1.mzXML:scan:7384	0.93	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_QC_09.mzML:scan:3289	0.93	3	NoID
+0.0	mzspec:ST000953:Cahan_WB/Data/MzXML/NEG/QE2_lm_29_Cahan_12-14_pool[EW-10-ACC]n_dd.mzXML:scan:376	0.93	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_3.mzXML:scan:7029	0.93	3	NoID
+0.0	mzspec:MSV000096197:ccms_peak/300ppm_WU12_in75MeOH_neg_1.mzML:scan:810	0.93	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL44_M10_S3_W1.mzML:scan:3269	0.93	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_EinspuelQC_3.mzML:scan:3240	0.93	3	NoID
+0.0	mzspec:MSV000096194:peak/neg/300ppm_WU12_in75MeOH_neg_1.mzML:scan:810	0.93	3	NoID
+-0.01	mzspec:MTBLS11360:FILES/DERIVED_FILES/rsl2rsl4-1_N.mzML:scan:4294967295	0.93	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_QC_04.mzXML:scan:2146	0.93	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM3_YL27.mzML:scan:3234	0.92	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_6h_9.mzXML:scan:6596	0.92	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_M10_Blank_1.mzML:scan:3306	0.92	3	NoID
+-0.01	mzspec:MTBLS11360:FILES/DERIVED_FILES/pooled sample-QC2_N.mzML:scan:4294967295	0.92	3	NoID
+0.0	mzspec:MSV000096197:ccms_peak/300ppm_WU12_in75MeOH_neg_2.mzML:scan:810	0.92	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_24h_9.mzXML:scan:6416	0.92	3	NoID
+0.0	mzspec:MSV000096197:ccms_peak/300ppm_WU12_in75MeOH_neg_3.mzML:scan:810	0.92	3	NoID
+-0.0	mzspec:MSV000093311:raw/38_HILIC_F1177_Bcurtipendula.mzML:scan:12601	0.92	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_QC_04.mzML:scan:3221	0.92	3	NoID
+0.0	mzspec:MSV000096221:ccms_peak/WU12/300ppm_WU12_in75MeOH_neg_3.mzML:scan:810	0.92	3	NoID
+0.0	mzspec:MSV000096194:peak/neg/300ppm_WU12_in75MeOH_neg_3.mzML:scan:810	0.92	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_QC1.mzML:scan:3204	0.92	3	NoID
+0.0	mzspec:MSV000096221:ccms_peak/WU12/300ppm_WU12_in75MeOH_neg_2.mzML:scan:810	0.92	3	NoID
+0.0	mzspec:MSV000096194:peak/neg/300ppm_WU12_in75MeOH_neg_2.mzML:scan:810	0.92	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM2_YL2.mzML:scan:3076	0.92	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will008_MX607857_negRP_OP10-020.mzML:scan:190	0.92	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_12h_4.mzXML:scan:6308	0.92	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-I49_M10_S3_W1.mzML:scan:3196	0.92	3	NoID
+-0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_QC_05.mzXML:scan:2176	0.92	3	NoID
+0.0	mzspec:MSV000092369:raw/220809_M180_01_Proben_HILIC_neg/220809_M180_01_Proben_HILIC_neg_4.mzXML:scan:2220	0.92	3	NoID
+-0.0	mzspec:MSV000093311:raw/50_HILIC_Axenic_Bcurtipendula.mzML:scan:12590	0.92	3	NoID
+-0.0	mzspec:MSV000093311:raw/23_HILIC_F1177_Axenic.mzML:scan:12592	0.92	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_6h_9.mzXML:scan:6575	0.91	3	NoID
+0.01	mzspec:MSV000090159:peak/neg9.5/SB_30_01_EX_pH9.5_neg_RB5_01_9058.mzML:scan:7899	0.91	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS2_2_Locular_Tissue_2_Y_H6.mzML:scan:1143	0.91	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/NS_Plant_3_Roots_Roots_1_F11_F11.mzML:scan:1178	0.91	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J_Seedling_3_2dpp_Seedling_1_H08_H8_170814170025.mzML:scan:1123	0.91	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM12_M10_S3_W1.mzML:scan:3329	0.91	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM3_YL58.mzML:scan:3182	0.91	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL44_M10_S1_W1.mzML:scan:3298	0.91	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_QC_01.mzML:scan:3205	0.91	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_QC_01.mzXML:scan:2138	0.91	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_6h_4.mzXML:scan:6404	0.91	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_1h_7.mzXML:scan:6332	0.91	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_5.mzXML:scan:7076	0.91	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM12_M10_S2_W1.mzML:scan:3266	0.91	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_10.mzXML:scan:6894	0.91	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/NS_Seedling_2_2dpp_Seedling_1_G07_G7_170814162229.mzML:scan:1112	0.91	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_6h_2.mzXML:scan:6086	0.91	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM1_YL32.mzML:scan:3044	0.91	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_12h_6.mzXML:scan:6407	0.91	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J_Seedling_1_2dpp_Seedling_1_F08_F8.mzML:scan:1107	0.9	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM3_YL44.mzML:scan:3306	0.9	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_12h_8.mzXML:scan:6315	0.9	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_Z1_Blank_1.mzML:scan:3211	0.9	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM3_KB18.mzML:scan:3206	0.9	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM2_KB18.mzML:scan:3168	0.9	3	NoID
+-0.0	mzspec:MSV000083835:peak/EtOAc_Neg_mzML/3_test.mzML:scan:1181	0.9	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J_Seedling_3_3dpp_Seedling_1_D10_D10.mzML:scan:1150	0.9	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM12_M10_S1_W1.mzML:scan:3216	0.9	3	NoID
+-0.0	mzspec:MSV000085101:ccms_peak/GS_neg.mzML:scan:837	0.9	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H_Seedling_4_2dpp_Seedling_1_E08_E8.mzML:scan:1128	0.9	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/J_Seedling_1_3dpp_Seedling_1_B10_B10.mzML:scan:1119	0.9	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM3_YL31.mzML:scan:3196	0.9	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/H_Plant_1_Stem_Stem_1_C12_C12.mzML:scan:1169	0.9	3	NoID
+0.0	mzspec:ST002968:mzML/N-ZH5-0803-NEG.mzML:scan:4294967295	0.9	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/H_Seedling_1_3dpp_Seedling_1_F09_F9.mzML:scan:1128	0.9	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM2_YL58.mzML:scan:3158	0.9	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM2_I48.mzML:scan:3256	0.9	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_Z1_Blank_2.mzML:scan:3325	0.9	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_12h_9.mzXML:scan:6133	0.9	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM1_YL58.mzML:scan:3161	0.9	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/NS_Plant_2_Roots_Roots_1_C11_C11.mzML:scan:1140	0.9	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_M10_Blank_2.mzML:scan:3249	0.9	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H_Seedling_1_2dpp_Seedling_1_B08_B8.mzML:scan:1152	0.9	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H_Plant_2_Roots_Roots_1_G12_G12.mzML:scan:1161	0.9	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_1h_7.mzXML:scan:6968	0.9	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM3_YL32.mzML:scan:3066	0.9	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL45_M10_S2_W1.mzML:scan:3267	0.9	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM1_YL2.mzML:scan:3207	0.9	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will022_MX607857_negRP_SP3-003.mzML:scan:214	0.9	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-KB18_M10_S3_W1.mzML:scan:3174	0.9	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC05.mzXML:scan:6765	0.9	3	NoID
+0.0	mzspec:MSV000092369:raw/220803_M180_01_Proben_RP_neg/220803_M180_01_Proben_RP_neg_2.mzXML:scan:586	0.9	3	NoID
+-0.01	mzspec:MTBLS11360:FILES/DERIVED_FILES/gl2-3_N.mzML:scan:4294967295	0.9	3	NoID
+-0.0	mzspec:MSV000093311:raw/36_HILIC_Axenic_Eintermedia.mzML:scan:11427	0.9	3	NoID
+-0.0	mzspec:MSV000085101:ccms_peak/BR_neg.mzML:scan:1264	0.9	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/J_Seedling_3_2dpp_Seedling_1_H08_H8.mzML:scan:1143	0.89	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H_Seedling_3_3dpp_Seedling_1_H09_H9.mzML:scan:1189	0.89	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS_Seedling_3_3dpp_Seedling_1_D09_D9.mzML:scan:1137	0.89	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/J4_5_Skin_2_Y_H10.mzML:scan:1192	0.89	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/NS_Plant_4_Stem_Stem_1_H11_H11.mzML:scan:1113	0.89	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/NS_Plant_1_Stem_Stem_1_G10_G10.mzML:scan:1191	0.89	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/J1_1_Placenta_3_G_B5.mzML:scan:1148	0.89	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/H_Plant_2_leaves_Leaves_1_E12_E12.mzML:scan:1219	0.89	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/H_Seedling_48h_Seedling_1_E05_E5.mzML:scan:1138	0.89	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/H_Plant_2_Stem_Stem_1_F12_F12.mzML:scan:1171	0.89	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/H_Seedling_2_2dpp_Seedling_1_C08_C8.mzML:scan:1137	0.89	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS_Plant_2_Stem_Stem_1_B11_B11.mzML:scan:1137	0.89	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_S_aur_1_2.mzXML:scan:2121	0.89	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/NS1_3_Skin_2_Y_G8.mzML:scan:1223	0.89	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/H_Seedling_2_3dpp_Seedling_1_G09_G9.mzML:scan:1094	0.89	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/J_Seedling_4_3dpp_Seedling_1_E10_E10.mzML:scan:1123	0.89	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_E_coli_3_2.mzXML:scan:2441	0.89	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-I46_M10_S1_W1.mzML:scan:3265	0.89	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_QCs-NPC-03.mzML:scan:6500	0.89	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/H_Seedling_3_2dpp_Seedling_1_D08_D8.mzML:scan:1219	0.89	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS_Seedling_2_3dpp_Seedling_1_C09_C9.mzML:scan:1133	0.89	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS_Seedling_4_2dpp_Seedling_1_A08_A8.mzML:scan:1214	0.89	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS_Seedling_3_2dpp_Seedling_1_H07_H7.mzML:scan:1104	0.89	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS_Plant_4_Roots_Roots_1_A12_A12_170814175718.mzML:scan:1144	0.89	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL45_AAM_S1_W1.mzML:scan:3217	0.89	3	NoID
+-0.0	mzspec:MSV000085101:ccms_peak/RL3_neg.mzML:scan:793	0.89	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/NS_Seedling_2_2dpp_Seedling_1_G07_G7.mzML:scan:1143	0.89	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/NS_Plant_1_Roots_Roots_1_H10_H10.mzML:scan:1107	0.89	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J_Corn_Leaves_Plant_4_2_Y_E2.mzML:scan:1223	0.89	3	NoID
+-0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_S_aur_2_1.mzXML:scan:2065	0.89	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/H_Plant_1_Roots_Roots_1_D12_D12.mzML:scan:1129	0.89	3	NoID
+-0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_S_aur_1_3.mzXML:scan:2131	0.89	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-KB1_M10_S2_W1.mzML:scan:3248	0.89	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_EinspuelQC_1.mzML:scan:3298	0.89	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_QC2.mzML:scan:3240	0.89	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-KB1_M10_S3_W1.mzML:scan:3247	0.89	3	NoID
+-0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_S_aur_3_2.mzXML:scan:1966	0.89	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/QC-neg-8.mzML:scan:334	0.89	3	NoID
+0.01	mzspec:MSV000087646:ccms_peak/JA_Feb152021_RMmetabolomics_ddMS2IE1neg_LC_POOL_NonsmokersUrine.mzML:scan:750	0.89	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_QC_07.mzML:scan:3209	0.89	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM2_YL27.mzML:scan:3271	0.89	3	NoID
+0.01	mzspec:MSV000090159:peak/neg9.5/SB_30_06_EX_pH9.5_neg_RC2_01_9006.mzML:scan:8055	0.89	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_QC_einspuel_1.mzML:scan:3229	0.89	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM2_I49.mzML:scan:3077	0.89	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL32_M10_S2_W1.mzML:scan:3316	0.89	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H2_4_Mesocarp_2_Y_E12.mzML:scan:1203	0.89	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H4_4_Mesocarp_2_Y_E5.mzML:scan:1204	0.89	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_6h_3.mzXML:scan:6611	0.89	3	NoID
+0.0	mzspec:MSV000090159:peak/neg9.5/SB_30_09_EX_pH9.5_neg_RC5_01_9049.mzML:scan:8038	0.89	3	NoID
+0.0	mzspec:MSV000095207:raw/20191017_AK_JB_504782_Supernatant_Pilot_QEHF_Ag683775-924_USHXG01264/rawdata/20191017_AKJB_504782_Supernatant_Pilot_QEHF_Ag683775-924-USHXG01264_NEG_MSMS_3_GPP-KT2440-96h_1_11.mzML:scan:9105	0.89	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL27_AAM_S2_W1.mzML:scan:3272	0.89	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J_Corn_Leaves_Plant_1_2_Y_D11.mzML:scan:1199	0.88	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL27_AAM_S3_W1.mzML:scan:3206	0.88	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H4_4_Core_2_Y_E8.mzML:scan:1218	0.88	3	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C5.mzML:scan:709	0.88	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/NS1_3_Mesocarp_2_Y_G9.mzML:scan:1223	0.88	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/NS_Seedling_4_3dpp_Seedling_1_E09_E9.mzML:scan:1184	0.88	3	NoID
+0.01	mzspec:MSV000090159:peak/neg9.5/SB_30_07_EX_pH9.5_neg_RC3_01_9053.mzML:scan:7949	0.88	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H4_4_Endocarp_2_Y_E6.mzML:scan:1188	0.88	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H_4_3soil_2_Y_C4.mzML:scan:1252	0.88	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2486.mzML:scan:3530	0.88	3	NoID
+0.0	mzspec:MSV000090159:peak/neg9.5/SB_30_11_EX_pH9.5_neg_RC7_01_9047.mzML:scan:8065	0.88	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/NS_Plant_3_leaves_Leaves_1_D11_D11.mzML:scan:1223	0.88	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/J_Corn_Leaves_Plant_5_2_Y_E3.mzML:scan:1243	0.88	3	NoID
+0.01	mzspec:MSV000087646:ccms_peak/JA_Feb152021_RMmetabolomics_ddMS2IE0neg_LC_POOL_BreastMilk.mzML:scan:831	0.88	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/J_Corn_Leaves_Plant_3_2_Y_E1.mzML:scan:1247	0.88	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/QC-neg-6.mzML:scan:336	0.88	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/H_Plant_1_leaves_Leaves_1_B12_B12.mzML:scan:1249	0.88	3	NoID
+-0.01	mzspec:MTBLS11360:FILES/DERIVED_FILES/Col-0-2_N.mzML:scan:4294967295	0.88	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/BBR_R17500_N40_I10e6_E10_neg_07132020.mzML:scan:297	0.88	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/NS_Plant_4_Roots_Roots_1_A12_A12.mzML:scan:1183	0.88	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_QC_06.mzML:scan:3291	0.88	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H_Corn_leaves_plant_5_2_Y_D10.mzML:scan:1267	0.88	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/NS_Seedling_1_2dpp_Seedling_1_F07_F7.mzML:scan:1179	0.88	3	NoID
+-0.0	mzspec:MSV000093311:raw/40_HILIC_MediaAlone.mzML:scan:11421	0.88	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/J_Seedling_2_2dpp_Seedling_1_G08_G8.mzML:scan:1167	0.88	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/NS2_1_Mesocarp_2_Y_G2.mzML:scan:1222	0.88	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL45_M10_S1_W1.mzML:scan:3299	0.88	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_AAM_Blank_3.mzML:scan:3347	0.88	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-I46_M10_S2_W1.mzML:scan:3256	0.88	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM3_KB1.mzML:scan:3162	0.88	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL44_AAM_S1_W1.mzML:scan:3323	0.88	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM2_YL32.mzML:scan:3068	0.88	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM3_I49.mzML:scan:3179	0.88	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM3_YL45.mzML:scan:3250	0.88	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL2_M10_S3_W1.mzML:scan:3239	0.88	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL31_M10_S3_W1.mzML:scan:3309	0.88	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_S_aur_1_1.mzXML:scan:2034	0.88	3	NoID
+0.01	mzspec:MSV000090159:peak/neg9.5/SB_30_03_EX_pH9.5_neg_RB7_01_8989.mzML:scan:8079	0.88	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_S_aur_2_2.mzXML:scan:2101	0.88	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL58_M10_S1_W1.mzML:scan:3291	0.88	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_1h_8.mzXML:scan:6920	0.88	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H_Corn_leaves_plant_4_2_Y_D9.mzML:scan:1187	0.87	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/NS2_1_Skin_2_Y_G1.mzML:scan:1203	0.87	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/NS_Seedling_1_3dpp_Seedling_1_B09_B9.mzML:scan:1164	0.87	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/NS2_1_Core_2_Y_G5.mzML:scan:1222	0.87	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_M10_Blank_3.mzML:scan:3306	0.87	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS2_1_Seed_2_Y_G7.mzML:scan:1252	0.87	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J_Seedling_4_2dpp_Seedling_1_A10_A10.mzML:scan:1173	0.87	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/J_Seedling_2_3dpp_Seedling_1_C10_C10.mzML:scan:1188	0.87	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM1_YL44.mzML:scan:3192	0.87	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM2_YL31.mzML:scan:3248	0.87	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS2_2_Endocarp_2_Y_H5.mzML:scan:1198	0.87	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_QC_05.mzML:scan:3235	0.87	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL2_M10_S2_W1.mzML:scan:3257	0.87	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL44_AAM_S2_W1.mzML:scan:3189	0.87	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/BBR_R35000_N40_I10e4_E10_neg_07132020.mzML:scan:334	0.87	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/BBR_R70000_N40_I10e6_E10_neg_07132020.mzML:scan:187	0.87	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-I46_M10_S3_W1.mzML:scan:3299	0.87	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/NS1_3_Endocarp_2_Y_G10.mzML:scan:1178	0.87	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_12h_7.mzXML:scan:6529	0.87	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will010_MX607857_negRP_SP4-004.mzML:scan:220	0.87	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM1_AAM.mzML:scan:3149	0.87	3	NoID
+0.0	mzspec:MSV000090159:peak/neg9.5/SB_30_08_EX_pH9.5_neg_RC4_01_9051.mzML:scan:7977	0.87	3	NoID
+-0.0	mzspec:MTBLS9938:FILES/DERIVED_FILES/NEG/HF-1_CN3_FZTM230053819-1A.mzML:scan:787	0.87	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R17500_N40_I10e5_E10_neg_07132020.mzML:scan:319	0.87	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM1_YL45.mzML:scan:3243	0.87	3	NoID
+-0.0	mzspec:MSV000083835:peak/MeOH_Neg_mzML/50.mzML:scan:714	0.87	3	NoID
+-0.0	mzspec:MSV000093311:raw/41_HILIC_MediaAlone.mzML:scan:11424	0.87	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R17500_N40_I10e4_E10_neg_07132020.mzML:scan:435	0.87	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R17500_N40_I10e4_E30_neg_07132020.mzML:scan:366	0.87	3	NoID
+-0.01	mzspec:MTBLS11360:FILES/DERIVED_FILES/Col-0-1_N.mzML:scan:4294967295	0.87	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/QC-neg-11.mzML:scan:320	0.87	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM3_AAM.mzML:scan:3173	0.87	3	NoID
+-0.02	mzspec:MTBLS11360:FILES/DERIVED_FILES/gl2-2_N.mzML:scan:4294967295	0.87	3	NoID
+-0.0	mzspec:MSV000092369:raw/220809_M180_01_Proben_HILIC_neg/220809_M180_01_Proben_HILIC_neg_8.mzXML:scan:2187	0.87	3	NoID
+0.0	mzspec:MSV000092369:raw/220809_M180_01_Proben_HILIC_neg/220809_M180_01_Proben_HILIC_neg_QC.mzXML:scan:2464	0.87	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/H_Corn_leaves_plant_3_2_Y_D8.mzML:scan:1203	0.87	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-KB18_M10_S2_W1.mzML:scan:3288	0.87	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_30d_1h_2.mzXML:scan:4764	0.87	3	NoID
+0.0	mzspec:MSV000092369:raw/220809_M180_01_Proben_HILIC_neg/220809_M180_01_Proben_HILIC_neg_6.mzXML:scan:2623	0.87	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-I49_M10_S2_W1.mzML:scan:3264	0.87	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_QC_03.mzXML:scan:2174	0.87	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R35000_N40_I10e5_E60_neg_07132020.mzML:scan:247	0.86	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/H_Seedling_4_3dpp_Seedling_1_A09_A9.mzML:scan:1104	0.86	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM1_I49.mzML:scan:3204	0.86	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2555.mzML:scan:3552	0.86	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/BBR_R35000_N40_I10e4_E60_neg_07132020.mzML:scan:283	0.86	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R35000_N40_I10e6_E30_neg_07132020.mzML:scan:244	0.86	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/QC-neg-9.mzML:scan:326	0.86	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/QC-neg-3.mzML:scan:333	0.86	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R70000_N40_I10e6_E30_neg_07132020.mzML:scan:185	0.86	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_QC_02.mzML:scan:3611	0.86	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM1_KB1.mzML:scan:3174	0.86	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM1_YL31.mzML:scan:3132	0.86	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2484.mzML:scan:3473	0.86	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM2_AAM.mzML:scan:3162	0.86	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R17500_N40_I10e5_E60_neg_07132020.mzML:scan:313	0.86	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R70000_N40_I10e4_E10_neg_07132020.mzML:scan:221	0.86	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will021_MX607857_negRP_SP10-010.mzML:scan:217	0.86	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/BBR_R70000_N40_I10e5_E10_neg_07132020.mzML:scan:190	0.86	3	NoID
+0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C3.mzML:scan:717	0.86	3	NoID
+0.0	mzspec:MSV000090159:peak/neg9.5/SB_30_04_EX_pH9.5_neg_RB8_01_9015.mzML:scan:7993	0.86	3	NoID
+-0.0	mzspec:MSV000092369:raw/220809_M180_01_Proben_HILIC_neg/220809_M180_01_Proben_HILIC_neg_2.mzXML:scan:2433	0.86	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL58_M10_S2_W1.mzML:scan:3353	0.86	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R70000_N40_I10e5_E60_neg_07132020.mzML:scan:187	0.86	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R70000_N40_I10e4_E60_neg_07132020.mzML:scan:203	0.86	3	NoID
+-0.0	mzspec:MSV000083835:peak/MeOH_Neg_mzML/46.mzML:scan:1169	0.86	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_8.mzXML:scan:7074	0.86	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R70000_N40_I10e6_E60_neg_07132020.mzML:scan:185	0.86	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R17500_N40_I10e5_E30_neg_07132020.mzML:scan:315	0.86	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/BBR_R35000_N40_I10e4_E30_neg_07132020.mzML:scan:288	0.86	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/QC-neg-5.mzML:scan:331	0.86	3	NoID
+0.0	mzspec:MSV000092369:raw/220809_M180_01_Proben_HILIC_neg/220809_M180_01_Proben_HILIC_neg_1.mzXML:scan:2262	0.86	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_S_aur_2_3.mzXML:scan:2068	0.86	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_QC_02.mzXML:scan:2309	0.86	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_1h_6.mzXML:scan:6884	0.86	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_24h_7.mzXML:scan:6335	0.86	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-KB1_M10_S1_W1.mzML:scan:3176	0.86	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_5.mzXML:scan:6997	0.86	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_3h_1.mzXML:scan:6430	0.86	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_12h_10.mzXML:scan:6445	0.86	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_12h_1.mzXML:scan:6538	0.86	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_QC4.mzML:scan:3150	0.86	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS2_2_Skin_2_Y_H3.mzML:scan:1161	0.86	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL32_M10_S3_W1.mzML:scan:3328	0.86	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_QC_02.mzML:scan:3211	0.86	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_EinspuelQC_2.mzML:scan:3268	0.86	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_S_aur_4_3.mzXML:scan:2454	0.86	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_S_aur_3_3.mzXML:scan:2175	0.86	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/NS_Corn_leaves_plant_3_2_Y_D3.mzML:scan:1203	0.85	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2478.mzML:scan:3588	0.85	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM1_YL27.mzML:scan:3279	0.85	3	NoID
+-0.0	mzspec:MSV000095359:raw/Streptomyces_ansochromogenes-ssp-pallens-NRRL-B-12018.mzML:scan:844	0.85	3	NoID
+0.0	mzspec:MSV000092369:raw/220809_M180_01_Proben_HILIC_neg/220809_M180_01_Proben_HILIC_neg_3.mzXML:scan:2662	0.85	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_1h_9.mzXML:scan:5273	0.85	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will007_MX607857_negRP_SP6-006_3.mzML:scan:222	0.85	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R17500_N40_I10e4_E60_neg_07132020.mzML:scan:365	0.85	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/BBR_R17500_N40_I10e6_E60_neg_07132020.mzML:scan:296	0.85	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R35000_N40_I10e6_E60_neg_07132020.mzML:scan:241	0.85	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R35000_N40_I10e5_E10_neg_07132020.mzML:scan:251	0.85	3	NoID
+-0.0	mzspec:MTBLS6736:FILES/DERIVED_FILES/NEG/HF2_CN3_FZTM210045300-1A.mzML:scan:551	0.85	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/QC-neg-12.mzML:scan:308	0.85	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/QC-neg-1.mzML:scan:329	0.85	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL45_M10_S3_W1.mzML:scan:3320	0.85	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS_Corn_leaves_plant_5_2_Y_D5.mzML:scan:1221	0.85	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL32_AAM_S2_W1.mzML:scan:3173	0.85	3	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_24h_4.mzXML:scan:4241	0.85	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_24h_10.mzXML:scan:6682	0.85	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM2_YL44.mzML:scan:3227	0.85	3	NoID
+0.0	mzspec:MSV000092369:raw/220809_M180_01_Proben_HILIC_neg/220809_M180_01_Proben_HILIC_neg_5.mzXML:scan:2408	0.85	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/BBR_R70000_N40_I10e5_E30_neg_07132020.mzML:scan:188	0.85	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_2_2.mzXML:scan:2105	0.85	3	NoID
+-0.0	mzspec:MSV000083835:peak/MeOH_Neg_mzML/29.mzML:scan:1284	0.85	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R35000_N40_I10e6_E10_neg_07132020.mzML:scan:244	0.85	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/BBR_R35000_N40_I10e5_E30_neg_07132020.mzML:scan:248	0.85	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL32_AAM_S3_W1.mzML:scan:3304	0.85	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/BBR_R70000_N40_I10e4_E30_neg_07132020.mzML:scan:204	0.85	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-I49_M10_S1_W1.mzML:scan:3282	0.85	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL44_AAM_S3_W1.mzML:scan:3266	0.85	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL32_M10_S1_W1.mzML:scan:3377	0.85	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL2_AAM_S1_W1.mzML:scan:3279	0.85	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_QC3.mzML:scan:3158	0.85	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS_Plant_4_leaves_Leaves_1_G11_G11.mzML:scan:1209	0.85	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_QC5.mzML:scan:3096	0.85	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_12h_8.mzXML:scan:6450	0.85	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_1h_4.mzXML:scan:6962	0.85	3	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C8.mzML:scan:697	0.84	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_QC_09.mzXML:scan:2236	0.84	3	NoID
+-0.0	mzspec:MSV000085101:ccms_peak/RR_neg.mzML:scan:811	0.84	3	NoID
+-0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/QC-neg-10.mzML:scan:319	0.84	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/QC-neg-4.mzML:scan:323	0.84	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS2_1_Locular_Tissue_2_Y_G4.mzML:scan:1149	0.84	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-I49_AAM_S1_W1.mzML:scan:3356	0.84	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H2_3_Endocarp_2_Y_F8.mzML:scan:1193	0.84	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_AAM_Blank_1.mzML:scan:3295	0.84	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_AAM_Blank_2.mzML:scan:3338	0.84	3	NoID
+-0.0	mzspec:MTBLS6736:FILES/DERIVED_FILES/NEG/HF2_CN2_FZTM210045298-1A.mzML:scan:518	0.84	3	NoID
+0.0	mzspec:MSV000087069:ccms_peak/BRB Powder convert neg/QC-neg-13.mzML:scan:300	0.84	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS1_3_Locular_Tissue_2_Y_G11.mzML:scan:1082	0.84	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/QC-neg-2.mzML:scan:322	0.84	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM3_YL2.mzML:scan:3189	0.84	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_8259_NEG_ID_01.mzXML:scan:587	0.84	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_2_1.mzXML:scan:2580	0.84	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/QC-neg-7.mzML:scan:322	0.84	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_QC_01.mzML:scan:3576	0.84	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_M_2_1.mzXML:scan:1880	0.84	3	NoID
+-0.02	mzspec:MTBLS11360:FILES/DERIVED_FILES/gl2-1_N.mzML:scan:4294967295	0.84	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/J_Corn_Leaves_Plant_2_2_Y_D12.mzML:scan:1196	0.83	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/H4_4_Seed_2_Y_E10.mzML:scan:1136	0.83	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM1_KB18.mzML:scan:3179	0.83	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/H4_4_Placenta_2_Y_E9.mzML:scan:1208	0.83	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/H2_4_Locular_Tissue_2_Y_F2.mzML:scan:1096	0.83	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM12_Z1_S2.mzML:scan:3149	0.83	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL2_M10_S1_W1.mzML:scan:3225	0.83	3	NoID
+-0.02	mzspec:MTBLS11360:FILES/DERIVED_FILES/pooled sample-QC1_N.mzML:scan:4294967295	0.83	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_6h_5.mzXML:scan:6357	0.83	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_6.mzXML:scan:6646	0.83	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_12h_6.mzXML:scan:6283	0.83	3	NoID
+-0.0	mzspec:MSV000093247:raw/20170623_KBL_ZHILIC_CC_StExo_FinalRedo/rawdata/20170623_KBL_CC-CC_Strep_Exo_Final_QE139-UV_ZHILIC5um_715824_NEG-MSMS_3_Slividans-1326_A___102030eV___Run15.mzML:scan:4563	0.83	3	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C4.mzML:scan:735	0.83	3	NoID
+0.0	mzspec:MSV000090159:peak/neg9.5/SB_30_02_EX_pH9.5_neg_RB6_01_9039.mzML:scan:7951	0.83	3	NoID
+0.0	mzspec:MSV000090159:peak/neg9.5/SB_30_12_EX_pH9.5_neg_RC8_01_9057.mzML:scan:7945	0.83	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H_Seedling_48h_Seedling_1_D05_D5.mzML:scan:1277	0.83	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_12h_9.mzXML:scan:6375	0.83	3	NoID
+-0.0	mzspec:MSV000083835:peak/MeOH_Neg_mzML/45.mzML:scan:1125	0.83	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-I49_AAM_S3_W1.mzML:scan:3294	0.83	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM12_AAM_S2_W1.mzML:scan:3293	0.83	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM2_YL45.mzML:scan:3268	0.83	3	NoID
+-0.0	mzspec:MSV000083835:peak/MeOH_Neg_mzML/25.mzML:scan:1244	0.83	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_Z1_Blank_3.mzML:scan:3276	0.83	3	NoID
+-0.0	mzspec:MSV000083835:peak/MeOH_Neg_mzML/58.mzML:scan:843	0.83	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_QC_08.mzML:scan:3290	0.83	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL31_AAM_S1_W1.mzML:scan:3234	0.82	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/J_Seedling_48h_Seedling_1_G05_G5.mzML:scan:1233	0.82	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL27_M10_S1_W1.mzML:scan:3278	0.82	3	NoID
+-0.02	mzspec:MTBLS11360:FILES/DERIVED_FILES/pooled sample-QC3_N.mzML:scan:4294967295	0.82	3	NoID
+0.0	mzspec:MTBLS4618:FILES/DERIVED_FILES/T-I-128-4 HILIC NEG.mzML:scan:4294967295	0.82	3	NoID
+0.0	mzspec:MSV000087069:raw/BRB Powder convert neg/BBR_R17500_N40_I10e6_E30_neg_07132020.mzML:scan:296	0.82	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2541.mzML:scan:3594	0.82	3	NoID
+-0.0	mzspec:MTBLS6736:FILES/DERIVED_FILES/NEG/HF2_CN3_FZTM210045299-1A.mzML:scan:645	0.82	3	NoID
+0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_QC02.mzML:scan:727	0.82	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_1h_8.mzXML:scan:5523	0.82	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J4_1_Locular_Tissue_3_G_A8.mzML:scan:1178	0.82	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_M_2_3.mzXML:scan:1909	0.82	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H2_4_Skin_2_Y_E11.mzML:scan:1085	0.82	3	NoID
+-0.0	mzspec:MTBLS615:FILES/W30.03.mzXML:scan:6878	0.82	3	NoID
+-0.0	mzspec:MTBLS6736:FILES/DERIVED_FILES/NEG/HF2_CN3_FZTM210045304-1A.mzML:scan:616	0.82	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM12_AAM_S1_W1.mzML:scan:3273	0.82	3	NoID
+0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C14.mzML:scan:690	0.82	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_8.mzXML:scan:6768	0.82	3	NoID
+0.0	mzspec:MTBLS4618:FILES/DERIVED_FILES/S-1 HILIC NEG.mzML:scan:4294967295	0.82	3	NoID
+-0.0	mzspec:MSV000087375:ccms_peak/CVS_neg_rep4.mzML:scan:567	0.82	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J4_5_Mesocarp_2_Y_H11.mzML:scan:1138	0.82	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-KB18_M10_S1_W1.mzML:scan:3241	0.82	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/NS2_2_Placenta_2_Y_H8.mzML:scan:1173	0.82	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2487.mzML:scan:3550	0.82	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_QC_03.mzML:scan:3221	0.82	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2575.mzML:scan:3517	0.82	3	NoID
+0.01	mzspec:MTBLS615:FILES/W03.07.mzXML:scan:7584	0.82	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM12_AAM_S3_W1.mzML:scan:3279	0.82	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J4_5_Endocarp_2_Y_H12.mzML:scan:1069	0.82	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_3h_5.mzXML:scan:6809	0.82	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_1h_3.mzXML:scan:6962	0.82	3	NoID
+-0.0	mzspec:MSV000083835:peak/MeOH_Neg_mzML/47.mzML:scan:876	0.82	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/NS_Seedling_3_1dpp_Seedling_1_D06_D6.mzML:scan:1208	0.81	3	NoID
+-0.0	mzspec:MSV000090029:ccms_peak/yantai3SHANLIHONG-NEG.mzML:scan:1967	0.81	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL32_AAM_S1_W1.mzML:scan:3338	0.81	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/H2_4_Endocarp_2_Y_F1.mzML:scan:1147	0.81	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/H4_4_Skin_2_Y_E4.mzML:scan:1151	0.81	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/J4_5_Locular_Tissue_3_G_A1.mzML:scan:1394	0.81	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2553.mzML:scan:3599	0.81	3	NoID
+-0.0	mzspec:MTBLS6736:FILES/DERIVED_FILES/NEG/HF2_CN3_FZTM210045301-1A.mzML:scan:632	0.81	3	NoID
+-0.0	mzspec:MTBLS615:FILES/W03.03.mzXML:scan:7343	0.81	3	NoID
+0.0	mzspec:MTBLS4618:FILES/DERIVED_FILES/T-I-128-2 HILIC NEG.mzML:scan:4294967295	0.81	3	NoID
+-0.0	mzspec:MSV000087375:ccms_peak/CVS_neg_rep8.mzML:scan:562	0.81	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_S_aur_4_1.mzXML:scan:2276	0.81	3	NoID
+0.0	mzspec:MTBLS615:FILES/W03.09.mzXML:scan:7058	0.81	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS_Seedling_48h_Seedling_1_F04_F4.mzML:scan:1259	0.81	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_6h_1.mzXML:scan:6481	0.81	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC11.mzXML:scan:6574	0.81	3	NoID
+0.0	mzspec:MTBLS4618:FILES/DERIVED_FILES/S-2 HILIC NEG.mzML:scan:4294967295	0.81	3	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_610.mzXML:scan:3443	0.81	3	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_517.mzXML:scan:2951	0.81	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_3h_2.mzXML:scan:6847	0.8	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/H_Seedling_48h_Seedling_1_C05_C5.mzML:scan:1239	0.8	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_3h_7.mzXML:scan:6664	0.8	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_M_2_2.mzXML:scan:1858	0.8	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_1h_2.mzXML:scan:5925	0.8	3	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_QC01.mzML:scan:741	0.8	3	NoID
+0.0	mzspec:MSV000086101:ccms_peak/NEG-AntiinsectQC-45V.mzML:scan:249	0.8	3	NoID
+0.01	mzspec:MSV000089983:peak/mzML/220721_HG220720_2br_neg.mzML:scan:16352	0.8	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL2_AAM_S3_W1.mzML:scan:3171	0.8	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-I46_AAM_S3_W1.mzML:scan:3255	0.8	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL58_AAM_S3_W1.mzML:scan:3251	0.8	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_30d_1h_10.mzXML:scan:4665	0.8	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_6h_7.mzXML:scan:6321	0.8	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM12_Z1_S3.mzML:scan:3134	0.8	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/200722_HP08_Batch1_HILIC_neg/200722_HP08_Batch1_HILIC_neg_SM2_KB1.mzML:scan:3134	0.8	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_1h_10.mzXML:scan:5132	0.79	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL2_AAM_S2_W1.mzML:scan:3175	0.79	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_12h_10.mzXML:scan:6691	0.79	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-I49_AAM_S2_W1.mzML:scan:3238	0.79	3	NoID
+-0.0	mzspec:MTBLS7053:FILES/DERIVED_FILES/NEG/HFX9_CN1_FZTM220032052-5A.mzML:scan:904	0.79	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/J_Seedling_24h_Seedling_1_D04_D4.mzML:scan:1209	0.79	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/J_Seedling_48h_Seedling_1_A06_A6.mzML:scan:1206	0.79	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL45_AAM_S3_W1.mzML:scan:3245	0.79	3	NoID
+-0.0	mzspec:MTBLS615:FILES/W30.06.mzXML:scan:6468	0.79	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/NS_Seedling_1_1dpp_Seedling_1_B06_B6.mzML:scan:1239	0.79	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/J_Seedling_24h_Seedling_1_B04_B4.mzML:scan:1288	0.79	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_3h_10.mzXML:scan:6145	0.79	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_M_4_1.mzXML:scan:1837	0.79	3	NoID
+-0.0	mzspec:ST001184:HILICNeg_ALOHASSearch_tosubmit/160627_Poo_6-30_AqExtracts_neg.mzXML:scan:6959	0.79	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_1h_10.mzXML:scan:6856	0.79	3	NoID
+0.01	mzspec:MTBLS615:FILES/W30.10.mzXML:scan:6979	0.79	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-KB18_AAM_S3_W1.mzML:scan:3297	0.79	3	NoID
+0.0	mzspec:MTBLS4618:FILES/DERIVED_FILES/S-4 HILIC NEG.mzML:scan:4294967295	0.79	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL58_AAM_S1_W1.mzML:scan:3285	0.79	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_6h_7.mzXML:scan:5402	0.79	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/NS_Corn_leaves_plant_1_2_Y_D1.mzML:scan:1284	0.79	3	NoID
+-0.0	mzspec:MTBLS615:FILES/W30.02.mzXML:scan:6706	0.79	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC_290_600.mzXML:scan:4372	0.79	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_M_4_2.mzXML:scan:1856	0.79	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-I48_AAM_S2_W1.mzML:scan:3191	0.79	3	NoID
+-0.0	mzspec:MTBLS7053:FILES/DERIVED_FILES/NEG/HFX9_CN2_FZTM220032053-3A.mzML:scan:905	0.78	3	NoID
+0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/J_Seedling_48h_Seedling_1_F05_F5.mzML:scan:1201	0.78	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_3h_9.mzXML:scan:6631	0.78	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/H_Seedling_24h_Seedling_1_A04_A4_170814173821.mzML:scan:1217	0.78	3	NoID
+0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_QC03.mzML:scan:679	0.78	3	NoID
+-0.0	mzspec:MSV000090016:ccms_peak/XGLab_M. bovis BCG Growth Phase/Metabolites/014_Mbovis_BCG_log_phase__MBL.mzML:scan:4294967295	0.78	3	NoID
+-0.0	mzspec:MTBLS6736:FILES/DERIVED_FILES/NEG/HF2_CN2_FZTM210045295-1A.mzML:scan:539	0.78	3	NoID
+-0.0	mzspec:MTBLS7053:FILES/DERIVED_FILES/NEG/HFX9_CN1_FZTM220032052-4A.mzML:scan:905	0.78	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL58_AAM_S2_W1.mzML:scan:3246	0.78	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_6h_5.mzXML:scan:6285	0.78	3	NoID
+0.0	mzspec:MTBLS615:FILES/W30.04.mzXML:scan:6693	0.78	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/NS_Corn_leaves_plant_4_2_Y_D4.mzML:scan:1283	0.78	3	NoID
+-0.0	mzspec:MSV000087375:ccms_peak/CVS_neg_rep2.mzML:scan:551	0.78	3	NoID
+0.01	mzspec:MTBLS615:FILES/W03.01.mzXML:scan:6762	0.78	3	NoID
+-0.0	mzspec:MTBLS6736:FILES/DERIVED_FILES/NEG/HF2_894867_CN_QC_ddMS2-100-510.mzML:scan:654	0.78	3	NoID
+-0.0	mzspec:MTBLS7053:FILES/DERIVED_FILES/NEG/HFX9_CN2_FZTM220032053-2A.mzML:scan:905	0.78	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_12h_7.mzXML:scan:4690	0.78	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-I48_AAM_S3_W1.mzML:scan:3212	0.78	3	NoID
+0.01	mzspec:MTBLS615:FILES/W03.02.mzXML:scan:6976	0.78	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/H_Plant_3_leaves_Leaves_1_H12_H12.mzML:scan:1224	0.77	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_1h_9.mzXML:scan:6930	0.77	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/H2_3_Seed_2_Y_F12.mzML:scan:1184	0.77	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/H2_3_Mesocarp_2_Y_F7.mzML:scan:1292	0.77	3	NoID
+0.0	mzspec:MTBLS2154:FILES/DERIVED_FILES/AQNEG17MARCH_02-I1_Cont_3.mzML:scan:4294967295	0.77	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS2_2_Seed_2_Y_H9.mzML:scan:1160	0.77	3	NoID
+-0.0	mzspec:MTBLS615:FILES/W03.06.mzXML:scan:7239	0.77	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL27_M10_S2_W1.mzML:scan:3287	0.77	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_M_1_3.mzXML:scan:1810	0.77	3	NoID
+0.01	mzspec:MSV000094682:peak/HZ-NEG.mzML:scan:2002	0.77	3	NoID
+0.01	mzspec:MSV000094679:peak/HZ-NEG.mzML:scan:2002	0.77	3	NoID
+0.01	mzspec:MSV000094680:peak/HZ-NEG.mzML:scan:2002	0.77	3	NoID
+0.01	mzspec:MSV000094651:peak/HZ-NEG.mzXML:scan:2002	0.77	3	NoID
+0.01	mzspec:MSV000094681:peak/HZ-NEG.mzML:scan:2002	0.77	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-035_flux8day-12C-oxic-33-000_2_Rg70to1050-CE102040-32-S1_Run172.mzML:scan:5457	0.77	3	NoID
+0.01	mzspec:MSV000094676:peak/HZ-NEG.mzML:scan:2002	0.77	3	NoID
+0.01	mzspec:MSV000094964:peak/Liyu/huzhang/HZ-NEG.mzXML:scan:2002	0.77	3	NoID
+0.01	mzspec:MSV000094631:peak/HZ-NEG.mzML:scan:2002	0.77	3	NoID
+0.01	mzspec:MSV000094624:peak/HZ-NEG.mzXML:scan:2002	0.77	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_12h_3.mzXML:scan:6264	0.77	3	NoID
+-0.0	mzspec:MSV000091768:peak/Neg/Will018_MX607857_negRP_OP8-018.mzML:scan:232	0.77	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-114_pretreat-00C-anox-00-000_3_Rg70to1050-CE102040-87-S1_Run244.mzML:scan:5492	0.77	3	NoID
+-0.0	mzspec:MTBLS7053:FILES/DERIVED_FILES/NEG/HFX9_1262983_CN_QC3.mzML:scan:904	0.77	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_1h_4.mzXML:scan:6570	0.77	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-KB18_AAM_S1_W1.mzML:scan:3249	0.77	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-085_statanox-13C-anox-44-000_1_Rg70to1050-CE102040-67-S1_Run82.mzML:scan:5375	0.76	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2545.mzML:scan:3611	0.76	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/NS_Seedling_1_1dpp_Seedling_1_B06_B6_170814183517.mzML:scan:1229	0.76	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-109_statanox-12C-anox-44-000_1_Rg70to1050-CE102040-82-S1_Run94.mzML:scan:5402	0.76	3	NoID
+-0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_205.mzXML:scan:3245	0.76	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_12h_3.mzXML:scan:6731	0.76	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_6h_4.mzXML:scan:6896	0.76	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2576.mzML:scan:3513	0.76	3	NoID
+-0.0	mzspec:MTBLS7053:FILES/DERIVED_FILES/NEG/HFX9_CN2_FZTM220032053-1A.mzML:scan:994	0.76	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-037_flux8day-12C-anox-36-000_1_Rg70to1050-CE102040-34-S1_Run53.mzML:scan:5370	0.76	3	NoID
+-0.0	mzspec:MTBLS7053:FILES/DERIVED_FILES/NEG/HFX9_CN1_FZTM220032052-3A.mzML:scan:907	0.76	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2578.mzML:scan:3564	0.76	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL45_AAM_S2_W1.mzML:scan:3254	0.76	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2550.mzML:scan:3590	0.76	3	NoID
+0.01	mzspec:MTBLS6736:FILES/DERIVED_FILES/NEG/HF2_CN2_FZTM210045293-1A.mzML:scan:619	0.76	3	NoID
+0.01	mzspec:MTBLS615:FILES/W03.10.mzXML:scan:7691	0.76	3	NoID
+0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/NS2_1_Endocarp_2_Y_G3.mzML:scan:1142	0.76	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/H2_3_Locular_Tissue_2_Y_F9.mzML:scan:1087	0.76	3	NoID
+-0.0	mzspec:MSV000087375:ccms_peak/CVS_neg_rep3.mzML:scan:545	0.76	3	NoID
+-0.0	mzspec:MTBLS2081:FILES/PPL6_neg-milk.mzXML:scan:5946	0.76	3	NoID
+-0.0	mzspec:MTBLS615:FILES/W30.09.mzXML:scan:6700	0.76	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-I48_AAM_S1_W1.mzML:scan:3213	0.76	3	NoID
+0.0	mzspec:MTBLS2154:FILES/DERIVED_FILES/AQNEG17MARCH_08-S6_Cont_2.mzML:scan:4294967295	0.76	3	NoID
+0.0	mzspec:MSV000090016:peak/XGLab_M. bovis BCG Growth Phase/Metabolites/015_Mbovis_BCG_stat_phase__MBL.mzML:scan:4294967295	0.76	3	NoID
+0.01	mzspec:MTBLS6736:FILES/DERIVED_FILES/NEG/HF2_CN2_FZTM210045296-1A.mzML:scan:639	0.75	3	NoID
+0.0	mzspec:MTBLS615:FILES/W30.08.mzXML:scan:6759	0.75	3	NoID
+0.0	mzspec:MSV000087609:ccms_peak/Data/T11_Pre.mzML:scan:469	0.75	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-007_pretreat-00C-oxic-00-210_1_Rg70to1050-CE102040-7-S1_Run21.mzML:scan:5436	0.75	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_12h_7.mzXML:scan:6776	0.75	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_3.mzXML:scan:7111	0.75	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-091_statanox-13C-anox-36-000_2_Rg70to1050-CE102040-73-S1_Run227.mzML:scan:5505	0.75	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-004_pretreat-00C-oxic-00-030_1_Rg70to1050-CE102040-4-S1_Run18.mzML:scan:5405	0.75	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_1h_1.mzXML:scan:6971	0.75	3	NoID
+-0.0	mzspec:MTBLS7053:FILES/DERIVED_FILES/NEG/HFX9_CN2_FZTM220032053-4A.mzML:scan:910	0.75	3	NoID
+0.0	mzspec:MSV000087612:peak/Plate01_mzXMLs/T11_Pre.mzXML:scan:469	0.75	3	NoID
+-0.0	mzspec:MTBLS615:FILES/W30.05.mzXML:scan:6568	0.75	3	NoID
+-0.0	mzspec:MTBLS7053:FILES/DERIVED_FILES/NEG/HFX9_CN2_FZTM220032053-5A.mzML:scan:905	0.75	3	NoID
+-0.0	mzspec:ST001184:HILICNeg_ALOHASSearch_tosubmit/160627_Poo_6-29_AqExtracts_neg.mzXML:scan:6696	0.75	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-074_statoxic-12C-oxic-23-000_1_Rg70to1050-CE102040-56-S1_Run73.mzML:scan:5463	0.75	3	NoID
+0.0	mzspec:MTBLS615:FILES/W30.07.mzXML:scan:6867	0.74	3	NoID
+0.0	mzspec:MTBLS2081:FILES/CON7_neg-milk.mzXML:scan:6208	0.74	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-036_flux8day-12C-oxic-33-000_3_Rg70to1050-CE102040-33-S1_Run308.mzML:scan:5427	0.74	3	NoID
+-0.0	mzspec:MSV000088823:peak/neg-Mode_MS2/Lab_08/DOM_Interlab-LCMS_Lab8_M_Neg_MS2_rep3.mzML:scan:618	0.74	3	NoID
+-0.0	mzspec:MSV000087608:peak/DOM_Interlab-LCMS_Lab8_M_Neg_MS2_rep3.mzML:scan:618	0.74	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL31_AAM_S2_W1.mzML:scan:3259	0.74	3	NoID
+-0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_cer_1_3.mzXML:scan:1907	0.74	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_cer_1_2.mzXML:scan:1951	0.74	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-000_unk_1_Rg70to1050-CE102040-121-S1_Run346.mzML:scan:5418	0.74	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_24h_6.mzXML:scan:6697	0.74	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-055_flux8day-13C-oxic-44-000_4_Rg70to1050-CE102040-46-S1_Run372.mzML:scan:5379	0.74	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-024_flux8day-12C-anox-20-210_3_Rg70to1050-CE102040-22-S1_Run273.mzML:scan:5334	0.74	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-175_flux8day-12C-oxic-44-000_2_Rg70to1050-CE102040-113-S1_Run201.mzML:scan:5426	0.74	3	NoID
+-0.0	mzspec:MTBLS7053:FILES/DERIVED_FILES/NEG/HFX9_1262983_CN_QC2.mzML:scan:1006	0.74	3	NoID
+0.0	mzspec:MSV000087612:peak/Plate02_mzXMLs/T2_Pre.mzXML:scan:473	0.73	3	NoID
+0.0	mzspec:MSV000087609:ccms_peak/Data/T2_Pre.mzML:scan:473	0.73	3	NoID
+-0.0	mzspec:MTBLS2081:FILES/QC02_neg-milk.mzXML:scan:6113	0.73	3	NoID
+-0.0	mzspec:MSV000087375:ccms_peak/CVS_neg_rep5.mzML:scan:544	0.73	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/NS2_2_Core_2_Y_H7.mzML:scan:1271	0.73	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2544.mzML:scan:3597	0.73	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_M_1_2.mzXML:scan:1738	0.73	3	NoID
+-0.0	mzspec:MTBLS2081:FILES/CON6_neg-milk.mzXML:scan:6209	0.73	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_3h_8.mzXML:scan:6734	0.73	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_12h_5.mzXML:scan:6545	0.73	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_1.mzXML:scan:7062	0.73	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_cer_1_1.mzXML:scan:1987	0.73	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-083_statoxic-12C-oxic-44-000_2_Rg70to1050-CE102040-65-S1_Run137.mzML:scan:5451	0.73	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-081_statoxic-12C-oxic-44-000_1_Rg70to1050-CE102040-63-S1_Run79.mzML:scan:5394	0.73	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-005_pretreat-00C-oxic-00-030_3_Rg70to1050-CE102040-5-S1_Run305.mzML:scan:5403	0.73	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC04.mzXML:scan:6657	0.73	3	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_779.mzXML:scan:3076	0.73	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-090_statanox-13C-anox-36-000_1_Rg70to1050-CE102040-72-S1_Run85.mzML:scan:5433	0.73	3	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_736.mzXML:scan:3531	0.73	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_1h_5.mzXML:scan:7162	0.73	3	NoID
+0.0	mzspec:MTBLS615:FILES/W03.04.mzXML:scan:6559	0.73	3	NoID
+0.0	mzspec:MSV000087609:ccms_peak/Data/T18_Pre.mzML:scan:478	0.73	3	NoID
+0.01	mzspec:MSV000095512:peak/neg_mzml/Burnt_2_neg.mzML:scan:207	0.73	3	NoID
+0.0	mzspec:MSV000087612:peak/Plate02_mzXMLs/T18_Pre.mzXML:scan:478	0.73	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/H2_3_Core_2_Y_F10.mzML:scan:1314	0.72	3	NoID
+0.0	mzspec:MSV000081464:raw/mzML Negative/H2_4_Core_2_Y_F3.mzML:scan:1283	0.72	3	NoID
+0.01	mzspec:MSV000090870:peak/Pleurotus/NEG/E37_NEG.mzXML:scan:72	0.72	3	NoID
+0.01	mzspec:MSV000090920:ccms_peak/E37_NEG.mzML:scan:72	0.72	3	NoID
+0.0	mzspec:MTBLS2154:FILES/DERIVED_FILES/AQNEG17MARCH_04-I1_Cont_2.mzML:scan:4294967295	0.72	3	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_24h_6.mzXML:scan:4712	0.72	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-015_flux8day-12C-oxic-20-000_1_Rg70to1050-CE102040-15-S1_Run30.mzML:scan:5445	0.72	3	NoID
+-0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_E_coli_4_3.mzXML:scan:2376	0.72	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-110_statanox-12C-anox-44-000_2_Rg70to1050-CE102040-83-S1_Run186.mzML:scan:5442	0.72	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_10.mzXML:scan:6438	0.72	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-102_statanox-12C-anox-23-000_1_Rg70to1050-CE102040-75-S1_Run88.mzML:scan:5442	0.72	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-040_flux8day-12C-oxic-36-030_1_Rg70to1050-CE102040-37-S1_Run56.mzML:scan:5421	0.72	3	NoID
+0.0	mzspec:MTBLS615:FILES/W03.05.mzXML:scan:7313	0.72	3	NoID
+-0.0	mzspec:MTBLS2081:FILES/PPL4_neg-milk.mzXML:scan:6131	0.72	3	NoID
+0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C16.mzML:scan:806	0.72	3	NoID
+-0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_M_4_3.mzXML:scan:1873	0.72	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_1h_5.mzXML:scan:6772	0.72	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-YL31_AAM_S3_W1.mzML:scan:3289	0.72	3	NoID
+-0.0	mzspec:MTBLS2081:FILES/PPL2_neg-milk.mzXML:scan:6090	0.72	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_4_2.mzXML:scan:2096	0.72	3	NoID
+-0.0	mzspec:MSV000088823:updates/2022-02-16_bciap01_2e2457db/peak/Peaks/mzmL/MS2_Neg_mode/DOM_Interlab-LCMS_Lab8_A5M_Neg_MS2_rep2.mzML:scan:619	0.72	3	NoID
+-0.0	mzspec:MSV000087608:peak/DOM_Interlab-LCMS_Lab8_A5M_Neg_MS2_rep2.mzML:scan:619	0.72	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-092_statanox-13C-anox-36-000_3_Rg70to1050-CE102040-74-S1_Run297.mzML:scan:5427	0.72	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-028_flux8day-12C-oxic-23-030_1_Rg70to1050-CE102040-26-S1_Run44.mzML:scan:5394	0.72	3	NoID
+0.0	mzspec:ST002968:mzML/N-QC3-0803-NEG.mzML:scan:4294967295	0.72	3	NoID
+0.01	mzspec:MSV000090920:ccms_peak/E34_NEG.mzML:scan:54	0.72	3	NoID
+0.01	mzspec:MSV000090870:peak/Pleurotus/NEG/E34_NEG.mzXML:scan:54	0.72	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/NS1_3_Core_2_Y_G12.mzML:scan:1299	0.71	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_1h_1.mzXML:scan:7016	0.71	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_6h_7.mzXML:scan:6251	0.71	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-105_statanox-12C-anox-36-000_1_Rg70to1050-CE102040-78-S1_Run91.mzML:scan:5439	0.71	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-077_statoxic-12C-oxic-36-000_1_Rg70to1050-CE102040-59-S1_Run76.mzML:scan:5399	0.71	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-112_statanox-12C-anox-44-000_3_Rg70to1050-CE102040-85-S1_Run268.mzML:scan:5504	0.71	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_3h_7.mzXML:scan:6812	0.71	3	NoID
+-0.0	mzspec:MTBLS2081:FILES/CON8_neg-milk.mzXML:scan:6043	0.71	3	NoID
+-0.0	mzspec:MTBLS2081:FILES/QC01_neg-milk.mzXML:scan:6132	0.71	3	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C15.mzML:scan:723	0.71	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2549.mzML:scan:3573	0.71	3	NoID
+-0.0	mzspec:MTBLS2081:FILES/CON3_neg-milk.mzXML:scan:6433	0.71	3	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_P_aer_M_3_3.mzXML:scan:1831	0.71	3	NoID
+-0.0	mzspec:MTBLS7053:FILES/DERIVED_FILES/NEG/HFX9_CN2_FZTM220032053-6A.mzML:scan:1039	0.71	3	NoID
+-0.0	mzspec:MTBLS615:FILES/W03.08.mzXML:scan:7137	0.71	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2477.mzML:scan:3557	0.71	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220629_HP08_08_HILIC_neg/220629_HP08_08_HILIC_neg_OMM11-I46_AAM_S2_W1.mzML:scan:3300	0.71	3	NoID
+-0.0	mzspec:MTBLS2081:FILES/QC03_neg-milk.mzXML:scan:6077	0.71	3	NoID
+0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-104_statanox-12C-anox-23-000_3_Rg70to1050-CE102040-77-S1_Run282.mzML:scan:5468	0.71	3	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_728.mzXML:scan:3145	0.71	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-173_flux4day-12C-oxic-44-000_3_Rg70to1050-CE102040-111-S1_Run323.mzML:scan:5444	0.71	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-174_flux8day-12C-oxic-44-000_1_Rg70to1050-CE102040-112-S1_Run123.mzML:scan:5423	0.71	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2481.mzML:scan:3578	0.7	3	NoID
+-0.0	mzspec:MTBLS2081:FILES/PPL1_neg-milk.mzXML:scan:6138	0.7	3	NoID
+0.0	mzspec:ST002968:mzML/N-ZD3-0803-NEG.mzML:scan:4294967295	0.7	3	NoID
+-0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_B_sub_3_3.mzXML:scan:2528	0.7	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-106_statanox-12C-anox-36-000_2_Rg70to1050-CE102040-79-S1_Run233.mzML:scan:5540	0.7	3	NoID
+-0.0	mzspec:MSV000093271:raw/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163/rawdata/20190103_KBL_JP_502924_Soil_13CFlux_QE-139_HILIC_USHGX01163_NEG_MSMS_GRE-MB-023_flux8day-12C-anox-20-210_2_Rg70to1050-CE102040-21-S1_Run140.mzML:scan:5454	0.7	3	NoID

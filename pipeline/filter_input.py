@@ -172,3 +172,6 @@ if __name__ == "__main__":
     #python3 filter_by_annotation_level.py --mgf /path/allMS2Spec_HILIC_neg_01_02.mgf --features /path/viewerTable_pos_01_02.tsv --consensus_only --out_file /path/allMS2Spec_HILIC_neg_01_02_filtered_consensus_only_ann4.mgf --filter_by_annotation 
 
     #python3 filter_input.py --mgf ../files/allMS2Spec2024-11-27_neg.mgf --features ../files/neg_viewerTable.tsv --consensus_only --out_dir ../output/test_splitMGF --filter_by_annotation 
+
+    # test run
+    # python filter_input.py --mgf ../files/test_microbe_neg.mgf --features ../files/neg_viewerTable.tsv ../files/test_run_mai/ --consensus_only --filter_by_annotation

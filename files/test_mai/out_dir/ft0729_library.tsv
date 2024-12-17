@@ -1,0 +1,39 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006684885	CCMSLIB00006684885	0.86	3	SUCROSE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004719766	CCMSLIB00004719766	0.84	3	Trehalose	[M-H]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006684343	CCMSLIB00006684343	0.82	3	TURANOSE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00012161108	CCMSLIB00012161108	0.79	3	Suspect related to Sucrose (predicted molecular formula SIRIUS: unknown / BUDDY: C16H22N2O2S) with delta m/z -35.977 (putative explanation: unspecified; atomic difference: unspecified) [M+Cl]-	[M+Cl]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003134522	CCMSLIB00003134522	0.79	3	Spectral Match to D-(+)-Trehalose from NIST14	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006124001	CCMSLIB00006124001	0.79	3	Sucrose - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006123996	CCMSLIB00006123996	0.79	3	Sucrose - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00012105485	CCMSLIB00012105485	0.79	3	Suspect related to D-(+)-Trehalose (predicted molecular formula SIRIUS: unknown / BUDDY: C5H9N5S) with delta m/z -342.115 (putative explanation: unspecified; atomic difference: unspecified) [2M-H]-	[2M-H]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006684675	CCMSLIB00006684675	0.79	3	SUCROSE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006123998	CCMSLIB00006123998	0.79	3	Sucrose - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006123994	CCMSLIB00006123994	0.78	3	Sucrose - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006684633	CCMSLIB00006684633	0.78	3	MELIBIOSE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004691328	CCMSLIB00004691328	0.78	3	Trehalose	[M-H]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004719918	CCMSLIB00004719918	0.77	3	isomaltulose	[M-H]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006684855	CCMSLIB00006684855	0.77	3	PALATINOSE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003134778	CCMSLIB00003134778	0.77	3	Spectral Match to D-Turanose from NIST14	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006126415	CCMSLIB00006126415	0.76	3	D-Turanose - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006126417	CCMSLIB00006126417	0.76	3	D-Turanose - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006126416	CCMSLIB00006126416	0.76	3	D-Turanose - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00003140029	CCMSLIB00003140029	0.76	3	Spectral Match to D-(+)-Trehalose from NIST14	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006684487	CCMSLIB00006684487	0.76	3	TURANOSE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000578375	CCMSLIB00000578375	0.76	3	SUCROSE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00012086056	CCMSLIB00012086056	0.76	3	Suspect related to .alpha.,.beta.-Trehalose (predicted molecular formula SIRIUS: unknown / BUDDY: C11H20O9) with delta m/z -46.005 (putative explanation: ISD a-series (C-Term); atomic difference: -1C,-2H,-2O) [M+CHOO]-	[M+CHOO]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006126414	CCMSLIB00006126414	0.75	3	D-Turanose - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006684342	CCMSLIB00006684342	0.75	3	SUCROSE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004719928	CCMSLIB00004719928	0.75	3	Melibiose	[M-H]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00012161104	CCMSLIB00012161104	0.74	3	Suspect related to Sucrose (predicted molecular formula SIRIUS: unknown / BUDDY: C11H20O9) with delta m/z -46.005 (putative explanation: ISD a-series (C-Term); atomic difference: -1C,-2H,-2O) [M+CHOO]-	[M+CHOO]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006124746	CCMSLIB00006124746	0.73	3	Melibiose - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006124743	CCMSLIB00006124743	0.73	3	Melibiose - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004691329	CCMSLIB00004691329	0.73	3	Trehalose	[M-H]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00012108069	CCMSLIB00012108069	0.72	3	Suspect related to Galactinol (predicted molecular formula SIRIUS: unknown / BUDDY: C16H22N2O2S) with delta m/z -35.977 (putative explanation: unspecified; atomic difference: unspecified) [M+Cl]-	[M+Cl]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006124744	CCMSLIB00006124744	0.72	3	Melibiose - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006124745	CCMSLIB00006124745	0.72	3	Melibiose - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006679992	CCMSLIB00006679992	0.72	3	SUCROSE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006679996	CCMSLIB00006679996	0.71	3	SUCROSE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00012141235	CCMSLIB00012141235	0.71	3	Suspect related to ReSpect:PT202950 Maltotriose|Amylotriose|alpha-1,4-Glucotriose|Triomaltose|O-alpha-D-glucopyranosyl-O-alpha-D-glucopyranosyl-D-glucose|(Glc(alpha1-4)Glc(alpha1-4)Glc)|(2R,3R,4S,5S,6R)-2-[(2R,3S,4R,5R,6R)-4,5-dihydroxy (predicted molecular formula SIRIUS: C12H20O11 / BUDDY: C12H20O11) with delta m/z -162.052 (putative explanation: Glucuronidation (reverse)|Hexose (reverse); atomic difference: -6C,-10H,-5O|-6C,-10H,-5O) [M+H]+	[M+H]+	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004691641	CCMSLIB00004691641	0.71	3	isomaltulose	[M-H]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006684831	CCMSLIB00006684831	0.7	3	MALTOSE	M-H	1

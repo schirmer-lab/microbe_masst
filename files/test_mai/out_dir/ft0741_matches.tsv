@@ -1,0 +1,362 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C1.mzML:scan:1538	0.96	4	NoID
+0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_E_coli_M_1_1.mzXML:scan:1491	0.96	4	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C3.mzML:scan:1523	0.96	4	NoID
+-0.0	mzspec:MSV000095269:raw/HILIC_neg/240418_M255_01_HILIC_neg_E_coli_M_1_3.mzXML:scan:1441	0.96	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_QC_04.mzXML:scan:1208	0.95	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_19.mzXML:scan:1212	0.95	4	NoID
+0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_17.mzXML:scan:1163	0.95	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_QC_01.mzXML:scan:1194	0.95	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_QC_06.mzXML:scan:1205	0.95	4	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_NEG_3.mzXML:scan:2936	0.95	4	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_8259_NEG_ID_03.mzXML:scan:1850	0.95	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_45.mzXML:scan:1200	0.95	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_18.mzXML:scan:1177	0.95	4	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C11.mzML:scan:1168	0.95	4	NoID
+-0.0	mzspec:MSV000094613:peak/38_b2t3_Nrp.mzML:scan:462	0.95	4	NoID
+0.0	mzspec:MTBLS11360:FILES/DERIVED_FILES/rsl2rsl4-2_N.mzML:scan:4294967295	0.95	4	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_JRC_NEG_2.mzXML:scan:2946	0.95	4	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_JRC_8259_NEG_ID_01.mzXML:scan:1866	0.95	4	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_8259_NEG_ID_02.mzXML:scan:1846	0.95	4	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_NEG_4.mzXML:scan:2926	0.95	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_47.mzXML:scan:1204	0.95	4	NoID
+0.01	mzspec:MSV000085657:ccms_peak/raw/QC_4.mzML:scan:935	0.95	4	NoID
+-0.01	mzspec:MSV000085071:ccms_peak/Mushrooms_NEG_P2_mzXML/P2_C2_BC2_01_53225.mzML:scan:128	0.95	4	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C2.mzML:scan:1486	0.95	4	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_QC02.mzML:scan:1462	0.95	4	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C9.mzML:scan:1455	0.95	4	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_QC01.mzML:scan:1517	0.95	4	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_QC03.mzML:scan:1385	0.95	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_QC_02.mzXML:scan:1206	0.95	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_QC_05.mzXML:scan:1205	0.95	4	NoID
+0.0	mzspec:MTBLS11360:FILES/DERIVED_FILES/pooled sample-QC2_N.mzML:scan:4294967295	0.95	3	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C15.mzML:scan:1346	0.94	5	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS_Seedling_24h_Seedling_1_C03_C3.mzML:scan:285	0.94	4	NoID
+-0.0	mzspec:MSV000092291:peak/Mesotrione_neg_A. palmeri vs A. tuberculatus_mzML/143-UT R1.mzML:scan:4586	0.94	4	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_JRC_NEG_1.mzXML:scan:2944	0.94	4	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H_Seedling_24h_Seedling_1_A04_A4_170814173821.mzML:scan:251	0.94	4	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_JRC_NEG_4.mzXML:scan:2944	0.94	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_30.mzXML:scan:1193	0.94	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_QC_03.mzXML:scan:1194	0.94	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_15.mzXML:scan:1205	0.94	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_43.mzXML:scan:1191	0.94	4	NoID
+0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_46.mzXML:scan:1210	0.94	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_41.mzXML:scan:1199	0.94	4	NoID
+-0.0	mzspec:MSV000092291:peak/Mesotrione_neg_A. palmeri vs A. tuberculatus_mzML/152-UT R1.mzML:scan:4566	0.94	4	NoID
+-0.0	mzspec:MTBLS11360:FILES/DERIVED_FILES/Col-0-2_N.mzML:scan:4294967295	0.94	4	NoID
+-0.0	mzspec:MSV000095654:raw/mzml/Cecum_10_HILICneg.mzML:scan:11752	0.94	4	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C4.mzML:scan:1500	0.94	4	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C14.mzML:scan:1357	0.94	4	NoID
+0.0	mzspec:MTBLS7713:FILES/DERIVED_FILES/NEG/QC-1_NEG.mzML:scan:4294967295	0.94	4	NoID
+-0.0	mzspec:MTBLS11360:FILES/DERIVED_FILES/gl2-3_N.mzML:scan:4294967295	0.94	3	NoID
+-0.0	mzspec:MTBLS11360:FILES/DERIVED_FILES/gl2-1_N.mzML:scan:4294967295	0.94	3	NoID
+0.0	mzspec:MTBLS11360:FILES/DERIVED_FILES/Col-0-1_N.mzML:scan:4294967295	0.94	3	NoID
+0.0	mzspec:MTBLS11360:FILES/DERIVED_FILES/gl2-2_N.mzML:scan:4294967295	0.94	3	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C13.mzML:scan:1398	0.93	4	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C10.mzML:scan:1438	0.93	4	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8258_NEG_4.mzXML:scan:2951	0.93	4	NoID
+-0.0	mzspec:MSV000093270:raw/20190114_KBL_JM_504478_Plant_SwGr_QE-139_C18_USDAY47771/mzml_files/20190114_KBL_JM_504478_Plant_SwGr_QE-139_C18_USDAY47771_NEG_MSMS_80_Swg-SumHvst-FldGrwn-A4_8_Rg90to1350-CE205060-30mg-S1_Run223.mzML:scan:227	0.93	4	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run006_TCA-palmitate.mzML:scan:511	0.93	4	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/J_Fungal_filtrate.mzML:scan:66	0.93	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_44.mzXML:scan:1562	0.93	4	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run026_Fraction38.mzML:scan:491	0.93	4	NoID
+-0.0	mzspec:MSV000083835:peak/MeOH_Neg_mzML/57.mzML:scan:4860	0.93	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_NEG_1.mzXML:scan:2953	0.93	3	NoID
+0.01	mzspec:MSV000085657:ccms_peak/raw/QC_5.mzML:scan:965	0.93	3	NoID
+0.0	mzspec:MSV000088863:peak/20200114 Low 3_BB1_01_30169.d.mzXML:scan:173	0.93	3	NoID
+-0.0	mzspec:MSV000094613:peak/50_b2t4_Nrp.mzML:scan:447	0.93	3	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C16.mzML:scan:1326	0.93	3	NoID
+0.01	mzspec:MSV000085657:ccms_peak/raw/QC_1.mzML:scan:979	0.93	3	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run043_Fraction21.mzML:scan:486	0.93	3	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run011_GCA-oleate.mzML:scan:515	0.92	4	NoID
+-0.0	mzspec:MSV000093270:raw/20190114_KBL_JM_504478_Plant_SwGr_QE-139_C18_USDAY47771/rawdata/20190114_KBL_JM_504478_Plant_SwGr_QE-139_C18_USDAY47771_NEG_MSMS_104_Swg-SumHvst-FldGrwn-QsuB15_8_Rg90to1350-CE205060-30mg-S1_Run217.mzML:scan:246	0.92	4	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run033_Fraction31.mzML:scan:488	0.92	4	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_JRC_CM_NEG_6.mzXML:scan:2956	0.92	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_42.mzXML:scan:1196	0.92	4	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C6.mzML:scan:1448	0.92	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_31.mzXML:scan:1184	0.92	4	NoID
+-0.0	mzspec:ST002338:RawData/mzXML_format/Neg/neg_29.mzXML:scan:1182	0.92	4	NoID
+0.01	mzspec:MSV000085657:ccms_peak/raw/QC_2.mzML:scan:863	0.92	4	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/SA10-2-auto-MS-MS-neg_29_1_1494.mzML:scan:1191	0.92	4	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/NS1_3_Surface_2_Y_A8.mzML:scan:512	0.92	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/H_Seedling_24h_Seedling_1_A04_A4.mzML:scan:86	0.92	3	NoID
+-0.0	mzspec:MSV000084595:ccms_peak/Negative_RAW/41_0_prat_M_Control_SY+R5A_D5_Neg.mzML:scan:4113	0.92	3	NoID
+-0.0	mzspec:MSV000081464:ccms_peak/mzML Negative/J4_1_Surface_2_Y_A11.mzML:scan:278	0.92	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_JRC_NEG_3.mzXML:scan:2940	0.92	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_8258_NEG_ID_01.mzXML:scan:1876	0.92	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8258_NEG_2.mzXML:scan:2935	0.92	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_JRC_8258_NEG_ID_01.mzXML:scan:1875	0.92	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8259_NEG_2.mzXML:scan:2947	0.92	3	NoID
+-0.0	mzspec:MSV000083264:ccms_peak/mzXML/13227_NEG.mzML:scan:2648	0.92	3	NoID
+0.0	mzspec:MTBLS11360:FILES/DERIVED_FILES/pooled sample-QC1_N.mzML:scan:4294967295	0.92	3	NoID
+-0.0	mzspec:MSV000092291:peak/Mesotrione_neg_A. palmeri vs A. tuberculatus_mzML/39-PPI_MESO-6B.mzML:scan:4588	0.92	3	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/MS80_OLD_NEG.mzML:scan:1047	0.91	4	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_1.mzXML:scan:5023	0.91	4	NoID
+-0.0	mzspec:MSV000093270:raw/20190114_KBL_JM_504478_Plant_SwGr_QE-139_C18_USDAY47771/mzml_files/20190114_KBL_JM_504478_Plant_SwGr_QE-139_C18_USDAY47771_NEG_MSMS_112_Swg-SumHvst-GrnHGrwn-A4_8_Rg90to1350-CE205060-30mg-S1_Run232.mzML:scan:242	0.91	4	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/MS80_OLD_NEG.mzXML:scan:1047	0.91	4	NoID
+-0.0	mzspec:MTBLS2081:FILES/CON8_neg-rf.mzXML:scan:4980	0.91	4	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/Blank_resuspension_solvent.mzML:scan:187	0.91	3	NoID
+0.01	mzspec:MSV000085657:ccms_peak/raw/QC_3.mzML:scan:864	0.91	3	NoID
+-0.0	mzspec:MSV000081464:raw/mzML Negative/NS_Plant_3_leaves_Leaves_1_D11_D11.mzML:scan:86	0.91	3	NoID
+-0.0	mzspec:MSV000081464:updates/2017-08-18_hnn002_153238f9/peak/mzML Negative/Blank.mzML:scan:176	0.91	3	NoID
+-0.0	mzspec:MTBLS3830:FILES/DERIVED_FILES/NEG/503.3day.03.mzXML:scan:432	0.91	3	NoID
+-0.0	mzspec:MSV000092291:peak/Mesotrione_neg_A. palmeri vs A. tuberculatus_mzML/194-UT SIR.mzML:scan:4631	0.91	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8258_JRC_NEG_3.mzXML:scan:2934	0.91	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8258_NEG_3.mzXML:scan:2950	0.91	3	NoID
+-0.0	mzspec:MTBLS3830:FILES/DERIVED_FILES/NEG/2220.3day.03.mzXML:scan:432	0.91	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_10.mzXML:scan:4904	0.91	3	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run064_Blank.mzML:scan:491	0.9	4	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_22_yeast_03.mzXML:scan:5007	0.9	4	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_4.mzXML:scan:4990	0.9	4	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_24h_2.mzXML:scan:2906	0.9	4	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_26_yeast_05.mzXML:scan:5000	0.9	4	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run027_Fraction37.mzML:scan:491	0.9	4	NoID
+-0.0	mzspec:MTBLS3830:FILES/DERIVED_FILES/NEG/503.3day.02.mzXML:scan:433	0.9	3	NoID
+-0.0	mzspec:MTBLS3830:FILES/DERIVED_FILES/NEG/503.3day.01.mzXML:scan:455	0.9	3	NoID
+-0.0	mzspec:MSV000093270:raw/20190114_KBL_JM_504478_Plant_SwGr_QE-139_C18_USDAY47771/rawdata/20190114_KBL_JM_504478_Plant_SwGr_QE-139_C18_USDAY47771_NEG_MSMS_74_Swg-SumHvst-FldGrwn-A4_2_Rg90to1350-CE102040-30mg-S1_Run64.mzML:scan:240	0.9	3	NoID
+-0.0	mzspec:MSV000094613:peak/31_b1t3_wt.mzML:scan:467	0.9	3	NoID
+-0.0	mzspec:MTBLS3830:FILES/DERIVED_FILES/NEG/2220.3day.01.mzXML:scan:455	0.9	3	NoID
+-0.0	mzspec:MSV000094613:peak/23_b2t2_Nrp.mzML:scan:463	0.9	3	NoID
+-0.0	mzspec:MSV000095677:peak/mzML/Vector_TCA_3_neg.mzML:scan:381	0.9	3	NoID
+-0.0	mzspec:MTBLS3830:FILES/DERIVED_FILES/NEG/2220.3day.02.mzXML:scan:433	0.9	3	NoID
+-0.0	mzspec:MSV000094613:peak/18_b1t2_wt.mzML:scan:475	0.9	3	NoID
+-0.0	mzspec:MSV000087074:ccms_peak/ACR-4a-SA3-CC.mzML:scan:4518	0.9	3	NoID
+0.0	mzspec:MTBLS615:FILES/W03.10.mzXML:scan:5256	0.9	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_12h_3.mzXML:scan:4654	0.9	3	NoID
+-0.0	mzspec:MSV000095801:raw/Feces (negative ionization mode).mzXML:scan:1189	0.9	3	NoID
+-0.0	mzspec:MTBLS7713:FILES/DERIVED_FILES/NEG/QC-4_NEG.mzML:scan:4294967295	0.9	3	NoID
+-0.0	mzspec:MSV000092210:peak/13.mzML:scan:482	0.9	3	NoID
+-0.0	mzspec:MSV000092210:peak/11.mzML:scan:475	0.9	3	NoID
+-0.0	mzspec:MSV000092253:peak/mzML/13.mzML:scan:482	0.9	3	NoID
+-0.0	mzspec:MSV000092253:peak/mzML/11.mzML:scan:475	0.9	3	NoID
+-0.0	mzspec:MSV000092080:updates/2023-06-06_allegraaron_a90252ca/peak/mzMLs/mzML/11.mzML:scan:475	0.9	3	NoID
+-0.0	mzspec:MSV000092080:updates/2023-06-06_allegraaron_a90252ca/peak/mzMLs/mzML/13.mzML:scan:482	0.9	3	NoID
+-0.0	mzspec:MSV000092291:peak/Mesotrione_neg_A. palmeri vs A. tuberculatus_mzML/30-R1_MESO-12B.mzML:scan:4564	0.9	3	NoID
+-0.0	mzspec:MSV000092291:peak/Mesotrione_neg_A. palmeri vs A. tuberculatus_mzML/57-UT SIR.mzML:scan:4602	0.9	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8258_JRC_NEG_2.mzXML:scan:2942	0.9	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_RM_8258_JRC_NEG_1.mzXML:scan:2961	0.9	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_JRC_CM_NEG_5.mzXML:scan:2937	0.9	3	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/MS60_OLD_NEG.mzML:scan:1044	0.89	4	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/MS33_OLD_NEG.mzML:scan:962	0.89	4	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_32_yeast_08.mzXML:scan:5000	0.89	4	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_24h_8.mzXML:scan:2972	0.89	4	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_24h_10.mzXML:scan:3072	0.89	4	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/MS33_OLD_NEG.mzXML:scan:962	0.89	4	NoID
+-0.0	mzspec:MSV000090870:peak/Hericium/NEG/MS60_OLD_NEG.mzXML:scan:1044	0.89	4	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_18_yeast_01.mzXML:scan:5021	0.89	4	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run042_Fraction22.mzML:scan:490	0.89	4	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run031_Fraction33.mzML:scan:490	0.89	4	NoID
+-0.0	mzspec:MSV000094613:peak/3_b1t1_wt.mzML:scan:462	0.89	4	NoID
+0.0	mzspec:MTBLS615:FILES/W03.05.mzXML:scan:4980	0.89	4	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_2.mzXML:scan:3493	0.89	4	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run005_TCA-oleate.mzML:scan:514	0.89	4	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/AA10-2-auto-MS-MS-neg_8_1_1470.mzML:scan:1191	0.89	4	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/SA10-1-auto-MS-MS-neg_11_1_1474.mzML:scan:1191	0.89	4	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM07_D592_in_RPMI/Negative_Polarity/MS2_Files/-COM7_D592RPMI_Smp01_T3o75_MS2_GA5_01_9092.mzXML:scan:83	0.89	4	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C12.mzML:scan:1358	0.89	3	NoID
+-0.0	mzspec:MSV000092291:peak/Mesotrione_neg_A. palmeri vs A. tuberculatus_mzML/17-PPI_MESO-2C.mzML:scan:4514	0.89	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_3h_3.mzXML:scan:4811	0.89	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_5.mzXML:scan:4952	0.89	3	NoID
+-0.0	mzspec:MSV000093270:raw/20190114_KBL_JM_504478_Plant_SwGr_QE-139_C18_USDAY47771/mzml_files/20190114_KBL_JM_504478_Plant_SwGr_QE-139_C18_USDAY47771_NEG_MSMS_79_Swg-SumHvst-FldGrwn-A4_7_Rg90to1350-CE102040-30mg-S1_Run201.mzML:scan:240	0.89	3	NoID
+-0.0	mzspec:MSV000095677:peak/mzML/Vector_TCA_1_neg.mzML:scan:374	0.89	3	NoID
+-0.0	mzspec:MSV000095654:raw/mzml/Cecum_13_HILICneg.mzML:scan:11744	0.89	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/SA1-2-auto-MS-MS-neg_31_1_1496.mzML:scan:1184	0.89	3	NoID
+-0.0	mzspec:MSV000087074:ccms_peak/LOBO-12c-SA3-CC.mzML:scan:4631	0.89	3	NoID
+-0.0	mzspec:MSV000090671:ccms_peak/MG11_N.mzML:scan:295	0.89	3	NoID
+-0.0	mzspec:MSV000094613:peak/7_b1t1_Nrp.mzML:scan:464	0.89	3	NoID
+-0.0	mzspec:MSV000095677:peak/mzML/BO_TCA_1_neg.mzML:scan:385	0.89	3	NoID
+-0.0	mzspec:MSV000095677:peak/mzML/BO_TCA_2_neg.mzML:scan:379	0.89	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/BAP10-3-auto-MS-MS-neg_16_1_1479.mzML:scan:1295	0.88	4	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/JA1-2-auto-MS-MS-neg_5_1_1467.mzML:scan:1260	0.88	4	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/S-Control-2-auto-MS-MS-neg_12_1_1475.mzML:scan:1276	0.88	4	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/G-Control-1-auto-MS-MS-neg_35_1_1501.mzML:scan:1212	0.88	4	NoID
+0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run009_LCA-oleate.mzML:scan:518	0.88	4	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/S-Control-3-auto-MS-MS-neg_32_1_1497.mzML:scan:1163	0.88	4	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_30_yeast_07.mzXML:scan:5007	0.88	4	NoID
+-0.0	mzspec:MSV000093270:raw/20190114_KBL_JM_504478_Plant_SwGr_QE-139_C18_USDAY47771/mzml_files/20190114_KBL_JM_504478_Plant_SwGr_QE-139_C18_USDAY47771_NEG_MSMS_98_Swg-SumHvst-FldGrwn-QsuB15_2_Rg90to1350-CE102040-30mg-S1_Run52.mzML:scan:252	0.88	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_9.mzXML:scan:3354	0.88	3	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/MS0_OLD_NEG.mzXML:scan:975	0.88	3	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run036_Fraction28.mzML:scan:491	0.88	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/NAA1-1-auto-MS-MS-neg_18_1_1482.mzML:scan:1203	0.88	3	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_30d_24h_6.mzXML:scan:2920	0.88	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_20_yeast_02.mzXML:scan:5007	0.88	3	NoID
+-0.0	mzspec:MSV000095982:peak/mzML/NEG_mzML/NEG_Gl20CJL_C5.mzML:scan:1405	0.88	3	NoID
+-0.0	mzspec:MSV000094613:peak/45_b3t4_wt.mzML:scan:448	0.88	3	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/MS0_OLD_NEG.mzML:scan:975	0.88	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_1h_6.mzXML:scan:4974	0.88	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/SA1-1-auto-MS-MS-neg_27_1_1492.mzML:scan:1213	0.88	3	NoID
+-0.0	mzspec:MSV000090671:ccms_peak/MG14_N.mzML:scan:295	0.88	3	NoID
+-0.0	mzspec:MSV000092210:peak/4.mzML:scan:473	0.88	3	NoID
+-0.0	mzspec:MSV000092253:peak/mzML/4.mzML:scan:473	0.88	3	NoID
+-0.0	mzspec:MSV000092080:updates/2023-06-06_allegraaron_a90252ca/peak/mzMLs/mzML/4.mzML:scan:473	0.88	3	NoID
+-0.0	mzspec:MSV000095654:raw/mzml/Cecum_27_HILICneg.mzML:scan:11752	0.88	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/JA1-1-auto-MS-MS-neg_30_1_1495.mzML:scan:1162	0.88	3	NoID
+-0.0	mzspec:MSV000090671:raw/MG8_N.mzML:scan:300	0.88	3	NoID
+0.01	mzspec:MSV000085657:ccms_peak/raw/QC_6.mzML:scan:888	0.88	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_24_yeast_04.mzXML:scan:4993	0.88	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/BAP10-1-auto-MS-MS-neg_28_1_1493.mzML:scan:1187	0.87	4	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_6.mzXML:scan:3257	0.87	4	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_3.mzXML:scan:3205	0.87	4	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_24h_8.mzXML:scan:3504	0.87	3	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run017_Fraction47.mzML:scan:491	0.87	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_34_yeast_09.mzXML:scan:5000	0.87	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_12h_5.mzXML:scan:4559	0.87	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_12h_2.mzXML:scan:4745	0.87	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC10.mzXML:scan:4843	0.87	3	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run022_Fraction42.mzML:scan:493	0.87	3	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run030_Fraction34.mzML:scan:491	0.87	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_28_yeast_06.mzXML:scan:4993	0.87	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_24h_2.mzXML:scan:4374	0.87	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_1h_10.mzXML:scan:4831	0.87	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_10.mzXML:scan:3213	0.87	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_24h_6.mzXML:scan:4653	0.87	3	NoID
+-0.0	mzspec:MTBLS3097:FILES/metabolomics_mzXML_negative/Neg_standards_yeast_background_36_yeast_10.mzXML:scan:5014	0.87	3	NoID
+-0.0	mzspec:MSV000092291:peak/Mesotrione_neg_A. palmeri vs A. tuberculatus_mzML/16-PPI_MESO-6A.mzML:scan:4522	0.87	3	NoID
+-0.0	mzspec:MSV000092513:peak/mzML/Negative/NEG_L_5_1.mzML:scan:307	0.87	3	NoID
+-0.0	mzspec:MTBLS3830:FILES/DERIVED_FILES/NEG/MS_MS 300-600.mzXML:scan:329	0.87	3	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_24h_6.mzXML:scan:3029	0.86	4	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/SA10-3-auto-MS-MS-neg_25_1_1490.mzML:scan:1322	0.86	4	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM07_D592_in_RPMI/Negative_Polarity/MS2_Files/-COM7_D592RPMI_Smp01_T5o25_MS2_GA7_01_9094.mzXML:scan:79	0.86	4	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/AA10-3-auto-MS-MS-neg_3_1_1465.mzML:scan:1194	0.86	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_24h_8.mzXML:scan:4723	0.86	3	NoID
+-0.0	mzspec:MSV000085119:ccms_peak/Malpighiaceae_NEG/Malpighiaceae_Plate2_NEG/P2_B10_GB10_01_54241.mzML:scan:166	0.86	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/S-Control-1-auto-MS-MS-neg_17_1_1481.mzML:scan:1215	0.86	3	NoID
+-0.0	mzspec:MTBLS615:FILES/W03.08.mzXML:scan:4904	0.86	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC02.mzXML:scan:4945	0.86	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_2.mzXML:scan:4876	0.86	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/AA10-1-auto-MS-MS-neg_10_1_1473.mzML:scan:1152	0.86	3	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run032_Fraction32.mzML:scan:492	0.86	3	NoID
+-0.0	mzspec:MSV000088661:ccms_peak/LibraryRawData/HILIC/ESINEG/P3E.mzML:scan:826	0.85	4	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/AA1-3-auto-MS-MS-neg_6_1_1468.mzML:scan:1101	0.85	4	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM09_D712_in_RPMI/Negative_Polarity/MS2_Files/-COM9_D712RPMI_Smp04_T4o00_MS2_BB6_01_9150.mzXML:scan:81	0.85	4	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM07_D592_in_RPMI/Negative_Polarity/MS2_Files/-COM7_D592RPMI_Smp04_T4o00_MS2_GB6_01_9101.mzXML:scan:82	0.85	3	NoID
+-0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_7.mzXML:scan:2778	0.85	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_3.mzXML:scan:4987	0.85	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_1h_9.mzXML:scan:4915	0.85	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_8.mzXML:scan:3472	0.85	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM09_D712_in_RPMI/Negative_Polarity/MS2_Files/-COM9_D712RPMI_Smp04_T5o25_MS2_BB7_01_9151.mzXML:scan:81	0.85	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/JA10-2-auto-MS-MS-neg_36_1_1502.mzML:scan:1193	0.85	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/AA1-1-auto-MS-MS-neg_13_1_1476.mzML:scan:1199	0.85	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_24h_1.mzXML:scan:2946	0.85	3	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run038_Fraction26.mzML:scan:490	0.85	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_label_QC01.mzXML:scan:3005	0.85	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_8.mzXML:scan:4785	0.85	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC07.mzXML:scan:4945	0.85	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_3h_9.mzXML:scan:4767	0.85	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM09_D712_in_RPMI/Negative_Polarity/MS2_Files/-COM9_D712RPMI_Smp07_T5o25_MS2_BC7_01_9159.mzXML:scan:81	0.84	4	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_label_QC00.mzXML:scan:3010	0.84	4	NoID
+-0.0	mzspec:MTBLS11360:FILES/DERIVED_FILES/rsl2rsl4-1_N.mzML:scan:4294967295	0.84	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_3h_5.mzXML:scan:4886	0.84	3	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_24h_9.mzXML:scan:3032	0.84	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/JA10-1-auto-MS-MS-neg_33_1_1499.mzML:scan:1270	0.84	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/SA1-3-auto-MS-MS-neg_34_1_1500.mzML:scan:1206	0.84	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/G-Control-2-auto-MS-MS-neg_4_1_1466.mzML:scan:1201	0.84	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_6h_1.mzXML:scan:4661	0.84	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM04_LAC_in_RPMI/Negative_Polarity/MS2_Files/-COM4_LAC_RPMI_Smp02_T3o0_MS2_GA6_01_8884.mzXML:scan:84	0.84	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_1h_1.mzXML:scan:4791	0.84	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/BAP1-3-auto-MS-MS-neg_24_1_1488.mzML:scan:1215	0.84	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC11.mzXML:scan:4792	0.84	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM07_D592_in_RPMI/Negative_Polarity/MS2_Files/-COM7_D592RPMI_Smp01_T4o00_MS2_GA6_01_9093.mzXML:scan:83	0.84	3	NoID
+-0.0	mzspec:ST001850:210111_Cells_PLKO_3.mzML:scan:14789	0.84	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/AA1-2-auto-MS-MS-neg_9_1_1472.mzML:scan:1167	0.84	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM09_D712_in_RPMI/Negative_Polarity/MS2_Files/-COM9_D712RPMI_Smp07_T4o00_MS2_BC6_01_9158.mzXML:scan:82	0.84	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_12h_7.mzXML:scan:4746	0.83	4	NoID
+-0.0	mzspec:ST001850:210111_Cells_Tug1-KD_PGCOE_2.mzML:scan:13557	0.83	3	NoID
+-0.0	mzspec:ST001850:210111_Cells_Tug1-KD_3.mzML:scan:13578	0.83	3	NoID
+0.0	mzspec:MTBLS2207:FILES/M3T-Std_Yeast_neg_DDA_1mz.mzML:scan:923	0.83	3	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run012_GCA-palmitate.mzML:scan:522	0.83	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC06.mzXML:scan:4932	0.83	3	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_label_QC04.mzXML:scan:2955	0.83	3	NoID
+0.0	mzspec:MTBLS615:FILES/W30.08.mzXML:scan:4655	0.83	3	NoID
+0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM07_D592_in_RPMI/Negative_Polarity/MS2_Files/-COM7_D592RPMI_Smp04_T3o75_MS2_GB5_01_9100.mzXML:scan:80	0.83	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM05_TCH1516_in_RPMI/Negative_Polarity/MS2_Files/-COM5_TCH_RPMI_Smp01_T3o5_MS2_BA7_01_8936.mzXML:scan:86	0.83	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM07_D592_in_RPMI/Negative_Polarity/MS2_Files/-COM7_D592RPMI_Smp04_T5o25_MS2_GB7_01_9102.mzXML:scan:88	0.83	3	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run021_Fraction43.mzML:scan:491	0.83	3	NoID
+-0.0	mzspec:ST003440:MyData/B56_N.mzML:scan:4294967295	0.83	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_24h_4.mzXML:scan:4542	0.83	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_3h_1.mzXML:scan:4641	0.83	3	NoID
+-0.0	mzspec:ST001850:210111_Cells_Tug1-KD_2.mzML:scan:14642	0.83	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC_290_600.mzXML:scan:3148	0.83	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM04_LAC_in_RPMI/Negative_Polarity/MS2_Files/-COM4_LAC_RPMI_Smp04_T3o5_MS2_GB7_01_8893.mzXML:scan:84	0.82	4	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM06_TCH1516_in_CA-MHB/Negative_Polarity/MS2_Files/-COM6_TCH_CAMHB_Smp04_T3o0_MS2_GB6_01_9857.mzXML:scan:86	0.82	4	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_QC_290_600.mzXML:scan:2241	0.82	4	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_4.mzXML:scan:4849	0.82	3	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run039_Fraction25.mzML:scan:494	0.82	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC08.mzXML:scan:4956	0.82	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/NAA1-2-auto-MS-MS-neg_20_1_1484.mzML:scan:1202	0.82	3	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run023_Fraction41.mzML:scan:493	0.82	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_8.mzXML:scan:4991	0.82	3	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_label_QC05.mzXML:scan:2979	0.82	3	NoID
+-0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run029_Fraction35.mzML:scan:494	0.82	3	NoID
+-0.0	mzspec:MSV000092716:peak/Peak List/M_Pooled_CM_NEG_4.mzXML:scan:2948	0.82	3	NoID
+-0.0	mzspec:MTBLS2207:FILES/IROA_P1-6_ddMS2_neg_1Da.mzML:scan:3253	0.82	3	NoID
+0.0	mzspec:MTBLS2207:FILES/M3T-Std_Ecoli_neg_DDA_1mz.mzML:scan:1067	0.82	3	NoID
+-0.0	mzspec:MTBLS2207:FILES/M3T-Std_neg_DDA_1mz.mzML:scan:779	0.81	3	NoID
+-0.0	mzspec:MTBLS615:FILES/W30.03.mzXML:scan:4808	0.81	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_QC02.mzXML:scan:3124	0.81	3	NoID
+0.0	mzspec:MTBLS6933:FILES/DERIVED_FILES/DOF-W-neg.mzML:scan:4294967295	0.8	4	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_1.mzXML:scan:3228	0.8	3	NoID
+-0.0	mzspec:MSV000093270:raw/20190114_KBL_JM_504478_Plant_SwGr_QE-139_C18_USDAY47771/rawdata/20190114_KBL_JM_504478_Plant_SwGr_QE-139_C18_USDAY47771_NEG_MSMS_128_Swg-SumHvst-GrnHGrwn-QsuB13_8_Rg90to1350-CE205060-30mg-S1_Run229.mzML:scan:251	0.8	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_12h_8.mzXML:scan:4695	0.8	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM05_TCH1516_in_RPMI/Negative_Polarity/MS2_Files/-COM5_TCH_RPMI_Smp01_T4o0_MS2_BA8_01_8937.mzXML:scan:83	0.79	4	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM06_TCH1516_in_CA-MHB/Negative_Polarity/MS2_Files/-COM6_TCH_CAMHB_Smp01_T4o0_MS2_GA8_01_9850.mzXML:scan:87	0.79	4	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM09_D712_in_RPMI/Negative_Polarity/MS2_Files/-COM9_D712RPMI_Smp01_T4o00_MS2_BA6_01_9142.mzXML:scan:81	0.79	4	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_4.mzXML:scan:3079	0.79	3	NoID
+-0.0	mzspec:MTBLS2207:FILES/IROA_P1-6_ddMS2_neg_3Da.mzML:scan:3200	0.79	3	NoID
+-0.0	mzspec:MSV000084496:ccms_peak/raw/GNPS00007_B3_n.mzML:scan:55	0.79	3	NoID
+-0.0	mzspec:MTBLS2207:FILES/IROA_P1-6_ddMS2_neg_5Da.mzML:scan:3290	0.79	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_6h_6.mzXML:scan:4658	0.79	3	NoID
+-0.0	mzspec:MTBLS2207:FILES/M3T-Std_neg_DDA_3mz.mzML:scan:789	0.79	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/NAA10-2-auto-MS-MS-neg_19_1_1483.mzML:scan:1181	0.79	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM08_D592_in_CA-MHB/Negative_Polarity/MS2_Files/-COM8_D592_CAMHB_S04_T5o25_MS2_BB7_01_9927.mzXML:scan:87	0.79	3	NoID
+0.0	mzspec:ST002977:Fecal_Metabolome_and_Microbiome_IDs/Raw_Data_Files/Bile Acid Fatty Acid Esters/BAFAE_data_neg/2023-09-01_run010_LCA-palmitate.mzML:scan:1124	0.79	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_6h_9.mzXML:scan:3665	0.79	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/NAA10-1-auto-MS-MS-neg_7_1_1469.mzML:scan:1035	0.79	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM06_TCH1516_in_CA-MHB/Negative_Polarity/MS2_Files/-COM6_TCH_CAMHB_Smp01_T3o0_MS2_GA6_01_9848.mzXML:scan:83	0.79	3	NoID
+0.0	mzspec:MTBLS2207:FILES/M3T-Std_Plasma_neg_DDA_5mz.mzML:scan:1053	0.79	3	NoID
+-0.0	mzspec:ST001850:210111_Cells_Tug1-KD_PGCOE_3.mzML:scan:21570	0.79	3	NoID
+0.0	mzspec:MTBLS2207:FILES/M3T-Std_Yeast_neg_DDA_3mz.mzML:scan:883	0.78	3	NoID
+-0.0	mzspec:MSV000090480:raw/rawdata/20170714_KBL_BH_HotSp_R2A_Iso_QE139-UV_ZHILIC5um_715834_NEG-MSMS_1_G233-CULT_1_1to10__102030eV___Run15.mzML:scan:3438	0.78	3	NoID
+0.0	mzspec:MTBLS2207:FILES/M3T-Std_neg_DDA_5mz.mzML:scan:893	0.78	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM10_D712_in_CA-MHB/Negative_Polarity/MS2_Files/-COM10_D712_CAMHB_10_T4o50_MS2_RD6_01_10008.mzXML:scan:86	0.78	3	NoID
+0.0	mzspec:MTBLS2207:FILES/M3T-Std_Yeast_neg_DDA_5mz.mzML:scan:960	0.78	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_QC16.mzXML:scan:4766	0.78	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM07_D592_in_RPMI/Negative_Polarity/MS2_Files/-COM7_D592RPMI_Smp07_T3o75_MS2_GC5_01_9108.mzXML:scan:88	0.78	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_QC01.mzXML:scan:3106	0.78	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_5.mzXML:scan:3214	0.77	4	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM08_D592_in_CA-MHB/Negative_Polarity/MS2_Files/-COM8_D592_CAMHB_S10_T4o50_MS2_BD6_01_9942.mzXML:scan:86	0.77	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_12h_9.mzXML:scan:4658	0.77	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_24h_5.mzXML:scan:3011	0.77	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM06_TCH1516_in_CA-MHB/Negative_Polarity/MS2_Files/-COM6_TCH_CAMHB_Smp01_T2o5_MS2_GA5_01_9843.mzXML:scan:85	0.77	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_12h_10.mzXML:scan:3540	0.77	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_24h_2.mzXML:scan:4575	0.76	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_6h_10.mzXML:scan:3635	0.76	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_0h_7.mzXML:scan:4943	0.76	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM06_TCH1516_in_CA-MHB/Negative_Polarity/MS2_Files/-COM6_TCH_CAMHB_Smp04_T2o5_MS2_GB5_01_9856.mzXML:scan:87	0.76	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM01_LAC_in_CA-MHB/Negative_Polarity/MS2_Files/-COM1_LAC_CAMHB_Smp04_T2o0_MS2_GB4_01_10024.mzXML:scan:85	0.76	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_QC15.mzXML:scan:3665	0.76	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM05_TCH1516_in_RPMI/Negative_Polarity/MS2_Files/-COM5_TCH_RPMI_Smp07_T4o0_MS2_BB8_01_8955.mzXML:scan:89	0.75	4	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM01_LAC_in_CA-MHB/Negative_Polarity/MS2_Files/-COM1_LAC_CAMHB_Smp01_T2o0_MS2_GA4_01_10016.mzXML:scan:86	0.75	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM06_TCH1516_in_CA-MHB/Negative_Polarity/MS2_Files/-COM6_TCH_CAMHB_Smp04_T2o0_MS2_GB4_01_9855.mzXML:scan:87	0.75	3	NoID
+-0.0	mzspec:ST001850:210111_Cells_PLKO_2.mzML:scan:14227	0.75	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_30d_0h_7.mzXML:scan:3031	0.75	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_24h_3.mzXML:scan:3410	0.74	4	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM08_D592_in_CA-MHB/Negative_Polarity/MS2_Files/-COM8_D592_CAMHB_S04_T3o00_MS2_BB4_01_9924.mzXML:scan:87	0.74	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_3h_4.mzXML:scan:3252	0.74	3	NoID
+0.0	mzspec:MTBLS3563:FILES/DERIVED_FILES/NEG/NAA1-3-auto-MS-MS-neg_2_1_1464.mzML:scan:1284	0.74	3	NoID
+0.0	mzspec:MTBLS2081:FILES/CON4_neg-rf.mzXML:scan:4530	0.74	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM05_TCH1516_in_RPMI/Negative_Polarity/MS2_Files/-COM5_TCH_RPMI_Smp07_T3o5_MS2_BC7_01_8954.mzXML:scan:87	0.74	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_24h_8.mzXML:scan:4419	0.74	3	NoID
+-0.0	mzspec:MTBLS2081:FILES/PPL8_neg-rf.mzXML:scan:4721	0.74	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_3d_6h_7.mzXML:scan:3772	0.73	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_24h_10.mzXML:scan:4356	0.73	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM05_TCH1516_in_RPMI/Negative_Polarity/MS2_Files/-COM5_TCH_RPMI_Smp04_T4o0_MS2_BB8_01_8946.mzXML:scan:89	0.72	3	NoID
+-0.0	mzspec:MTBLS2081:FILES/PPL6_neg-rf.mzXML:scan:4742	0.72	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_3h_4.mzXML:scan:4590	0.72	3	NoID
+-0.0	mzspec:MTBLS2081:FILES/CON3_neg-rf.mzXML:scan:4545	0.72	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM01_LAC_in_CA-MHB/Negative_Polarity/MS2_Files/-COM1_LAC_CAMHB_Smp04_T3o0_MS2_GB6_01_10026.mzXML:scan:85	0.72	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM09_D712_in_RPMI/Negative_Polarity/MS2_Files/-COM9_D712RPMI_Smp01_T5o25_MS2_BA7_01_9143.mzXML:scan:88	0.72	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM08_D592_in_CA-MHB/Negative_Polarity/MS2_Files/-COM8_D592_CAMHB_S01_T4o50_MS2_BA6_01_9918.mzXML:scan:86	0.71	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_30d_0h_6.mzXML:scan:3554	0.71	3	NoID
+-0.0	mzspec:MSV000082131:updates/2018-03-07_mjmeehan_61e61d80/peak/mzXMLs/COM07_D592_in_RPMI/Negative_Polarity/MS2_Files/-COM7_D592RPMI_Smp07_T5o25_MS2_GC7_01_9110.mzXML:scan:87	0.71	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_30d_24h_4.mzXML:scan:3319	0.7	3	NoID

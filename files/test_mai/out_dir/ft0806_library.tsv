@@ -1,0 +1,15 @@
+USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006679828	CCMSLIB00006679828	0.96	3	GUANOSINE 5'-MONOPHOSPHATE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000578252	CCMSLIB00000578252	0.94	3	GUANOSINE 5'-MONOPHOSPHATE	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00012093207	CCMSLIB00012093207	0.94	3	Suspect related to 2'-DEOXYGUANOSINE 5'-MONOPHOSPHATE (predicted molecular formula SIRIUS: C10H14N5O8P / BUDDY: C10H14N5O8P) with delta m/z 15.995 (putative explanation: Ala->Ser substitution|Oxidation or Hydroxylation|Phe->Tyr substitution; atomic difference: 1O|1O|1O) [M-H]-	[M-H]-	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006121899	CCMSLIB00006121899	0.94	3	Guanosine monophosphate - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006121904	CCMSLIB00006121904	0.93	3	Guanosine monophosphate - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005757272	CCMSLIB00005757272	0.93	3	Massbank:PT202460 Guanosine monophosphate|5'-GMP|Guanosine-5'-monophosphate disodium salt hydrate from Yeast|G-5'-P|GMP|Guanylic acid|[(2R,3S,4R,5R)-5-(2-amino-6-oxo-3H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl dihyd	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000221899	CCMSLIB00000221899	0.93	3	ReSpect:PT202460 Guanosine-5'-monophosphate disodium salt hydrate from Yeast|GMP|G-5'-P|5'-GMP|Guanosine monophosphate|Guanylic acid|[(2R,3S,4R,5R)-5-(2-amino-6-oxo-3H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl dihyd	[M+H]	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005744684	CCMSLIB00005744684	0.93	3	Massbank:PR100567 Guanosine 5'-monophosphate|GMP|G-5'-P|5'-GMP|Guanosine monophosphate|Guanylic acid	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006121897	CCMSLIB00006121897	0.93	3	Guanosine monophosphate - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005745765	CCMSLIB00005745765	0.92	3	Massbank:PR100754 Guanosine 5'-monophosphate|GMP|G-5'-P|5'-GMP|Guanosine monophosphate|Guanylic acid	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005758430	CCMSLIB00005758430	0.92	3	Massbank:PT207140 Guanosine monophosphate|5'-GMP|G-5'-P|GMP|Guanosine-5'-monophosphate|Guanylic acid|[(2R,3S,4R,5R)-5-(2-amino-6-oxo-3H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl dihydrogen phosphate	M+H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000222286	CCMSLIB00000222286	0.92	3	ReSpect:PT207140 Guanosine-5'-monophosphate|GMP|G-5'-P|5'-GMP|Guanosine monophosphate|Guanylic acid|[(2R,3S,4R,5R)-5-(2-amino-6-oxo-3H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl dihydrogen phosphate	[M+H]	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006121906	CCMSLIB00006121906	0.92	3	Guanosine monophosphate - 40.0 eV	M-H	1
+mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006121901	CCMSLIB00006121901	0.92	3	Guanosine monophosphate - 40.0 eV	M-H	1
