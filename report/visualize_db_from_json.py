@@ -2,6 +2,9 @@ import json
 from ete3 import Tree,NCBITaxa
 import argparse
 import random
+import matplotlib.pyplot as plt
+
+### TODO bug fix: in visualization if translated name contains a "in: " replace it with empty string as it messes up the syntax
 
 """
 Goal translate masst_tree.json to .nw files and create annotation file.
@@ -11,6 +14,7 @@ parser = argparse.ArgumentParser(description='Create Newick File for Visualizati
 parser.add_argument("--json", required=True, help='Path to the json file')
 parser.add_argument("--out_dir", "-o", required=True, help='Path to directory for output saving')
 parser.add_argument("--prefix", "-p", default="db", help='Prefix for filename')
+parser.add_argument("--color_map", "-cm", default="Set1", help='color map for tree coloring')
 args = parser.parse_args()
 
 # Load the JSON file
@@ -64,7 +68,71 @@ def get_phylum_name(ncbi, taxid:list):
     
     return None
 
-def create_annotation(out_dir:str, prefix: str, tree, ncbi):
+def create_annotation(out_dir:str, prefix: str,  tree, ncbi, color_map="Pastel1"):
+    """
+    Creates annotation file with random colors and annotates on phylum level
+    """
+    # Assign phylum names to leaf nodes
+    phylum_annotations = {}
+    for node in tree.traverse():
+        if node.is_leaf():  # Rename only leaf nodes
+            taxid = int(node.name)
+            phylum_name = get_phylum_name(ncbi, taxid)
+            node.name = ncbi.get_taxid_translator([taxid])[taxid]
+            if phylum_name:
+                phylum_annotations[node.name] = phylum_name
+
+    num_colors = len(set(phylum_annotations.values()))
+    cmap = plt.get_cmap(color_map)
+    colors = [cmap(i) for i in range(cmap.N-1)] # cmap.N size is + 1 for some reason
+    hex_colors = ["#{:02x}{:02x}{:02x}".format(int(r*255), int(g*255), int(b*255)) for r, g, b, _ in colors]
+     
+    # If there are more phyla than colors in the colormap, add random colors UNTESTED
+    if num_colors > cmap.N:
+        additional_colors = num_colors - len(colors)
+        for _ in range(additional_colors):
+            hex_colors.append("#{:06x}".format(random.randint(0, 0xFFFFFF)))
+
+    # Assign colors to each phylum
+    phylum_colors = {}
+    for phylum, color in zip(set(phylum_annotations.values()), hex_colors):
+        phylum_colors[phylum] = color
+
+
+    # # Generate random colors for each phylum
+    # phylum_colors = {}
+    # for phylum in set(phylum_annotations.values()):
+    #     phylum_colors[phylum] = "#{:06x}".format(random.randint(0, 0xFFFFFF)) #todo specify color palate
+
+    # Create the iTOL annotation file
+    with open(f"{out_dir}/{prefix}_itol_annotations.txt", "w") as f:
+        #f.write("\nTREE_COLORS\n")
+        f.write("DATASET_COLORSTRIP\n")
+        f.write("SEPARATOR TAB\n")
+        f.write("DATASET_LABEL\tPhylum Annotations\n")
+        f.write("COLOR\t#ff0000\n")
+        f.write("COLOR_BRANCHES\t1\n")
+        f.write("LEGEND_TITLE\tPhylum\n")
+        f.write("LEGEND_SHAPES\t{}\n".format("\t".join(["1"] * len(phylum_colors))))
+        f.write("LEGEND_COLORS\t{}\n".format("\t".join(phylum_colors.values())))
+        f.write("LEGEND_LABELS\t{}\n".format("\t".join(phylum_colors.keys())))
+        f.write("BORDER_WIDTH\t1\n")
+        f.write("BORDER_COLOR\t#000000\n")
+        f.write("SHOW_STRIP_LABELS\t1\n")
+        f.write("DATA\n")
+        f.write("#NODE_ID\tCOLOR\n")
+        for leaf_name, phylum_name in phylum_annotations.items():
+             f.write("{}\t{}\n".format(leaf_name, phylum_colors[phylum_name]))
+        
+        
+        # f.write("SEPARATOR TAB\n")
+        # f.write("DATA\n")
+        # f.write("#NODE_ID\tTYPE\tCOLOR\tLABEL_OR_STYLE\n")
+        # for leaf_name, phylum_name in phylum_annotations.items():
+        #     f.write("{}\trange\t{}\t{}\n".format(leaf_name, phylum_colors[phylum_name], phylum_name))
+
+
+def create_annotation_old(out_dir:str, prefix: str, tree, ncbi):
     """
     Creates annotation file with random colors and annotates on phylum level
     """
@@ -105,11 +173,11 @@ def create_annotation(out_dir:str, prefix: str, tree, ncbi):
 # create annotation
 ncbi = NCBITaxa()
 tree = Tree(f"{args.out_dir}/{args.prefix}_tree_from_json_taxID.nw")
-create_annotation(args.out_dir, args.prefix, tree, ncbi)
+create_annotation(args.out_dir, args.prefix, tree, ncbi, args.color_map)
 
 
 
-# python visualize_db_from_json.py --json "../data/microbe_masst_tree.json" -o "output" -p "microbe_json"
+# python visualize_db_from_json.py --json "../data/microbe_masst_tree.json" -o "output" -p "data_microbe_json"
 """
 /opt/conda/lib/python3.10/site-packages/ete3/ncbi_taxonomy/ncbiquery.py:243: UserWarning: taxid 335058 was translated into 93681
   warnings.warn("taxid %s was translated into %s" %(taxid, merged_conversion[taxid]))
