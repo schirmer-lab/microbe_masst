@@ -1,0 +1,309 @@
+Delta Mass	USI	Cosine	Matching Peaks	Status
+-0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/3M.N16.mzML:scan:4294967295	1.0	4	NoID
+-0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/3M.N9.mzML:scan:4294967295	1.0	4	NoID
+-0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/24M.N7.mzML:scan:4294967295	0.99	4	NoID
+-0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/3M.N12.mzML:scan:4294967295	0.99	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-10.mzXML:scan:5255	0.98	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-08.mzXML:scan:5319	0.98	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-59.mzXML:scan:5256	0.98	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-51.mzXML:scan:5291	0.98	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-09.mzXML:scan:5342	0.98	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-68.mzXML:scan:5337	0.97	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/24M.N3.mzML:scan:4294967295	0.97	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/24M.N5.mzML:scan:4294967295	0.97	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/28M.N18.mzML:scan:4294967295	0.97	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-40.mzXML:scan:5286	0.97	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/28M.N9.mzML:scan:4294967295	0.97	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-54.mzXML:scan:5321	0.97	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-47.mzXML:scan:5205	0.97	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-62.mzXML:scan:5298	0.97	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-71.mzXML:scan:5270	0.97	4	NoID
+0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-70.mzXML:scan:5282	0.96	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-45.mzXML:scan:5219	0.96	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-13.mzXML:scan:5325	0.96	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-55.mzXML:scan:5259	0.96	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-57.mzXML:scan:5202	0.96	4	NoID
+-0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/15M.N4.mzML:scan:4294967295	0.96	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-61.mzXML:scan:5264	0.96	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-58.mzXML:scan:5315	0.96	3	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-12.mzXML:scan:5358	0.95	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-65.mzXML:scan:5233	0.95	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-56.mzXML:scan:5258	0.95	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-60.mzXML:scan:5299	0.95	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-64.mzXML:scan:5322	0.95	3	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-16.mzXML:scan:5225	0.95	3	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-46.mzXML:scan:5259	0.94	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-42.mzXML:scan:5266	0.94	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-63.mzXML:scan:5303	0.94	3	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/9M.N13.mzML:scan:4294967295	0.94	3	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2481.mzML:scan:1754	0.93	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-18.mzXML:scan:5279	0.93	4	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2486.mzML:scan:1727	0.93	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-66.mzXML:scan:5304	0.93	3	NoID
+-0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/3M.N8.mzML:scan:4294967295	0.92	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/9M.N11.mzML:scan:4294967295	0.92	4	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2477.mzML:scan:1694	0.92	4	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2541.mzML:scan:1812	0.92	4	NoID
+-0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/9M.N9.mzML:scan:4294967295	0.92	3	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-20.mzXML:scan:5259	0.91	4	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2484.mzML:scan:1781	0.91	4	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_QC_01.mzML:scan:1881	0.91	4	NoID
+-0.0	mzspec:MSV000090870:peak/Hericium/NEG/P2_NEG.mzXML:scan:10276	0.91	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H6_neg2_BR1.mzML:scan:8667	0.91	4	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/P2_NEG.mzML:scan:10276	0.91	4	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/P1_NEG.mzML:scan:10648	0.91	4	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2549.mzML:scan:1814	0.91	4	NoID
+-0.0	mzspec:MSV000090870:peak/Hericium/NEG/P1_NEG.mzXML:scan:10648	0.91	4	NoID
+0.01	mzspec:MSV000082724:ccms_peak/ST000688/EX00696-lipidomics/Raw data/NEG/20170318_S00027989_N.mzXML:scan:1080	0.91	4	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-21.mzXML:scan:5247	0.91	3	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2482.mzML:scan:1896	0.9	4	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_QC_02.mzML:scan:1819	0.9	4	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2545.mzML:scan:1863	0.9	4	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/E8_NEG.mzML:scan:9172	0.9	3	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/E12_NEG.mzXML:scan:9324	0.9	3	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/E8_NEG.mzXML:scan:9172	0.9	3	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/E11_NEG.mzXML:scan:9531	0.89	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H4_neg2_BR1.mzML:scan:8723	0.89	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H7_neg1_BR1.mzML:scan:8665	0.89	4	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_985.mzXML:scan:1735	0.89	4	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/E1_NEG.mzML:scan:9008	0.89	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H4_neg1_BR1.mzML:scan:8726	0.89	4	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2478.mzML:scan:1858	0.89	4	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2487.mzML:scan:1736	0.89	4	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2546.mzML:scan:1763	0.89	4	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/E2_NEG.mzXML:scan:9082	0.89	3	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/E2_NEG.mzML:scan:9082	0.89	3	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/E3_NEG.mzML:scan:9395	0.89	3	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/E12_NEG.mzML:scan:9324	0.89	3	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/E6_NEG.mzXML:scan:9365	0.89	3	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/E4_NEG.mzXML:scan:9446	0.89	3	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/E3_NEG.mzXML:scan:9395	0.89	3	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-69.mzXML:scan:5290	0.89	3	NoID
+-0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-02.mzXML:scan:5268	0.89	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H8_neg2_BR1.mzML:scan:8729	0.88	4	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2550.mzML:scan:1719	0.88	4	NoID
+-0.0	mzspec:ST002890:DL_files_for_MetaboLights/H-Gly_0_tech1-neg.mzML:scan:13148	0.88	4	NoID
+-0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2553.mzML:scan:1755	0.88	4	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2544.mzML:scan:1794	0.88	4	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/E7_NEG.mzML:scan:9109	0.88	3	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/E4_NEG.mzML:scan:9399	0.88	3	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/E9_NEG.mzXML:scan:9137	0.88	3	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/E5_NEG.mzML:scan:8962	0.88	3	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/E1_NEG.mzXML:scan:9008	0.88	3	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/E7_NEG.mzXML:scan:9109	0.88	3	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/E9_NEG.mzML:scan:9137	0.88	3	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/E11_NEG.mzML:scan:9439	0.88	3	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/E5_NEG.mzXML:scan:8962	0.88	3	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/E10_NEG.mzML:scan:9257	0.88	3	NoID
+-0.0	mzspec:MSV000090870:peak/Pleurotus/NEG/E10_NEG.mzXML:scan:9302	0.88	3	NoID
+-0.0	mzspec:ST002890:DL_files_for_MetaboLights/H-Gly_0_tech2-neg.mzML:scan:13004	0.87	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H8_neg1_BR2.mzML:scan:6774	0.87	4	NoID
+-0.0	mzspec:MSV000090870:peak/Hericium/NEG/P4_NEG.mzXML:scan:10939	0.87	4	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/P4_NEG.mzML:scan:10939	0.87	4	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_142.mzXML:scan:1653	0.87	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H6_neg1_BR1.mzML:scan:8665	0.87	4	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/P11_NEG.mzML:scan:10765	0.86	4	NoID
+-0.0	mzspec:MSV000090870:peak/Hericium/NEG/P3_NEG.mzXML:scan:10959	0.86	4	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/P3_NEG.mzML:scan:10959	0.86	4	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_126.mzXML:scan:1951	0.86	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/9M.N4.mzML:scan:4294967295	0.86	4	NoID
+0.0	mzspec:MSV000091324:peak/fecal-neg/lipids-230718-neg-99.mzXML:scan:5279	0.86	3	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/E6_NEG.mzML:scan:9270	0.86	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H1_neg1_BR1.mzML:scan:8715	0.85	4	NoID
+-0.0	mzspec:MSV000090870:peak/Hericium/NEG/P11_NEG.mzXML:scan:10765	0.85	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H8_neg2_BR2.mzML:scan:6915	0.85	3	NoID
+-0.0	mzspec:MSV000090870:peak/Hericium/NEG/P10_NEG.mzXML:scan:10758	0.85	3	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/P10_NEG.mzML:scan:10758	0.85	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H9_neg2_BR1.mzML:scan:8764	0.85	3	NoID
+-0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/28M.N5.mzML:scan:4294967295	0.85	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H9_neg1_BR1.mzML:scan:8752	0.84	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H7_neg2_BR1.mzML:scan:8698	0.84	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H3_neg1_BR1.mzML:scan:8698	0.84	4	NoID
+0.0	mzspec:MSV000090704:ccms_peak/220923_HP08_09_HILIC_neg/220923_HP08_09_HILIC_neg_2555.mzML:scan:1734	0.84	3	NoID
+-0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_406.mzXML:scan:1749	0.83	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H1_neg2_BR1.mzML:scan:8713	0.83	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H3_neg2_BR1.mzML:scan:8696	0.83	4	NoID
+-0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/3M.N15.mzML:scan:4294967295	0.83	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H3_neg2_BR2.mzML:scan:6353	0.82	4	NoID
+-0.0	mzspec:MSV000090870:peak/Hericium/NEG/P8_NEG.mzXML:scan:10703	0.82	4	NoID
+0.0	mzspec:MSV000094436:raw/20201126_BileAcidsNeg/24M.N15.mzML:scan:4294967295	0.82	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024281_N.mzXML:scan:1088	0.82	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H2_neg2_BR1.mzML:scan:8736	0.82	4	NoID
+-0.0	mzspec:MSV000090870:peak/Hericium/NEG/P5_NEG.mzXML:scan:10785	0.82	4	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/P5_NEG.mzML:scan:10735	0.82	3	NoID
+-0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_TP_CS00000001-1_N.mzXML:scan:1069	0.81	4	NoID
+-0.0	mzspec:MSV000082797:ccms_peak/raw/MTBLS368/TQ12151469.mzXML:scan:1069	0.81	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H9_neg1_BR2.mzML:scan:6441	0.81	3	NoID
+-0.0	mzspec:MSV000082691:ccms_peak/ST000662/EX00303-lipidomics/Raw data/NEG/20140614_345_Negative_01.mzXML:scan:892	0.8	4	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_800.mzXML:scan:1812	0.8	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024237_N.mzXML:scan:975	0.8	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024288_N.mzXML:scan:1060	0.8	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H4_neg2_BR2.mzML:scan:6446	0.8	4	NoID
+-0.0	mzspec:MSV000090920:ccms_peak/P8_NEG.mzML:scan:10651	0.8	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-06.mzML:scan:6182	0.8	3	NoID
+-0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024309_N.mzXML:scan:1111	0.79	4	NoID
+0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_S00021664_N.mzXML:scan:991	0.79	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024286_N.mzXML:scan:1074	0.79	4	NoID
+-0.02	mzspec:MTBLS615:FILES/W03.09.mzXML:scan:1858	0.78	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H7_neg1_BR2.mzML:scan:6309	0.78	4	NoID
+-0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024263_N.mzXML:scan:1130	0.78	4	NoID
+-0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026027_N.mzXML:scan:1136	0.78	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_TP_CS00000001-7_N.mzXML:scan:1070	0.78	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024246_N.mzXML:scan:1017	0.78	4	NoID
+0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_S00021668_N.mzXML:scan:1078	0.78	4	NoID
+0.0	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016559_Negative_01.mzXML:scan:969	0.78	4	NoID
+-0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024270_N.mzXML:scan:1039	0.78	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024260_N.mzXML:scan:1049	0.78	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H9_neg2_BR2.mzML:scan:6690	0.78	3	NoID
+0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026056_N.mzXML:scan:897	0.77	4	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026189_N.mzXML:scan:1014	0.77	4	NoID
+-0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024298_N.mzXML:scan:1071	0.77	4	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_286.mzXML:scan:1671	0.77	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_K2_neg1_BR2.mzML:scan:6401	0.77	4	NoID
+0.01	mzspec:MSV000089983:peak/mzML/220721_HG220720_2fr_neg.mzML:scan:10872	0.77	3	NoID
+0.0	mzspec:MSV000089983:peak/mzML/220721_HG220720_2lo_neg.mzML:scan:11073	0.77	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H3_neg1_BR2.mzML:scan:6344	0.77	3	NoID
+-0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024297_N.mzXML:scan:1092	0.76	4	NoID
+-0.0	mzspec:MSV000082782:ccms_peak/raw/MTBLS464/NDr_T2_1e.mzXML:scan:7729	0.76	4	NoID
+-0.0	mzspec:MTBLS464:FILES/NDr_T2_3e.mzXML:scan:7679	0.76	4	NoID
+-0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024240_N.mzXML:scan:1045	0.76	4	NoID
+-0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024289_N.mzXML:scan:1032	0.76	4	NoID
+-0.0	mzspec:MSV000082782:ccms_peak/raw/MTBLS464/NDr_T2_3e.mzXML:scan:7679	0.76	4	NoID
+-0.0	mzspec:MTBLS464:FILES/NDr_T2_1e.mzXML:scan:7729	0.76	4	NoID
+0.0	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_779.mzXML:scan:1730	0.76	4	NoID
+-0.0	mzspec:MTBLS2081:FILES/CON3_neg-rf.mzXML:scan:1988	0.76	4	NoID
+0.0	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016566_Negative_01.mzXML:scan:957	0.76	4	NoID
+0.0	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016561_Negative_01.mzXML:scan:981	0.76	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H2_neg2_BR2.mzML:scan:6502	0.76	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H1_neg1_BR2.mzML:scan:6503	0.76	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_K2_neg2_BR2.mzML:scan:6413	0.76	3	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024287_N.mzXML:scan:1060	0.75	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024310_N.mzXML:scan:1120	0.75	4	NoID
+-0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026021_N.mzXML:scan:1072	0.75	4	NoID
+-0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_S00021669_N.mzXML:scan:1040	0.75	4	NoID
+0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_S00021665_N.mzXML:scan:991	0.75	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_K2_neg2_BR1.mzML:scan:8694	0.75	4	NoID
+-0.0	mzspec:MSV000082720:ccms_peak/peak/ST000699/EX00459/Raw data/Lipidomics/POS/20150713_SM_CS00000003.7_P.mzXML:scan:1040	0.75	4	NoID
+0.0	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016553_Negative_01.mzXML:scan:1052	0.75	4	NoID
+-0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_907.mzXML:scan:1830	0.75	4	NoID
+-0.0	mzspec:MSV000082692:ccms_peak/ST000665/EX00348-lipidomics/Raw data/NEG/S00015874_Negative_01.mzXML:scan:1292	0.75	4	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026020_N.mzXML:scan:1074	0.75	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024255_N.mzXML:scan:1036	0.75	4	NoID
+0.0	mzspec:MSV000082721:ccms_peak/ST000667/EX00442-lipidomics/Raw data/NEG/20150604_S00018504.N.mzXML:scan:906	0.75	4	NoID
+0.0	mzspec:MSV000082797:ccms_peak/raw/MTBLS368/T04251512.mzXML:scan:1036	0.75	4	NoID
+-0.0	mzspec:MSV000082719:ccms_peak/ST000685/EX00694-lipidomics/Raw data/NEG/20170314_TP_CS00000001-5_N.mzXML:scan:940	0.75	4	NoID
+-0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026064_N.mzXML:scan:1182	0.75	4	NoID
+0.0	mzspec:MSV000082719:ccms_peak/ST000685/EX00694-lipidomics/Raw data/NEG/20170314_S00027760_Repeat_N.mzXML:scan:842	0.75	4	NoID
+0.0	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016569_Negative_01.mzXML:scan:945	0.75	4	NoID
+-0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_TP_CS00000001-13_N.mzXML:scan:1021	0.75	4	NoID
+0.0	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016539_Negative_01.mzXML:scan:1057	0.75	4	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_381.mzXML:scan:1704	0.75	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H7_neg2_BR2.mzML:scan:6242	0.75	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H6_neg1_BR2.mzML:scan:6584	0.75	3	NoID
+-0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024308_N.mzXML:scan:1099	0.74	4	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026188_N.mzXML:scan:1048	0.74	4	NoID
+-0.0	mzspec:MSV000082743:ccms_peak/ST000708/EX00508/Raw data/Glycolysis-TCA-nucleotides/LCMS/Plasma/2160107-EX00508-A011-IN0001-S00020399-N.mzXML:scan:910	0.74	4	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_K2_neg1_BR1.mzML:scan:8710	0.74	4	NoID
+0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_S00021689_N.mzXML:scan:1028	0.74	4	NoID
+-0.0	mzspec:MSV000082719:ccms_peak/ST000685/EX00694-lipidomics/Raw data/NEG/20170314_S00027758_N.mzXML:scan:910	0.74	4	NoID
+0.01	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024245_N.mzXML:scan:1070	0.74	4	NoID
+0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_TP_CS00000001-10_N.mzXML:scan:987	0.74	4	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-05.mzML:scan:11905	0.74	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H2_neg1_BR2.mzML:scan:6398	0.74	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H5_neg1_BR1.mzML:scan:8783	0.74	3	NoID
+0.0	mzspec:ST002283:AB_Human_Bone/Human_Lipid_Neg/D4_TS_B_Lip_Neg.mzML:scan:3874	0.74	3	NoID
+0.01	mzspec:MSV000089983:peak/mzML/220721_HG220720_6gi_neg.mzML:scan:11076	0.74	3	NoID
+0.0	mzspec:ST002283:AB_Human_Bone/Human_Hilic_Neg/D4_TS_B_Hilic_Neg.mzML:scan:3874	0.74	3	NoID
+-0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024278_N.mzXML:scan:1050	0.73	4	NoID
+-0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_S00021682_N.mzXML:scan:1007	0.73	4	NoID
+-0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH3/NEG/20161105_S00024376_N.mzXML:scan:934	0.73	4	NoID
+-0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_S00021687_N.mzXML:scan:1019	0.73	4	NoID
+-0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024248_N.mzXML:scan:1001	0.73	4	NoID
+0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_S00021686_N.mzXML:scan:1009	0.73	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024282_N.mzXML:scan:1026	0.73	4	NoID
+-0.01	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024293_N.mzXML:scan:1049	0.73	4	NoID
+-0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_S00021683_N.mzXML:scan:1056	0.73	4	NoID
+0.0	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016562_Negative_01.mzXML:scan:1054	0.73	4	NoID
+-0.0	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016557_Negative_01.mzXML:scan:993	0.73	4	NoID
+0.0	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016554_Negative_01.mzXML:scan:1012	0.73	4	NoID
+-0.0	mzspec:MSV000082953:updates/2019-07-08_lamccall_facc838f/other/CHEM5170 class project 2018/standards_mzxml/Oleanolic-Acid_Rep3.mzXML:scan:1019	0.73	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024291_N.mzXML:scan:1123	0.73	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024307_N.mzXML:scan:1079	0.73	4	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026022_N.mzXML:scan:1077	0.73	4	NoID
+0.0	mzspec:MSV000082744:ccms_peak/ST000763/EX00543/Raw data/Lipidomics/NEG/BATCH4/20160413_S00021300_N.mzXML:scan:1021	0.73	4	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_929.mzXML:scan:1574	0.73	4	NoID
+-0.0	mzspec:MSV000080389:peak/Peak_List_Files/mLm_CC_Tmem111_E18-5_AT2_Mut_1_L_NEG_150mm_15Aug16_Polaroid_HSST3-A923.mzML:scan:5039	0.73	4	NoID
+0.0	mzspec:MSV000082724:ccms_peak/ST000688/EX00696-lipidomics/Raw data/NEG/20170318_S00027996_N.mzXML:scan:1078	0.73	4	NoID
+0.01	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016530_Negative_01.mzXML:scan:1117	0.73	4	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026184_N.mzXML:scan:1023	0.73	3	NoID
+0.0	mzspec:MSV000089086:ccms_peak/ScorpionVenomLipids_ddMS2_Neg_2.mzML:scan:3292	0.73	3	NoID
+-0.0	mzspec:ST003398:X0220-M004B-11_5_WT_Dim_1h_2.mzML:scan:3656	0.73	3	NoID
+-0.0	mzspec:ST003398:X0220-M004B-22_9_WT_Dim_2h_3.mzML:scan:3744	0.73	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H1_neg2_BR2.mzML:scan:6493	0.73	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_head_30d_0h_3.mzXML:scan:1771	0.73	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H8_neg1_BR1.mzML:scan:8722	0.73	3	NoID
+-0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-01.mzML:scan:12269	0.73	3	NoID
+-0.0	mzspec:MSV000082692:ccms_peak/ST000665/EX00348-lipidomics/Raw data/NEG/S00015876_Negative_01.mzXML:scan:1499	0.72	4	NoID
+-0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_S00021663_N.mzXML:scan:1068	0.72	4	NoID
+0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_S00021680_N.mzXML:scan:1025	0.72	4	NoID
+-0.02	mzspec:MSV000082692:ccms_peak/ST000665/EX00348-lipidomics/Raw data/NEG/S00015864_Negative_01.mzXML:scan:1380	0.72	4	NoID
+-0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_TP_CS00000001-6_N.mzXML:scan:948	0.72	4	NoID
+-0.01	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016525_Negative_01.mzXML:scan:983	0.72	4	NoID
+0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_S00021685_N.mzXML:scan:1018	0.72	4	NoID
+0.0	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016529_Negative_01.mzXML:scan:1135	0.72	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_TP_CS00000001-5_N.mzXML:scan:1057	0.72	4	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_592.mzXML:scan:1794	0.72	4	NoID
+-0.0	mzspec:MSV000082726:ccms_peak/ST000686/EX00713-lipidomics/Raw data/NEG/20170322_S00028721_N.mzXML:scan:1072	0.72	4	NoID
+0.0	mzspec:MSV000082797:ccms_peak/raw/MTBLS368/TQ12081435.mzXML:scan:1045	0.72	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024306_N.mzXML:scan:1045	0.72	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024302_N.mzXML:scan:1139	0.72	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024244_N.mzXML:scan:1058	0.72	4	NoID
+0.01	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024292_N.mzXML:scan:1110	0.72	4	NoID
+-0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024265_N.mzXML:scan:1069	0.72	4	NoID
+0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026060_N.mzXML:scan:1033	0.72	3	NoID
+-0.0	mzspec:ST003398:X0220-M004B-21_6_WT_Dim_1h_3.mzML:scan:3651	0.72	3	NoID
+-0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026031_N.mzXML:scan:1127	0.72	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-03.mzML:scan:12408	0.72	3	NoID
+-0.0	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016538_Negative_01.mzXML:scan:1129	0.72	3	NoID
+0.0	mzspec:MSV000089086:ccms_peak/ScorpionVenomLipids_ddMS2_Neg_1.mzML:scan:3283	0.72	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H4_neg1_BR2.mzML:scan:6526	0.72	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_QC02.mzXML:scan:1822	0.71	4	NoID
+-0.0	mzspec:MSV000082706:ccms_peak/ST000680/EX00655-lipidomics/Raw data/NEG/20161028_S00026185_N.mzXML:scan:1047	0.71	4	NoID
+0.0	mzspec:MSV000082726:ccms_peak/ST000686/EX00713-lipidomics/Raw data/NEG/20170322_S00028710_N.mzXML:scan:999	0.71	4	NoID
+-0.01	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_TP_CS00000001-2_N.mzXML:scan:997	0.71	4	NoID
+0.0	mzspec:MSV000082719:ccms_peak/ST000685/EX00694-lipidomics/Raw data/NEG/20170314_TP_CS00000001-3_N.mzXML:scan:974	0.71	4	NoID
+-0.0	mzspec:MSV000082406:peak/Skin/CAM0217_BD2_01_1951.mzXML:scan:1407	0.71	4	NoID
+-0.0	mzspec:MSV000082692:ccms_peak/ST000665/EX00348-lipidomics/Raw data/NEG/S00015866_Negative_01.mzXML:scan:1407	0.71	4	NoID
+-0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026015_N.mzXML:scan:1109	0.71	4	NoID
+0.0	mzspec:MSV000082695:ccms_peak/ST000679/EX00649-lipidomics/Raw data/NEG/20161026_S00026062_N.mzXML:scan:1244	0.71	4	NoID
+0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024233_N.mzXML:scan:1009	0.71	4	NoID
+-0.0	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016522_Negative_01.mzXML:scan:1190	0.71	4	NoID
+-0.01	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_TP_CS00000001-4_N.mzXML:scan:1102	0.71	4	NoID
+-0.0	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024294_N.mzXML:scan:1058	0.71	4	NoID
+-0.0	mzspec:ST003398:X0220-M004B-09_1_WT_Dim_0h_1.mzML:scan:3690	0.71	3	NoID
+-0.0	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016540_Negative_01.mzXML:scan:1050	0.71	3	NoID
+-0.01	mzspec:ST002181:RawData/Negative/Dd2Dd2crtF145I-06302018-2.mzML:scan:4294967295	0.71	3	NoID
+-0.0	mzspec:ST003398:X0220-M004B-05_7_WT_Dim_2h_1.mzML:scan:3897	0.71	3	NoID
+0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Cell_clusters-RPC-06.mzML:scan:12290	0.71	3	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026023_N.mzXML:scan:1074	0.71	3	NoID
+0.0	mzspec:MSV000082719:ccms_peak/ST000685/EX00694-lipidomics/Raw data/NEG/20170314_S00027759_N.mzXML:scan:798	0.71	3	NoID
+-0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_TP_CS00000001-3_N.mzXML:scan:948	0.71	3	NoID
+-0.0	mzspec:ST002880:C30_PlantLipidome_H5_neg1_BR2.mzML:scan:6666	0.71	3	NoID
+-0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_30d_1h_7.mzXML:scan:1101	0.71	3	NoID
+0.0	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016527_Negative_01.mzXML:scan:951	0.71	3	NoID
+0.01	mzspec:MSV000082738:ccms_peak/ST000780/EX00361-lipidomics/Raw data/NEG/S00016560_Negative_01.mzXML:scan:1056	0.71	3	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_TP_CS00000001-10_N.mzXML:scan:1050	0.7	4	NoID
+0.0	mzspec:MSV000082729:ccms_peak/ST000672/EX00551-lipidomics/Raw data/NEG/20160309_S00021681_N.mzXML:scan:1034	0.7	4	NoID
+0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026019_N.mzXML:scan:974	0.7	4	NoID
+0.0	mzspec:MSV000080389:peak/Peak_List_Files/mLm_CC_Tmem111_E18-5_AT2_Ctl_3_L_NEG_150mm_15Aug16_Polaroid_HSST3-A923.mzML:scan:5142	0.7	4	NoID
+-0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_220.mzXML:scan:1705	0.7	4	NoID
+0.0	mzspec:MSV000093140:raw/210210_M138_01_HILIC_neg_567.mzXML:scan:1800	0.7	4	NoID
+0.0	mzspec:MSV000083533:ccms_peak/OMICS_MHAE001_MOCK_0HRS_5_Lipid_011_NEG_14May17_Polaroid_HSST-T3-A923.mzML:scan:12434	0.7	4	NoID
+-0.0	mzspec:ST003398:X0220-M004B-16_14_WT_Dim_8h_2.mzML:scan:3647	0.7	4	NoID
+0.01	mzspec:MSV000093140:raw/210225_M138_01_Teil2_HILIC_neg_972.mzXML:scan:1712	0.7	4	NoID
+-0.0	mzspec:MSV000082708:ccms_peak/ST000678/EX00646-lipidomics/Raw data/NEG/20161026_S00026014_N.mzXML:scan:998	0.7	3	NoID
+-0.0	mzspec:ST003210:Single cells vs Cell clusters/MDA-MB-453_Single_cells-RPC-10.mzML:scan:11596	0.7	3	NoID
+0.01	mzspec:MSV000082741:ccms_peak/ST000676/EX00617-lipidomics/Raw data/BATCH2/NEG/20160909_S00024277_N.mzXML:scan:989	0.7	3	NoID
+-0.0	mzspec:ST003398:X0220-M004B-17_3_WT_Dim_0h_3.mzML:scan:3612	0.7	3	NoID
+0.0	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_muscle_3d_0h_4.mzXML:scan:2299	0.7	3	NoID
+0.01	mzspec:MTBLS3322:FILES/DERIVED_FILES/NEG/neg_repro_head_3d_0h_5.mzXML:scan:1328	0.7	3	NoID
