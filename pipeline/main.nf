@@ -1,4 +1,18 @@
 
+process createOutputDir {
+    input:
+    val out_dir
+
+    output:
+    val out_dir
+
+    """
+    if [ ! -d "$out_dir" ]; then
+        mkdir -p "$out_dir"
+    fi
+    """
+}
+
 process prepareInput {
     input:
     path mgf
@@ -28,41 +42,88 @@ process prepareInput {
     """
 }
 
-process createOutputDir {
-    input:
-    val out_dir
-
-    output:
-    val out_dir
-
-    """
-    if [ ! -d "$out_dir" ]; then
-        mkdir -p "$out_dir"
-    fi
-    """
-}
-
 process runMicrobemasst {
     input:
     path mgfs_file_dir
+    //path out_dir
+
+    output:
+    path "results"
+    //publishDir "$out_dir", mode: 'copy'
+
+    """
+    python /workspaces/microbe_masst/code/run_microbeMASST.py \
+        --csv_file ${mgfs_file_dir}/mgfs.csv
+
+    """
+}
+
+process merge_tsv {
+    // merge the count tsvs per feature output of microbeMasst per group (e.g. microbe, microbiome)
+    input:
+    path dir
+
+    output:
+    path "${dir}/summary_counts_*.tsv", emit: summary_files
+    
+    """
+    python /workspaces/microbe_masst/pipeline/merge_tsvs.py \
+            -i ${dir} \
+            -o ${dir}
+    """
+}
+
+process filter_output {
+    // rn im setting filtering by species as default for all nextflow runs... but TODO allow options as scripts shows
+    input:
+    path summary_files
+
+    output:
+    path "filtered_*"
+
+    """
+    python /workspaces/microbe_masst/pipeline/filter_output.py \
+        --input "${summary_files}" \
+        --output '.'\
+        --species_level 
+
+    """
+}
+
+process visualization {
+    // visualize every group which has a summary
+    input:
+    path filtered_files
     path out_dir
 
     output:
     publishDir "$out_dir", mode: 'copy'
 
     """
-    python /workspaces/microbe_masst/code/run_microbeMASST.py \
-        --csv_file ${mgfs_file_dir}/mgfs.csv
-    
-   
+    # get group name from input file name
+    basename=\$(basename ${filtered_files} .tsv)
+    group=\${basename#filtered_summary_counts_} 
+
+    # create visualization folder
+    mkdir -p $out_dir/visualization
+
+    python /workspaces/microbe_masst/pipeline/visualization.py \
+        -c "${filtered_files}"\
+        -o "$out_dir/visualization"\
+        -p \$group\
+        -s "\t" 
     """
 }
+
 
 workflow {
     log_params(params.out_dir)
     mgfs_file_dir = prepareInput(params.mgf, params.features)
-    out_dir = createOutputDir(params.out_dir)
-    runMicrobemasst(mgfs_file_dir, out_dir)
+    // out_dir = createOutputDir(params.out_dir) // dont need this
+    out_microbeMasst = runMicrobemasst(mgfs_file_dir)
+    summary_files = merge_tsv(out_microbeMasst)
+    filtered_tsv_channel = filter_output(summary_files)
+    visualization(filtered_tsv_channel, params.out_dir)
 }
 
 

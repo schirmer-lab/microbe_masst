@@ -48,3 +48,61 @@
 2024-12-10 15:02:47	14.1s	special_newton	OK	1dbb59b0063b27708d21846230c76d0a	0c46c71c-8376-48f6-97ac-7fc03f2d6e7c	nextflow main.nf
 2024-12-10 15:07:47	12s	evil_galileo	OK	68a400aec5b8c2b00397fe03c6b667b7	08a099f6-5cff-4a6f-903f-2b29291e35ee	nextflow main.nf
 2024-12-10 15:08:54	11.9s	condescending_ritchie	OK	51be03c0730451c978b36f7a645c6b1e	103cba43-6253-4003-9c73-611706fe9083	nextflow main.nf
+2024-12-18 00:07:15	-	disturbed_panini	-	bb1779bc6df10c911cf7090a01f8281b	afdb023e-6534-4926-9083-41d4553a699a	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:08:54	3.9s	curious_lagrange	ERR	a4633327a78d25ca5c517779d42b922f	13b61ab3-0736-49b6-a039-a0b82eac7b4a	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:13:05	3.9s	maniac_nightingale	ERR	ca1e51c9124c50cd20f5542c6864dbb6	1bb89c8d-b4a0-4cfa-a1d1-9db3dda9b70a	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:15:02	2m 38s	silly_rosalind	ERR	ca1e51c9124c50cd20f5542c6864dbb6	326ef7a4-fd83-4202-a53b-667040682d1f	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:26:41	3.7s	mad_church	ERR	68bdae1ff26a11849a455c0fe5032814	d2f958bb-6b26-477d-a0b3-6e4111b9c00b	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:28:26	4.3s	gloomy_edison	ERR	68bdae1ff26a11849a455c0fe5032814	9093ffcf-ef5d-4aad-8dfc-f677c838f173	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:29:15	5.2s	trusting_gates	ERR	5d02283bbbf4516dbd7732b313609c7d	fd79b440-4bf5-4415-9566-45b2a596376c	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:30:10	4.6s	mighty_descartes	ERR	5d02283bbbf4516dbd7732b313609c7d	4d2c35a3-d02c-40bd-80f9-629bc9bd6f81	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:31:56	2.6s	disturbed_volhard	ERR	5d02283bbbf4516dbd7732b313609c7d	906bf7fd-a6c6-43e0-801f-266c1b2e22c5	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:32:20	5.2s	pedantic_miescher	ERR	5d02283bbbf4516dbd7732b313609c7d	9a9017a3-64a9-42ad-b2f2-3031306eee9d	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:33:33	4.9s	trusting_dalembert	ERR	5d02283bbbf4516dbd7732b313609c7d	d0af62de-3ff2-4dee-b377-a57da6c14211	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:34:05	4.7s	desperate_almeida	ERR	5d02283bbbf4516dbd7732b313609c7d	e12bd912-175d-4e95-a6c0-30120dc2a7ca	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:34:21	5.5s	soggy_meninsky	ERR	5d02283bbbf4516dbd7732b313609c7d	1d7a6003-5ffd-4b49-ae8a-739aba6610ab	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:38:29	5.4s	angry_sammet	ERR	1eeddb21183727bbdda838a29f8f8976	cdb97d4d-37a0-4eb0-8252-4c4c13720bbb	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:39:15	3.7s	crazy_shannon	ERR	1eeddb21183727bbdda838a29f8f8976	cdb97d4d-37a0-4eb0-8252-4c4c13720bbb	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only -resume
+2024-12-18 00:41:40	3.2s	fervent_fermi	ERR	42dae9afc0408c6196be068b01d10e52	cdb97d4d-37a0-4eb0-8252-4c4c13720bbb	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only -resume
+2024-12-18 00:43:07	-	fabulous_mcclintock	-	ca8fd347f11f16e9ebaf9e61df693313	9f6890f0-b240-400c-bff3-b0c33dbd5d58	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:44:46	-	condescending_ardinghelli	-	d99bd05b133feadc567de2df97dbb6cc	72e6b9e7-29ab-4b69-ad3a-a8fd340f5040	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:47:15	3.7s	special_sanger	ERR	665c95a818c9746b6774ce0ae01fa215	27fc28bc-aa5a-4f9f-8ca4-393405072462	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:47:50	3.9s	pedantic_hugle	ERR	b140d1009805cf308744f25e1c8d15b3	2858d4b8-c572-4b2b-b9a0-5a3c29cc7411	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:49:38	-	disturbed_meucci	-	268b12419a1a08a903f4286acb302310	4bcb94ea-a31e-4e7e-8e9a-8c03cb1681f6	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:49:58	4.7s	spontaneous_shannon	ERR	aea7fdaa7fa0a6e787edccf1d470864e	6d63d034-694d-4bd8-bca7-a79d3fcefd85	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:50:37	3.9s	amazing_bhabha	ERR	b140d1009805cf308744f25e1c8d15b3	3b2c43fc-2e6a-44c5-af6a-9d7d872c28bf	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:51:20	4.7s	backstabbing_bell	ERR	3014503a97d2678a007a6f9cb624da46	75f9e4f1-39a0-4cb4-bcae-2e0fd22927f6	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:53:36	3.9s	cheesy_hopper	ERR	ae9e78489de409e49e2c7d2057e21921	bcc5a22e-0601-4f3d-a394-049e664f887c	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:54:43	3.2s	sharp_lattes	ERR	a322367e227fca8eb431351316fed615	bfbe1bed-37a6-4804-8028-25d25e7a8ca9	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:57:39	4.3s	suspicious_crick	ERR	48afb20edfaa38b2144fc5a40f1b1fc1	6aacb300-7b44-4117-a9a8-803551470108	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:59:11	-	gloomy_lorenz	-	a4c193f260ab160858a9169a56f7f641	6160bd38-c6ad-40b8-b391-2ad7381b950c	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 00:59:24	5.1s	small_liskov	ERR	2c69351e5070c557dc1a4e4c479c8637	e34e0eb2-c424-4263-a2f6-2ce9e0dd89ad	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:02:32	5.4s	evil_ramanujan	ERR	4635ee9b94b3c3191908ba550249a5e5	516ab614-287a-4ba5-b303-1a97bf99b447	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:05:45	-	sad_kalman	-	c1721e87ed8cf85d9c3f4fcc540230ad	24c81774-8f4d-45e1-8150-4ff0d9c4881a	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:06:04	-	extravagant_borg	-	0e3c896bd0c7e679fb41d46bf25f70a9	aa840064-5510-4506-8171-b2dcf11c9bfe	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:06:22	5.1s	gigantic_cuvier	ERR	01aae1e6dbe59180076efbadd47d4093	00387812-efc1-4d58-ab6a-b6066c41a1d2	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:08:08	5s	golden_wing	ERR	01aae1e6dbe59180076efbadd47d4093	722ff621-ef58-4fa7-961b-a16ed805ed54	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:09:07	5s	crazy_cuvier	ERR	01aae1e6dbe59180076efbadd47d4093	bfe70769-e8d3-4aff-87f4-3dd30a917ee7	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:10:26	5s	prickly_mccarthy	ERR	01aae1e6dbe59180076efbadd47d4093	91d59587-3f84-4ea8-b7d6-8a93f71c7001	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:10:39	5.4s	friendly_caravaggio	ERR	01aae1e6dbe59180076efbadd47d4093	b7c6e30c-1cb7-4847-a466-f5eccd90f069	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:12:55	5.1s	nauseous_meitner	ERR	01aae1e6dbe59180076efbadd47d4093	338891c3-75d6-4226-8407-0d54f119a24a	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:13:23	4.9s	focused_church	ERR	01aae1e6dbe59180076efbadd47d4093	1848fc60-718d-4260-955a-8c8d543bfb2f	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:14:11	5.2s	determined_kalman	ERR	01aae1e6dbe59180076efbadd47d4093	30fcabc6-cf13-4a40-82e7-b46300b9ab0f	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:17:25	5.4s	gloomy_williams	OK	94ecfba262f3db92b36ce9363fd4c39a	5a016c56-064f-452e-9e5e-09b55e62ca5d	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:41:07	-	serene_morse	-	6be2d8cf41c5f118fe08e720db9d9d3b	c3358784-e53d-4916-850f-1554464a6e39	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:45:05	5.7s	big_monod	ERR	1e15f68b58f876374f3626ce853e50fc	e9d50539-79b6-413a-820b-e48fd13a04dc	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:45:28	5.8s	shrivelled_majorana	ERR	8bf96b651482b9cb502d5b4ddb16ebb4	ede7a228-2bd0-4bf1-aa94-8be93aeaec66	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:47:06	7s	romantic_easley	ERR	43c293c8a8465b41104582b8b88de140	d9e5cb10-c9f9-4b43-baa8-4bff058c1d37	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:47:42	3.5s	pedantic_leavitt	ERR	43c293c8a8465b41104582b8b88de140	1a663638-7492-41e3-b32d-1c302ff7af9e	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:48:57	5m 51s	astonishing_spence	ERR	67976c6e71bf4a38f9b7fdba5ae134be	c98f162b-9321-450b-bd90-2d8704f3487a	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:57:46	-	wise_poitras	-	0d334b005adfbd7c1e4ad6b1e5c937af	baf22c3a-f371-4ed5-b025-64fa31f88ccf	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 01:58:00	3.9s	tender_mayer	OK	71ffbc0b9d78592ec976e45707a59afe	a8d326d2-fbcc-4e05-82fc-18a1d1aa45a2	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 02:00:21	3.7s	nostalgic_davinci	ERR	0c9b26dcf76b42a4e48874fd879a4c3a	56874f09-8bcc-4a18-b18e-aa8d2d9ec7d7	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 02:00:46	7.3s	insane_ride	ERR	572c28549466b50ff1f6fa71911b8d4b	a05ebfc9-cf4d-46b8-b51d-e08465accb81	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 02:01:39	7.8s	condescending_mestorf	ERR	4197353afcf384162bbed4da15dbe523	7ea4a5a5-66d8-438a-ac5d-c5b3b192d152	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 02:06:48	5.3s	sleepy_montalcini	ERR	8d8a697ee18b1c6c3f2027fd21b6f3b1	cd500c13-836b-4656-9093-b9578e16cb43	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 02:07:13	7.5s	drunk_rosalind	OK	8d8a697ee18b1c6c3f2027fd21b6f3b1	1e9cb844-3a27-4b6b-8356-dcb3f09c42ce	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 02:15:39	8.2s	suspicious_yonath	ERR	8ee342909393cc21503e4c98f4543111	b8ecda38-6236-41f3-b39b-34a722e43090	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 02:16:03	7.4s	awesome_sanger	OK	8a5defba21a2d361cb00f2dd94eb98f4	0fe0bfc2-fc76-4577-aee6-b00d5184c769	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 02:26:05	4m 55s	small_torricelli	ERR	6a46f181843e36c4999f1ad28c7df09b	fb0b9f4e-2db6-424d-b58b-38c70254ae99	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only
+2024-12-18 02:37:20	4m 24s	fervent_edison	OK	ad94cfb7e8fe29845667dd864167d29b	0e6dc23f-080f-4d23-8141-719e7044e579	nextflow main.nf --ann_level 4 --filter_by_annotation --consensus_only

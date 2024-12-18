@@ -1,0 +1,218 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Phylum Annotations
+COLOR	#ff0000
+COLOR_BRANCHES	1
+LEGEND_TITLE	Phylum
+LEGEND_SHAPES	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#e41a1c	#377eb8	#4daf4a	#984ea3	#ff7f00	#ffff33	#a65628	#f781bf
+LEGEND_LABELS	Euglenozoa	Actinomycetota	Chordata	Ascomycota	Basidiomycota	Bacillota	Pseudomonadota	Bacillariophyta
+BORDER_WIDTH	1
+BORDER_COLOR	#000000
+SHOW_STRIP_LABELS	1
+DATA
+#NODE_ID	COLOR
+Thalassiosira pseudonana	#f781bf
+Homo sapiens	#4daf4a
+Eutreptiella gymnastica	#e41a1c
+Staphylococcus aureus	#ffff33
+Methyloprofundus sedimenti	#a65628
+Cryptoglena skujai	#e41a1c
+Trachelomonas sp.	#e41a1c
+Bifidobacterium dentium JCM 1195 = DSM 20436	#377eb8
+Klebsiella pneumoniae	#a65628
+Schizosaccharomyces pombe	#984ea3
+Dacrymyces chrysospermus	#ff7f00
+Euglena sanguinea	#e41a1c
+Euglena mutabilis	#e41a1c
+Euglena viridis	#e41a1c
+Mycobacteroides abscessus	#377eb8
+Streptomyces katsurahamanus	#377eb8
+Streptomyces clavuligerus	#377eb8
+Streptomyces jumonjinensis	#377eb8
+Streptomyces scabiei 87.22	#377eb8
+Escherichia coli str. K-12 substr. W3110	#a65628
+Komagataella phaffii	#984ea3
+Euglena gracilis var. saccharophila	#e41a1c
+Mycolicibacterium litorale	#377eb8
+Mycolicibacterium conceptionense	#377eb8
+Mycolicibacterium phlei	#377eb8
+Mycolicibacterium aurum	#377eb8
+Mycolicibacterium fallax	#377eb8
+Mycolicibacterium gilvum	#377eb8
+Mycolicibacterium aromaticivorans	#377eb8
+Mycolicibacterium smegmatis MC2 155	#377eb8
+Mycobacterium angelicum	#377eb8
+Mycobacterium gordonae	#377eb8
+Mycobacterium branderi	#377eb8
+Mycobacterium fragae	#377eb8
+Mycobacterium alsense	#377eb8
+Mycobacterium marinum	#377eb8
+Mycobacterium tuberculosis H37Ra	#377eb8
+Mycolicibacter hiberniae	#377eb8
+Mycolicibacter longobardus	#377eb8
+Stereopsis humphreyi	#ff7f00
+Pallidohirschioporus biformis	#ff7f00
+Auricularia americana	#ff7f00
+Neolentinus lepideus	#ff7f00
+Gomphus clavatus	#ff7f00
+Turbinellus floccosus	#ff7f00
+Talaromyces flavus	#984ea3
+Trichoderma harzianum	#984ea3
+Ischnoderma resinosum	#ff7f00
+Bjerkandera adusta	#ff7f00
+Nigroporus vinosus	#ff7f00
+Postia ptychogaster	#ff7f00
+Pycnoporellus fulgens	#ff7f00
+Hericium abietis	#ff7f00
+Polyozellus atrolazulinus	#ff7f00
+Boletopsis grisea	#ff7f00
+Schizophyllum commune	#ff7f00
+Pisolithus arhizus	#ff7f00
+Clavariadelphus mucronatus	#ff7f00
+Clavariadelphus occidentalis	#ff7f00
+Clavariadelphus truncatus	#ff7f00
+Ramaria stricta	#ff7f00
+Ramaria formosa	#ff7f00
+Ramaria rubripermanens	#ff7f00
+Ramaria leptoformosa	#ff7f00
+Ramaria claviramulata	#ff7f00
+Ramaria sandaracina var. sandaracina	#ff7f00
+Ramaria apiculata var. apiculata	#ff7f00
+Ramaria cystidiophora var. citronella	#ff7f00
+Ramaria flavobrunnescens var. aromatica	#ff7f00
+Ramaria gelatinosa var. oregonensis	#ff7f00
+Ramaria araiospora var. araiospora	#ff7f00
+Penicillium adametzii	#984ea3
+Aspergillus pseudoglaucus	#984ea3
+Fusarium graminearum	#984ea3
+Fusarium solani	#984ea3
+Lenzites betulinus	#ff7f00
+Lentinus brumalis	#ff7f00
+Neoporia koreana	#ff7f00
+Coriolopsis trogii	#ff7f00
+Polyporus tuberaster	#ff7f00
+Lopharia cinerascens	#ff7f00
+Rhodofomes cajanderi	#ff7f00
+Fomitopsis mounceae	#ff7f00
+Bondarzewia occidentalis	#ff7f00
+Heterobasidion occidentale	#ff7f00
+Craterellus tubaeformis	#ff7f00
+Hydnum umbilicatum	#ff7f00
+Fuscospina nigrescens	#ff7f00
+Laccaria laccata	#ff7f00
+Bolbitius titubans	#ff7f00
+Asterophora lycoperdoides	#ff7f00
+Armillaria solidipes	#ff7f00
+Metacampanella tricolor	#ff7f00
+Connopus acervatus	#ff7f00
+Gerronema atrialbum	#ff7f00
+Ampulloclitocybe clavipes	#ff7f00
+Arrhenia epichysium	#ff7f00
+Aphroditeola olida	#ff7f00
+Chrysomphalina aurantiaca	#ff7f00
+Amanita pantherinoides	#ff7f00
+Amanita porphyria	#ff7f00
+Amanita protecta	#ff7f00
+Amanita gemmata	#ff7f00
+Amanita phalloides	#ff7f00
+Amanita constricta	#ff7f00
+Amanita pachycolea	#ff7f00
+Amanita silvicola	#ff7f00
+Amanita smithiana	#ff7f00
+Amanita muscaria subsp. flavivolvata	#ff7f00
+Ramariopsis kunzei	#ff7f00
+Ramariopsis laeticolor	#ff7f00
+Suillellus amygdalinus	#ff7f00
+Chalciporus piperatus	#ff7f00
+Trametes suaveolens	#ff7f00
+Trametes vernicipes	#ff7f00
+Trametes versicolor	#ff7f00
+Trametes hirsuta	#ff7f00
+Lactarius fallax	#ff7f00
+Lactarius aestivus	#ff7f00
+Lactarius scrobiculatus	#ff7f00
+Lactarius rubrilacteus	#ff7f00
+Lactarius luculentus var. laetus	#ff7f00
+Russula americana	#ff7f00
+Russula xerampelina	#ff7f00
+Cantharellus cascadensis	#ff7f00
+Cantharellus formosus	#ff7f00
+Cantharellus subalbidus	#ff7f00
+Cantharellus californicus	#ff7f00
+Clavulina cinerea	#ff7f00
+Clavulina coralloides	#ff7f00
+Phlegmacium albofragrans	#ff7f00
+Calonarius xanthophyllus	#ff7f00
+Thaxterogaster causticus	#ff7f00
+Coprinopsis atramentaria	#ff7f00
+Coprinellus micaceus	#ff7f00
+Leucoagaricus	#ff7f00
+Coprinus comatus	#ff7f00
+Battarrea phalloides	#ff7f00
+Pholiota flammans	#ff7f00
+Leratiomyces ceres	#ff7f00
+Gymnopilus sapineus	#ff7f00
+Gymnopilus ventricosus	#ff7f00
+Hemimycena sp.	#ff7f00
+Alboleptonia sp.	#ff7f00
+Atheniella adonis	#ff7f00
+Atheniella aurantiidisca	#ff7f00
+Suillus ponderosus	#ff7f00
+Suillus brevipes	#ff7f00
+Suillus umbonatus	#ff7f00
+Chroogomphus ochraceus	#ff7f00
+Chroogomphus tomentosus	#ff7f00
+Aureoboletus mirabilis	#ff7f00
+Phylloporus arenicola	#ff7f00
+Xerocomus spadiceus	#ff7f00
+Cortinarius croceus	#ff7f00
+Cortinarius venetus	#ff7f00
+Cortinarius tophaceus	#ff7f00
+Cortinarius trivialis	#ff7f00
+Cortinarius caperatus	#ff7f00
+Cortinarius anomalus	#ff7f00
+Cortinarius boulderensis	#ff7f00
+Cortinarius flexipes	#ff7f00
+Cortinarius alboviolaceus	#ff7f00
+Cortinarius collinitus	#ff7f00
+Cortinarius californicus	#ff7f00
+Cortinarius anomalovelatus	#ff7f00
+Cortinarius cinnamomeus	#ff7f00
+Cortinarius athabascus	#ff7f00
+Cortinarius traganus	#ff7f00
+Cortinarius alboglobosus	#ff7f00
+Cortinarius cacaocolor	#ff7f00
+Agaricus semotus	#ff7f00
+Agaricus californicus	#ff7f00
+Agaricus buckmacadooi	#ff7f00
+Agaricus albolutescens	#ff7f00
+Agaricus thiersii	#ff7f00
+Chlorophyllum brunneum	#ff7f00
+Chlorophyllum olivieri	#ff7f00
+Chlorophyllum rhacodes	#ff7f00
+Lepiota spheniscispora	#ff7f00
+Lepiota clypeolaria	#ff7f00
+Clitocybe salmonilamella	#ff7f00
+Clitocybe nebularis	#ff7f00
+Clitocybe fragrans	#ff7f00
+Collybia nuda	#ff7f00
+Collybia dealbata	#ff7f00
+Collybia cookei	#ff7f00
+Collybia odora	#ff7f00
+Collybia cirrhata	#ff7f00
+Leucopaxillus albissimus	#ff7f00
+Leucopaxillus giganteus	#ff7f00
+Tricholoma focale	#ff7f00
+Tricholoma portentosum	#ff7f00
+Tricholoma pardinum	#ff7f00
+Tricholoma dulciolens	#ff7f00
+Tricholoma mutabile	#ff7f00
+Tricholoma murrillianum	#ff7f00
+Tricholoma inamoenum	#ff7f00
+Clitopilus prunulus	#ff7f00
+Clitopilus hobsonii	#ff7f00
+Xerocomellus atropurpureus	#ff7f00
+Xerocomellus mendocinensis	#ff7f00
+Boletus fibrillosus	#ff7f00
+Boletus leptocephalus (nom. illeg.)	#ff7f00

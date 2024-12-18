@@ -1,0 +1,11 @@
+
+    Workflow Parameters:
+    --------------------
+    mgf file: /workspaces/microbe_masst/files/allMS2Spec2024-11-27_neg.mgf
+    features file: /workspaces/microbe_masst/files/neg_viewerTable.tsv
+    output directory: /workspaces/microbe_masst/files/test_mai_nextflow
+    annotation level: 4
+    min ions: 7
+    filter by annotation: true
+    consensus only: true
+    
