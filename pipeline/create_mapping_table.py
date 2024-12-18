@@ -69,6 +69,8 @@ if __name__ == "__main__":
     # write mapping_table as tsv
     df.to_csv(args.output, sep='\t')
 
+"python pipeline/create_mapping_table.py --feature_counts files/summary_counts_microbe.tsv --sample_species files/Bacterial_strain_ID.xlsx --expression_table files/pos_expression.tsv -o output/mapping.tsv"
+
 
 
 
