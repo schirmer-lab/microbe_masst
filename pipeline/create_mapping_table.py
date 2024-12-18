@@ -23,6 +23,12 @@ def split_and_concat(taxaname):
     return taxaname
 
 
+def compare_first_split_value(row, col1, col2):
+    val1 = row[col1].split("_")[0]
+    val2 = row[col2].split("_")[0]
+    return val1 == val2
+
+
 if __name__ == "__main__":
     args = create_argparser()
 
@@ -65,6 +71,9 @@ if __name__ == "__main__":
 
     # add column which includes Taxanames that are in both
     df["Taxaname_intersection"] = df.apply(lambda row: row["Taxaname_file"].intersection(row["Taxaname_samples"]), axis=1)
+
+    # compare genera
+    # df['matching genera'] = df.apply(lambda row: compare_first_split_value(row, 'Taxaname_file', 'Taxaname_samples'), axis=1)
 
     # write mapping_table as tsv
     df.to_csv(args.output, sep='\t')
