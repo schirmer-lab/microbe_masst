@@ -73,12 +73,12 @@ if __name__ == "__main__":
 
     # filter for either species level, genus query or species query
     if args.species_level:
-        filtered_df = df[df["ranks"].isin(["species", ""])]
+        filtered_df = df[df["ranks"].isin(["species"])]
     elif args.species:
         splits = df["Taxaname_file"].str.split(" ")
         valid_splits = splits[splits.str.len() > 1]
         combined_splits = valid_splits.str[0] + " " + valid_splits.str[1]
-        filtered_df = df[df["ranks"].isin(["species", ""]) & (combined_splits.str.lower() == args.species.lower())]
+        filtered_df = df[df["ranks"].isin(["species"]) & (combined_splits.str.lower() == args.species.lower())]
     else:
         filtered_df = df
 
