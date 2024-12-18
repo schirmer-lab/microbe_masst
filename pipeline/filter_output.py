@@ -22,7 +22,7 @@ def setup_argparser():
     return args
 
 
-def get_taxonomy_rank(tax_ids):
+def get_ncbi_info(tax_ids):
     # check for valid tax IDS, if none return NAs of length input
     valid_tax_ids = [tax_id for tax_id in tax_ids if tax_id.isdigit()]
     if not valid_tax_ids:
@@ -42,19 +42,27 @@ def get_taxonomy_rank(tax_ids):
 
     # extract ranks from output, incorporate invalids accordingly
     ranks = []
+    scientific_names = []
     for tax_id in tax_ids:
         if tax_id.isdigit():
+            # get rank
             rank = data['result'][str(tax_id)]['rank']
             ranks.append(rank)
+
+            # get scientific name (genus + species)
+            scientific_name = data["result"][str(tax_id)]["scientificname"]
+            scientific_names.append(scientific_name)
         else:
             ranks.append(pd.NA)
+            scientific_names.append(pd.NA)
 
-    return ranks
+    return ranks, scientific_names
 
 
 def batch_query(tax_ids, batch_size=10):
     for i in range(0, len(tax_ids), batch_size):
         yield tax_ids[i:i+batch_size]
+
 
 if __name__ == "__main__":
     # retrieve arguments from argparser
@@ -64,12 +72,16 @@ if __name__ == "__main__":
     df = pd.read_csv(args.input, sep='\t')
 
     # get ranks fpr each taxonomy ID
+    scientific_names = []
     ranks = []
     for batch in batch_query(df["Taxa_NCBI"], 50):
-        ranks.extend(get_taxonomy_rank(batch))
+        new_ranks, new_scientific_names = get_ncbi_info(batch)
+        ranks.extend(new_ranks)
+        scientific_names.extend(new_scientific_names)
 
-    # append rank column to df
+    # append new columns to df
     df["ranks"] = ranks
+    df["ncbi_species"] = scientific_names
 
     # filter for either species level, genus query or species query
     if args.species_level:
@@ -81,6 +93,9 @@ if __name__ == "__main__":
         filtered_df = df[df["ranks"].isin(["species"]) & (combined_splits.str.lower() == args.species.lower())]
     else:
         filtered_df = df
+
+    # if, even though ncbi gives species, Taxaname_file holds more names, cut it
+    filtered_df.loc[:, "Taxaname_file"] = filtered_df["Taxaname_file"].apply(lambda name: " ".join(name.split(" ")[:2]))
 
     # save filtered df as tsv
     filtered_df.to_csv(f'{args.output}/filtered_{args.input.split("/")[-1]}', sep='\t')
