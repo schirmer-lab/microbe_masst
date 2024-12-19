@@ -60,6 +60,16 @@ def get_phylum_name(ncbi, taxid:list):
     
     return None
 
+def load_color_dict_from_csv(csv_path):
+    color_dict = {}
+    with open(csv_path, 'r') as f:
+        reader = csv.reader(f)
+        for row in reader:
+            phylum = row[0].strip()
+            color = row[1].strip()
+            color_dict[phylum] = color
+    return color_dict
+
 
 def create_annotation(out_dir:str, prefix: str,  tree, ncbi, color_map="Set1", color_dict_path=None, max_phylum_groups=8):
     """
@@ -112,12 +122,22 @@ def create_annotation(out_dir:str, prefix: str,  tree, ncbi, color_map="Set1", c
     
     else:
         # use color_dict
-        # read data from pickle file
-        with open(color_dict_path, "rb") as file:
-            color_dict = pickle.load(file)
+        
+        
+        if color_dict_path.endswith('.pkl'):
+            # Load from pickle file
+            with open(color_dict_path, "rb") as file:
+                color_dict = pickle.load(file)
+        elif color_dict_path.endswith('.csv'):
+            # Load from CSV file
+            color_dict = load_color_dict_from_csv(color_dict_path)
+        else:
+            raise ValueError("Color dictionary file must be a .pkl or .csv file.")
+
         phylum_colors = color_dict
         if "Other" not in phylum_colors.keys():
             phylum_colors["Other"] = '#999999'
+
         for leaf_name, phylum_name in phylum_annotations.items():
             if phylum_name not in phylum_colors.keys():
                 phylum_annotations[leaf_name] = "Other"
@@ -175,4 +195,4 @@ if __name__ == "__main__":
 # python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p data_microbe_csv -s ","
 
 # python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p sorted_data_microbe_csv -s "," -cd "color_dict.pkl"
-#
+#python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p sorted_data_microbe_csv2 -s ","
