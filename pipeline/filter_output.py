@@ -45,12 +45,15 @@ def get_ncbi_info(tax_ids):
     scientific_names = []
     for tax_id in tax_ids:
         if tax_id.isdigit():
-            # get rank
-            rank = data['result'][str(tax_id)]['rank']
-            ranks.append(rank)
+            # get rank & catch error returns of NCBI
+            if not "error" in data["result"][str(tax_id)].keys():
+                rank = data['result'][str(tax_id)]['rank']
+                scientific_name = data["result"][str(tax_id)]["scientificname"]
+            else:
+                rank = pd.NA
+                scientific_name = pd.NA
 
-            # get scientific name (genus + species)
-            scientific_name = data["result"][str(tax_id)]["scientificname"]
+            ranks.append(rank)
             scientific_names.append(scientific_name)
         else:
             ranks.append(pd.NA)
