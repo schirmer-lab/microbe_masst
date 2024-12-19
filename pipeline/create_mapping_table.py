@@ -17,16 +17,25 @@ def create_argparser():
 
 
 def split_and_concat(taxaname):
-    splits = taxaname.split(" ")
+    splits = taxaname.split("_")
     if len(splits) >= 2:
-        return f"{splits[0]}_{splits[1]}"
+        return f"{splits[0]} {splits[1]}"
     return taxaname
 
 
 def compare_first_split_value(row, col1, col2):
-    val1 = row[col1].split("_")[0]
-    val2 = row[col2].split("_")[0]
-    return val1 == val2
+    # compare each genus with the other genera and check for matches
+    genera = set()
+    for taxa_name1 in row[col1]:
+        genus1 = taxa_name1.split(" ")[0]
+
+        for taxa_name2 in row[col2]:
+            genus2 = taxa_name2.split(" ")[0]
+
+            if genus1 == genus2:
+                genera.add(genus1)
+
+    return genera
 
 
 if __name__ == "__main__":
@@ -40,8 +49,14 @@ if __name__ == "__main__":
     df = df.set_index("Feature")
     df = df.set_index(df.index.str.upper())
 
-    # reshape taxa names to format of mapping sample ID to taxa
-    df["Taxaname_file_split"] = df["Taxaname_file"].apply(lambda x: {split_and_concat(name) for name in x})
+    # add ncbi species as set to df
+    temp_df = pd.read_csv(args.feature_counts, sep="\t", index_col="Feature")
+
+    df_ncbi_species = temp_df.groupby("Feature")["ncbi_species"].apply(set).reset_index()
+    df_ncbi_species = df_ncbi_species.set_index("Feature")
+    df_ncbi_species = df_ncbi_species.set_index(df.index.str.upper())
+
+    df["ncbi_species"] = df_ncbi_species["ncbi_species"]
 
     # read in the mapping of sample ID and according species
     sampleID_species_mapping = pd.read_excel(args.sample_species, sheet_name="Sheet1")
@@ -69,11 +84,20 @@ if __name__ == "__main__":
     # add dictionary values as new column of df
     df["Taxaname_samples"] = pd.Series(feature_sampleIDs)
 
-    # add column which includes Taxanames that are in both
-    df["Taxaname_intersection"] = df.apply(lambda row: row["Taxaname_file"].intersection(row["Taxaname_samples"]), axis=1)
+    # reshape taxa names to format of mapping sample ID to taxa
+    df["Taxaname_samples"] = df["Taxaname_samples"].apply(lambda x: {split_and_concat(name) for name in x})
 
-    # compare genera
-    # df['matching genera'] = df.apply(lambda row: compare_first_split_value(row, 'Taxaname_file', 'Taxaname_samples'), axis=1)
+    # add column which includes Taxanames that are in both, file and sample
+    df["matching_taxa_file"] = df.apply(lambda row: row["Taxaname_file"].intersection(row["Taxaname_samples"]), axis=1)
+
+    # compare genera file
+    df['matching_genera_file'] = df.apply(lambda row: compare_first_split_value(row, 'Taxaname_file', 'Taxaname_samples'), axis=1)
+
+    # add column which includes Taxanames that are in both, file and sample
+    df["matching_taxa_ncbi"] = df.apply(lambda row: row["ncbi_species"].intersection(row["Taxaname_samples"]), axis=1)
+
+    # compare genera file
+    df['matching_genera_ncbi'] = df.apply(lambda row: compare_first_split_value(row, 'ncbi_species', 'Taxaname_samples'), axis=1)
 
     # write mapping_table as tsv
     df.to_csv(args.output, sep='\t')
