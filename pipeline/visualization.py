@@ -4,6 +4,7 @@ import argparse
 import random
 import matplotlib.pyplot as plt
 import pickle
+import csv
 
 def extract_taxids(count_matrix_file:str, sep:str) -> list: # this works
     """
@@ -121,9 +122,7 @@ def create_annotation(out_dir:str, prefix: str,  tree, ncbi, color_map="Set1", c
         
     
     else:
-        # use color_dict
-        
-        
+        # use color_dict_path to get colors
         if color_dict_path.endswith('.pkl'):
             # Load from pickle file
             with open(color_dict_path, "rb") as file:
@@ -192,7 +191,10 @@ if __name__ == "__main__":
 # see outputfiles: /workspaces/microbe_masst/pipeline/filtered_prefix_counts_microbe_tree.nw
 #                  /workspaces/microbe_masst/pipeline/filtered_prefix_counts_microbe_itol_annotations.txt
 
+# use no color dict
 # python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p data_microbe_csv -s ","
+# python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p sorted_data_microbe_csv -s ","
 
-# python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p sorted_data_microbe_csv -s "," -cd "color_dict.pkl"
-#python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p sorted_data_microbe_csv2 -s ","
+# use a color dict: pkl or csv
+# python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p sorted_cdict_pkl_data_microbe_csv -s "," -cd "color_dict.pkl"
+# python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p sorted_cdict_csv_microbe_csv -s "," -cd "color_dict.csv"
