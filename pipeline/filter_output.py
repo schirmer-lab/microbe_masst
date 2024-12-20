@@ -24,7 +24,7 @@ def setup_argparser():
 
 def get_ncbi_info(tax_ids):
     # check for valid tax IDS, if none return NAs of length input
-    valid_tax_ids = [tax_id for tax_id in tax_ids if tax_id.isdigit()]
+    valid_tax_ids = [tax_id for tax_id in tax_ids if str(tax_id).isdigit()]
     if not valid_tax_ids:
         return [pd.NA] * len(tax_ids)
 
@@ -44,7 +44,8 @@ def get_ncbi_info(tax_ids):
     ranks = []
     scientific_names = []
     for tax_id in tax_ids:
-        if tax_id.isdigit():
+        # consider rare case all tax IDs given -> column is int
+        if str(tax_id).isdigit():
             # get rank & catch error returns of NCBI
             if not "error" in data["result"][str(tax_id)].keys():
                 rank = data['result'][str(tax_id)]['rank']
