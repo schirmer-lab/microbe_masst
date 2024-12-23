@@ -3,7 +3,8 @@ from ete3 import NCBITaxa
 import argparse
 import random
 import matplotlib.pyplot as plt
-import os
+import pickle
+import csv
 
 def extract_taxids(count_matrix_file:str, sep:str) -> list: # this works
     """
@@ -36,12 +37,6 @@ def create_tree(taxIds: list, out_path: str, prefix: str, ncbi):
         if node.is_leaf():  # Rename only leaf nodes
             node.name = ncbi.get_taxid_translator([int(node.name)])[int(node.name)] # translate taxId to name
 
-
-    # Check if the directory exists
-    if not os.path.exists(out_path):
-        # If the directory does not exist, create it
-        os.makedirs(out_path)
-        #print(f"Directory '{path}' created.")
     tree.write(outfile=f"{out_path}/{prefix}_tree.nw")
     return tree_with_taxIds
 
@@ -66,8 +61,18 @@ def get_phylum_name(ncbi, taxid:list):
     
     return None
 
+def load_color_dict_from_csv(csv_path):
+    color_dict = {}
+    with open(csv_path, 'r') as f:
+        reader = csv.reader(f)
+        for row in reader:
+            phylum = row[0].strip()
+            color = row[1].strip()
+            color_dict[phylum] = color
+    return color_dict
 
-def create_annotation(out_dir:str, prefix: str,  tree, ncbi, color_map="Pastel1"):
+
+def create_annotation(out_dir:str, prefix: str,  tree, ncbi, color_map="Set1", color_dict_path=None, max_phylum_groups=8):
     """
     Creates annotation file with random colors and annotates on phylum level
     """
@@ -81,28 +86,63 @@ def create_annotation(out_dir:str, prefix: str,  tree, ncbi, color_map="Pastel1"
             if phylum_name:
                 phylum_annotations[node.name] = phylum_name
 
-    num_colors = len(set(phylum_annotations.values()))
-    cmap = plt.get_cmap(color_map)
-    colors = [cmap(i) for i in range(cmap.N-1)] # cmap.N size is + 1 for some reason
-    hex_colors = ["#{:02x}{:02x}{:02x}".format(int(r*255), int(g*255), int(b*255)) for r, g, b, _ in colors]
-     
-    # If there are more phyla than colors in the colormap, add random colors UNTESTED
-    if num_colors > cmap.N:
-        additional_colors = num_colors - len(colors)
-        for _ in range(additional_colors):
-            hex_colors.append("#{:06x}".format(random.randint(0, 0xFFFFFF)))
 
-    # Assign colors to each phylum
-    phylum_colors = {}
-    for phylum, color in zip(set(phylum_annotations.values()), hex_colors):
-        phylum_colors[phylum] = color
+    # Count occurrences of each phylum
+    phylum_counts = {}
+    for phylum in phylum_annotations.values():
+        phylum_counts[phylum] = phylum_counts.get(phylum, 0) + 1
+
+    # Determine phyla to keep and group others
+    sorted_phyla_by_size = sorted(phylum_counts.items(), key=lambda x: (-x[1], x[0]))
+    if len(sorted_phyla_by_size) > max_phylum_groups:
+        # Keep the 8 largest phyla, group the rest into "Other"
+        phyla_to_keep = sorted([phylum for phylum, count in sorted_phyla_by_size[:max_phylum_groups]])
+        phyla_to_keep.append("Other")
+        for leaf_name, phylum_name in phylum_annotations.items():
+            if phylum_name not in phyla_to_keep:
+                phylum_annotations[leaf_name] = "Other"
+    else:
+        # Keep all phyla if 8 or fewer
+        phyla_to_keep = sorted(phylum_counts.keys())
+
+    if color_dict_path==None:
+        # using "Set1" color map
+        # get colors from color map for phylum_groups
+        num_colors = min(max_phylum_groups, len(phyla_to_keep)) 
+
+        cmap = plt.get_cmap(color_map)
+        colors = [cmap(i / (9 - 1)) for i in range(9)]  # Compute exactly num_colors(8) colors
+        hex_colors = ["#{:02x}{:02x}{:02x}".format(int(r * 255), int(g * 255), int(b * 255)) for r, g, b, _ in colors]
+
+        # Assign colors to phyla, ensuring "Other" is grey
+        phylum_colors = {phylum: hex_colors[i] for i, phylum in enumerate(phyla_to_keep) if phylum != "Other"}
+        other_color = '#999999'
+        if "Other" in phyla_to_keep:
+            phylum_colors["Other"] = other_color
+        
+    
+    else:
+        # use color_dict_path to get colors
+        if color_dict_path.endswith('.pkl'):
+            # Load from pickle file
+            with open(color_dict_path, "rb") as file:
+                color_dict = pickle.load(file)
+        elif color_dict_path.endswith('.csv'):
+            # Load from CSV file
+            color_dict = load_color_dict_from_csv(color_dict_path)
+        else:
+            raise ValueError("Color dictionary file must be a .pkl or .csv file.")
+
+        phylum_colors = color_dict
+        if "Other" not in phylum_colors.keys():
+            phylum_colors["Other"] = '#999999'
+
+        for leaf_name, phylum_name in phylum_annotations.items():
+            if phylum_name not in phylum_colors.keys():
+                phylum_annotations[leaf_name] = "Other"
 
 
-    # # Generate random colors for each phylum
-    # phylum_colors = {}
-    # for phylum in set(phylum_annotations.values()):
-    #     phylum_colors[phylum] = "#{:06x}".format(random.randint(0, 0xFFFFFF)) #todo specify color palate
-
+    
     # Create the iTOL annotation file
     with open(f"{out_dir}/{prefix}_itol_annotations.txt", "w") as f:
         #f.write("\nTREE_COLORS\n")
@@ -138,16 +178,23 @@ if __name__ == "__main__":
     parser.add_argument("--prefix", "-p", default="taxonomic", help='Prefix for filename')
     parser.add_argument("--sep", "-s", default="\t", help='separator for input file')
     parser.add_argument("--color_map", "-cm", default="Set1", help='color map for tree coloring')
+    parser.add_argument("--color_dict_path", "-cd", default=None, help='path to pickle: color dict for tree coloring')
+    parser.add_argument("--max_phylum_groups", "-mpg", default=8, help='maximum number of phylum groups to show in tree')
     args = parser.parse_args()
 
     ncbi = NCBITaxa()
     taxIds = extract_taxids(args.count_matrix, args.sep)
     tree = create_tree(taxIds, args.out_path, args.prefix,ncbi)
-    create_annotation(args.out_path, args.prefix, tree, ncbi, args.color_map)
+    create_annotation(args.out_path, args.prefix, tree, ncbi, args.color_map, args.color_dict_path, args.max_phylum_groups)
 
 # run in pipeline folder: python visualization.py -c "../files/level4/filtered_prefix_counts_microbe.tsv" -o "../report/output" -p filtered_prefix_counts_microbe
 # see outputfiles: /workspaces/microbe_masst/pipeline/filtered_prefix_counts_microbe_tree.nw
 #                  /workspaces/microbe_masst/pipeline/filtered_prefix_counts_microbe_itol_annotations.txt
 
+# use no color dict
 # python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p data_microbe_csv -s ","
-#
+# python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p sorted_data_microbe_csv -s ","
+
+# use a color dict: pkl or csv
+# python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p sorted_cdict_pkl_data_microbe_csv -s "," -cd "color_dict.pkl"
+# python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p sorted_cdict_csv_microbe_csv -s "," -cd "color_dict.csv"
