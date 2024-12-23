@@ -1,6 +1,7 @@
 import pandas as pd
 import argparse
 import requests
+import os
 
 
 def setup_argparser():
@@ -98,8 +99,14 @@ if __name__ == "__main__":
     else:
         filtered_df = df
 
+    # ensure deep copy for filtered_df!
+    filtered_df = filtered_df.copy()
+
     # if, even though ncbi gives species, Taxaname_file holds more names, cut it
     filtered_df.loc[:, "Taxaname_file"] = filtered_df["Taxaname_file"].apply(lambda name: " ".join(name.split(" ")[:2]))
 
+    # if directory doesn't exist, create it!
+    os.makedirs(args.output, exist_ok=True)
+
     # save filtered df as tsv
-    filtered_df.to_csv(f'{args.output}/filtered_{args.input.split("/")[-1]}', sep='\t')
+    df.to_csv(f'{args.output}/filtered_{args.input.split("/")[-1]}', sep='\t')
