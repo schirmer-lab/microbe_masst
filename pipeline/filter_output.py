@@ -109,4 +109,4 @@ if __name__ == "__main__":
     os.makedirs(args.output, exist_ok=True)
 
     # save filtered df as tsv
-    df.to_csv(f'{args.output}/filtered_{args.input.split("/")[-1]}', sep='\t')
+    filtered_df.to_csv(f'{args.output}/filtered_{args.input.split("/")[-1]}', sep='\t')
