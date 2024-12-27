@@ -79,7 +79,7 @@ process filter_output {
     path summary_files
 
     output:
-    path "filtered_*"
+    path "filtered_*", emit: filtered_files
 
     """
     python /workspaces/microbe_masst/pipeline/filter_output.py \
@@ -87,6 +87,26 @@ process filter_output {
         --output '.'\
         --species_level 
 
+    """
+}
+
+process create_mapping{
+    input:
+    path filtered_files
+    path out_dir
+
+    output:
+    publishDir "$out_dir", mode: 'copy'
+
+    """
+    # create mapping folder
+    mkdir -p $out_dir/mapping
+
+    python /workspaces/microbe_masst/pipeline/create_mapping_table.py \
+        --feature_counts "${filtered_files}" \
+        --sample_species ${params.sample_species}\
+        --expression_table ${params.expression_table}\
+        -o '$out_dir/mapping/mapping.tsv'
     """
 }
 
@@ -123,6 +143,7 @@ workflow {
     out_microbeMasst = runMicrobemasst(mgfs_file_dir)
     summary_files = merge_tsv(out_microbeMasst)
     filtered_tsv_channel = filter_output(summary_files)
+    mapping = create_mapping(filtered_tsv_channel, params.out_dir)
     visualization(filtered_tsv_channel, params.out_dir)
 }
 
@@ -143,5 +164,7 @@ def log_params(out_dir) {
     min ions: ${params.min_ions ?: 'default'}
     filter by annotation: ${params.filter_by_annotation ?: false}
     consensus only: ${params.consensus_only ?: false}
+    sample_species = ${params.sample_species ?: 'not provided'}
+    expression_table = ${params.expression_table ?: 'not provided'}
     """
 }
