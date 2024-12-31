@@ -137,7 +137,7 @@ process visualization {
 
 
 workflow {
-    log_params(params.out_dir)
+    log_params(params.out_dir) //comment out if throwing error
     mgfs_file_dir = prepareInput(params.mgf, params.features)
     // out_dir = createOutputDir(params.out_dir) // dont need this
     out_microbeMasst = runMicrobemasst(mgfs_file_dir)

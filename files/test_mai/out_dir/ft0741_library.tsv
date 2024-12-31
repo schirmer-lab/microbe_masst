@@ -1,7 +1,0 @@
-USI	GNPSLibraryAccession	Cosine	Matching Peaks	CompoundName	Adduct	Charge
-mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005740448	CCMSLIB00005740448	0.84	4	Massbank:PR100563 Guanosine-3',5'-cyclic monophosphate|cGMP|cyclic GMP	M-H	1
-mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00005758926	CCMSLIB00005758926	0.84	4	Massbank:PT202420 2-amino-9-[(1S,6R,8R,9R)-3,9-dihydroxy-3-oxo-2,4,7-trioxa-3$l^{5}-phosphabicyclo[4.3.0]nonan-8-yl]-3H-purin-6-one|Guanosine-3',5'-cyclic monophosphate|cGMP|cyclic GMP	M+H	1
-mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00006679919	CCMSLIB00006679919	0.82	4	"""GUANOSINE 3',5'-CYCLIC MONOPHOSPHATE"""	M-H	1
-mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00000221891	CCMSLIB00000221891	0.82	3	ReSpect:PT202420 Guanosine-3',5'-cyclic monophosphate|cGMP|cyclic GMP|2-amino-9-[(1S,6R,8R,9R)-3,9-dihydroxy-3-oxo-2,4,7-trioxa-3$l^{5}-phosphabicyclo[4.3.0]nonan-8-yl]-3H-purin-6-one	[M+H]	1
-mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004691419	CCMSLIB00004691419	0.77	3	Guanosine cyclic monophosphate	[M-H]-	1
-mzspec:GNPS:GNPS-LIBRARY:accession:CCMSLIB00004719813	CCMSLIB00004719813	0.74	4	Guanosine cyclic monophosphate	[M-H]-	1
