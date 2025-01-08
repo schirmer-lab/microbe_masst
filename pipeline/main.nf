@@ -1,17 +1,4 @@
 
-process createOutputDir {
-    input:
-    val out_dir
-
-    output:
-    val out_dir
-
-    """
-    if [ ! -d "$out_dir" ]; then
-        mkdir -p "$out_dir"
-    fi
-    """
-}
 
 process prepareInput {
     input:
@@ -137,9 +124,8 @@ process visualization {
 
 
 workflow {
-    log_params(params.out_dir) //comment out if throwing error
+    log_params(params.out_dir) 
     mgfs_file_dir = prepareInput(params.mgf, params.features)
-    // out_dir = createOutputDir(params.out_dir) // dont need this
     out_microbeMasst = runMicrobemasst(mgfs_file_dir)
     summary_files = merge_tsv(out_microbeMasst)
     filtered_tsv_channel = filter_output(summary_files)
