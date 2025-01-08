@@ -55,6 +55,12 @@ if __name__ == "__main__":
     df = df.set_index("Feature")
     df = df.set_index(df.index.str.upper())
 
+    # rename column for species of microbeMASST
+    df.rename(columns={"Taxaname_file": "species_microbeMASST"}, inplace=True)
+
+    # add column with number of microbeMASST species
+    df["#_microbeMASST"] = df.apply(lambda row: len(row["species_microbeMASST"]), axis=1)
+
     # add ncbi species as set to df
     temp_df = pd.read_csv(args.feature_counts, sep="\t", index_col="Feature")
 
@@ -64,6 +70,9 @@ if __name__ == "__main__":
 
     # rename to species_ncbi to match rest of columns
     df["species_ncbi"] = df_ncbi_species["ncbi_species"]
+
+    # add column with number of ncbi species
+    df["#_ncbi"] = df.apply(lambda row: len(row["species_ncbi"]), axis=1)
 
     # read in the mapping of sample ID and according species
     sampleID_species_mapping = pd.read_excel(args.sample_species, sheet_name="Sheet1")
@@ -90,9 +99,6 @@ if __name__ == "__main__":
         feature_species_sample[feature] = species_names
         feature_sample_IDs[feature] = sampleIDs
 
-    # rename column for species of microbeMASST
-    df.rename(columns={"Taxaname_file": "species_microbeMASST"}, inplace=True)
-
     # add dictionary values as new column of df
     df["species_samples"] = pd.Series(feature_species_sample)
     df["sample_IDs"] = pd.Series(feature_sample_IDs)
@@ -107,25 +113,25 @@ if __name__ == "__main__":
     df["matching_species_microbeMASST"] = df.apply(lambda row: row["species_microbeMASST"].intersection(row["species_samples"]), axis=1)
 
     # add column with number of matching species microbeMASST
-    df["#_of_matching_species_microbeMASST"] = df.apply(lambda row: len(row["matching_species_microbeMASST"]), axis=1)
+    df["#_matching_species_microbeMASST"] = df.apply(lambda row: len(row["matching_species_microbeMASST"]), axis=1)
 
     # compare genera file
     df['matching_genera_microbeMASST'] = df.apply(lambda row: compare_first_split_value(row, 'species_microbeMASST', 'species_samples'), axis=1)
 
     # add column with number of matching genera microbeMASST
-    df["#_of_matching_genera_microbeMASST"] = df.apply(lambda row: len(row["matching_genera_microbeMASST"]), axis=1)
+    df["#_matching_genera_microbeMASST"] = df.apply(lambda row: len(row["matching_genera_microbeMASST"]), axis=1)
 
     # add column which includes species that are in both, microbeMASST result and sample
     df["matching_species_ncbi"] = df.apply(lambda row: row["species_ncbi"].intersection(row["species_samples"]), axis=1)
 
     # add column with number of matching species ncbi
-    df["#_of_matching_species_ncbi"] = df.apply(lambda row: len(row["matching_species_ncbi"]), axis=1)
+    df["#_matching_species_ncbi"] = df.apply(lambda row: len(row["matching_species_ncbi"]), axis=1)
 
     # compare genera file
     df['matching_genera_ncbi'] = df.apply(lambda row: compare_first_split_value(row, 'species_ncbi', 'species_samples'), axis=1)
 
     # add column with number of matching species
-    df["#_of_matching_genera_ncbi"] = df.apply(lambda row: len(row["matching_genera_ncbi"]), axis=1)
+    df["#_matching_genera_ncbi"] = df.apply(lambda row: len(row["matching_genera_ncbi"]), axis=1)
 
     # convert the set columns into comma seperated strings
     set_2_comma_seperated(df, ["species_microbeMASST", "species_ncbi", "species_samples", "sample_IDs", "matching_species_microbeMASST", "matching_genera_microbeMASST", "matching_species_ncbi", "matching_genera_ncbi"])
