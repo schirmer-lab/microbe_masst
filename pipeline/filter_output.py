@@ -17,6 +17,8 @@ def setup_argparser():
                        help='Filter by species level')
     group.add_argument('--species', type=str,
                        help='Species to filter by')
+    parser.add_argument('--bacteria', default=False, action="store_true",
+                       help='Filter only bacteria genbank division')
 
     args = parser.parse_args()
 
@@ -44,6 +46,7 @@ def get_ncbi_info(tax_ids):
     # extract ranks from output, incorporate invalids accordingly
     ranks = []
     scientific_names = []
+    genbank_divisions = []
     for tax_id in tax_ids:
         # consider rare case all tax IDs given -> column is int
         if str(tax_id).isdigit():
@@ -51,17 +54,21 @@ def get_ncbi_info(tax_ids):
             if not "error" in data["result"][str(tax_id)].keys():
                 rank = data['result'][str(tax_id)]['rank']
                 scientific_name = data["result"][str(tax_id)]["scientificname"]
+                genbank_division = data["result"][str(tax_id)]["genbankdivision"]
             else:
                 rank = pd.NA
                 scientific_name = pd.NA
+                genbank_division = pd.NA
 
             ranks.append(rank)
             scientific_names.append(scientific_name)
+            genbank_divisions.append(genbank_division)
         else:
             ranks.append(pd.NA)
             scientific_names.append(pd.NA)
+            genbank_divisions.append(pd.NA)
 
-    return ranks, scientific_names
+    return ranks, scientific_names, genbank_divisions
 
 
 def batch_query(tax_ids, batch_size=10):
@@ -79,14 +86,17 @@ if __name__ == "__main__":
     # get ranks fpr each taxonomy ID
     scientific_names = []
     ranks = []
+    genbank_divisions = []
     for batch in batch_query(df["Taxa_NCBI"], 50):
-        new_ranks, new_scientific_names = get_ncbi_info(batch)
+        new_ranks, new_scientific_names, new_genbank_divisions = get_ncbi_info(batch)
         ranks.extend(new_ranks)
         scientific_names.extend(new_scientific_names)
+        genbank_divisions.extend(new_genbank_divisions)
 
     # append new columns to df
     df["ranks"] = ranks
     df["ncbi_species"] = scientific_names
+    df["genbank_division"] = genbank_divisions
 
     # filter for either species level, genus query or species query
     if args.species_level:
@@ -98,6 +108,10 @@ if __name__ == "__main__":
         filtered_df = df[df["ranks"].isin(["species"]) & (combined_splits.str.lower() == args.species.lower())]
     else:
         filtered_df = df
+
+    # filter by genbank division
+    if args.bacteria:
+        filtered_df = filtered_df[filtered_df["genbank_division"] == "Bacteria"]
 
     # ensure deep copy for filtered_df!
     filtered_df = filtered_df.copy()
