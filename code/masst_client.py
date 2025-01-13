@@ -92,33 +92,6 @@ def process_matches(
         compress_out_html=True,
     )
 
-    # microbiomeMASST
-    logger.debug("Exporting microbiomeMASST %s", compound_name)
-    create_enriched_masst_tree(
-        matches_df,
-        masst.MICROBIOME_MASST,
-        common_file=common_file,
-        lib_match_json=lib_match_json,
-        input_str=input_label,
-        parameter_str=params_label,
-        usi=usi,
-        format_out_json=False,
-        compress_out_html=True,
-    )
-
-    # combined from all
-    logger.debug("Exporting combined tree %s", compound_name)
-    create_combined_masst_tree(
-        matches_df,
-        common_file=common_file,
-        lib_match_json=lib_match_json,
-        input_str=input_label,
-        parameter_str=params_label,
-        usi=usi,
-        format_out_json=False,
-        compress_out_html=True,
-    )
-
     return matches_df
 
 
