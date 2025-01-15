@@ -5,6 +5,7 @@ import random
 import matplotlib.pyplot as plt
 import pickle
 import csv
+import re
 
 def extract_taxids(count_matrix_file:str, sep:str) -> list: # this works
     """
@@ -18,7 +19,6 @@ def extract_taxids(count_matrix_file:str, sep:str) -> list: # this works
     #filtered_taxids = [item for item in taxids if item.lower() != "blank" and item.lower() != "qc"]
     filtered_taxids = [item for item in taxids if str(item).lower() != "blank" and str(item).lower() != "qc"]
     return filtered_taxids
-
 
 def create_tree(taxIds: list, out_path: str, prefix: str, ncbi):
     """
@@ -44,6 +44,8 @@ def create_tree(taxIds: list, out_path: str, prefix: str, ncbi):
 def get_phylum_name(ncbi, taxid:list):
     """
     Get Phylum per taxID.
+    Args:   - ncbi, object of NCBITaxa
+            - taxIds, list
     """
     # Get the lineage of the TaxID
     lineage = ncbi.get_lineage(taxid)
@@ -84,7 +86,9 @@ def create_annotation(out_dir:str, prefix: str,  tree, ncbi, color_map="Set1", c
             phylum_name = get_phylum_name(ncbi, taxid)
             node.name = ncbi.get_taxid_translator([taxid])[taxid]
             if phylum_name:
-                phylum_annotations[node.name] = phylum_name
+                # remove all special letters and replace with _
+                parsed_node = re.sub(r'[=:()\[\]]', '_', node.name)
+                phylum_annotations[parsed_node] = phylum_name
 
 
     # Count occurrences of each phylum
@@ -184,6 +188,7 @@ if __name__ == "__main__":
 
     ncbi = NCBITaxa()
     taxIds = extract_taxids(args.count_matrix, args.sep)
+    #create_translation(taxIds)
     tree = create_tree(taxIds, args.out_path, args.prefix,ncbi)
     create_annotation(args.out_path, args.prefix, tree, ncbi, args.color_map, args.color_dict_path, args.max_phylum_groups)
 
@@ -191,6 +196,7 @@ if __name__ == "__main__":
 # see outputfiles: /workspaces/microbe_masst/pipeline/filtered_prefix_counts_microbe_tree.nw
 #                  /workspaces/microbe_masst/pipeline/filtered_prefix_counts_microbe_itol_annotations.txt
 
+# use no color dict
 # use no color dict
 # python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p data_microbe_csv -s ","
 # python visualization.py -c "../data/microbe_masst_table.csv" -o "../report/output" -p sorted_data_microbe_csv -s ","
