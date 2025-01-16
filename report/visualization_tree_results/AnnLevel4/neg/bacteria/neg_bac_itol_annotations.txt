@@ -1,0 +1,40 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Phylum Annotations
+COLOR	#ff0000
+COLOR_BRANCHES	1
+LEGEND_TITLE	Phylum
+LEGEND_SHAPES	1	1	1
+LEGEND_COLORS	#e41a1c	#377eb8	#a65628
+LEGEND_LABELS	Actinomycetota	Bacillota	Pseudomonadota
+BORDER_WIDTH	1
+BORDER_COLOR	#000000
+SHOW_STRIP_LABELS	1
+DATA
+#NODE_ID	COLOR
+Methyloprofundus sedimenti	#a65628
+Staphylococcus aureus	#377eb8
+Bacillus amyloliquefaciens	#377eb8
+Escherichia coli	#a65628
+Klebsiella pneumoniae	#a65628
+Pseudomonas frederiksbergensis	#a65628
+Pseudomonas putida	#a65628
+Mycobacteroides abscessus	#e41a1c
+Streptomyces jumonjinensis	#e41a1c
+Streptomyces katsurahamanus	#e41a1c
+Streptomyces clavuligerus	#e41a1c
+Mycolicibacterium fallax	#e41a1c
+Mycolicibacterium gilvum	#e41a1c
+Mycolicibacterium litorale	#e41a1c
+Mycolicibacterium conceptionense	#e41a1c
+Mycolicibacterium aromaticivorans	#e41a1c
+Mycolicibacterium phlei	#e41a1c
+Mycolicibacterium aurum	#e41a1c
+Mycolicibacter hiberniae	#e41a1c
+Mycolicibacter longobardus	#e41a1c
+Mycobacterium angelicum	#e41a1c
+Mycobacterium branderi	#e41a1c
+Mycobacterium alsense	#e41a1c
+Mycobacterium gordonae	#e41a1c
+Mycobacterium fragae	#e41a1c
+Mycobacterium marinum	#e41a1c
