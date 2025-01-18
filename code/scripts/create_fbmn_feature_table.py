@@ -1,7 +1,7 @@
 import pandas as pd
 import csv
 
-pos_neg = "pos"
+pos_neg = "neg"
 
 # set paths according to positive or negative value
 exp = f"files/{pos_neg}_expression.tsv"
@@ -29,11 +29,11 @@ viewer_table = viewer_table[["feature", "mzmed", "mzmin", "mzmax", "rtmed", "rtm
 # set index for viewer table
 viewer_table.set_index("feature", inplace=True)
 
-# Create a boolean array indicating which columns contain the string "Email"
-cols_to_drop = exp.columns[exp.columns.str.contains('QC')]
+# filter: column names that start with "B" and continue with a digit from 1 to 23
+valid_columns = [col for col in exp.columns if col.startswith('B') and col[1:].isdigit() and 1 <= int(col[1:]) <= 23]
 
-# Drop the columns containing the string "Email"
-exp.drop(cols_to_drop, axis=1, inplace=True)
+# apply filter
+exp = exp[valid_columns]
 
 # convert columns names of expression table to mzXML file names
 new_col_names = []
