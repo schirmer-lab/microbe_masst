@@ -1,7 +1,7 @@
 import pandas as pd
 import csv
 
-pos_neg = "neg"
+pos_neg = "pos"
 
 # set paths according to positive or negative value
 exp = f"files/{pos_neg}_expression.tsv"
@@ -39,7 +39,7 @@ exp.drop(cols_to_drop, axis=1, inplace=True)
 new_col_names = []
 for col_name in exp.columns:
     if col_name != "feature":
-        new_col_names.append(f"241008_M274_01_HILIC_neg_{col_name}.mzXML")
+        new_col_names.append(f"241008_M274_01_HILIC_{pos_neg}_{col_name}.mzXML")
     else:
         new_col_names.append(col_name)
 
@@ -47,5 +47,8 @@ exp.columns = new_col_names
 
 # concat both dfs
 complete_df = pd.concat([viewer_table, exp], axis=1)
+
+# replace NAs with "NA" string
+complete_df = complete_df.fillna("NA")
 
 complete_df.to_csv(f"files/FBMN/{pos_neg}_feature_table.tsv", sep="\t")
