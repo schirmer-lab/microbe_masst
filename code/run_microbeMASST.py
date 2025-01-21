@@ -10,7 +10,8 @@ logger = logging.getLogger(__name__)
 
 # python3 run_microbeMASST.py --input_file /path/to/input.mgf --output_dir /path/to/output_dir
 # or
-# python3 run_microbeMASST.py --input_csv /path/to/input.csv
+# python3 run_microbeMASST.py --csv_file /path/to/input.csv
+# python3 run_microbeMASST.py --csv_file ../examples/test.csv
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Run microbeMASST with specified input and output files or a CSV file.")
@@ -34,7 +35,7 @@ def run_microbeMASST(input_file, output_dir):
             min_matched_signals=3,
             database=masst_utils.DataBase.metabolomicspanrepo_index_latest,
             parallel_queries=5,
-            skip_existing=True,
+            skip_existing=False,
             analog=False,
             sep=sep,
         )
