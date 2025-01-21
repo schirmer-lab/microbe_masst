@@ -10,7 +10,7 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-root_path="/workspaces/microbe_masst"
+root_path="/workspaces/microbe_masst" 
 
 def replace_by_local_file(path):
     """

@@ -23,7 +23,7 @@ class SpecialMasst:
     tree_node_key: str
     metadata_key: str
 
-root_path="/workspaces/microbe_masst"
+root_path="/workspaces/microbe_masst" 
 
 MICROBE_MASST = SpecialMasst(
     prefix="microbe",
