@@ -97,7 +97,6 @@ def write_mgf_file(filtered_spectra, output_file):
     Args:   - filtered_spectra, list of dictionaries
             - output_file, String
     """
-
     with open(output_file, 'w') as writer:
         for spectrum in filtered_spectra:
             writer.write('BEGIN IONS\n')
@@ -175,7 +174,6 @@ if __name__ == "__main__":
             parser.error('--features is required when --filter_by_annotation is used') #and --ann_level
         filtered_features = filter_for_annotation_level(args.features, annotation_level=args.ann_level)
         filtered_spectra = filter_mgf_file_byID(args.mgf, filtered_features, consensus_only=args.consensus_only, min_ions=args.min_ions)
-
     elif args.consensus_only:
         print("Filtering only consensus spectra")
         # filter only consensus spectra
