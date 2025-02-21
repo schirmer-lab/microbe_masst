@@ -12,7 +12,7 @@ import json
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-root_path="/workspaces/microbe_masst" 
+#root_path="/workspaces/microbe_masst" 
 
 def create_enriched_masst_tree(
     matches_df,
@@ -22,7 +22,7 @@ def create_enriched_masst_tree(
     input_str,
     parameter_str,
     usi: str = None,
-    in_html=f"{root_path}/code/collapsible_tree_v3.html",
+    in_html=f"code/collapsible_tree_v3.html",
     format_out_json=False,
     compress_out_html=True,
 ):
@@ -74,7 +74,7 @@ def create_combined_masst_tree(
     input_str,
     parameter_str,
     usi: str = None,
-    in_html=f"{root_path}/code/collapsible_tree_v3.html",
+    in_html=f"code/collapsible_tree_v3.html",
     format_out_json=False,
     compress_out_html=True,
 ):

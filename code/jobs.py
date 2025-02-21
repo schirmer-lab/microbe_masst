@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 files = [
-     (r"/workspaces/microbe_masst/examples/small.mgf", "/workspaces/microbe_masst/output/example/small_mgf"),
+     (r"examples/small.mgf", "output/example/small_mgf"),
     # (r"../examples/vta_filter.mgf", "../output/examples/vta_"),
 ]
 

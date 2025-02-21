@@ -10,7 +10,7 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-root_path="/workspaces/microbe_masst" 
+#root_path="/workspaces/microbe_masst" 
 
 def replace_by_local_file(path):
     """
@@ -19,15 +19,15 @@ def replace_by_local_file(path):
     :return: a local file or the original input string
     """
     if path == "https://d3js.org/d3.v3.min.js":
-        return f"{root_path}/code/lib/d3.v3.min.js"
+        return f"code/lib/d3.v3.min.js"
     if path == "https://d3js.org/d3.v6.min.js":
-        return f"{root_path}/code/lib/d3.v6.min.js"
+        return f"code/lib/d3.v6.min.js"
     if path == "https://code.jquery.com/jquery-3.6.0.min.js":
-        return f"{root_path}/code/lib/jquery-3.6.0.min.js"
+        return f"code/lib/jquery-3.6.0.min.js"
     if str(path).endswith("jquery.dataTables.min.js"):
-        return f"{root_path}/code/lib/jquery.dataTables.min.js"
+        return f"code/lib/jquery.dataTables.min.js"
     if str(path).endswith("jquery.dataTables.min.css"):
-        return f"{root_path}/code/lib/jquery.dataTables.min.css"
+        return f"code/lib/jquery.dataTables.min.css"
     return path
 
 
@@ -150,7 +150,7 @@ if __name__ == "__main__":
         "--in_html",
         type=str,
         help="The input html file",
-        default=f"{root_path}/code/collapsible_tree_v3.html",
+        default=f"code/collapsible_tree_v3.html",
     )
     parser.add_argument(
         "--replace_dict",
