@@ -18,7 +18,7 @@ process prepareInput {
     echo "MGF file: $mgf"
     echo "Features file: $features"
 
-    python /workspaces/microbe_masst/pipeline/filter_input.py \
+    python pipeline/filter_input.py \
         --mgf $mgf \
         $filter_flag  \
         --features $features \
@@ -39,7 +39,7 @@ process runMicrobemasst {
     //publishDir "$out_dir", mode: 'copy'
 
     """
-    python /workspaces/microbe_masst/code/run_microbeMASST.py \
+    python code/run_microbeMASST.py \
         --csv_file ${mgfs_file_dir}/mgfs.csv
 
     """
@@ -54,7 +54,7 @@ process merge_tsv {
     path "${dir}/summary_counts_*.tsv", emit: summary_files
     
     """
-    python /workspaces/microbe_masst/pipeline/merge_tsvs.py \
+    python pipeline/merge_tsvs.py \
             -i ${dir} \
             -o ${dir}
     """
@@ -69,7 +69,7 @@ process filter_output {
     path "filtered_*", emit: filtered_files
 
     """
-    python /workspaces/microbe_masst/pipeline/filter_output.py \
+    python pipeline/filter_output.py \
         --input "${summary_files}" \
         --output '.'\
         --species_level 
@@ -89,7 +89,7 @@ process create_mapping{
     # create mapping folder
     mkdir -p $out_dir/mapping
 
-    python /workspaces/microbe_masst/pipeline/create_mapping_table.py \
+    python pipeline/create_mapping_table.py \
         --feature_counts "${filtered_files}" \
         --sample_species ${params.sample_species}\
         --expression_table ${params.expression_table}\
@@ -114,7 +114,7 @@ process visualization {
     # create visualization folder
     mkdir -p $out_dir/visualization
 
-    python /workspaces/microbe_masst/pipeline/visualization.py \
+    python pipeline/visualization.py \
         -c "${filtered_files}"\
         -o "$out_dir/visualization"\
         -p \$group\
